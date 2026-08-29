@@ -1,9 +1,11 @@
-# Historial de ofertas encontradas (982)
+# Historial de ofertas encontradas (984)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-29 14:41 | -23% | liverpool | [Laptop Hp 14 Dq6011Dx 14 Pulgadas Hd Intel Celeron Inte…](https://www.liverpool.com.mx/tienda/pdp/laptop-hp-14-dq6011dx-14-pulgadas-hd-intel-celeron-integradas-4-gb-ram-128-gb-ssd/1181496939) | $5,499 | $5,499 en liverpool vs mercado -> -23% bajo la competencia |
+| 2026-08-29 14:41 | -29% | liverpool | [Bicicleta Urbana Ram Rodada 26 Ctr26 2 Unisex](https://www.liverpool.com.mx/tienda/pdp/bicicleta-urbana-ram-rodada-26-ctr26-2-unisex/99983801720) | $6,200 | $6,200 en liverpool vs mercado -> -29% bajo la competencia |
 | 2026-08-29 07:35 | -25% | palacio | [Celular A27 AZ 5G, 128 GB, RAM 6 GB, Azul, Telcel](https://www.elpalaciodehierro.com/samsung-celular-a27-az-5g-128-gb-ram-6-gb-azul-telcel-45655094.html) | $4,949 | $4,949 en palacio vs mercado -> -25% bajo la competencia |
 | 2026-08-28 20:22 | -27% | palacio | [Celular Moto Edge 70 512 GB, RAM 12 GB Blanco Desbloque…](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-70-512-gb-ram-12-gb-blanco-desbloqueado-45273257.html) | $9,599 | $9,599 en palacio vs mercado -> -27% bajo la competencia |
 | 2026-08-27 23:57 | -43% | liverpool | [Lavadora Lg 18 Kg Automatica Carga Superior Wt18Dv6](https://www.liverpool.com.mx/tienda/pdp/lavadora-lg-18-kg-automatica-carga-superior-wt18dv6/1188874351) | $7,999 | $7,999 en liverpool vs mercado -> -43% bajo la competencia |
@@ -402,5 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-08-07 17:43 | -40% | palacio | [Refrigerador Top Freezer 16 p3 VT45AWP Plata](https://www.elpalaciodehierro.com/lg-refrigerador-top-freezer-16-p3-vt45awp-plata-43796853.html) | $16,199 | $16,199 en palacio vs mercado -> -40% bajo la competencia |
 | 2026-08-07 17:43 | -53% | palacio | [Licuadora HR2244 91 12 velocidades](https://www.elpalaciodehierro.com/philips-licuadora-hr2244-91-12-velocidades-45215652.html) | $1,120 | $1,120 en palacio vs mercado -> -53% bajo la competencia |
 | 2026-08-07 13:55 | -43% | liverpool | [Playera Tipo Polo Head Para Mujer](https://www.liverpool.com.mx/tienda/pdp/playera-tipo-polo-head-para-mujer/9931044794) | $399 | $399 en liverpool vs mercado -> -43% bajo la competencia |
-| 2026-08-07 08:46 | -20% | palacio | [Pantalla 98 Pulgadas Plana Mini-LED 4K Google TV 98A400](https://www.elpalaciodehierro.com/tcl-pantalla-98-pulgadas-plana-mini-led-4k-google-tv-98a400-45361091.html) | $30,239 | $30,239 en palacio vs mercado -> -20% bajo la competencia |
-| 2026-08-07 07:54 | -20% | palacio | [Celular Moto Edge 60 Fusion, 256 GB, 8 GB RAM, azul, de…](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-fusion-256-gb-8-gb-ram-azul-desbloqueado-44600342.html) | $6,479 | $6,479 en palacio vs mercado -> -20% bajo la competencia |

@@ -1,4 +1,4 @@
-# Productos en vigilancia (797)
+# Productos en vigilancia (798)
 
 Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible, llega alerta de restock.
 
@@ -771,7 +771,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | walmart | [Smartphone Xiaomi Redmi Note 14 Negro Telcel](https://www.walmart.com.mx/ip/smartphone-xiaomi-redmi-note-14-negro-telcel/00750622735804?athbdg=L1500) | $4,499 | -44% |
 | 🟢 disponible | liverpool | [Xiaomi Redmi Note 15 Pro 5G Amoled Crystalres 6 8 Pulgadas T…](https://www.liverpool.com.mx/tienda/pdp/xiaomi-redmi-note-15-pro-5g-amoled-crystalres-6-8-pulgadas-telcel/1191864938) | $7,999 | -20% |
 | 🟢 disponible | amazon | [Puma Softride Harli - Zapatos de Entrenamiento sin Cordones …](https://www.amazon.com.mx/dp/B0DDTV7HZ2) | $823 | -25% |
-| 🟢 disponible | liverpool | [Aire Acondicionado Mini Split Hisense Frio 24000 Btu Ac242Cf…](https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-hisense-frio-24000-btu-ac242cf-220-v/1133063826) | $10,709 | -22% |
+| 🟢 disponible | liverpool | [Aire Acondicionado Mini Split Hisense Frio 24000 Btu Ac242Cf…](https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-hisense-frio-24000-btu-ac242cf-220-v/1133063826) | $12,239 | -22% |
 | 🟢 disponible | liverpool | [Motorola G Max Amoled Extreme 6 78 Pulgadas Desbloqueado](https://www.liverpool.com.mx/tienda/pdp/motorola-g-max-amoled-extreme-6-78-pulgadas-desbloqueado/1201134788) | $5,999 | -30% |
 | 🟢 disponible | amazon | [Ebien \| Stevia Gotero Líquido Tripack 105ml (3 x 35ml) Endul…](https://www.amazon.com.mx/dp/B0933PXDTC) | $229 | -46% |
 | 🟢 disponible | mercadolibre | [Pantalla Samsung 55 Pulgadas Series Uhd 4k Smart Tizen Tv](https://www.mercadolibre.com.mx/pantalla-samsung-55-pulgadas-series-uhd-4k-smart-tizen-tv/p/MLM54912419) | $6,899 | -36% |
@@ -795,9 +795,10 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | liverpool | [Kit Smartwatch Reebok Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/kit-smartwatch-reebok-unisex-con-gps/1196431612) | $1,039 | -20% |
 | 🟢 disponible | palacio | [Pantalla 65 Pulgadas Plana MiniLED 4K 65Z670RM FIRE TV](https://www.elpalaciodehierro.com/toshiba-pantalla-65-pulgadas-plana-miniled-4k-65z670rm-fire-tv-45315663.html) | $10,399 | -28% |
 | 🟢 disponible | liverpool | [Licuadora Kitchenaid 7Ksb1325M 3 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-kitchenaid-7ksb1325m-3-velocidades/1109351527) | $2,387 | -21% |
-| 🟢 disponible | liverpool | [Laptop Hp 14 Dq6011Dx 14 Pulgadas Hd Intel Celeron Integrada…](https://www.liverpool.com.mx/tienda/pdp/laptop-hp-14-dq6011dx-14-pulgadas-hd-intel-celeron-integradas-4-gb-ram-128-gb-ssd/1181496939) | $5,199 | -28% |
+| 🟢 disponible | liverpool | [Laptop Hp 14 Dq6011Dx 14 Pulgadas Hd Intel Celeron Integrada…](https://www.liverpool.com.mx/tienda/pdp/laptop-hp-14-dq6011dx-14-pulgadas-hd-intel-celeron-integradas-4-gb-ram-128-gb-ssd/1181496939) | $5,499 | -23% |
 | 🟢 disponible | liverpool | [Laptop 2 En 1 Touch Lenovo Ideapad Slim 3 15Irh10 15 3 Pulga…](https://www.liverpool.com.mx/tienda/pdp/laptop-2-en-1-touch-lenovo-ideapad-slim-3-15irh10-15-3-pulgadas-hd-intel-core-i5-intel-uhd-graphics-8-gb-ram-512-gb-ssd/999679929364) | $12,678 | -40% |
 | 🟢 disponible | palacio | [Laptop 15FD0161LA, 15.6", Intel Core i5, RAM 8 GB, SSD 256 G…](https://www.elpalaciodehierro.com/hp-laptop-15fd0161la-15.6-intel-core-i5-ram-8-gb-ssd-256-gb-45371050.html) | $11,060 | -20% |
 | 🟢 disponible | liverpool | [Lavadora Lg 18 Kg Automatica Carga Superior Wt18Dv6](https://www.liverpool.com.mx/tienda/pdp/lavadora-lg-18-kg-automatica-carga-superior-wt18dv6/1188874351) | $7,999 | -43% |
 | 🟢 disponible | palacio | [Celular Moto Edge 70 512 GB, RAM 12 GB Blanco Desbloqueado](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-70-512-gb-ram-12-gb-blanco-desbloqueado-45273257.html) | $9,599 | -25% |
 | 🟢 disponible | palacio | [Celular A27 AZ 5G, 128 GB, RAM 6 GB, Azul, Telcel](https://www.elpalaciodehierro.com/samsung-celular-a27-az-5g-128-gb-ram-6-gb-azul-telcel-45655094.html) | $4,949 | -25% |
+| 🟢 disponible | liverpool | [Bicicleta Urbana Ram Rodada 26 Ctr26 2 Unisex](https://www.liverpool.com.mx/tienda/pdp/bicicleta-urbana-ram-rodada-26-ctr26-2-unisex/99983801720) | $6,200 | -29% |

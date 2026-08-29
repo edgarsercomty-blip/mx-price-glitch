@@ -1,30 +1,9 @@
 {
-  "generated_at": "2026-08-29 09:34 UTC",
-  "products_scanned": 1501,
+  "generated_at": "2026-08-29 14:41 UTC",
+  "products_scanned": 1578,
   "threshold_pct": 20.0,
-  "count": 30,
+  "count": 36,
   "findings": [
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 65.0,
-      "detail": "$1,120 en palacio vs mercado -> -53% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1279.6,
-      "store": "palacio",
-      "name": "Licuadora HR2244 91 12 velocidades",
-      "url": "https://www.elpalaciodehierro.com/philips-licuadora-hr2244-91-12-velocidades-45215652.html",
-      "price": 1119.65,
-      "list_price": 3199.0,
-      "ean": null,
-      "model": "HR2244",
-      "brand": "Philips",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45215652",
-        "outlet": false
-      }
-    },
     {
       "kind": "cross_confirmed",
       "discount_pct": 50.0,
@@ -44,6 +23,27 @@
       "extra": {
         "id": "43394466",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 48.1,
+      "detail": "$7,999 en liverpool vs mercado -> -43% bajo la competencia",
+      "likely_typo": false,
+      "savings": 6000.44,
+      "store": "liverpool",
+      "name": "Lavadora Lg 18 Kg Automatica Carga Superior Wt18Dv6",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/lavadora-lg-18-kg-automatica-carga-superior-wt18dv6/1188874351",
+      "price": 7999.0,
+      "list_price": 15399.0,
+      "ean": null,
+      "model": "Wt18Dv6",
+      "brand": "LG",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1188874351",
+        "marketplace": null
       }
     },
     {
@@ -86,27 +86,6 @@
       "extra": {
         "productId": "1172657709",
         "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 60.0,
-      "detail": "$5,560 en palacio vs mercado -> -33% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2780.0,
-      "store": "palacio",
-      "name": "Hervidor de agua eléctrico Porsche en acero inoxidable",
-      "url": "https://www.elpalaciodehierro.com/smeg-hervidor-de-agua-electrico-porsche-en-acero-inoxidable-45000830.html",
-      "price": 5560.0,
-      "list_price": 13900.0,
-      "ean": null,
-      "model": null,
-      "brand": "Smeg",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45000830",
-        "outlet": false
       }
     },
     {
@@ -195,6 +174,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 28.7,
+      "detail": "$6,200 en liverpool vs mercado -> -29% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2500.0,
+      "store": "liverpool",
+      "name": "Bicicleta Urbana Ram Rodada 26 Ctr26 2 Unisex",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/bicicleta-urbana-ram-rodada-26-ctr26-2-unisex/99983801720",
+      "price": 6200.0,
+      "list_price": 8700.0,
+      "ean": null,
+      "model": "Ctr26",
+      "brand": "RAM",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "99983801720",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 44.0,
       "detail": "$10,399 en palacio vs mercado -> -28% bajo la competencia",
       "likely_typo": false,
@@ -258,6 +258,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$9,599 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3199.8,
+      "store": "palacio",
+      "name": "Celular Moto Edge 70 512 GB, RAM 12 GB Blanco Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/motorola-celular-moto-edge-70-512-gb-ram-12-gb-blanco-desbloqueado-45273257.html",
+      "price": 9599.4,
+      "list_price": 15999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Motorola",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45273257",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 25.0,
       "detail": "$22,499 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
@@ -295,6 +316,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45655094",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$22,499 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 7499.75,
+      "store": "palacio",
+      "name": "Celular RAZR 70 Ultra 512 GB 8 GB Azul Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/motorola-celular-razr-70-ultra-512-gb-8-gb-azul-desbloqueado-45630424.html",
+      "price": 22499.25,
+      "list_price": 29999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Motorola",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45630424",
         "outlet": false
       }
     },
@@ -384,6 +426,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 52.5,
+      "detail": "$7,746 en liverpool vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2522.17,
+      "store": "liverpool",
+      "name": "Pantalla Smart Tv Hisense Mini Led 50 Pulgadas 4K Uhd 50Qd8Sfm Con Ai Smooth Motion",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-hisense-mini-led-50-pulgadas-4k-uhd-50qd8sfm-con-ai-smooth-motion/1197752251",
+      "price": 7746.2,
+      "list_price": 16299.0,
+      "ean": null,
+      "model": "50Qd8Sfm",
+      "brand": "HISENSE",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1197752251",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 55.0,
       "detail": "$5,142 en palacio vs mercado -> -24% bajo la competencia",
       "likely_typo": false,
@@ -426,6 +489,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 3.5,
+      "detail": "$5,499 en liverpool vs mercado -> -23% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1681.0,
+      "store": "liverpool",
+      "name": "Laptop Hp 14 Dq6011Dx 14 Pulgadas Hd Intel Celeron Integradas 4 Gb Ram 128 Gb Ssd",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/laptop-hp-14-dq6011dx-14-pulgadas-hd-intel-celeron-integradas-4-gb-ram-128-gb-ssd/1181496939",
+      "price": 5499.0,
+      "list_price": 5699.0,
+      "ean": null,
+      "model": "Dq6011Dx",
+      "brand": "HP",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1181496939",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 14.9,
       "detail": "$2,980 en liverpool vs mercado -> -23% bajo la competencia",
       "likely_typo": false,
@@ -443,27 +527,6 @@
       "extra": {
         "productId": "1178833223",
         "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 50.0,
-      "detail": "$7,530 en palacio vs mercado -> -23% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2259.0,
-      "store": "palacio",
-      "name": "Hervidor Electrico Blue Mediterraneo",
-      "url": "https://www.elpalaciodehierro.com/smeg-hervidor-electrico-blue-mediterraneo-44519347.html",
-      "price": 7530.0,
-      "list_price": 15060.0,
-      "ean": null,
-      "model": null,
-      "brand": "Smeg",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44519347",
-        "outlet": false
       }
     },
     {
@@ -526,6 +589,69 @@
       "currency": "MXN",
       "extra": {
         "id": "45262441",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 34.0,
+      "detail": "$7,919 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2039.83,
+      "store": "palacio",
+      "name": "Smartwatch Galaxy Watch Ultra 2025 Titanium azul Unisex",
+      "url": "https://www.elpalaciodehierro.com/samsung-smartwatch-galaxy-watch-ultra-2025-titanium-azul-unisex-44824190.html",
+      "price": 7919.34,
+      "list_price": 11999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44824190",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 60.0,
+      "detail": "$2,959 en liverpool vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 740.0,
+      "store": "liverpool",
+      "name": "Bicicleta Infantil Veloci Rodada 24 Unisex",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/bicicleta-infantil-veloci-rodada-24-unisex/1189090401",
+      "price": 2959.0,
+      "list_price": 7398.0,
+      "ean": null,
+      "model": null,
+      "brand": "VELOCI",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1189090401",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 32.0,
+      "detail": "$11,060 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2765.05,
+      "store": "palacio",
+      "name": "Laptop 15FD0161LA, 15.6\", Intel Core i5, RAM 8 GB, SSD 256 GB",
+      "url": "https://www.elpalaciodehierro.com/hp-laptop-15fd0161la-15.6-intel-core-i5-ram-8-gb-ssd-256-gb-45371050.html",
+      "price": 11060.2,
+      "list_price": 16265.0,
+      "ean": null,
+      "model": "15FD0161LA",
+      "brand": "Hp",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45371050",
         "outlet": false
       }
     },
