@@ -1,8 +1,8 @@
-# Errores/chollos de precio — 2026-08-28 23:50 UTC
+# Errores/chollos de precio — 2026-08-29 02:54 UTC
 
-- Productos revisados: **1627**
+- Productos revisados: **1621**
 - Umbral de diferencia: **20%**
-- Hallazgos: **31**
+- Hallazgos: **30**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
@@ -14,7 +14,6 @@
 | -30% | $3,900 | palacio | [iPhone 13 128 GB Medianoche Desbloqueado](https://www.elpalaciodehierro.com/apple-iphone-13-128-gb-medianoche-desbloqueado-42077608.html) | $9,099 | Confirmado vs competencia | $9,099 en palacio vs mercado -> -30% bajo la competencia |
 | -25% | $3,734 | palacio | [Laptop OmniBook 3, 14", Intel Core I5, RAM 8 GB, SSD 512 GB](https://www.elpalaciodehierro.com/hp-laptop-omnibook-3-14-intel-core-i5-ram-8-gb-ssd-512-gb-45384039.html) | $10,982 | Confirmado vs competencia | $10,982 en palacio vs mercado -> -25% bajo la competencia |
 | -25% | $3,200 | palacio | [Celular Moto Edge 70 512 GB, RAM 12 GB Blanco Desbloqueado](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-70-512-gb-ram-12-gb-blanco-desbloqueado-45273257.html) | $9,599 | Confirmado vs competencia | $9,599 en palacio vs mercado -> -25% bajo la competencia |
-| -20% | $3,200 | liverpool | [Apple Iphone 16E 6 1 Pulgadas Super Retina Xdr](https://www.liverpool.com.mx/tienda/pdp/apple-iphone-16e-6-1-pulgadas-super-retina-xdr/1173032684) | $12,799 | Confirmado vs competencia | $12,799 en liverpool vs mercado -> -20% bajo la competencia |
 | -22% | $2,876 | liverpool | [Lavadora Mabe Aqua Recovery Automatica Carga Superior Lmq732…](https://www.liverpool.com.mx/tienda/pdp/lavadora-mabe-aqua-recovery-automatica-carga-superior-lmq73214vbab0/1201664248) | $9,911 | Confirmado vs competencia | $9,911 en liverpool vs mercado -> -22% bajo la competencia |
 | -20% | $2,765 | palacio | [Laptop 15FD0161LA, 15.6", Intel Core i5, RAM 8 GB, SSD 256 G…](https://www.elpalaciodehierro.com/hp-laptop-15fd0161la-15.6-intel-core-i5-ram-8-gb-ssd-256-gb-45371050.html) | $11,060 | Confirmado vs competencia | $11,060 en palacio vs mercado -> -20% bajo la competencia |
 | -25% | $2,394 | liverpool | [Refrigerador Top Mount Midea 10 Pies Cubicos Inverter Y No F…](https://www.liverpool.com.mx/tienda/pdp/refrigerador-top-mount-midea-10-pies-cubicos-inverter-y-no-frost-y-fabrica-de-hielo-mdrt385mtm46wd/1186067394) | $7,296 | Confirmado vs competencia | $7,296 en liverpool vs mercado -> -25% bajo la competencia |
