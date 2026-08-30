@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-30 15:54 UTC",
-  "products_scanned": 1587,
+  "generated_at": "2026-08-30 18:21 UTC",
+  "products_scanned": 1610,
   "threshold_pct": 20.0,
   "count": 35,
   "findings": [
@@ -138,7 +138,7 @@
       "savings": 767.45,
       "store": "palacio",
       "name": "Licuadora Pure Power 10 Velocidades",
-      "url": "https://www.elpalaciodehierro.com/kitchenaid-licuadora-pure-power-10-velocidades-44729903.html",
+      "url": "https://www.elpalaciodehierro.com/kitchenaid-licuadora-pure-power-10-velocidades-44729902.html",
       "price": 1799.4,
       "list_price": 2999.0,
       "ean": null,
@@ -147,7 +147,7 @@
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "44729903",
+        "id": "44729902",
         "outlet": false
       }
     },
@@ -159,7 +159,7 @@
       "savings": 767.45,
       "store": "palacio",
       "name": "Licuadora Pure Power 10 Velocidades",
-      "url": "https://www.elpalaciodehierro.com/kitchenaid-licuadora-pure-power-10-velocidades-44729902.html",
+      "url": "https://www.elpalaciodehierro.com/kitchenaid-licuadora-pure-power-10-velocidades-44729903.html",
       "price": 1799.4,
       "list_price": 2999.0,
       "ean": null,
@@ -168,7 +168,7 @@
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "44729902",
+        "id": "44729903",
         "outlet": false
       }
     },
