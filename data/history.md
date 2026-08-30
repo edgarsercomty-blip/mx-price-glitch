@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (986)
+# Historial de ofertas encontradas (987)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-30 06:06 | -27% | liverpool | [Motorola G17 Lcd 6 7 Pulgadas Telcel](https://www.liverpool.com.mx/tienda/pdp/motorola-g17-lcd-6-7-pulgadas-telcel/1195153009) | $3,999 | $3,999 en liverpool vs mercado -> -27% bajo la competencia |
 | 2026-08-29 22:41 | -20% | liverpool | [Xiaomi Redmi Note 15 Pro Amoled 6 7 Pulgadas](https://www.liverpool.com.mx/tienda/pdp/xiaomi-redmi-note-15-pro-amoled-6-7-pulgadas/1190587752) | $5,599 | $5,599 en liverpool vs mercado -> -20% bajo la competencia |
 | 2026-08-29 22:41 | -22% | liverpool | [Refrigerador Top Mount Lg 11 Pies Cubicos No Frost Inve…](https://www.liverpool.com.mx/tienda/pdp/refrigerador-top-mount-lg-11-pies-cubicos-no-frost-inverter-gt35wp/1179238752) | $9,519 | $9,519 en liverpool vs mercado -> -22% bajo la competencia |
 | 2026-08-29 14:41 | -23% | liverpool | [Laptop Hp 14 Dq6011Dx 14 Pulgadas Hd Intel Celeron Inte…](https://www.liverpool.com.mx/tienda/pdp/laptop-hp-14-dq6011dx-14-pulgadas-hd-intel-celeron-integradas-4-gb-ram-128-gb-ssd/1181496939) | $5,499 | $5,499 en liverpool vs mercado -> -23% bajo la competencia |
@@ -403,4 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-08-07 17:43 | -35% | palacio | [Combo Licuadora Negra con 2 Vasos](https://www.elpalaciodehierro.com/kitchenaid-combo-licuadora-negra-con-2-vasos-45522776.html) | $2,599 | $2,599 en palacio vs mercado -> -35% bajo la competencia |
 | 2026-08-07 17:43 | -38% | palacio | [Laptop Lenovo Gamer Legion 5 16IRX9 16" Intel Ci7 16GB …](https://www.elpalaciodehierro.com/lenovo-laptop-lenovo-gamer-legion-5-16irx9-16-intel-ci7-16gb-512gb-ssd-rtx-4060-pc-con-ia-44875846.html) | $20,250 | $20,250 en palacio vs mercado -> -38% bajo la competencia |
 | 2026-08-07 17:43 | -40% | palacio | [Combo Cafetera Nespresso Vertuo Pop Rojo](https://www.elpalaciodehierro.com/nespresso-combo-cafetera-nespresso-vertuo-pop-rojo-43294637.html) | $2,694 | $2,694 en palacio vs mercado -> -40% bajo la competencia |
-| 2026-08-07 17:43 | -40% | palacio | [Refrigerador Top Freezer 16 p3 VT45AWP Plata](https://www.elpalaciodehierro.com/lg-refrigerador-top-freezer-16-p3-vt45awp-plata-43796853.html) | $16,199 | $16,199 en palacio vs mercado -> -40% bajo la competencia |
