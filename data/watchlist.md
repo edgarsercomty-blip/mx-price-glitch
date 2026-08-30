@@ -428,7 +428,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | liverpool | [Pantalla Smart Tv Lg Qned De 65 Pulgadas 4K 65Qned81Bsg Con …](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-qned-de-65-pulgadas-4k-65qned81bsg-con-webos/1200279669) | $12,499 | -38% |
 | 🟢 disponible | liverpool | [Laptop Hp 15 Fc0240La 15 6 Pulgadas Full Hd Amd Ryzen 2 Amd …](https://www.liverpool.com.mx/tienda/pdp/laptop-hp-15-fc0240la-15-6-pulgadas-full-hd-amd-ryzen-2-amd-radeon-8-gb-ram-512-gb-ssd/999675792253) | $8,899 | -35% |
 | 🟢 disponible | palacio | [Lavadora y Secadora, 25 Kg](https://www.elpalaciodehierro.com/mabe-lavadora-y-secadora-25-kg-42731253.html) | $34,499 | -30% |
-| 🟢 disponible | liverpool | [Set Licuadora Cco905Ks Ninja Plata](https://www.liverpool.com.mx/tienda/pdp/set-licuadora-cco905ks-ninja-plata/1160618660) | $3,399 | -46% |
+| 🟢 disponible | liverpool | [Set Licuadora Cco905Ks Ninja Plata](https://www.liverpool.com.mx/tienda/pdp/set-licuadora-cco905ks-ninja-plata/1160618660) | $3,399 | -43% |
 | 🟢 disponible | liverpool | [Laptop Lenovo Ideapad 1I 14 Pulgadas Full Hd Intel Celeron I…](https://www.liverpool.com.mx/tienda/pdp/laptop-lenovo-ideapad-1i-14-pulgadas-full-hd-intel-celeron-intel-uhd-graphics-4-gb-ram-128-gb-emmc/1176451218) | $4,471 | -35% |
 | 🟢 disponible | liverpool | [Audifonos On Ear Marshall Major Iv Inalambricos](https://www.liverpool.com.mx/tienda/pdp/audifonos-on-ear-marshall-major-iv-inalambricos/1104009588) | $1,999 | -26% |
 | 🟢 disponible | liverpool | [Bicicleta Urbana Turbo Rodada 700 Quotidien Unisex](https://www.liverpool.com.mx/tienda/pdp/bicicleta-urbana-turbo-rodada-700-quotidien-unisex/1133798087) | $6,329 | -25% |
@@ -603,7 +603,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | liverpool | [Cafetera De Goteo Oster Bvstdcp121B](https://www.liverpool.com.mx/tienda/pdp/cafetera-de-goteo-oster-bvstdcp121b/1184812637) | $377 | -51% |
 | 🟢 disponible | palacio | [iPad de 10.2 pulgadas y 64 GB con Wi-Fi - Plata](https://www.elpalaciodehierro.com/apple-ipad-de-10.2-pulgadas-y-64-gb-con-wi-fi---plata-42036980.html) | $3,299 | -40% |
 | 🟢 disponible | palacio | [Celular Galaxy S25 Ultra 256 GB, RAM 12 GB Titanium Gray Des…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s25-ultra-256-gb-ram-12-gb-titanium-gray-desbloqueado-44444419.html) | $23,429 | -29% |
-| 🟢 disponible | liverpool | [Aire Acondicionado Mini Split Lg 18000 Btu Vx182H4 220 V](https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-lg-18000-btu-vx182h4-220-v/1149564876) | $11,999 | -23% |
+| 🟢 disponible | liverpool | [Aire Acondicionado Mini Split Lg 18000 Btu Vx182H4 220 V](https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-lg-18000-btu-vx182h4-220-v/1149564876) | $10,499 | -23% |
 | 🟢 disponible | amazon | [UGREEN HUB USB C 7 en 1 Adaptador a HDMI 4K a 30Hz, Lector T…](https://www.amazon.com.mx/dp/B0BLNDNBG1) | $401 | -21% |
 | 🟢 disponible | walmart | [TV Philips 32 Pulgadas HD Roku LED 32PFL6654/F8C](https://www.walmart.com.mx/ip/tv-philips-32-pulgadas-hd-roku-led-32pfl6654-f8c/00005381854165?athbdg=L1510) | $1,990 | -20% |
 | 🟢 disponible | mercadolibre | [Samsung Galaxy Buds Core Negro](https://www.mercadolibre.com.mx/samsung-galaxy-buds-core-negro/p/MLM52056865) | $999 | -30% |
@@ -686,7 +686,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | walmart | [Memoria Flash Adata Premier, 512GB MicroSDXC UHS-I Clase 10,…](https://www.walmart.com.mx/ip/Memoria-Flash-Adata-Premier-512GB-MicroSDXC-UHS-I-Clase-10-con-Adaptador/00084224303051) | $1,721 | -35% |
 | 🟢 disponible | mercadolibre | [Lavadora automática Whirlpool hasta 18kg color blanco](https://www.mercadolibre.com.mx/lavadora-automatica-whirlpool-hasta-18kg-color-blanco/p/MLM15764094) | $12,799 | -21% |
 | 🟢 disponible | amazon | [UGREEN Audífonos Inalámbricos Bluetooth 5.4 30 Horas,12mm Di…](https://www.amazon.com.mx/dp/B0DMZWD4JP) | $396 | -21% |
-| 🟢 disponible | liverpool | [Apple Macbook Neo 13 Pulgadas](https://www.liverpool.com.mx/tienda/pdp/apple-macbook-neo-13-pulgadas/1196338436) | $14,999 | -27% |
+| 🟢 disponible | liverpool | [Apple Macbook Neo 13 Pulgadas](https://www.liverpool.com.mx/tienda/pdp/apple-macbook-neo-13-pulgadas/1196338436) | $17,499 | -27% |
 | 🟢 disponible | palacio | [Celular Nova 14 Negro 512 GB 12 GB Negro Desbloqueado](https://www.elpalaciodehierro.com/huawei-celular-nova-14-negro-512-gb-12-gb-negro-desbloqueado-45262441.html) | $7,799 | -21% |
 | 🟢 disponible | sams | [Kit de Impresora Canon Ivy Mini Portátil Blanca + Paquete de…](https://www.sams.com.mx/ip/kit-de-impresora-canon-ivy-mini-portatil-blanca-paquete-de-papel/981043145) | $1,022 | -52% |
 | 🟢 disponible | sams | [Smartphone Motorola Edge 60 Fusion 256 GB Azul Desbloqueado](https://www.sams.com.mx/ip/smartphone-motorola-edge-60-fusion-256-gb-azul-desbloqueado/981036687) | $6,136 | -20% |

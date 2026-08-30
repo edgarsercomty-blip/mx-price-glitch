@@ -1,8 +1,8 @@
-# Errores/chollos de precio — 2026-08-30 11:57 UTC
+# Errores/chollos de precio — 2026-08-30 15:54 UTC
 
-- Productos revisados: **1595**
+- Productos revisados: **1587**
 - Umbral de diferencia: **20%**
-- Hallazgos: **32**
+- Hallazgos: **35**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
@@ -18,12 +18,11 @@
 | -25% | $3,200 | palacio | [Celular Moto Edge 70 512 GB, RAM 12 GB Blanco Desbloqueado](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-70-512-gb-ram-12-gb-blanco-desbloqueado-45273257.html) | $9,599 | Confirmado vs competencia | $9,599 en palacio vs mercado -> -25% bajo la competencia |
 | -20% | $3,200 | liverpool | [Apple Iphone 16E 6 1 Pulgadas Super Retina Xdr](https://www.liverpool.com.mx/tienda/pdp/apple-iphone-16e-6-1-pulgadas-super-retina-xdr/1173032684) | $12,799 | Confirmado vs competencia | $12,799 en liverpool vs mercado -> -20% bajo la competencia |
 | -21% | $3,000 | liverpool | [Lavadora Lg 21 Kg Automatica Carga Superior Wt21Mv6](https://www.liverpool.com.mx/tienda/pdp/lavadora-lg-21-kg-automatica-carga-superior-wt21mv6/999682456851) | $10,999 | Confirmado vs competencia | $10,999 en liverpool vs mercado -> -21% bajo la competencia |
-| -46% | $2,871 | liverpool | [Set Licuadora Cco905Ks Ninja Plata](https://www.liverpool.com.mx/tienda/pdp/set-licuadora-cco905ks-ninja-plata/1160618660) | $3,399 | Confirmado vs competencia | $3,399 en liverpool vs mercado -> -46% bajo la competencia |
-| -33% | $2,780 | palacio | [Hervidor de agua eléctrico Porsche en acero inoxidable](https://www.elpalaciodehierro.com/smeg-hervidor-de-agua-electrico-porsche-en-acero-inoxidable-45000830.html) | $5,560 | Confirmado vs competencia | $5,560 en palacio vs mercado -> -33% bajo la competencia |
+| -43% | $2,551 | liverpool | [Set Licuadora Cco905Ks Ninja Plata](https://www.liverpool.com.mx/tienda/pdp/set-licuadora-cco905ks-ninja-plata/1160618660) | $3,399 | Confirmado vs competencia | $3,399 en liverpool vs mercado -> -43% bajo la competencia |
 | -25% | $2,522 | liverpool | [Pantalla Smart Tv Hisense Mini Led 50 Pulgadas 4K Uhd 50Qd8S…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-hisense-mini-led-50-pulgadas-4k-uhd-50qd8sfm-con-ai-smooth-motion/1197752251) | $7,746 | Confirmado vs competencia | $7,746 en liverpool vs mercado -> -25% bajo la competencia |
 | -29% | $2,500 | liverpool | [Bicicleta Urbana Ram Rodada 26 Ctr26 2 Unisex](https://www.liverpool.com.mx/tienda/pdp/bicicleta-urbana-ram-rodada-26-ctr26-2-unisex/99983801720) | $6,200 | Confirmado vs competencia | $6,200 en liverpool vs mercado -> -29% bajo la competencia |
-| -23% | $2,259 | palacio | [Hervidor Electrico Blue Mediterraneo](https://www.elpalaciodehierro.com/smeg-hervidor-electrico-blue-mediterraneo-44519347.html) | $7,530 | Confirmado vs competencia | $7,530 en palacio vs mercado -> -23% bajo la competencia |
 | -21% | $2,080 | palacio | [Celular Nova 14 Negro 512 GB 12 GB Negro Desbloqueado](https://www.elpalaciodehierro.com/huawei-celular-nova-14-negro-512-gb-12-gb-negro-desbloqueado-45262441.html) | $7,799 | Confirmado vs competencia | $7,799 en palacio vs mercado -> -21% bajo la competencia |
+| -20% | $2,040 | palacio | [Smartwatch Galaxy Watch Ultra 2025 Titanium azul Unisex](https://www.elpalaciodehierro.com/samsung-smartwatch-galaxy-watch-ultra-2025-titanium-azul-unisex-44824190.html) | $7,919 | Confirmado vs competencia | $7,919 en palacio vs mercado -> -20% bajo la competencia |
 | -20% | $1,798 | palacio | [Cafetera Gran Lattissima Negro](https://www.elpalaciodehierro.com/nespresso-cafetera-gran-lattissima-negro-43135869.html) | $7,192 | Confirmado vs competencia | $7,192 en palacio vs mercado -> -20% bajo la competencia |
 | -50% | $1,745 | palacio | [Cafetera Nespresso Vertuo Pop Red](https://www.elpalaciodehierro.com/nespresso-cafetera-nespresso-vertuo-pop-red-43394466.html) | $1,745 | Confirmado vs competencia | $1,745 en palacio vs mercado -> -50% bajo la competencia |
 | -21% | $1,686 | palacio | [Pantalla 50 Pulgadas Plana Mini-LED 4K UN50M70HAFXZX](https://www.elpalaciodehierro.com/samsung-pantalla-50-pulgadas-plana-mini-led-4k-un50m70hafxzx-45366544.html) | $6,313 | Confirmado vs competencia | $6,313 en palacio vs mercado -> -21% bajo la competencia |
@@ -31,10 +30,14 @@
 | -24% | $1,600 | palacio | [Pantalla 43 Pulgadas Plana Mini-LED 4K UN43M70HAFXZX](https://www.elpalaciodehierro.com/samsung-pantalla-43-pulgadas-plana-mini-led-4k-un43m70hafxzx-45366538.html) | $5,142 | Confirmado vs competencia | $5,142 en palacio vs mercado -> -24% bajo la competencia |
 | -37% | $1,429 | liverpool | [Set Licuadora Combo Blender Nut Grise](https://www.liverpool.com.mx/tienda/pdp/set-licuadora-combo-blender-nut-grise/1172657709) | $2,400 | Confirmado vs competencia | $2,400 en liverpool vs mercado -> -37% bajo la competencia |
 | -25% | $1,250 | palacio | [Licuadora Xpert Series 9 Velocidades](https://www.elpalaciodehierro.com/oster-licuadora-xpert-series-9-velocidades-42107714.html) | $3,749 | Confirmado vs competencia | $3,749 en palacio vs mercado -> -25% bajo la competencia |
+| -25% | $1,030 | palacio | [Licuadora Xtreme Mix, 3 velocidades](https://www.elpalaciodehierro.com/oster-licuadora-xtreme-mix-3-velocidades-43926491.html) | $3,089 | Confirmado vs competencia | $3,089 en palacio vs mercado -> -25% bajo la competencia |
 | -25% | $1,000 | palacio | [Celular Y19S 256 GB 6 GB Plata Telcel](https://www.elpalaciodehierro.com/vivo-celular-y19s-256-gb-6-gb-plata-telcel-44747549.html) | $2,999 | Confirmado vs competencia | $2,999 en palacio vs mercado -> -25% bajo la competencia |
 | -20% | $920 | palacio | [Celular Galaxy A17 5G 128 GB, RAM 4 GB Negro Desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-a17-5g-128-gb-ram-4-gb-negro-desbloqueado-44951471.html) | $3,679 | Confirmado vs competencia | $3,679 en palacio vs mercado -> -20% bajo la competencia |
 | -23% | $910 | liverpool | [Licuadora Ninja Co401B 7 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-ninja-co401b-7-velocidades/1178833223) | $2,980 | Confirmado vs competencia | $2,980 en liverpool vs mercado -> -23% bajo la competencia |
 | -25% | $898 | palacio | [Combo Cafetera Nespresso Vertuo Pop Rojo](https://www.elpalaciodehierro.com/nespresso-combo-cafetera-nespresso-vertuo-pop-rojo-43294637.html) | $2,694 | Confirmado vs competencia | $2,694 en palacio vs mercado -> -25% bajo la competencia |
 | -27% | $800 | liverpool | [Lavadora Midea 10 Kg Semiautomatica Carga Superior Mlts101M2…](https://www.liverpool.com.mx/tienda/pdp/lavadora-midea-10-kg-semiautomatica-carga-superior-mlts101m2sgdw/1127610386) | $2,199 | Confirmado vs competencia | $2,199 en liverpool vs mercado -> -27% bajo la competencia |
 | -20% | $800 | palacio | [Audífonos Inalámbricos para entrenamiento Bluetooth Powerbea…](https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-negro-azabache-45001062.html) | $3,199 | Confirmado vs competencia | $3,199 en palacio vs mercado -> -20% bajo la competencia |
+| -20% | $800 | palacio | [Audífonos Inalámbricos para entrenamiento Bluetooth Powerbea…](https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-gris-grava-45001063.html) | $3,199 | Confirmado vs competencia | $3,199 en palacio vs mercado -> -20% bajo la competencia |
 | -30% | $767 | palacio | [Licuadora Pure Power 10 velocidades](https://www.elpalaciodehierro.com/kitchenaid-licuadora-pure-power-10-velocidades-44729905.html) | $1,799 | Confirmado vs competencia | $1,799 en palacio vs mercado -> -30% bajo la competencia |
+| -30% | $767 | palacio | [Licuadora Pure Power 10 Velocidades](https://www.elpalaciodehierro.com/kitchenaid-licuadora-pure-power-10-velocidades-44729903.html) | $1,799 | Confirmado vs competencia | $1,799 en palacio vs mercado -> -30% bajo la competencia |
+| -30% | $767 | palacio | [Licuadora Pure Power 10 Velocidades](https://www.elpalaciodehierro.com/kitchenaid-licuadora-pure-power-10-velocidades-44729902.html) | $1,799 | Confirmado vs competencia | $1,799 en palacio vs mercado -> -30% bajo la competencia |
