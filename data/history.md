@@ -1,9 +1,11 @@
-# Historial de ofertas encontradas (987)
+# Historial de ofertas encontradas (989)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-30 11:57 | -21% | liverpool | [Lavadora Lg 21 Kg Automatica Carga Superior Wt21Mv6](https://www.liverpool.com.mx/tienda/pdp/lavadora-lg-21-kg-automatica-carga-superior-wt21mv6/999682456851) | $10,999 | $10,999 en liverpool vs mercado -> -21% bajo la competencia |
+| 2026-08-30 11:57 | -46% | liverpool | [Set Licuadora Cco905Ks Ninja Plata](https://www.liverpool.com.mx/tienda/pdp/set-licuadora-cco905ks-ninja-plata/1160618660) | $3,399 | $3,399 en liverpool vs mercado -> -46% bajo la competencia |
 | 2026-08-30 06:06 | -27% | liverpool | [Motorola G17 Lcd 6 7 Pulgadas Telcel](https://www.liverpool.com.mx/tienda/pdp/motorola-g17-lcd-6-7-pulgadas-telcel/1195153009) | $3,999 | $3,999 en liverpool vs mercado -> -27% bajo la competencia |
 | 2026-08-29 22:41 | -20% | liverpool | [Xiaomi Redmi Note 15 Pro Amoled 6 7 Pulgadas](https://www.liverpool.com.mx/tienda/pdp/xiaomi-redmi-note-15-pro-amoled-6-7-pulgadas/1190587752) | $5,599 | $5,599 en liverpool vs mercado -> -20% bajo la competencia |
 | 2026-08-29 22:41 | -22% | liverpool | [Refrigerador Top Mount Lg 11 Pies Cubicos No Frost Inve…](https://www.liverpool.com.mx/tienda/pdp/refrigerador-top-mount-lg-11-pies-cubicos-no-frost-inverter-gt35wp/1179238752) | $9,519 | $9,519 en liverpool vs mercado -> -22% bajo la competencia |
@@ -402,5 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-08-07 17:43 | -31% | palacio | [Licuadora HR2242 93 12 velocidades](https://www.elpalaciodehierro.com/philips-licuadora-hr2242-93-12-velocidades-45215651.html) | $989 | $989 en palacio vs mercado -> -31% bajo la competencia |
 | 2026-08-07 17:43 | -32% | palacio | [Laptop Gaming Omen HyperX 15.3", Nvidia RTX 5060, Intel…](https://www.elpalaciodehierro.com/hp-laptop-gaming-omen-hyperx-15.3-nvidia-rtx-5060-intel-core-i7-ram-16-gb-ssd-512-gb-45504579.html) | $32,922 | $32,922 en palacio vs mercado -> -32% bajo la competencia |
 | 2026-08-07 17:43 | -35% | palacio | [Combo Licuadora Negra con 2 Vasos](https://www.elpalaciodehierro.com/kitchenaid-combo-licuadora-negra-con-2-vasos-45522776.html) | $2,599 | $2,599 en palacio vs mercado -> -35% bajo la competencia |
-| 2026-08-07 17:43 | -38% | palacio | [Laptop Lenovo Gamer Legion 5 16IRX9 16" Intel Ci7 16GB …](https://www.elpalaciodehierro.com/lenovo-laptop-lenovo-gamer-legion-5-16irx9-16-intel-ci7-16gb-512gb-ssd-rtx-4060-pc-con-ia-44875846.html) | $20,250 | $20,250 en palacio vs mercado -> -38% bajo la competencia |
-| 2026-08-07 17:43 | -40% | palacio | [Combo Cafetera Nespresso Vertuo Pop Rojo](https://www.elpalaciodehierro.com/nespresso-combo-cafetera-nespresso-vertuo-pop-rojo-43294637.html) | $2,694 | $2,694 en palacio vs mercado -> -40% bajo la competencia |
