@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-29 22:41 UTC",
-  "products_scanned": 1585,
+  "generated_at": "2026-08-30 00:55 UTC",
+  "products_scanned": 1663,
   "threshold_pct": 20.0,
-  "count": 41,
+  "count": 39,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -85,27 +85,6 @@
       "currency": "MXN",
       "extra": {
         "productId": "1172657709",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$1,424 en liverpool vs mercado -> -34% bajo la competencia",
-      "likely_typo": false,
-      "savings": 742.5,
-      "store": "liverpool",
-      "name": "Combo Licuadora Vaso Oster 5 Velocidades",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/combo-licuadora-vaso-oster-5-velocidades/1133854726",
-      "price": 1424.25,
-      "list_price": 1899.0,
-      "ean": null,
-      "model": null,
-      "brand": "OSTER",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1133854726",
         "marketplace": null
       }
     },
@@ -442,27 +421,6 @@
       "currency": "MXN",
       "extra": {
         "productId": "1186067394",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$3,792 en liverpool vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1244.09,
-      "store": "liverpool",
-      "name": "Lavadora Doble Tina Midea 14 Kg Semiautomatica Carga Superior Mt100W150 W Mx",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/lavadora-doble-tina-midea-14-kg-semiautomatica-carga-superior-mt100w150-w-mx/1152345921",
-      "price": 3791.52,
-      "list_price": 4739.4,
-      "ean": null,
-      "model": "Mt100W150",
-      "brand": "MIDEA",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1152345921",
         "marketplace": null
       }
     },
@@ -830,27 +788,6 @@
       "likely_typo": false,
       "savings": 799.8,
       "store": "palacio",
-      "name": "Audífonos Inalámbricos para entrenamiento Bluetooth Powerbeats Fit Gris grava",
-      "url": "https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-gris-grava-45001063.html",
-      "price": 3199.2,
-      "list_price": 3999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Apple",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45001063",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$3,199 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 799.8,
-      "store": "palacio",
       "name": "Audífonos Inalámbricos para entrenamiento Bluetooth Powerbeats Fit Negro azabache",
       "url": "https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-negro-azabache-45001062.html",
       "price": 3199.2,
@@ -862,6 +799,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45001062",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$3,199 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 799.8,
+      "store": "palacio",
+      "name": "Audífonos Inalámbricos para entrenamiento Bluetooth Powerbeats Fit Gris grava",
+      "url": "https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-gris-grava-45001063.html",
+      "price": 3199.2,
+      "list_price": 3999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Apple",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45001063",
         "outlet": false
       }
     }
