@@ -1,9 +1,11 @@
-# Historial de ofertas encontradas (989)
+# Historial de ofertas encontradas (991)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-31 11:50 | -20% | liverpool | [Smartwatch Cubitt Cubitt Viva Lite Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-cubitt-cubitt-viva-lite-unisex-con-gps/1193249947) | $1,039 | $1,039 en liverpool vs mercado -> -20% bajo la competencia |
+| 2026-08-31 11:50 | -23% | liverpool | [Licuadora Bogner Bsb08S 16 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-bogner-bsb08s-16-velocidades/1184112864) | $999 | $999 en liverpool vs mercado -> -23% bajo la competencia |
 | 2026-08-30 11:57 | -21% | liverpool | [Lavadora Lg 21 Kg Automatica Carga Superior Wt21Mv6](https://www.liverpool.com.mx/tienda/pdp/lavadora-lg-21-kg-automatica-carga-superior-wt21mv6/999682456851) | $10,999 | $10,999 en liverpool vs mercado -> -21% bajo la competencia |
 | 2026-08-30 11:57 | -46% | liverpool | [Set Licuadora Cco905Ks Ninja Plata](https://www.liverpool.com.mx/tienda/pdp/set-licuadora-cco905ks-ninja-plata/1160618660) | $3,399 | $3,399 en liverpool vs mercado -> -46% bajo la competencia |
 | 2026-08-30 06:06 | -27% | liverpool | [Motorola G17 Lcd 6 7 Pulgadas Telcel](https://www.liverpool.com.mx/tienda/pdp/motorola-g17-lcd-6-7-pulgadas-telcel/1195153009) | $3,999 | $3,999 en liverpool vs mercado -> -27% bajo la competencia |
@@ -402,5 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-08-07 17:43 | -29% | palacio | [Laptop Asus ProArt, 16", AMD Ryzen AI 9, RAM 64 GB, SSD…](https://www.elpalaciodehierro.com/asus-laptop-asus-proart-16-amd-ryzen-ai-9-ram-64-gb-ssd-2-tb-45241138.html) | $56,889 | $56,889 en palacio vs mercado -> -29% bajo la competencia |
 | 2026-08-07 17:43 | -30% | palacio | [Cafetera Nespresso Pixie Titán](https://www.elpalaciodehierro.com/nespresso-cafetera-nespresso-pixie-titan-45555104.html) | $3,143 | $3,143 en palacio vs mercado -> -30% bajo la competencia |
 | 2026-08-07 17:43 | -31% | palacio | [Licuadora HR2242 93 12 velocidades](https://www.elpalaciodehierro.com/philips-licuadora-hr2242-93-12-velocidades-45215651.html) | $989 | $989 en palacio vs mercado -> -31% bajo la competencia |
-| 2026-08-07 17:43 | -32% | palacio | [Laptop Gaming Omen HyperX 15.3", Nvidia RTX 5060, Intel…](https://www.elpalaciodehierro.com/hp-laptop-gaming-omen-hyperx-15.3-nvidia-rtx-5060-intel-core-i7-ram-16-gb-ssd-512-gb-45504579.html) | $32,922 | $32,922 en palacio vs mercado -> -32% bajo la competencia |
-| 2026-08-07 17:43 | -35% | palacio | [Combo Licuadora Negra con 2 Vasos](https://www.elpalaciodehierro.com/kitchenaid-combo-licuadora-negra-con-2-vasos-45522776.html) | $2,599 | $2,599 en palacio vs mercado -> -35% bajo la competencia |
