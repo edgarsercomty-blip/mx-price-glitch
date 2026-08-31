@@ -801,6 +801,6 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Celular A27 AZ 5G, 128 GB, RAM 6 GB, Azul, Telcel](https://www.elpalaciodehierro.com/samsung-celular-a27-az-5g-128-gb-ram-6-gb-azul-telcel-45655094.html) | $4,949 | -25% |
 | 🟢 disponible | liverpool | [Bicicleta Urbana Ram Rodada 26 Ctr26 2 Unisex](https://www.liverpool.com.mx/tienda/pdp/bicicleta-urbana-ram-rodada-26-ctr26-2-unisex/99983801720) | $6,200 | -29% |
 | 🟢 disponible | liverpool | [Refrigerador Top Mount Lg 11 Pies Cubicos No Frost Inverter …](https://www.liverpool.com.mx/tienda/pdp/refrigerador-top-mount-lg-11-pies-cubicos-no-frost-inverter-gt35wp/1179238752) | $9,519 | -22% |
-| 🟢 disponible | liverpool | [Xiaomi Redmi Note 15 Pro Amoled 6 7 Pulgadas](https://www.liverpool.com.mx/tienda/pdp/xiaomi-redmi-note-15-pro-amoled-6-7-pulgadas/1190587752) | $5,599 | -20% |
+| 🟢 disponible | liverpool | [Xiaomi Redmi Note 15 Pro Amoled 6 7 Pulgadas](https://www.liverpool.com.mx/tienda/pdp/xiaomi-redmi-note-15-pro-amoled-6-7-pulgadas/1190587752) | $8,385 | -20% |
 | 🟢 disponible | liverpool | [Motorola G17 Lcd 6 7 Pulgadas Telcel](https://www.liverpool.com.mx/tienda/pdp/motorola-g17-lcd-6-7-pulgadas-telcel/1195153009) | $3,999 | -27% |
 | 🟢 disponible | liverpool | [Lavadora Lg 21 Kg Automatica Carga Superior Wt21Mv6](https://www.liverpool.com.mx/tienda/pdp/lavadora-lg-21-kg-automatica-carga-superior-wt21mv6/999682456851) | $10,999 | -21% |
