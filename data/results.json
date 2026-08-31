@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-31 18:28 UTC",
-  "products_scanned": 1578,
+  "generated_at": "2026-08-31 20:35 UTC",
+  "products_scanned": 1663,
   "threshold_pct": 20.0,
-  "count": 34,
+  "count": 33,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -405,27 +405,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 4.4,
-      "detail": "$5,449 en liverpool vs mercado -> -24% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1731.0,
-      "store": "liverpool",
-      "name": "Laptop Hp 14 Dq6011Dx 14 Pulgadas Hd Intel Celeron Integradas 4 Gb Ram 128 Gb Ssd",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/laptop-hp-14-dq6011dx-14-pulgadas-hd-intel-celeron-integradas-4-gb-ram-128-gb-ssd/1181496939",
-      "price": 5449.0,
-      "list_price": 5699.0,
-      "ean": null,
-      "model": "Dq6011Dx",
-      "brand": "HP",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1181496939",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 55.0,
       "detail": "$5,142 en palacio vs mercado -> -24% bajo la competencia",
       "likely_typo": false,
@@ -484,27 +463,6 @@
       "currency": "MXN",
       "extra": {
         "productId": "1178833223",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 55.1,
-      "detail": "$10,999 en liverpool vs mercado -> -21% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3000.44,
-      "store": "liverpool",
-      "name": "Lavadora Lg 21 Kg Automatica Carga Superior Wt21Mv6",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/lavadora-lg-21-kg-automatica-carga-superior-wt21mv6/999682456851",
-      "price": 10999.0,
-      "list_price": 24499.0,
-      "ean": null,
-      "model": "Wt21Mv6",
-      "brand": "LG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "999682456851",
         "marketplace": null
       }
     },
@@ -573,6 +531,48 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 60.0,
+      "detail": "$14,640 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3719.8,
+      "store": "palacio",
+      "name": "Refrigerador Bottom Mount de 520 Litros Black Stainless RMB520IWMRP1 negro",
+      "url": "https://www.elpalaciodehierro.com/mabe-refrigerador-bottom-mount-de-520-litros-black-stainless-rmb520iwmrp1-negro-43133039.html",
+      "price": 14639.6,
+      "list_price": 36599.0,
+      "ean": null,
+      "model": "RMB520IWMRP1",
+      "brand": "Mabe",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43133039",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$29,399 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 7349.85,
+      "store": "palacio",
+      "name": "Celular Mate X7 512 GB 16 GB Rojo Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/huawei-celular-mate-x7-512-gb-16-gb-rojo-desbloqueado-45262438.html",
+      "price": 29399.4,
+      "list_price": 48999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Huawei",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45262438",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 5.0,
       "detail": "$12,799 en liverpool vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
@@ -631,27 +631,6 @@
       "currency": "MXN",
       "extra": {
         "id": "44951471",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$29,399 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 7349.85,
-      "store": "palacio",
-      "name": "Celular Mate X7 512 GB 16 GB Rojo Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/huawei-celular-mate-x7-512-gb-16-gb-rojo-desbloqueado-45262438.html",
-      "price": 29399.4,
-      "list_price": 48999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Huawei",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45262438",
         "outlet": false
       }
     },
