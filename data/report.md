@@ -1,8 +1,8 @@
-# Errores/chollos de precio — 2026-08-31 20:35 UTC
+# Errores/chollos de precio — 2026-08-31 23:01 UTC
 
-- Productos revisados: **1663**
+- Productos revisados: **1590**
 - Umbral de diferencia: **20%**
-- Hallazgos: **33**
+- Hallazgos: **32**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
@@ -15,7 +15,6 @@
 | -28% | $4,055 | palacio | [Pantalla 65 Pulgadas Plana MiniLED 4K 65Z670RM FIRE TV](https://www.elpalaciodehierro.com/toshiba-pantalla-65-pulgadas-plana-miniled-4k-65z670rm-fire-tv-45315663.html) | $10,399 | Confirmado vs competencia | $10,399 en palacio vs mercado -> -28% bajo la competencia |
 | -30% | $3,900 | palacio | [iPhone 13 128 GB Medianoche Desbloqueado](https://www.elpalaciodehierro.com/apple-iphone-13-128-gb-medianoche-desbloqueado-42077608.html) | $9,099 | Confirmado vs competencia | $9,099 en palacio vs mercado -> -30% bajo la competencia |
 | -25% | $3,734 | palacio | [Laptop OmniBook 3, 14", Intel Core I5, RAM 8 GB, SSD 512 GB](https://www.elpalaciodehierro.com/hp-laptop-omnibook-3-14-intel-core-i5-ram-8-gb-ssd-512-gb-45384039.html) | $10,982 | Confirmado vs competencia | $10,982 en palacio vs mercado -> -25% bajo la competencia |
-| -20% | $3,720 | palacio | [Refrigerador Bottom Mount de 520 Litros Black Stainless RMB5…](https://www.elpalaciodehierro.com/mabe-refrigerador-bottom-mount-de-520-litros-black-stainless-rmb520iwmrp1-negro-43133039.html) | $14,640 | Confirmado vs competencia | $14,640 en palacio vs mercado -> -20% bajo la competencia |
 | -20% | $3,200 | liverpool | [Apple Iphone 16E 6 1 Pulgadas Super Retina Xdr](https://www.liverpool.com.mx/tienda/pdp/apple-iphone-16e-6-1-pulgadas-super-retina-xdr/1173032684) | $12,799 | Confirmado vs competencia | $12,799 en liverpool vs mercado -> -20% bajo la competencia |
 | -28% | $2,599 | liverpool | [Smartwatch Garmin Venu 3 Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-garmin-venu-3-unisex-con-gps/1142098493) | $6,800 | Confirmado vs competencia | $6,800 en liverpool vs mercado -> -28% bajo la competencia |
 | -29% | $2,500 | liverpool | [Bicicleta Urbana Ram Rodada 26 Ctr26 2 Unisex](https://www.liverpool.com.mx/tienda/pdp/bicicleta-urbana-ram-rodada-26-ctr26-2-unisex/99983801720) | $6,200 | Confirmado vs competencia | $6,200 en liverpool vs mercado -> -29% bajo la competencia |
