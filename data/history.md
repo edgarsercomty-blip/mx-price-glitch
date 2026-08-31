@@ -1,9 +1,11 @@
-# Historial de ofertas encontradas (991)
+# Historial de ofertas encontradas (993)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-08-31 18:28 | -28% | liverpool | [Smartwatch Garmin Venu 3 Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-garmin-venu-3-unisex-con-gps/1142098493) | $6,800 | $6,800 en liverpool vs mercado -> -28% bajo la competencia |
+| 2026-08-31 18:28 | -47% | palacio | [Lavadora Automática 25 kg Superior WT25PBTX6](https://www.elpalaciodehierro.com/lg-lavadora-automatica-25-kg-superior-wt25pbtx6-45005046.html) | $14,579 | $14,579 en palacio vs mercado -> -47% bajo la competencia |
 | 2026-08-31 11:50 | -20% | liverpool | [Smartwatch Cubitt Cubitt Viva Lite Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-cubitt-cubitt-viva-lite-unisex-con-gps/1193249947) | $1,039 | $1,039 en liverpool vs mercado -> -20% bajo la competencia |
 | 2026-08-31 11:50 | -23% | liverpool | [Licuadora Bogner Bsb08S 16 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-bogner-bsb08s-16-velocidades/1184112864) | $999 | $999 en liverpool vs mercado -> -23% bajo la competencia |
 | 2026-08-30 11:57 | -21% | liverpool | [Lavadora Lg 21 Kg Automatica Carga Superior Wt21Mv6](https://www.liverpool.com.mx/tienda/pdp/lavadora-lg-21-kg-automatica-carga-superior-wt21mv6/999682456851) | $10,999 | $10,999 en liverpool vs mercado -> -21% bajo la competencia |
@@ -402,5 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-08-07 17:43 | -28% | palacio | [Computadora Gaming de Escritorio ROG G700](https://www.elpalaciodehierro.com/asus-computadora-gaming-de-escritorio-rog-g700-45046846.html) | $47,519 | $47,519 en palacio vs mercado -> -28% bajo la competencia |
 | 2026-08-07 17:43 | -29% | palacio | [Combo Summer Cafetera Vertuo Pop Beige & Aeroccino 4](https://www.elpalaciodehierro.com/nespresso-combo-summer-cafetera-vertuo-pop-beige-aeroccino-4-45481963.html) | $2,495 | $2,495 en palacio vs mercado -> -29% bajo la competencia |
 | 2026-08-07 17:43 | -29% | palacio | [Laptop Asus ProArt, 16", AMD Ryzen AI 9, RAM 64 GB, SSD…](https://www.elpalaciodehierro.com/asus-laptop-asus-proart-16-amd-ryzen-ai-9-ram-64-gb-ssd-2-tb-45241138.html) | $56,889 | $56,889 en palacio vs mercado -> -29% bajo la competencia |
-| 2026-08-07 17:43 | -30% | palacio | [Cafetera Nespresso Pixie Titán](https://www.elpalaciodehierro.com/nespresso-cafetera-nespresso-pixie-titan-45555104.html) | $3,143 | $3,143 en palacio vs mercado -> -30% bajo la competencia |
-| 2026-08-07 17:43 | -31% | palacio | [Licuadora HR2242 93 12 velocidades](https://www.elpalaciodehierro.com/philips-licuadora-hr2242-93-12-velocidades-45215651.html) | $989 | $989 en palacio vs mercado -> -31% bajo la competencia |

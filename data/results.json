@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-31 11:50 UTC",
-  "products_scanned": 1509,
+  "generated_at": "2026-08-31 18:28 UTC",
+  "products_scanned": 1578,
   "threshold_pct": 20.0,
-  "count": 32,
+  "count": 34,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -22,6 +22,27 @@
       "currency": "MXN",
       "extra": {
         "id": "43394466",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 46.0,
+      "detail": "$14,579 en palacio vs mercado -> -47% bajo la competencia",
+      "likely_typo": false,
+      "savings": 12860.05,
+      "store": "palacio",
+      "name": "Lavadora Automática 25 kg Superior WT25PBTX6",
+      "url": "https://www.elpalaciodehierro.com/lg-lavadora-automatica-25-kg-superior-wt25pbtx6-45005046.html",
+      "price": 14579.46,
+      "list_price": 26999.0,
+      "ean": null,
+      "model": "WT25PBTX6",
+      "brand": "Lg",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45005046",
         "outlet": false
       }
     },
@@ -69,22 +90,22 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 60.0,
-      "detail": "$5,560 en palacio vs mercado -> -33% bajo la competencia",
+      "discount_pct": 30.0,
+      "detail": "$9,099 en palacio vs mercado -> -30% bajo la competencia",
       "likely_typo": false,
-      "savings": 2780.0,
+      "savings": 3899.7,
       "store": "palacio",
-      "name": "Hervidor de agua eléctrico Porsche en acero inoxidable",
-      "url": "https://www.elpalaciodehierro.com/smeg-hervidor-de-agua-electrico-porsche-en-acero-inoxidable-45000830.html",
-      "price": 5560.0,
-      "list_price": 13900.0,
+      "name": "iPhone 13 128 GB Medianoche Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/apple-iphone-13-128-gb-medianoche-desbloqueado-42077608.html",
+      "price": 9099.3,
+      "list_price": 12999.0,
       "ean": null,
       "model": null,
-      "brand": "Smeg",
+      "brand": "Apple",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "45000830",
+        "id": "42077608",
         "outlet": false
       }
     },
@@ -132,6 +153,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$1,799 en palacio vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 767.45,
+      "store": "palacio",
+      "name": "Licuadora Pure Power 10 Velocidades",
+      "url": "https://www.elpalaciodehierro.com/kitchenaid-licuadora-pure-power-10-velocidades-44729903.html",
+      "price": 1799.4,
+      "list_price": 2999.0,
+      "ean": null,
+      "model": null,
+      "brand": "KitchenAid",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44729903",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 28.7,
       "detail": "$6,200 en liverpool vs mercado -> -29% bajo la competencia",
       "likely_typo": false,
@@ -170,6 +212,27 @@
       "extra": {
         "id": "45315663",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 27.7,
+      "detail": "$6,800 en liverpool vs mercado -> -28% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2599.0,
+      "store": "liverpool",
+      "name": "Smartwatch Garmin Venu 3 Unisex Con Gps",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch-garmin-venu-3-unisex-con-gps/1142098493",
+      "price": 6800.0,
+      "list_price": 9399.0,
+      "ean": null,
+      "model": null,
+      "brand": "GARMIN",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1142098493",
+        "marketplace": null
       }
     },
     {
@@ -216,48 +279,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$19,379 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 6459.8,
-      "store": "palacio",
-      "name": "Laptop TUF Gaming F16, 16\", Nvidia RTX 5050, Intel Core i5, RAM 16 GB, SSD 1 TB",
-      "url": "https://www.elpalaciodehierro.com/asus-laptop-tuf-gaming-f16-16-nvidia-rtx-5050-intel-core-i5-ram-16-gb-ssd-1-tb-45244409.html",
-      "price": 19379.4,
-      "list_price": 32299.0,
-      "ean": null,
-      "model": null,
-      "brand": "Asus",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45244409",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$2,999 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 999.8,
-      "store": "palacio",
-      "name": "Celular Y19S 256 GB 6 GB Plata Telcel",
-      "url": "https://www.elpalaciodehierro.com/vivo-celular-y19s-256-gb-6-gb-plata-telcel-44747549.html",
-      "price": 2999.39,
-      "list_price": 4998.99,
-      "ean": null,
-      "model": null,
-      "brand": "VIVO",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44747549",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 25.0,
       "detail": "$4,949 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
@@ -295,6 +316,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45558414",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$22,499 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 7499.75,
+      "store": "palacio",
+      "name": "Celular RAZR 70 Ultra 512 GB 8 GB Azul Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/motorola-celular-razr-70-ultra-512-gb-8-gb-azul-desbloqueado-45630424.html",
+      "price": 22499.25,
+      "list_price": 29999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Motorola",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45630424",
         "outlet": false
       }
     },
@@ -363,6 +405,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 4.4,
+      "detail": "$5,449 en liverpool vs mercado -> -24% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1731.0,
+      "store": "liverpool",
+      "name": "Laptop Hp 14 Dq6011Dx 14 Pulgadas Hd Intel Celeron Integradas 4 Gb Ram 128 Gb Ssd",
+      "url": "https://www.liverpool.com.mx/tienda/pdp/laptop-hp-14-dq6011dx-14-pulgadas-hd-intel-celeron-integradas-4-gb-ram-128-gb-ssd/1181496939",
+      "price": 5449.0,
+      "list_price": 5699.0,
+      "ean": null,
+      "model": "Dq6011Dx",
+      "brand": "HP",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "productId": "1181496939",
+        "marketplace": null
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 55.0,
       "detail": "$5,142 en palacio vs mercado -> -24% bajo la competencia",
       "likely_typo": false,
@@ -422,48 +485,6 @@
       "extra": {
         "productId": "1178833223",
         "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 56.5,
-      "detail": "$999 en liverpool vs mercado -> -23% bajo la competencia",
-      "likely_typo": false,
-      "savings": 300.0,
-      "store": "liverpool",
-      "name": "Licuadora Bogner Bsb08S 16 Velocidades",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/licuadora-bogner-bsb08s-16-velocidades/1184112864",
-      "price": 999.0,
-      "list_price": 2299.0,
-      "ean": null,
-      "model": "Bsb08S",
-      "brand": "BOGNER",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1184112864",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 50.0,
-      "detail": "$7,530 en palacio vs mercado -> -23% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2259.0,
-      "store": "palacio",
-      "name": "Hervidor Electrico Blue Mediterraneo",
-      "url": "https://www.elpalaciodehierro.com/smeg-hervidor-electrico-blue-mediterraneo-44519347.html",
-      "price": 7530.0,
-      "list_price": 15060.0,
-      "ean": null,
-      "model": null,
-      "brand": "Smeg",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44519347",
-        "outlet": false
       }
     },
     {
@@ -548,27 +569,6 @@
       "extra": {
         "id": "44824190",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$1,039 en liverpool vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 259.8,
-      "store": "liverpool",
-      "name": "Smartwatch Cubitt Cubitt Viva Lite Unisex Con Gps",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch-cubitt-cubitt-viva-lite-unisex-con-gps/1193249947",
-      "price": 1039.2,
-      "list_price": 1299.0,
-      "ean": null,
-      "model": null,
-      "brand": "CUBITT",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1193249947",
-        "marketplace": null
       }
     },
     {
@@ -673,6 +673,48 @@
       "currency": "MXN",
       "extra": {
         "id": "43135869",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$3,199 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 799.8,
+      "store": "palacio",
+      "name": "Audífonos Inalámbricos para entrenamiento Bluetooth Powerbeats Fit Negro azabache",
+      "url": "https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-negro-azabache-45001062.html",
+      "price": 3199.2,
+      "list_price": 3999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Apple",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45001062",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$3,199 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 799.8,
+      "store": "palacio",
+      "name": "Audífonos Inalámbricos para entrenamiento Bluetooth Powerbeats Fit Gris grava",
+      "url": "https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-gris-grava-45001063.html",
+      "price": 3199.2,
+      "list_price": 3999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Apple",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45001063",
         "outlet": false
       }
     }
