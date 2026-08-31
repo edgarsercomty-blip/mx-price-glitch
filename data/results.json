@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-31 05:39 UTC",
-  "products_scanned": 1588,
+  "generated_at": "2026-08-31 06:32 UTC",
+  "products_scanned": 1545,
   "threshold_pct": 20.0,
   "count": 35,
   "findings": [
@@ -301,27 +301,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 25.0,
-      "detail": "$22,499 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 7499.75,
-      "store": "palacio",
-      "name": "Celular Razr 70 512 GB 12 GB Ultra Cocoa",
-      "url": "https://www.elpalaciodehierro.com/motorola-celular-razr-70-512-gb-12-gb-ultra-cocoa-45558414.html",
-      "price": 22499.25,
-      "list_price": 29999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Motorola",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45558414",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
       "detail": "$4,949 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
       "savings": 1649.75,
@@ -337,6 +316,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45655094",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$22,499 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 7499.75,
+      "store": "palacio",
+      "name": "Celular Razr 70 512 GB 12 GB Ultra Cocoa",
+      "url": "https://www.elpalaciodehierro.com/motorola-celular-razr-70-512-gb-12-gb-ultra-cocoa-45558414.html",
+      "price": 22499.25,
+      "list_price": 29999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Motorola",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45558414",
         "outlet": false
       }
     },
