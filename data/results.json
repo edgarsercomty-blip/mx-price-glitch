@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-01 18:06 UTC",
+  "generated_at": "2026-09-01 19:42 UTC",
   "products_scanned": 826,
   "threshold_pct": 20.0,
-  "count": 24,
+  "count": 22,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -43,27 +43,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45215651",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 30.0,
-      "detail": "$9,099 en palacio vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3899.7,
-      "store": "palacio",
-      "name": "iPhone 13 128 GB Medianoche Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/apple-iphone-13-128-gb-medianoche-desbloqueado-42077608.html",
-      "price": 9099.3,
-      "list_price": 12999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Apple",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "42077608",
         "outlet": false
       }
     },
@@ -400,27 +379,6 @@
       "currency": "MXN",
       "extra": {
         "id": "44824190",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 60.0,
-      "detail": "$14,640 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3719.8,
-      "store": "palacio",
-      "name": "Refrigerador Bottom Mount de 520 Litros Black Stainless RMB520IWMRP1 negro",
-      "url": "https://www.elpalaciodehierro.com/mabe-refrigerador-bottom-mount-de-520-litros-black-stainless-rmb520iwmrp1-negro-43133039.html",
-      "price": 14639.6,
-      "list_price": 36599.0,
-      "ean": null,
-      "model": "RMB520IWMRP1",
-      "brand": "Mabe",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43133039",
         "outlet": false
       }
     },
