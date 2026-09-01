@@ -1,9 +1,51 @@
 {
-  "generated_at": "2026-09-01 16:53 UTC",
-  "products_scanned": 822,
+  "generated_at": "2026-09-01 18:06 UTC",
+  "products_scanned": 826,
   "threshold_pct": 20.0,
-  "count": 21,
+  "count": 24,
   "findings": [
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 65.0,
+      "detail": "$1,120 en palacio vs mercado -> -53% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1279.6,
+      "store": "palacio",
+      "name": "Licuadora HR2244 91 12 velocidades",
+      "url": "https://www.elpalaciodehierro.com/philips-licuadora-hr2244-91-12-velocidades-45215652.html",
+      "price": 1119.65,
+      "list_price": 3199.0,
+      "ean": null,
+      "model": "HR2244",
+      "brand": "Philips",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45215652",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 45.0,
+      "detail": "$989 en palacio vs mercado -> -31% bajo la competencia",
+      "likely_typo": false,
+      "savings": 449.75,
+      "store": "palacio",
+      "name": "Licuadora HR2242 93 12 velocidades",
+      "url": "https://www.elpalaciodehierro.com/philips-licuadora-hr2242-93-12-velocidades-45215651.html",
+      "price": 989.45,
+      "list_price": 1799.0,
+      "ean": null,
+      "model": "HR2242",
+      "brand": "Philips",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45215651",
+        "outlet": false
+      }
+    },
     {
       "kind": "cross_confirmed",
       "discount_pct": 30.0,
@@ -358,6 +400,27 @@
       "currency": "MXN",
       "extra": {
         "id": "44824190",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 60.0,
+      "detail": "$14,640 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3719.8,
+      "store": "palacio",
+      "name": "Refrigerador Bottom Mount de 520 Litros Black Stainless RMB520IWMRP1 negro",
+      "url": "https://www.elpalaciodehierro.com/mabe-refrigerador-bottom-mount-de-520-litros-black-stainless-rmb520iwmrp1-negro-43133039.html",
+      "price": 14639.6,
+      "list_price": 36599.0,
+      "ean": null,
+      "model": "RMB520IWMRP1",
+      "brand": "Mabe",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43133039",
         "outlet": false
       }
     },
