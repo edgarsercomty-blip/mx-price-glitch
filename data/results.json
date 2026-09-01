@@ -1,93 +1,9 @@
 {
-  "generated_at": "2026-09-01 01:44 UTC",
-  "products_scanned": 1607,
+  "generated_at": "2026-09-01 05:58 UTC",
+  "products_scanned": 818,
   "threshold_pct": 20.0,
-  "count": 34,
+  "count": 22,
   "findings": [
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 50.0,
-      "detail": "$1,745 en palacio vs mercado -> -50% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1745.0,
-      "store": "palacio",
-      "name": "Cafetera Nespresso Vertuo Pop Red",
-      "url": "https://www.elpalaciodehierro.com/nespresso-cafetera-nespresso-vertuo-pop-red-43394466.html",
-      "price": 1745.0,
-      "list_price": 3490.0,
-      "ean": null,
-      "model": null,
-      "brand": "Nespresso",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43394466",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 46.0,
-      "detail": "$14,579 en palacio vs mercado -> -47% bajo la competencia",
-      "likely_typo": false,
-      "savings": 12860.05,
-      "store": "palacio",
-      "name": "Lavadora Automática 25 kg Superior WT25PBTX6",
-      "url": "https://www.elpalaciodehierro.com/lg-lavadora-automatica-25-kg-superior-wt25pbtx6-45005046.html",
-      "price": 14579.46,
-      "list_price": 26999.0,
-      "ean": null,
-      "model": "WT25PBTX6",
-      "brand": "Lg",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45005046",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 48.1,
-      "detail": "$7,999 en liverpool vs mercado -> -43% bajo la competencia",
-      "likely_typo": false,
-      "savings": 6000.44,
-      "store": "liverpool",
-      "name": "Lavadora Lg 18 Kg Automatica Carga Superior Wt18Dv6",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/lavadora-lg-18-kg-automatica-carga-superior-wt18dv6/1188874351",
-      "price": 7999.0,
-      "list_price": 15399.0,
-      "ean": null,
-      "model": "Wt18Dv6",
-      "brand": "LG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1188874351",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$2,400 en liverpool vs mercado -> -37% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1429.0,
-      "store": "liverpool",
-      "name": "Set Licuadora Combo Blender Nut Grise",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/set-licuadora-combo-blender-nut-grise/1172657709",
-      "price": 2400.0,
-      "list_price": 4000.0,
-      "ean": null,
-      "model": null,
-      "brand": "NUTRIBULLET",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1172657709",
-        "marketplace": null
-      }
-    },
     {
       "kind": "cross_confirmed",
       "discount_pct": 30.0,
@@ -174,27 +90,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 28.7,
-      "detail": "$6,200 en liverpool vs mercado -> -29% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2500.0,
-      "store": "liverpool",
-      "name": "Bicicleta Urbana Ram Rodada 26 Ctr26 2 Unisex",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/bicicleta-urbana-ram-rodada-26-ctr26-2-unisex/99983801720",
-      "price": 6200.0,
-      "list_price": 8700.0,
-      "ean": null,
-      "model": "Ctr26",
-      "brand": "RAM",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "99983801720",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 44.0,
       "detail": "$10,399 en palacio vs mercado -> -28% bajo la competencia",
       "likely_typo": false,
@@ -216,48 +111,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 27.7,
-      "detail": "$6,800 en liverpool vs mercado -> -28% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2599.0,
-      "store": "liverpool",
-      "name": "Smartwatch Garmin Venu 3 Unisex Con Gps",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/smartwatch-garmin-venu-3-unisex-con-gps/1142098493",
-      "price": 6800.0,
-      "list_price": 9399.0,
-      "ean": null,
-      "model": null,
-      "brand": "GARMIN",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1142098493",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 26.7,
-      "detail": "$2,199 en liverpool vs mercado -> -27% bajo la competencia",
-      "likely_typo": false,
-      "savings": 800.0,
-      "store": "liverpool",
-      "name": "Lavadora Midea 10 Kg Semiautomatica Carga Superior Mlts101M2Sgdw",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/lavadora-midea-10-kg-semiautomatica-carga-superior-mlts101m2sgdw/1127610386",
-      "price": 2199.0,
-      "list_price": 2999.0,
-      "ean": null,
-      "model": "Mlts101M2Sgdw",
-      "brand": "MIDEA",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1127610386",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 50.0,
       "detail": "$10,982 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
@@ -274,6 +127,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45384039",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$2,694 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 898.0,
+      "store": "palacio",
+      "name": "Combo Cafetera Nespresso Vertuo Pop Rojo",
+      "url": "https://www.elpalaciodehierro.com/nespresso-combo-cafetera-nespresso-vertuo-pop-rojo-43294637.html",
+      "price": 2694.0,
+      "list_price": 4490.0,
+      "ean": null,
+      "model": null,
+      "brand": "Nespresso",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43294637",
         "outlet": false
       }
     },
@@ -384,27 +258,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$2,694 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 898.0,
-      "store": "palacio",
-      "name": "Combo Cafetera Nespresso Vertuo Pop Rojo",
-      "url": "https://www.elpalaciodehierro.com/nespresso-combo-cafetera-nespresso-vertuo-pop-rojo-43294637.html",
-      "price": 2694.0,
-      "list_price": 4490.0,
-      "ean": null,
-      "model": null,
-      "brand": "Nespresso",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43294637",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 55.0,
       "detail": "$5,142 en palacio vs mercado -> -24% bajo la competencia",
       "likely_typo": false,
@@ -447,52 +300,10 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 14.9,
-      "detail": "$2,980 en liverpool vs mercado -> -23% bajo la competencia",
-      "likely_typo": false,
-      "savings": 910.0,
-      "store": "liverpool",
-      "name": "Licuadora Ninja Co401B 7 Velocidades",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/licuadora-ninja-co401b-7-velocidades/1178833223",
-      "price": 2980.0,
-      "list_price": 3500.0,
-      "ean": null,
-      "model": "Co401B",
-      "brand": "NINJA",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1178833223",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 55.1,
-      "detail": "$10,999 en liverpool vs mercado -> -21% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3000.44,
-      "store": "liverpool",
-      "name": "Lavadora Lg 21 Kg Automatica Carga Superior Wt21Mv6",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/lavadora-lg-21-kg-automatica-carga-superior-wt21mv6/999682456851",
-      "price": 10999.0,
-      "list_price": 24499.0,
-      "ean": null,
-      "model": "Wt21Mv6",
-      "brand": "LG",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "999682456851",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 48.0,
       "detail": "$6,313 en palacio vs mercado -> -21% bajo la competencia",
       "likely_typo": false,
-      "savings": 1685.58,
+      "savings": 1699.74,
       "store": "palacio",
       "name": "Pantalla 50 Pulgadas Plana Mini-LED 4K UN50M70HAFXZX",
       "url": "https://www.elpalaciodehierro.com/samsung-pantalla-50-pulgadas-plana-mini-led-4k-un50m70hafxzx-45366544.html",
@@ -552,65 +363,23 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 30.0,
-      "detail": "$5,599 en liverpool vs mercado -> -20% bajo la competencia",
+      "discount_pct": 60.0,
+      "detail": "$14,640 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
-      "savings": 1399.8,
-      "store": "liverpool",
-      "name": "Xiaomi Redmi Note 15 Pro Amoled 6 7 Pulgadas",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/xiaomi-redmi-note-15-pro-amoled-6-7-pulgadas/1190587752",
-      "price": 5599.2,
-      "list_price": 7999.0,
+      "savings": 3719.8,
+      "store": "palacio",
+      "name": "Refrigerador Bottom Mount de 520 Litros Black Stainless RMB520IWMRP1 negro",
+      "url": "https://www.elpalaciodehierro.com/mabe-refrigerador-bottom-mount-de-520-litros-black-stainless-rmb520iwmrp1-negro-43133039.html",
+      "price": 14639.6,
+      "list_price": 36599.0,
       "ean": null,
-      "model": null,
-      "brand": "XIAOMI",
+      "model": "RMB520IWMRP1",
+      "brand": "Mabe",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "productId": "1190587752",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 5.0,
-      "detail": "$12,799 en liverpool vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3199.65,
-      "store": "liverpool",
-      "name": "Apple Iphone 16E 6 1 Pulgadas Super Retina Xdr",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/apple-iphone-16e-6-1-pulgadas-super-retina-xdr/1173032684",
-      "price": 12799.35,
-      "list_price": 13473.0,
-      "ean": null,
-      "model": null,
-      "brand": "APPLE",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1173032684",
-        "marketplace": null
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$559 en liverpool vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 139.8,
-      "store": "liverpool",
-      "name": "Correa Para Smartwatch Spigen",
-      "url": "https://www.liverpool.com.mx/tienda/pdp/correa-para-smartwatch-spigen/1159846144",
-      "price": 559.2,
-      "list_price": 699.0,
-      "ean": null,
-      "model": null,
-      "brand": "SPIGEN",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "productId": "1159846144",
-        "marketplace": null
+        "id": "43133039",
+        "outlet": false
       }
     },
     {
@@ -631,27 +400,6 @@
       "currency": "MXN",
       "extra": {
         "id": "44951471",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$29,399 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 7349.85,
-      "store": "palacio",
-      "name": "Celular Mate X7 512 GB 16 GB Rojo Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/huawei-celular-mate-x7-512-gb-16-gb-rojo-desbloqueado-45262438.html",
-      "price": 29399.4,
-      "list_price": 48999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Huawei",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45262438",
         "outlet": false
       }
     },
