@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-02 05:20 UTC",
-  "products_scanned": 815,
+  "generated_at": "2026-09-02 09:01 UTC",
+  "products_scanned": 758,
   "threshold_pct": 20.0,
-  "count": 22,
+  "count": 21,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -27,6 +27,48 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 50.0,
+      "detail": "$1,745 en palacio vs mercado -> -50% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1745.0,
+      "store": "palacio",
+      "name": "Cafetera Nespresso Vertuo Pop Red",
+      "url": "https://www.elpalaciodehierro.com/nespresso-cafetera-nespresso-vertuo-pop-red-43394466.html",
+      "price": 1745.0,
+      "list_price": 3490.0,
+      "ean": null,
+      "model": null,
+      "brand": "Nespresso",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43394466",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 60.0,
+      "detail": "$5,560 en palacio vs mercado -> -33% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2780.0,
+      "store": "palacio",
+      "name": "Hervidor de agua eléctrico Porsche en acero inoxidable",
+      "url": "https://www.elpalaciodehierro.com/smeg-hervidor-de-agua-electrico-porsche-en-acero-inoxidable-45000830.html",
+      "price": 5560.0,
+      "list_price": 13900.0,
+      "ean": null,
+      "model": null,
+      "brand": "Smeg",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45000830",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 45.0,
       "detail": "$989 en palacio vs mercado -> -31% bajo la competencia",
       "likely_typo": false,
@@ -43,6 +85,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45215651",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 30.0,
+      "detail": "$9,099 en palacio vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3899.7,
+      "store": "palacio",
+      "name": "iPhone 13 128 GB Medianoche Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/apple-iphone-13-128-gb-medianoche-desbloqueado-42077608.html",
+      "price": 9099.3,
+      "list_price": 12999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Apple",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "42077608",
         "outlet": false
       }
     },
@@ -106,27 +169,6 @@
       "currency": "MXN",
       "extra": {
         "id": "44729903",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 44.0,
-      "detail": "$10,399 en palacio vs mercado -> -28% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4055.21,
-      "store": "palacio",
-      "name": "Pantalla 65 Pulgadas Plana MiniLED 4K 65Z670RM FIRE TV",
-      "url": "https://www.elpalaciodehierro.com/toshiba-pantalla-65-pulgadas-plana-miniled-4k-65z670rm-fire-tv-45315663.html",
-      "price": 10399.2,
-      "list_price": 18570.0,
-      "ean": null,
-      "model": "65Z670RM",
-      "brand": "Toshiba",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45315663",
         "outlet": false
       }
     },
@@ -196,27 +238,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 25.0,
-      "detail": "$22,499 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 7499.75,
-      "store": "palacio",
-      "name": "Celular RAZR 70 Ultra 512 GB 8 GB Azul Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/motorola-celular-razr-70-ultra-512-gb-8-gb-azul-desbloqueado-45630424.html",
-      "price": 22499.25,
-      "list_price": 29999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Motorola",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45630424",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
       "detail": "$3,089 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
       "savings": 1029.75,
@@ -253,27 +274,6 @@
       "currency": "MXN",
       "extra": {
         "id": "42107714",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 55.0,
-      "detail": "$5,142 en palacio vs mercado -> -24% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1599.78,
-      "store": "palacio",
-      "name": "Pantalla 43 Pulgadas Plana Mini-LED 4K UN43M70HAFXZX",
-      "url": "https://www.elpalaciodehierro.com/samsung-pantalla-43-pulgadas-plana-mini-led-4k-un43m70hafxzx-45366538.html",
-      "price": 5142.15,
-      "list_price": 11427.0,
-      "ean": null,
-      "model": "UN43M70HAFXZX",
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45366538",
         "outlet": false
       }
     },
@@ -321,27 +321,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$7,799 en palacio vs mercado -> -21% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2079.84,
-      "store": "palacio",
-      "name": "Celular Nova 14 Negro 512 GB 12 GB Negro Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/huawei-celular-nova-14-negro-512-gb-12-gb-negro-desbloqueado-45262441.html",
-      "price": 7799.4,
-      "list_price": 12999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Huawei",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45262441",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 34.0,
       "detail": "$7,919 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
@@ -363,22 +342,22 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 60.0,
-      "detail": "$14,640 en palacio vs mercado -> -20% bajo la competencia",
+      "discount_pct": 40.0,
+      "detail": "$29,399 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
-      "savings": 3719.8,
+      "savings": 7349.85,
       "store": "palacio",
-      "name": "Refrigerador Bottom Mount de 520 Litros Black Stainless RMB520IWMRP1 negro",
-      "url": "https://www.elpalaciodehierro.com/mabe-refrigerador-bottom-mount-de-520-litros-black-stainless-rmb520iwmrp1-negro-43133039.html",
-      "price": 14639.6,
-      "list_price": 36599.0,
+      "name": "Celular Mate X7 512 GB 16 GB Rojo Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/huawei-celular-mate-x7-512-gb-16-gb-rojo-desbloqueado-45262438.html",
+      "price": 29399.4,
+      "list_price": 48999.0,
       "ean": null,
-      "model": "RMB520IWMRP1",
-      "brand": "Mabe",
+      "model": null,
+      "brand": "Huawei",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "43133039",
+        "id": "45262438",
         "outlet": false
       }
     },

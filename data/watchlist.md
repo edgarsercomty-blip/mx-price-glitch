@@ -1,11 +1,9 @@
-# Productos en vigilancia (799)
+# Productos en vigilancia (797)
 
 Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible, llega alerta de restock.
 
 | Estado | Tienda | Producto | Precio | Desc. |
 |--------|--------|----------|-------:|------:|
-| 🔴 agotado | walmart | [Estufa de Empotre 80 cm (30 pulgadas) Inoxidable Mabe - XOC8…](https://www.walmart.com.mx/ip/estufa-de-empotre-80-cm-30-pulgadas-inoxidable-mabe-xoc80802ct2/00075763840637?athbdg=L1300) | $14,499 | -37% |
-| 🔴 agotado | walmart | [BICICLETA 570 RUTA ALUM FRE/CARR R-700 14VEL (Negro) (54) BE…](https://www.walmart.com.mx/ip/bicicleta-570-ruta-alum-fre-carr-r-700-14vel-negro-54-benotto-benotto-570-ruta/00750153732737?athbdg=L1300) | $6,599 | -31% |
 | 🔴 agotado | walmart | [Cafetera T-Fal Genio S Plus Cosmic Grey KP340BMX](https://www.walmart.com.mx/ip/cafetera-t-fal-genio-s-plus-cosmic-grey-kp340bmx/00001094222812) | $2,199 | -21% |
 | 🔴 agotado | liverpool | [Apple MacBook Air 13.6" M3 8GB/256GB (ERROR precio ~75%)](https://www.liverpool.com.mx/tienda/pdp/apple-macbook-air-13-6-pulgadas-m3-8-gb-ram-256-gb-ssd-plateado/1153206542) | $5,684 | -75% |
 | 🔴 agotado | walmart | [Pantalla 43 pulgadas Samsung Crystal U8200H 4K Smart TV (202…](https://www.walmart.com.mx/ip/pantalla-43-pulgadas-samsung-crystal-u8200h-4k-smart-tv-2026-/00750940184218) | $4,290 | -28% |
@@ -162,7 +160,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Celular Galaxy A57 256 GB 8 GB Azul oscuro Desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-a57-256-gb-8-gb-azul-oscuro-desbloqueado-45345629.html) | $8,519 | -25% |
 | 🟢 disponible | palacio | [Celular Galaxy S26 Ultra 1 TB, RAM 16 GB, negro desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-ultra-1-tb-ram-16-gb-negro-desbloqueado-45273253.html) | $45,999 | -25% |
 | 🟢 disponible | palacio | [Celular Galaxy S26 Ultra, 512 GB, RAM 12 GB, Violeta Desbloq…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-ultra-512-gb-ram-12-gb-violeta-desbloqueado-45273254.html) | $37,999 | -23% |
-| 🟢 disponible | palacio | [Celular Galaxy S26 Ultra 512 GB, RAM 12 GB, azul desbloquead…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-ultra-512-gb-ram-12-gb-azul-desbloqueado-45273250.html) | $26,979 | -23% |
+| 🟢 disponible | palacio | [Celular Galaxy S26 Ultra 512 GB, RAM 12 GB, azul desbloquead…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-ultra-512-gb-ram-12-gb-azul-desbloqueado-45273250.html) | $37,999 | -23% |
 | 🟢 disponible | palacio | [Celular Galaxy S26 256 GB, RAM 12 GB, negro desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-256-gb-ram-12-gb-negro-desbloqueado-45273246.html) | $16,424 | -20% |
 | 🟢 disponible | palacio | [Celular Galaxy S26 256 GB, RAM 12 GB Violeta Desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-256-gb-ram-12-gb-violeta-desbloqueado-45273256.html) | $16,874 | -20% |
 | 🟢 disponible | palacio | [Celular Galaxy S26 256 GB, RAM 12 GB, azul claro desbloquead…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-256-gb-ram-12-gb-azul-claro-desbloqueado-45273245.html) | $16,424 | -20% |
@@ -202,13 +200,13 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Combo Cafetera Nespresso Vertuo Pop Lilac Aeroccino 3](https://www.elpalaciodehierro.com/nespresso-combo-cafetera-nespresso-vertuo-pop-lilac-aeroccino-3-44842808.html) | $2,694 | -23% |
 | 🟢 disponible | palacio | [Pantalla 55 Pulgadas Plana Mini-LED 4K Fire TV 55QM64L](https://www.elpalaciodehierro.com/tcl-pantalla-55-pulgadas-plana-mini-led-4k-fire-tv-55qm64l-45361102.html) | $10,639 | -20% |
 | 🟢 disponible | palacio | [Celular Moto Edge 60, 512 GB, RAM 12 GB, Verde, Desbloqueado](https://www.elpalaciodehierro.com/motorola-celular-moto-edge-60-512-gb-ram-12-gb-verde-desbloqueado-44600285.html) | $7,799 | -20% |
-| 🟢 disponible | palacio | [Celular Galaxy S26 Ultra 1 TB, RAM 16 GB, azul desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-ultra-1-tb-ram-16-gb-azul-desbloqueado-45273251.html) | $30,819 | -25% |
+| 🟢 disponible | palacio | [Celular Galaxy S26 Ultra 1 TB, RAM 16 GB, azul desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-ultra-1-tb-ram-16-gb-azul-desbloqueado-45273251.html) | $45,999 | -25% |
 | 🟢 disponible | liverpool | [Mini Refrigerador Chefman Rj48 6 Ml Whi 4 L Cubicos](https://www.liverpool.com.mx/tienda/pdp/mini-refrigerador-chefman-rj48-6-ml-whi-4-l-cubicos/1183025160) | $929 | -41% |
 | 🟢 disponible | liverpool | [Pantalla Smart Tv Lg Qned De 75 Pulgadas 4K 75Qned73Asc Con …](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-qned-de-75-pulgadas-4k-75qned73asc-con-ai-webos/1192293321) | $11,249 | -36% |
 | 🟢 disponible | palacio | [Monitor Deportivo Vívosmart 5 negro para Entrenamiento](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-vivosmart-5-negro-para-entrenamiento-42538928.html) | $3,399 | -25% |
 | 🟢 disponible | palacio | [Monitor Forerunner 965 para correr](https://www.elpalaciodehierro.com/garmin-monitor-forerunner-965-para-correr-43074177.html) | $9,524 | -25% |
 | 🟢 disponible | palacio | [Monitor Venu 3S, Sage Gray + Passivated Deportivo](https://www.elpalaciodehierro.com/garmin-monitor-venu-3s-sage-gray-passivated-deportivo-43401370.html) | $7,049 | -25% |
-| 🟢 disponible | palacio | [Monitor deportivo Venu 4, 41 mm casual](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-venu-4-41-mm-casual-44965112.html) | $8,624 | -25% |
+| 🟢 disponible | palacio | [Monitor deportivo Venu 4, 41 mm casual](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-venu-4-41-mm-casual-44965112.html) | $11,499 | -25% |
 | 🟢 disponible | palacio | [Celular Huawei Pura 80 Pro 512 GB, 12 GB RAM Rojo desbloquea…](https://www.elpalaciodehierro.com/huawei-celular-huawei-pura-80-pro-512-gb-12-gb-ram-rojo-desbloqueado-44928184.html) | $17,999 | -24% |
 | 🟢 disponible | palacio | [Kindle Colorsoft, 7", 16 GB, RAM 1 GB, Linux, MTK MT8113S, W…](https://www.elpalaciodehierro.com/amazon-kindle-colorsoft-7-16-gb-ram-1-gb-linux-mtk-mt8113s-wi-fi-negro-45205059.html) | $3,849 | -23% |
 | 🟢 disponible | palacio | [Smartwatch para entrenamiento Fenix 8 Unisex](https://www.elpalaciodehierro.com/garmin-smartwatch-para-entrenamiento-fenix-8-unisex-44110954.html) | $18,399 | -20% |
@@ -232,7 +230,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Celular Mate XT ULTIMATE DESIGN, 1 TB, RAM 16 GB, Negro, Des…](https://www.elpalaciodehierro.com/huawei-celular-mate-xt-ultimate-design-1-tb-ram-16-gb-negro-desbloqueado-44600330.html) | $35,399 | -23% |
 | 🟢 disponible | palacio | [Monitor Forerunner 265S Music para correr](https://www.elpalaciodehierro.com/garmin-monitor-forerunner-265s-music-para-correr-43074175.html) | $7,124 | -20% |
 | 🟢 disponible | palacio | [Monitor para entrenamiento Venu X1 moss](https://www.elpalaciodehierro.com/garmin-monitor-para-entrenamiento-venu-x1-moss-44784099.html) | $11,679 | -20% |
-| 🟢 disponible | palacio | [Monitor MARQ Commander Gen 2 - Carbon Edition multideportivo](https://www.elpalaciodehierro.com/garmin-monitor-marq-commander-gen-2---carbon-edition-multideportivo-43587917.html) | $53,599 | -20% |
+| 🟢 disponible | palacio | [Monitor MARQ Commander Gen 2 - Carbon Edition multideportivo](https://www.elpalaciodehierro.com/garmin-monitor-marq-commander-gen-2---carbon-edition-multideportivo-43587917.html) | $66,999 | -20% |
 | 🟢 disponible | liverpool | [Pantalla Smart Tv Samsung Crystal Uhd De 43 Pulgadas 4K Uhd …](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-samsung-crystal-uhd-de-43-pulgadas-4k-uhd-un43u8500hfxzx-con-tizen/1197292489) | $6,499 | -62% |
 | 🟢 disponible | liverpool | [Set Licuadora Personal Nutribullet Pro 1 Velocidad](https://www.liverpool.com.mx/tienda/pdp/set-licuadora-personal-nutribullet-pro-1-velocidad/1163026518) | $1,890 | -40% |
 | 🟢 disponible | palacio | [Monitor Venu 3S, Pebble Gray Slate Deportivo](https://www.elpalaciodehierro.com/garmin-monitor-venu-3s-pebble-gray-slate-deportivo-43401369.html) | $7,049 | -25% |
@@ -255,7 +253,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Pantalla 65 pulgadas Plana QNED evo AI QNED92 4K SMART TV 20…](https://www.elpalaciodehierro.com/lg-pantalla-65-pulgadas-plana-qned-evo-ai-qned92-4k-smart-tv-2025-44776799.html) | $21,000 | -33% |
 | 🟢 disponible | liverpool | [Smartwatch Samsung Galaxy Watch 7 44Mm Unisex](https://www.liverpool.com.mx/tienda/pdp/smartwatch-samsung-galaxy-watch-7-44mm-unisex/1158643482) | $3,184 | -35% |
 | 🟢 disponible | palacio | [Monitor deportivo Venu 4, 45 mm casual](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-venu-4-45-mm-casual-44965113.html) | $9,199 | -25% |
-| 🟢 disponible | palacio | [Monitor Deportivo Forerunner 265 Multideporte](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-forerunner-265-multideporte-43277901.html) | $7,599 | -20% |
+| 🟢 disponible | palacio | [Monitor Deportivo Forerunner 265 Multideporte](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-forerunner-265-multideporte-43277901.html) | $9,499 | -20% |
 | 🟢 disponible | palacio | [Monitor Deportivo Forerunner 570 Negro Unisex](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-forerunner-570-negro-unisex-44674661.html) | $11,499 | -20% |
 | 🟢 disponible | liverpool | [Smartwatch Huawei Fit 3 Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-huawei-fit-3-unisex-con-gps/1155144191) | $3,299 | -21% |
 | 🟢 disponible | palacio | [Monitor Venu X1 French Gray para entrenamiento](https://www.elpalaciodehierro.com/garmin-monitor-venu-x1-french-gray-para-entrenamiento-45245377.html) | $11,679 | -20% |
