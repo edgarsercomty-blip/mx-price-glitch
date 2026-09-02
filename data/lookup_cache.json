@@ -179,18 +179,6 @@
     "ts": "2026-09-02T00:16:58.967536+00:00",
     "items": []
   },
-  "amazon|RMB520IWMRP1": {
-    "ts": "2026-08-31T20:34:40.615828+00:00",
-    "items": []
-  },
-  "walmart|RMB520IWMRP1": {
-    "ts": "2026-08-31T20:34:42.302556+00:00",
-    "items": []
-  },
-  "sams|RMB520IWMRP1": {
-    "ts": "2026-08-31T20:34:43.915290+00:00",
-    "items": []
-  },
   "amazon|VIVOCELULARTELCELY19S256": {
     "ts": "2026-09-01T12:26:37.535761+00:00",
     "items": []
@@ -215,422 +203,28 @@
     "ts": "2026-09-01T12:26:48.443436+00:00",
     "items": []
   },
-  "palacio|BSB05R": {
-    "ts": "2026-08-31T20:34:16.396326+00:00",
-    "items": [
-      {
-        "store": "palacio",
-        "name": "Pantalón de vestir Hombre",
-        "url": "https://www.elpalaciodehierro.com/buccelli-pantalon-de-vestir-hombre-45110968.html",
-        "price": 1495.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Brasier Balconette",
-        "url": "https://www.elpalaciodehierro.com/calvin-klein-brasier-balconette-44607229.html",
-        "price": 1159.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalón fluido cargo negro lavado Mujer",
-        "url": "https://www.elpalaciodehierro.com/bimba-y-lola-pantalon-fluido-cargo-negro-lavado-mujer-45217401.html",
-        "price": 2400.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalón barrel ajustable algodón camel Mujer",
-        "url": "https://www.elpalaciodehierro.com/bimba-y-lola-pantalon-barrel-ajustable-algodon-camel-mujer-45217392.html",
-        "price": 2550.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalón barrel lino lavado rayas azul claro Mujer",
-        "url": "https://www.elpalaciodehierro.com/bimba-y-lola-pantalon-barrel-lino-lavado-rayas-azul-claro-mujer-45217445.html",
-        "price": 2650.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalón barrel Mujer",
-        "url": "https://www.elpalaciodehierro.com/bimba-y-lola-pantalon-barrel-mujer-45617993.html",
-        "price": 4200.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Bikini Bottom estampado Mujer",
-        "url": "https://www.elpalaciodehierro.com/barocco-bikini-bottom-estampado-mujer-45324854.html",
-        "price": 1895.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalón barrel pespunteados negro Mujer",
-        "url": "https://www.elpalaciodehierro.com/bimba-y-lola-pantalon-barrel-pespunteados-negro-mujer-45217477.html",
-        "price": 2400.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalón barrel pana fluido melange Mujer",
-        "url": "https://www.elpalaciodehierro.com/bimba-y-lola-pantalon-barrel-pana-fluido-melange-mujer-45617932.html",
-        "price": 4200.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Balerina deportiva 13 10 serraje y nylon Mujer",
-        "url": "https://www.elpalaciodehierro.com/bimba-y-lola-balerina-deportiva-13-10-serraje-y-nylon-mujer-45235590.html",
-        "price": 3300.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalón patchwork de pañuelos bordados Mujer",
-        "url": "https://www.elpalaciodehierro.com/bimba-y-lola-pantalon-patchwork-de-panuelos-bordados-mujer-45241579.html",
-        "price": 3900.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Pantalon Hombre",
-        "url": "https://www.elpalaciodehierro.com/hugo-pantalon-hombre-44155354.html",
-        "price": 4299.0,
-        "model": null
-      }
-    ]
-  },
-  "amazon|BSB05R": {
-    "ts": "2026-08-31T20:34:25.355383+00:00",
-    "items": []
-  },
-  "walmart|BSB05R": {
-    "ts": "2026-08-31T20:34:26.915640+00:00",
-    "items": []
-  },
-  "sams|BSB05R": {
-    "ts": "2026-08-31T20:34:28.690932+00:00",
-    "items": []
-  },
-  "mercadolibre|BSB05R": {
-    "ts": "2026-08-31T20:34:30.075297+00:00",
-    "items": []
-  },
-  "liverpool|UN98DU9000FXZX": {
-    "ts": "2026-08-31T20:34:31.169362+00:00",
-    "items": []
-  },
-  "amazon|UN98DU9000FXZX": {
-    "ts": "2026-08-31T20:34:32.513324+00:00",
-    "items": []
-  },
-  "walmart|UN98DU9000FXZX": {
-    "ts": "2026-08-31T20:34:34.059223+00:00",
-    "items": []
-  },
-  "sams|UN98DU9000FXZX": {
-    "ts": "2026-08-31T20:34:35.583741+00:00",
-    "items": []
-  },
-  "mercadolibre|UN98DU9000FXZX": {
-    "ts": "2026-08-31T20:34:36.853948+00:00",
-    "items": []
-  },
-  "liverpool|RMB520IWMRP1": {
-    "ts": "2026-08-31T20:34:39.115679+00:00",
-    "items": [
-      {
-        "store": "liverpool",
-        "name": "Refrigerador Bottom Mount Mabe 18 Pies Cubicos Tecnologia No Frost Rmb520Iwmrp1",
-        "url": "https://www.liverpool.com.mx/tienda/pdp/refrigerador-bottom-mount-mabe-18-pies-cubicos-tecnologia-no-frost-rmb520iwmrp1/1125234051",
-        "price": 18359.4,
-        "model": "Rmb520Iwmrp1"
-      },
-      {
-        "store": "liverpool",
-        "name": "Refrigerador Bottom Mount Mabe 18 Pies Cubicos No Frost Rmb520Iwmrx1",
-        "url": "https://www.liverpool.com.mx/tienda/pdp/refrigerador-bottom-mount-mabe-18-pies-cubicos-no-frost-rmb520iwmrx1/1125234042",
-        "price": 18359.4,
-        "model": "Rmb520Iwmrx1"
-      }
-    ]
-  },
-  "mercadolibre|RMB520IWMRP1": {
-    "ts": "2026-08-31T20:34:45.408229+00:00",
-    "items": []
-  },
-  "palacio|HR2263": {
-    "ts": "2026-08-31T20:34:48.196252+00:00",
-    "items": [
-      {
-        "store": "palacio",
-        "name": "Lavadora automática 22 Kg Carga Frontal WM22VV2S6GR.WDP6V Plata",
-        "url": "https://www.elpalaciodehierro.com/lg-lavadora-automatica-22-kg-carga-frontal-wm22vv2s6gr.wdp6v-plata-43831589.html",
-        "price": 20783.52,
-        "model": "WM22VV2S6GR"
-      },
-      {
-        "store": "palacio",
-        "name": "Lavasecadora Eléctrica con pedestal 22 Kg, 13 Kg Inteligente Inverter AI DD Carga Frontal WD22BV2S6R negro",
-        "url": "https://www.elpalaciodehierro.com/lg-lavasecadora-electrica-con-pedestal-22-kg-13-kg-inteligente-inverter-ai-dd-carga-frontal-wd22bv2s6r-negro-43831587.html",
-        "price": 28943.52,
-        "model": "WD22BV2S6R"
-      },
-      {
-        "store": "palacio",
-        "name": "Monitor Deportivo vívoactive 6 para entrenamiento",
-        "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-vivoactive-6-para-entrenamiento-44529804.html",
-        "price": 6299.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Monitor Deportivo vívoactive 6 para entrenamiento",
-        "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-vivoactive-6-para-entrenamiento-44529805.html",
-        "price": 6299.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Monitor Deportivo Forerunner 570 Negro Unisex",
-        "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-forerunner-570-negro-unisex-44674692.html",
-        "price": 11499.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Monitor Deportivo Forerunner 570 Negro Unisex",
-        "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-forerunner-570-negro-unisex-44674661.html",
-        "price": 11499.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Monitor Deportivo Forerunner 570 Hueso/Frambuesa/Mango Unisex",
-        "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-forerunner-570-hueso%2Fframbuesa%2Fmango-unisex-44674691.html",
-        "price": 11499.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Monitor Deportivo Forerunner 570 Morado Unisex",
-        "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-forerunner-570-morado-unisex-44674622.html",
-        "price": 11499.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Tenis para Correr Kanagawa Hombre",
-        "url": "https://www.elpalaciodehierro.com/norda-tenis-para-correr-kanagawa-hombre-45316412.html",
-        "price": 6990.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Monitor Deportivo Forerunner 570 Azul/Blanco Unisex",
-        "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-forerunner-570-azul%2Fblanco-unisex-44674668.html",
-        "price": 11499.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Smartwatch Huawei Watch GT Runner 2 Unisex",
-        "url": "https://www.elpalaciodehierro.com/huawei-smartwatch-huawei-watch-gt-runner-2-unisex-45354417.html",
-        "price": 4229.53,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Monito deportivo vívoactive 6 para entrenamiento",
-        "url": "https://www.elpalaciodehierro.com/garmin-monito-deportivo-vivoactive-6-para-entrenamiento-44529806.html",
-        "price": 6299.0,
-        "model": null
-      }
-    ]
-  },
-  "amazon|HR2263": {
-    "ts": "2026-08-31T20:34:49.476219+00:00",
-    "items": []
-  },
-  "walmart|HR2263": {
-    "ts": "2026-08-31T20:34:50.977441+00:00",
-    "items": []
-  },
-  "sams|HR2263": {
-    "ts": "2026-08-31T20:34:53.077453+00:00",
-    "items": []
-  },
-  "mercadolibre|HR2263": {
-    "ts": "2026-08-31T20:34:54.427681+00:00",
-    "items": []
-  },
-  "palacio|CM3218MX": {
-    "ts": "2026-08-31T20:34:59.836857+00:00",
-    "items": [
-      {
-        "store": "palacio",
-        "name": "Kit de Motocicleta para Cámara de Acción",
-        "url": "https://www.elpalaciodehierro.com/insta360-kit-de-motocicleta-para-camara-de-accion-44716587.html",
-        "price": 1599.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Maleta de viaje Hybrid 53",
-        "url": "https://www.elpalaciodehierro.com/rimowa-maleta-de-viaje-hybrid-53-43488083.html",
-        "price": 24600.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Lavadora 28 kg Superior WT28EGTX6",
-        "url": "https://www.elpalaciodehierro.com/lg-lavadora-28-kg-superior-wt28egtx6-45005044.html",
-        "price": 19979.46,
-        "model": "WT28EGTX6"
-      },
-      {
-        "store": "palacio",
-        "name": "Maleta de viaje Hybrid 53",
-        "url": "https://www.elpalaciodehierro.com/rimowa-maleta-de-viaje-hybrid-53-43488087.html",
-        "price": 24600.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Maleta de viaje Motion Gris",
-        "url": "https://www.elpalaciodehierro.com/wenger-maleta-de-viaje-motion-gris-43557245.html",
-        "price": 3149.3,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Mortero con Pistilo en Mármol",
-        "url": "https://www.elpalaciodehierro.com/cilio-mortero-con-pistilo-en-marmol-44031851.html",
-        "price": 1168.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "LG MON 27MR400 PC MONITOR",
-        "url": "https://www.elpalaciodehierro.com/lg-lg-mon-27mr400-pc-monitor-44224418.html",
-        "price": 3799.0,
-        "model": "27MR400"
-      },
-      {
-        "store": "palacio",
-        "name": "Maleta de viaje rígida 19 Degree Lite verde",
-        "url": "https://www.elpalaciodehierro.com/tumi-maleta-de-viaje-rigida-19-degree-lite-verde-45288281.html",
-        "price": 12460.0,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Maleta Rígida C-Lite Chica roja",
-        "url": "https://www.elpalaciodehierro.com/samsonite-maleta-rigida-c-lite-chica-roja-42252575.html",
-        "price": 8999.4,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Maleta de viaje Motion Gris",
-        "url": "https://www.elpalaciodehierro.com/wenger-maleta-de-viaje-motion-gris-43557244.html",
-        "price": 2799.3,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Maleta Syntry Rigida Cabina Negro",
-        "url": "https://www.elpalaciodehierro.com/wenger-maleta-syntry-rigida-cabina-negro-43557249.html",
-        "price": 3709.3,
-        "model": null
-      },
-      {
-        "store": "palacio",
-        "name": "Maleta rigida MY4810Trolley Pewter",
-        "url": "https://www.elpalaciodehierro.com/montblanc-maleta-rigida-my4810trolley-pewter-43692519.html",
-        "price": 20000.0,
-        "model": "MY4810Trolley"
-      }
-    ]
-  },
-  "amazon|CM3218MX": {
-    "ts": "2026-08-31T20:35:01.151178+00:00",
-    "items": []
-  },
-  "walmart|CM3218MX": {
-    "ts": "2026-08-31T20:35:02.611879+00:00",
-    "items": []
-  },
-  "sams|CM3218MX": {
-    "ts": "2026-08-31T20:35:04.185889+00:00",
-    "items": []
-  },
-  "mercadolibre|CM3218MX": {
-    "ts": "2026-08-31T20:35:05.742332+00:00",
-    "items": []
-  },
-  "amazon|NUTRIBULLETLICUADORABLENDERCOMBOGRISE": {
-    "ts": "2026-08-31T20:35:07.118225+00:00",
-    "items": []
-  },
-  "walmart|NUTRIBULLETLICUADORABLENDERCOMBOGRISE": {
-    "ts": "2026-08-31T20:35:08.778685+00:00",
-    "items": []
-  },
-  "sams|NUTRIBULLETLICUADORABLENDERCOMBOGRISE": {
-    "ts": "2026-08-31T20:35:10.332962+00:00",
-    "items": []
-  },
-  "amazon|SPIGENSMARTWATCHCORREASPIGEN": {
-    "ts": "2026-08-31T20:35:11.629167+00:00",
-    "items": []
-  },
-  "walmart|SPIGENSMARTWATCHCORREASPIGEN": {
-    "ts": "2026-08-31T20:35:13.134336+00:00",
-    "items": []
-  },
-  "sams|SPIGENSMARTWATCHCORREASPIGEN": {
-    "ts": "2026-08-31T20:35:14.767396+00:00",
-    "items": []
-  },
-  "amazon|SAMSUNGDESBLOQUEADOCELULARGALAXYA17": {
-    "ts": "2026-08-31T20:35:16.210825+00:00",
-    "items": []
-  },
-  "walmart|SAMSUNGDESBLOQUEADOCELULARGALAXYA17": {
-    "ts": "2026-08-31T20:35:17.757703+00:00",
-    "items": []
-  },
-  "sams|SAMSUNGDESBLOQUEADOCELULARGALAXYA17": {
-    "ts": "2026-08-31T20:35:19.251964+00:00",
-    "items": []
-  },
   "amazon|MOTOROLACELULARCOCOAULTRARAZR": {
-    "ts": "2026-08-31T20:35:22.212072+00:00",
+    "ts": "2026-09-02T22:40:56.653340+00:00",
     "items": []
   },
   "walmart|MOTOROLACELULARCOCOAULTRARAZR": {
-    "ts": "2026-08-31T20:35:23.817010+00:00",
+    "ts": "2026-09-02T22:40:58.141191+00:00",
     "items": []
   },
   "sams|MOTOROLACELULARCOCOAULTRARAZR": {
-    "ts": "2026-08-31T20:35:25.328708+00:00",
+    "ts": "2026-09-02T22:40:59.745074+00:00",
     "items": []
   },
   "amazon|APPLEENTRENAMIENTOINALAMBRICOSPOWERBEATSBLUETOOTH": {
-    "ts": "2026-08-31T20:35:27.075144+00:00",
+    "ts": "2026-09-02T22:41:00.943011+00:00",
     "items": []
   },
   "walmart|APPLEENTRENAMIENTOINALAMBRICOSPOWERBEATSBLUETOOTH": {
-    "ts": "2026-08-31T20:35:28.698711+00:00",
+    "ts": "2026-09-02T22:41:02.356738+00:00",
     "items": []
   },
   "sams|APPLEENTRENAMIENTOINALAMBRICOSPOWERBEATSBLUETOOTH": {
-    "ts": "2026-08-31T20:35:30.266986+00:00",
+    "ts": "2026-09-02T22:41:03.970991+00:00",
     "items": []
   },
   "amazon|SAMSUNGDESBLOQUEADOCELULARGALAXYRAM": {
@@ -1135,6 +729,18 @@
   },
   "sams|ASUSVIVOBOOKLAPTOPRYZENRAM": {
     "ts": "2026-09-02T18:20:01.823111+00:00",
+    "items": []
+  },
+  "amazon|SAMSUNGDESBLOQUEADOCELULARGALAXY128": {
+    "ts": "2026-09-02T22:40:51.997331+00:00",
+    "items": []
+  },
+  "walmart|SAMSUNGDESBLOQUEADOCELULARGALAXY128": {
+    "ts": "2026-09-02T22:40:53.717685+00:00",
+    "items": []
+  },
+  "sams|SAMSUNGDESBLOQUEADOCELULARGALAXY128": {
+    "ts": "2026-09-02T22:40:55.442583+00:00",
     "items": []
   }
 }
