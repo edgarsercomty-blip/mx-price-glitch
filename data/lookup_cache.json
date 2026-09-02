@@ -95,18 +95,6 @@
     "ts": "2026-08-31T18:28:49.404454+00:00",
     "items": []
   },
-  "amazon|MLTS101M2SGDW": {
-    "ts": "2026-08-31T11:50:04.389412+00:00",
-    "items": []
-  },
-  "walmart|MLTS101M2SGDW": {
-    "ts": "2026-08-31T11:50:05.636228+00:00",
-    "items": []
-  },
-  "sams|MLTS101M2SGDW": {
-    "ts": "2026-08-31T11:50:06.920107+00:00",
-    "items": []
-  },
   "amazon|HPOMNIBOOKLAPTOPINTELCORE": {
     "ts": "2026-08-31T18:28:18.227146+00:00",
     "items": []
@@ -203,42 +191,6 @@
     "ts": "2026-09-02T00:16:58.967536+00:00",
     "items": []
   },
-  "amazon|SMEGINOXIDABLEELECTRICOHERVIDORPORSCHE": {
-    "ts": "2026-08-31T11:49:49.060910+00:00",
-    "items": []
-  },
-  "walmart|SMEGINOXIDABLEELECTRICOHERVIDORPORSCHE": {
-    "ts": "2026-08-31T11:49:50.403587+00:00",
-    "items": []
-  },
-  "sams|SMEGINOXIDABLEELECTRICOHERVIDORPORSCHE": {
-    "ts": "2026-08-31T11:49:51.863044+00:00",
-    "items": []
-  },
-  "amazon|SMEGMEDITERRANEOELECTRICOHERVIDORBLUE": {
-    "ts": "2026-08-31T11:49:56.888705+00:00",
-    "items": []
-  },
-  "walmart|SMEGMEDITERRANEOELECTRICOHERVIDORBLUE": {
-    "ts": "2026-08-31T11:49:58.247810+00:00",
-    "items": []
-  },
-  "sams|SMEGMEDITERRANEOELECTRICOHERVIDORBLUE": {
-    "ts": "2026-08-31T11:49:59.514843+00:00",
-    "items": []
-  },
-  "amazon|CO401B": {
-    "ts": "2026-08-31T11:50:08.006778+00:00",
-    "items": []
-  },
-  "walmart|CO401B": {
-    "ts": "2026-08-31T11:50:09.323003+00:00",
-    "items": []
-  },
-  "sams|CO401B": {
-    "ts": "2026-08-31T11:50:10.648199+00:00",
-    "items": []
-  },
   "amazon|CTR26": {
     "ts": "2026-08-31T18:28:14.107093+00:00",
     "items": []
@@ -297,54 +249,6 @@
   },
   "sams|HUAWEIDESBLOQUEADOCELULARMATE512": {
     "ts": "2026-09-01T12:26:48.443436+00:00",
-    "items": []
-  },
-  "amazon|BSB08S": {
-    "ts": "2026-08-31T11:49:52.969970+00:00",
-    "items": []
-  },
-  "walmart|BSB08S": {
-    "ts": "2026-08-31T11:49:54.255023+00:00",
-    "items": []
-  },
-  "sams|BSB08S": {
-    "ts": "2026-08-31T11:49:55.742607+00:00",
-    "items": []
-  },
-  "amazon|CUBITTSMARTWATCHCUBITTVIVALITE": {
-    "ts": "2026-08-31T11:50:00.589982+00:00",
-    "items": []
-  },
-  "walmart|CUBITTSMARTWATCHCUBITTVIVALITE": {
-    "ts": "2026-08-31T11:50:01.929068+00:00",
-    "items": []
-  },
-  "sams|CUBITTSMARTWATCHCUBITTVIVALITE": {
-    "ts": "2026-08-31T11:50:03.261356+00:00",
-    "items": []
-  },
-  "amazon|SPIGENSMARTWATCHSPIGENCORREA": {
-    "ts": "2026-08-31T11:50:11.761507+00:00",
-    "items": []
-  },
-  "walmart|SPIGENSMARTWATCHSPIGENCORREA": {
-    "ts": "2026-08-31T11:50:12.969300+00:00",
-    "items": []
-  },
-  "sams|SPIGENSMARTWATCHSPIGENCORREA": {
-    "ts": "2026-08-31T11:50:14.428081+00:00",
-    "items": []
-  },
-  "amazon|ASUSLAPTOPNVIDIAGAMINGINTEL": {
-    "ts": "2026-08-31T11:50:15.671355+00:00",
-    "items": []
-  },
-  "walmart|ASUSLAPTOPNVIDIAGAMINGINTEL": {
-    "ts": "2026-08-31T11:50:16.902914+00:00",
-    "items": []
-  },
-  "sams|ASUSLAPTOPNVIDIAGAMINGINTEL": {
-    "ts": "2026-08-31T11:50:18.260297+00:00",
     "items": []
   },
   "amazon|WT25PBTX6": {
@@ -1199,6 +1103,42 @@
   },
   "sams|NESPRESSONESPRESSOCAFETERAVERTUOPOP": {
     "ts": "2026-09-02T09:01:44.752155+00:00",
+    "items": []
+  },
+  "amazon|ASUSVIVOBOOKLAPTOPRYZEN512": {
+    "ts": "2026-09-02T13:42:27.374782+00:00",
+    "items": []
+  },
+  "walmart|ASUSVIVOBOOKLAPTOPRYZEN512": {
+    "ts": "2026-09-02T13:42:28.953536+00:00",
+    "items": []
+  },
+  "sams|ASUSVIVOBOOKLAPTOPRYZEN512": {
+    "ts": "2026-09-02T13:42:30.814441+00:00",
+    "items": []
+  },
+  "amazon|SMEGCAFETERASMEG": {
+    "ts": "2026-09-02T13:42:32.123693+00:00",
+    "items": []
+  },
+  "walmart|SMEGCAFETERASMEG": {
+    "ts": "2026-09-02T13:42:33.752009+00:00",
+    "items": []
+  },
+  "sams|SMEGCAFETERASMEG": {
+    "ts": "2026-09-02T13:42:35.251018+00:00",
+    "items": []
+  },
+  "amazon|APPLEENTRENAMIENTOINALAMBRICOSPOWERBEATSAUDIFONOS": {
+    "ts": "2026-09-02T13:42:36.571702+00:00",
+    "items": []
+  },
+  "walmart|APPLEENTRENAMIENTOINALAMBRICOSPOWERBEATSAUDIFONOS": {
+    "ts": "2026-09-02T13:42:38.117935+00:00",
+    "items": []
+  },
+  "sams|APPLEENTRENAMIENTOINALAMBRICOSPOWERBEATSAUDIFONOS": {
+    "ts": "2026-09-02T13:42:39.651733+00:00",
     "items": []
   }
 }

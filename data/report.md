@@ -1,21 +1,25 @@
-# Errores/chollos de precio — 2026-09-02 09:01 UTC
+# Errores/chollos de precio — 2026-09-02 13:42 UTC
 
-- Productos revisados: **758**
+- Productos revisados: **831**
 - Umbral de diferencia: **20%**
-- Hallazgos: **21**
+- Hallazgos: **25**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
 | -23% | $10,800 | palacio | [Celular Mate XT ULTIMATE DESIGN, 1 TB, RAM 16 GB, Rojo, Desb…](https://www.elpalaciodehierro.com/huawei-celular-mate-xt-ultimate-design-1-tb-ram-16-gb-rojo-desbloqueado-44600329.html) | $35,399 | Confirmado vs competencia | $35,399 en palacio vs mercado -> -23% bajo la competencia |
+| -25% | $7,500 | palacio | [Celular RAZR 70 Ultra 512 GB 8 GB Azul Desbloqueado](https://www.elpalaciodehierro.com/motorola-celular-razr-70-ultra-512-gb-8-gb-azul-desbloqueado-45630424.html) | $22,499 | Confirmado vs competencia | $22,499 en palacio vs mercado -> -25% bajo la competencia |
 | -25% | $7,500 | palacio | [Celular Razr 70 512 GB 12 GB Ultra Cocoa](https://www.elpalaciodehierro.com/motorola-celular-razr-70-512-gb-12-gb-ultra-cocoa-45558414.html) | $22,499 | Confirmado vs competencia | $22,499 en palacio vs mercado -> -25% bajo la competencia |
 | -20% | $7,350 | palacio | [Celular Mate X7 512 GB 16 GB Rojo Desbloqueado](https://www.elpalaciodehierro.com/huawei-celular-mate-x7-512-gb-16-gb-rojo-desbloqueado-45262438.html) | $29,399 | Confirmado vs competencia | $29,399 en palacio vs mercado -> -20% bajo la competencia |
-| -30% | $3,900 | palacio | [iPhone 13 128 GB Medianoche Desbloqueado](https://www.elpalaciodehierro.com/apple-iphone-13-128-gb-medianoche-desbloqueado-42077608.html) | $9,099 | Confirmado vs competencia | $9,099 en palacio vs mercado -> -30% bajo la competencia |
+| -23% | $5,938 | palacio | [Cafetera DG Smeg](https://www.elpalaciodehierro.com/smeg-cafetera-dg-smeg-44302743.html) | $19,795 | Confirmado vs competencia | $19,795 en palacio vs mercado -> -23% bajo la competencia |
+| -28% | $4,055 | palacio | [Pantalla 65 Pulgadas Plana MiniLED 4K 65Z670RM FIRE TV](https://www.elpalaciodehierro.com/toshiba-pantalla-65-pulgadas-plana-miniled-4k-65z670rm-fire-tv-45315663.html) | $10,399 | Confirmado vs competencia | $10,399 en palacio vs mercado -> -28% bajo la competencia |
+| -24% | $3,762 | palacio | [Laptop, Vivobook Go, 14", AMD Ryzen 5, RAM 16 GB, SSD 512 GB](https://www.elpalaciodehierro.com/asus-laptop-vivobook-go-14-amd-ryzen-5-ram-16-gb-ssd-512-gb-45369608.html) | $11,627 | Confirmado vs competencia | $11,627 en palacio vs mercado -> -24% bajo la competencia |
 | -25% | $3,734 | palacio | [Laptop OmniBook 3, 14", Intel Core I5, RAM 8 GB, SSD 512 GB](https://www.elpalaciodehierro.com/hp-laptop-omnibook-3-14-intel-core-i5-ram-8-gb-ssd-512-gb-45384039.html) | $10,982 | Confirmado vs competencia | $10,982 en palacio vs mercado -> -25% bajo la competencia |
-| -33% | $2,780 | palacio | [Hervidor de agua eléctrico Porsche en acero inoxidable](https://www.elpalaciodehierro.com/smeg-hervidor-de-agua-electrico-porsche-en-acero-inoxidable-45000830.html) | $5,560 | Confirmado vs competencia | $5,560 en palacio vs mercado -> -33% bajo la competencia |
+| -21% | $2,080 | palacio | [Celular Nova 14 Negro 512 GB 12 GB Negro Desbloqueado](https://www.elpalaciodehierro.com/huawei-celular-nova-14-negro-512-gb-12-gb-negro-desbloqueado-45262441.html) | $7,799 | Confirmado vs competencia | $7,799 en palacio vs mercado -> -21% bajo la competencia |
 | -20% | $2,040 | palacio | [Smartwatch Galaxy Watch Ultra 2025 Titanium azul Unisex](https://www.elpalaciodehierro.com/samsung-smartwatch-galaxy-watch-ultra-2025-titanium-azul-unisex-44824190.html) | $7,919 | Confirmado vs competencia | $7,919 en palacio vs mercado -> -20% bajo la competencia |
 | -20% | $1,798 | palacio | [Cafetera Gran Lattissima Negro](https://www.elpalaciodehierro.com/nespresso-cafetera-gran-lattissima-negro-43135869.html) | $7,192 | Confirmado vs competencia | $7,192 en palacio vs mercado -> -20% bajo la competencia |
 | -50% | $1,745 | palacio | [Cafetera Nespresso Vertuo Pop Red](https://www.elpalaciodehierro.com/nespresso-cafetera-nespresso-vertuo-pop-red-43394466.html) | $1,745 | Confirmado vs competencia | $1,745 en palacio vs mercado -> -50% bajo la competencia |
 | -21% | $1,700 | palacio | [Pantalla 50 Pulgadas Plana Mini-LED 4K UN50M70HAFXZX](https://www.elpalaciodehierro.com/samsung-pantalla-50-pulgadas-plana-mini-led-4k-un50m70hafxzx-45366544.html) | $6,313 | Confirmado vs competencia | $6,313 en palacio vs mercado -> -21% bajo la competencia |
+| -24% | $1,600 | palacio | [Pantalla 43 Pulgadas Plana Mini-LED 4K UN43M70HAFXZX](https://www.elpalaciodehierro.com/samsung-pantalla-43-pulgadas-plana-mini-led-4k-un43m70hafxzx-45366538.html) | $5,142 | Confirmado vs competencia | $5,142 en palacio vs mercado -> -24% bajo la competencia |
 | -53% | $1,280 | palacio | [Licuadora HR2244 91 12 velocidades](https://www.elpalaciodehierro.com/philips-licuadora-hr2244-91-12-velocidades-45215652.html) | $1,120 | Confirmado vs competencia | $1,120 en palacio vs mercado -> -53% bajo la competencia |
 | -25% | $1,250 | palacio | [Licuadora Xpert Series 9 Velocidades](https://www.elpalaciodehierro.com/oster-licuadora-xpert-series-9-velocidades-42107714.html) | $3,749 | Confirmado vs competencia | $3,749 en palacio vs mercado -> -25% bajo la competencia |
 | -25% | $1,030 | palacio | [Licuadora Xtreme Mix, 3 velocidades](https://www.elpalaciodehierro.com/oster-licuadora-xtreme-mix-3-velocidades-43926491.html) | $3,089 | Confirmado vs competencia | $3,089 en palacio vs mercado -> -25% bajo la competencia |
