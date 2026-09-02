@@ -1,4 +1,4 @@
-# Productos en vigilancia (796)
+# Productos en vigilancia (795)
 
 Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible, llega alerta de restock.
 
@@ -121,7 +121,6 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | mercadolibre | [Licuadora Hamilton Beach 52400 650w Color Negro](https://www.mercadolibre.com.mx/licuadora-hamilton-beach-52400-650w-color-negro/p/MLM23039041) | $999 | -44% |
 | 🟢 disponible | amazon | [Black+Decker Cafetera con Tecnología Vortex y Filtro Permane…](https://www.amazon.com.mx/dp/B0CYQL7WXT) | $345 | -30% |
 | 🟢 disponible | sams | [Pantalla Portátil Philips  24" FHD Google TV 24PFS5675O/F8](https://www.sams.com.mx/ip/pantalla-portatil-philips-24-fhd-google-tv-24pfs5675o-f8/981043587) | $4,603 | -28% |
-| 🟢 disponible | walmart | [Mueble Zapatera Armario Organizador Repisa Armable Multiusos](https://www.walmart.com.mx/ip/mueble-zapatera-armario-organizador-repisa-armable-multiusos/00750304489403?athbdg=L1300) | $189 | -24% |
 | 🟢 disponible | amazon | [PlayStation 5 Console 1TB - Fortnite Flowering Chaos Bundle](https://www.amazon.com.mx/dp/B0FRSYZGBM) | $14,790 | -22% |
 | 🟢 disponible | palacio | [Celular Mate XT ULTIMATE DESIGN, 1 TB, RAM 16 GB, Rojo, Desb…](https://www.elpalaciodehierro.com/huawei-celular-mate-xt-ultimate-design-1-tb-ram-16-gb-rojo-desbloqueado-44600329.html) | $35,399 | -23% |
 | 🟢 disponible | amazon | [PUMA Unisex Leadcat 2.0 Slide Sandal](https://www.amazon.com.mx/dp/B097CD233W) | $503 | -29% |
