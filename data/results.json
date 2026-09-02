@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-02 00:16 UTC",
-  "products_scanned": 825,
+  "generated_at": "2026-09-02 04:40 UTC",
+  "products_scanned": 824,
   "threshold_pct": 20.0,
-  "count": 22,
+  "count": 21,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -169,27 +169,6 @@
       "currency": "MXN",
       "extra": {
         "id": "43294637",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$4,949 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1649.75,
-      "store": "palacio",
-      "name": "Celular A27 AZ 5G, 128 GB, RAM 6 GB, Azul, Telcel",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-a27-az-5g-128-gb-ram-6-gb-azul-telcel-45655094.html",
-      "price": 4949.25,
-      "list_price": 6599.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45655094",
         "outlet": false
       }
     },
