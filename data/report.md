@@ -1,8 +1,8 @@
-# Errores/chollos de precio — 2026-09-03 18:19 UTC
+# Errores/chollos de precio — 2026-09-03 20:07 UTC
 
 - Productos revisados: **834**
 - Umbral de diferencia: **20%**
-- Hallazgos: **30**
+- Hallazgos: **29**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
@@ -23,7 +23,6 @@
 | -21% | $3,211 | palacio | [Laptop FC0287LA, 15", AMD Ryzen 7, RAM 8 GB, SSD 512 GB](https://www.elpalaciodehierro.com/hp-laptop-fc0287la-15-amd-ryzen-7-ram-8-gb-ssd-512-gb-45384043.html) | $11,773 | Confirmado vs competencia | $11,773 en palacio vs mercado -> -21% bajo la competencia |
 | -21% | $3,000 | palacio | [Smartwatch Ultimate 2 Hombre](https://www.elpalaciodehierro.com/huawei-smartwatch-ultimate-2-hombre-45242624.html) | $11,399 | Confirmado vs competencia | $11,399 en palacio vs mercado -> -21% bajo la competencia |
 | -33% | $2,400 | palacio | [Smartwatch Watch 5 Unisex](https://www.elpalaciodehierro.com/huawei-smartwatch-watch-5-unisex-45258358.html) | $4,800 | Confirmado vs competencia | $4,800 en palacio vs mercado -> -33% bajo la competencia |
-| -60% | $2,094 | palacio | [Cafetera Nespresso Vertuo Pop Red](https://www.elpalaciodehierro.com/nespresso-cafetera-nespresso-vertuo-pop-red-43394466.html) | $1,396 | Confirmado vs competencia | $1,396 en palacio vs mercado -> -60% bajo la competencia |
 | -21% | $2,080 | palacio | [Celular Nova 14 Negro 512 GB 12 GB Negro Desbloqueado](https://www.elpalaciodehierro.com/huawei-celular-nova-14-negro-512-gb-12-gb-negro-desbloqueado-45262441.html) | $7,799 | Confirmado vs competencia | $7,799 en palacio vs mercado -> -21% bajo la competencia |
 | -20% | $2,040 | palacio | [Smartwatch Galaxy Watch Ultra 2025 Titanium azul Unisex](https://www.elpalaciodehierro.com/samsung-smartwatch-galaxy-watch-ultra-2025-titanium-azul-unisex-44824190.html) | $7,919 | Confirmado vs competencia | $7,919 en palacio vs mercado -> -20% bajo la competencia |
 | -20% | $1,798 | palacio | [Cafetera Gran Lattissima Negro](https://www.elpalaciodehierro.com/nespresso-cafetera-gran-lattissima-negro-43135869.html) | $7,192 | Confirmado vs competencia | $7,192 en palacio vs mercado -> -20% bajo la competencia |
