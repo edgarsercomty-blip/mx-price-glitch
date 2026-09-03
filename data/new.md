@@ -1,5 +1,17 @@
-# 🆕 Nuevos posibles errores de precio — 2026-09-03 14:02 UTC
+# 🆕 Nuevos posibles errores de precio — 2026-09-03 17:41 UTC
 
-- Hallazgos: **0**
+- Hallazgos: **11**
 
-_Sin hallazgos por encima del umbral en esta corrida._
+| Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
+|------:|-------:|--------|----------|-------:|------|---------|
+| -20% | $12,700 | palacio | [Laptop LEGION 5 15IAX10 15.1" 32 GB Intel Core Ultra 7 255HX…](https://www.elpalaciodehierro.com/lenovo-laptop-legion-5-15iax10-15.1-32-gb-intel-core-ultra-7-255hx-ssd-45652844.html) | $50,799 | Confirmado vs competencia | $50,799 en palacio vs mercado -> -20% bajo la competencia |
+| -29% | $11,340 | palacio | [Refrigerador French Door 28 p3 GM28LIP](https://www.elpalaciodehierro.com/lg-refrigerador-french-door-28-p3-gm28lip-42808174.html) | $28,350 | Confirmado vs competencia | $28,350 en palacio vs mercado -> -29% bajo la competencia |
+| -29% | $10,285 | palacio | [Pantalla 65 Pulgadas Plana Micro RGB 4K MRN65R85HAFXZX](https://www.elpalaciodehierro.com/samsung-pantalla-65-pulgadas-plana-micro-rgb-4k-mrn65r85hafxzx-45367602.html) | $25,713 | Confirmado vs competencia | $25,713 en palacio vs mercado -> -29% bajo la competencia |
+| -35% | $9,800 | palacio | [Lavadora automática 22 kg carga frontal F-WF22C640WCP blanca](https://www.elpalaciodehierro.com/samsung-lavadora-automatica-22-kg-carga-frontal-f-wf22c640wcp-blanca-43441685.html) | $18,199 | Confirmado vs competencia | $18,199 en palacio vs mercado -> -35% bajo la competencia |
+| -25% | $9,625 | palacio | [Laptop IdeaPad Slim 3 15IPH11 15.3" 24 GB Intel Core Ultra 7…](https://www.elpalaciodehierro.com/lenovo-laptop-ideapad-slim-3-15iph11-15.3-24-gb-intel-core-ultra-7-355-1-tb-ssd-45652839.html) | $28,874 | Confirmado vs competencia | $28,874 en palacio vs mercado -> -25% bajo la competencia |
+| -36% | $5,862 | palacio | [Laptop Chromebook IdeaPad Slim 3i, 14", Intel Core i3-N305, …](https://www.elpalaciodehierro.com/lenovo-laptop-chromebook-ideapad-slim-3i-14-intel-core-i3-n305-ram-8-gb-128-gb-emmc-45645120.html) | $10,324 | Confirmado vs competencia | $10,324 en palacio vs mercado -> -36% bajo la competencia |
+| -21% | $3,450 | palacio | [Smartwatch Ultimate 2 Hombre](https://www.elpalaciodehierro.com/huawei-smartwatch-ultimate-2-hombre-45242623.html) | $13,109 | Confirmado vs competencia | $13,109 en palacio vs mercado -> -21% bajo la competencia |
+| -28% | $3,416 | palacio | [Laptop 15FD0161LA, 15.6", Intel Core i5, RAM 8 GB, SSD 256 G…](https://www.elpalaciodehierro.com/hp-laptop-15fd0161la-15.6-intel-core-i5-ram-8-gb-ssd-256-gb-45371050.html) | $8,946 | Confirmado vs competencia | $8,946 en palacio vs mercado -> -28% bajo la competencia |
+| -21% | $3,211 | palacio | [Laptop FC0287LA, 15", AMD Ryzen 7, RAM 8 GB, SSD 512 GB](https://www.elpalaciodehierro.com/hp-laptop-fc0287la-15-amd-ryzen-7-ram-8-gb-ssd-512-gb-45384043.html) | $11,773 | Confirmado vs competencia | $11,773 en palacio vs mercado -> -21% bajo la competencia |
+| -21% | $3,000 | palacio | [Smartwatch Ultimate 2 Hombre](https://www.elpalaciodehierro.com/huawei-smartwatch-ultimate-2-hombre-45242624.html) | $11,399 | Confirmado vs competencia | $11,399 en palacio vs mercado -> -21% bajo la competencia |
+| -33% | $2,400 | palacio | [Smartwatch Watch 5 Unisex](https://www.elpalaciodehierro.com/huawei-smartwatch-watch-5-unisex-45258358.html) | $4,800 | Confirmado vs competencia | $4,800 en palacio vs mercado -> -33% bajo la competencia |
