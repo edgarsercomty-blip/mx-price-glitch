@@ -23,40 +23,28 @@
     "ts": "2026-09-02T20:04:53.758094+00:00",
     "items": []
   },
-  "amazon|APPLEDESBLOQUEADOMEDIANOCHEIPHONE128": {
-    "ts": "2026-09-01T01:44:21.356063+00:00",
-    "items": []
-  },
-  "walmart|APPLEDESBLOQUEADOMEDIANOCHEIPHONE128": {
-    "ts": "2026-09-01T01:44:22.898409+00:00",
-    "items": []
-  },
-  "sams|APPLEDESBLOQUEADOMEDIANOCHEIPHONE128": {
-    "ts": "2026-09-01T01:44:24.949394+00:00",
-    "items": []
-  },
   "amazon|NESPRESSOLATTISSIMACAFETERAGRAN": {
-    "ts": "2026-09-01T01:44:36.187044+00:00",
+    "ts": "2026-09-03T05:06:27.808080+00:00",
     "items": []
   },
   "walmart|NESPRESSOLATTISSIMACAFETERAGRAN": {
-    "ts": "2026-09-01T01:44:37.742315+00:00",
+    "ts": "2026-09-03T05:06:29.055644+00:00",
     "items": []
   },
   "sams|NESPRESSOLATTISSIMACAFETERAGRAN": {
-    "ts": "2026-09-01T01:44:39.253147+00:00",
+    "ts": "2026-09-03T05:06:30.335109+00:00",
     "items": []
   },
   "amazon|NESPRESSONESPRESSOCAFETERAVERTUOCOMBO": {
-    "ts": "2026-09-01T01:44:31.554043+00:00",
+    "ts": "2026-09-03T05:06:19.867349+00:00",
     "items": []
   },
   "walmart|NESPRESSONESPRESSOCAFETERAVERTUOCOMBO": {
-    "ts": "2026-09-01T01:44:33.379465+00:00",
+    "ts": "2026-09-03T05:06:21.616241+00:00",
     "items": []
   },
   "sams|NESPRESSONESPRESSOCAFETERAVERTUOCOMBO": {
-    "ts": "2026-09-01T01:44:34.906726+00:00",
+    "ts": "2026-09-03T05:06:23.118577+00:00",
     "items": []
   },
   "amazon|OSTERVELOCIDADESLICUADORAXTREMEMIX": {
@@ -143,18 +131,6 @@
     "ts": "2026-09-01T22:12:27.959605+00:00",
     "items": []
   },
-  "amazon|WT18DV6": {
-    "ts": "2026-09-01T01:44:10.622883+00:00",
-    "items": []
-  },
-  "walmart|WT18DV6": {
-    "ts": "2026-09-01T01:44:12.337363+00:00",
-    "items": []
-  },
-  "sams|WT18DV6": {
-    "ts": "2026-09-01T01:44:15.016328+00:00",
-    "items": []
-  },
   "amazon|MOTOROLADESBLOQUEADOCELULARULTRARAZR": {
     "ts": "2026-09-01T22:12:38.510332+00:00",
     "items": []
@@ -237,30 +213,6 @@
   },
   "sams|NESPRESSONESPRESSOCAFETERAVERTUORED": {
     "ts": "2026-09-03T00:39:08.892621+00:00",
-    "items": []
-  },
-  "amazon|XIAOMIXIAOMIAMOLEDREDMINOTE": {
-    "ts": "2026-09-01T01:44:16.306518+00:00",
-    "items": []
-  },
-  "walmart|XIAOMIXIAOMIAMOLEDREDMINOTE": {
-    "ts": "2026-09-01T01:44:17.870579+00:00",
-    "items": []
-  },
-  "sams|XIAOMIXIAOMIAMOLEDREDMINOTE": {
-    "ts": "2026-09-01T01:44:20.047862+00:00",
-    "items": []
-  },
-  "amazon|SAMSUNGCELULARTELCELA27128": {
-    "ts": "2026-09-01T01:44:26.940006+00:00",
-    "items": []
-  },
-  "walmart|SAMSUNGCELULARTELCELA27128": {
-    "ts": "2026-09-01T01:44:28.435040+00:00",
-    "items": []
-  },
-  "sams|SAMSUNGCELULARTELCELA27128": {
-    "ts": "2026-09-01T01:44:30.248710+00:00",
     "items": []
   },
   "liverpool|LMA71214VBAB0": {
@@ -741,6 +693,18 @@
   },
   "sams|SAMSUNGSMARTWATCHTITANIUMGALAXYULTRA": {
     "ts": "2026-09-03T00:39:13.076888+00:00",
+    "items": []
+  },
+  "amazon|SAMSUNGDESBLOQUEADOCELULARGALAXYA17": {
+    "ts": "2026-09-03T05:06:24.191967+00:00",
+    "items": []
+  },
+  "walmart|SAMSUNGDESBLOQUEADOCELULARGALAXYA17": {
+    "ts": "2026-09-03T05:06:25.492958+00:00",
+    "items": []
+  },
+  "sams|SAMSUNGDESBLOQUEADOCELULARGALAXYA17": {
+    "ts": "2026-09-03T05:06:26.680139+00:00",
     "items": []
   }
 }
