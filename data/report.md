@@ -1,14 +1,13 @@
-# Errores/chollos de precio — 2026-09-03 20:07 UTC
+# Errores/chollos de precio — 2026-09-03 22:36 UTC
 
-- Productos revisados: **834**
+- Productos revisados: **831**
 - Umbral de diferencia: **20%**
-- Hallazgos: **29**
+- Hallazgos: **28**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
 | -20% | $12,700 | palacio | [Laptop LEGION 5 15IAX10 15.1" 32 GB Intel Core Ultra 7 255HX…](https://www.elpalaciodehierro.com/lenovo-laptop-legion-5-15iax10-15.1-32-gb-intel-core-ultra-7-255hx-ssd-45652844.html) | $50,799 | Confirmado vs competencia | $50,799 en palacio vs mercado -> -20% bajo la competencia |
 | -29% | $11,340 | palacio | [Refrigerador French Door 28 p3 GM28LIP](https://www.elpalaciodehierro.com/lg-refrigerador-french-door-28-p3-gm28lip-42808174.html) | $28,350 | Confirmado vs competencia | $28,350 en palacio vs mercado -> -29% bajo la competencia |
-| -23% | $10,800 | palacio | [Celular Mate XT ULTIMATE DESIGN, 1 TB, RAM 16 GB, Rojo, Desb…](https://www.elpalaciodehierro.com/huawei-celular-mate-xt-ultimate-design-1-tb-ram-16-gb-rojo-desbloqueado-44600329.html) | $35,399 | Confirmado vs competencia | $35,399 en palacio vs mercado -> -23% bajo la competencia |
 | -29% | $10,285 | palacio | [Pantalla 65 Pulgadas Plana Micro RGB 4K MRN65R85HAFXZX](https://www.elpalaciodehierro.com/samsung-pantalla-65-pulgadas-plana-micro-rgb-4k-mrn65r85hafxzx-45367602.html) | $25,713 | Confirmado vs competencia | $25,713 en palacio vs mercado -> -29% bajo la competencia |
 | -35% | $9,800 | palacio | [Lavadora automática 22 kg carga frontal F-WF22C640WCP blanca](https://www.elpalaciodehierro.com/samsung-lavadora-automatica-22-kg-carga-frontal-f-wf22c640wcp-blanca-43441685.html) | $18,199 | Confirmado vs competencia | $18,199 en palacio vs mercado -> -35% bajo la competencia |
 | -25% | $9,625 | palacio | [Laptop IdeaPad Slim 3 15IPH11 15.3" 24 GB Intel Core Ultra 7…](https://www.elpalaciodehierro.com/lenovo-laptop-ideapad-slim-3-15iph11-15.3-24-gb-intel-core-ultra-7-355-1-tb-ssd-45652839.html) | $28,874 | Confirmado vs competencia | $28,874 en palacio vs mercado -> -25% bajo la competencia |

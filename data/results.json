@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-03 20:07 UTC",
-  "products_scanned": 834,
+  "generated_at": "2026-09-03 22:36 UTC",
+  "products_scanned": 831,
   "threshold_pct": 20.0,
-  "count": 29,
+  "count": 28,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -400,27 +400,6 @@
       "currency": "MXN",
       "extra": {
         "id": "43926491",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 41.0,
-      "detail": "$35,399 en palacio vs mercado -> -23% bajo la competencia",
-      "likely_typo": false,
-      "savings": 10799.82,
-      "store": "palacio",
-      "name": "Celular Mate XT ULTIMATE DESIGN, 1 TB, RAM 16 GB, Rojo, Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/huawei-celular-mate-xt-ultimate-design-1-tb-ram-16-gb-rojo-desbloqueado-44600329.html",
-      "price": 35399.41,
-      "list_price": 59999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Huawei",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44600329",
         "outlet": false
       }
     },
