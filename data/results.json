@@ -1,40 +1,19 @@
 {
-  "generated_at": "2026-09-03 05:24 UTC",
-  "products_scanned": 826,
+  "generated_at": "2026-09-03 09:53 UTC",
+  "products_scanned": 774,
   "threshold_pct": 20.0,
-  "count": 25,
+  "count": 14,
   "findings": [
     {
       "kind": "cross_confirmed",
-      "discount_pct": 65.0,
-      "detail": "$1,120 en palacio vs mercado -> -53% bajo la competencia",
+      "discount_pct": 60.0,
+      "detail": "$1,396 en palacio vs mercado -> -60% bajo la competencia",
       "likely_typo": false,
-      "savings": 1279.6,
-      "store": "palacio",
-      "name": "Licuadora HR2244 91 12 velocidades",
-      "url": "https://www.elpalaciodehierro.com/philips-licuadora-hr2244-91-12-velocidades-45215652.html",
-      "price": 1119.65,
-      "list_price": 3199.0,
-      "ean": null,
-      "model": "HR2244",
-      "brand": "Philips",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45215652",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 50.0,
-      "detail": "$1,745 en palacio vs mercado -> -50% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1745.0,
+      "savings": 2094.0,
       "store": "palacio",
       "name": "Cafetera Nespresso Vertuo Pop Red",
       "url": "https://www.elpalaciodehierro.com/nespresso-cafetera-nespresso-vertuo-pop-red-43394466.html",
-      "price": 1745.0,
+      "price": 1396.0,
       "list_price": 3490.0,
       "ean": null,
       "model": null,
@@ -48,22 +27,85 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 45.0,
-      "detail": "$989 en palacio vs mercado -> -31% bajo la competencia",
+      "discount_pct": 60.0,
+      "detail": "$5,560 en palacio vs mercado -> -33% bajo la competencia",
       "likely_typo": false,
-      "savings": 449.75,
+      "savings": 2780.0,
       "store": "palacio",
-      "name": "Licuadora HR2242 93 12 velocidades",
-      "url": "https://www.elpalaciodehierro.com/philips-licuadora-hr2242-93-12-velocidades-45215651.html",
-      "price": 989.45,
-      "list_price": 1799.0,
+      "name": "Hervidor de agua eléctrico Porsche en acero inoxidable",
+      "url": "https://www.elpalaciodehierro.com/smeg-hervidor-de-agua-electrico-porsche-en-acero-inoxidable-45000830.html",
+      "price": 5560.0,
+      "list_price": 13900.0,
       "ean": null,
-      "model": "HR2242",
-      "brand": "Philips",
+      "model": null,
+      "brand": "Smeg",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "45215651",
+        "id": "45000830",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 30.0,
+      "detail": "$3,219 en palacio vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1379.7,
+      "store": "palacio",
+      "name": "Celular Galaxy A17 5G 128 GB, RAM 4 GB Negro Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-a17-5g-128-gb-ram-4-gb-negro-desbloqueado-44951471.html",
+      "price": 3219.3,
+      "list_price": 4599.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44951471",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 30.0,
+      "detail": "$2,799 en palacio vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1199.7,
+      "store": "palacio",
+      "name": "Audífonos Inalámbricos para entrenamiento Bluetooth Powerbeats Fit Negro azabache",
+      "url": "https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-negro-azabache-45001062.html",
+      "price": 2799.3,
+      "list_price": 3999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Apple",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45001062",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 30.0,
+      "detail": "$2,799 en palacio vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1199.7,
+      "store": "palacio",
+      "name": "Audífonos Inalámbricos para entrenamiento Bluetooth Powerbeats Fit Gris grava",
+      "url": "https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-gris-grava-45001063.html",
+      "price": 2799.3,
+      "list_price": 3999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Apple",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45001063",
         "outlet": false
       }
     },
@@ -96,27 +138,6 @@
       "savings": 767.45,
       "store": "palacio",
       "name": "Licuadora Pure Power 10 Velocidades",
-      "url": "https://www.elpalaciodehierro.com/kitchenaid-licuadora-pure-power-10-velocidades-44729902.html",
-      "price": 1799.4,
-      "list_price": 2999.0,
-      "ean": null,
-      "model": null,
-      "brand": "KitchenAid",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44729902",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$1,799 en palacio vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 767.45,
-      "store": "palacio",
-      "name": "Licuadora Pure Power 10 Velocidades",
       "url": "https://www.elpalaciodehierro.com/kitchenaid-licuadora-pure-power-10-velocidades-44729903.html",
       "price": 1799.4,
       "list_price": 2999.0,
@@ -127,69 +148,6 @@
       "currency": "MXN",
       "extra": {
         "id": "44729903",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 44.0,
-      "detail": "$10,399 en palacio vs mercado -> -28% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4055.21,
-      "store": "palacio",
-      "name": "Pantalla 65 Pulgadas Plana MiniLED 4K 65Z670RM FIRE TV",
-      "url": "https://www.elpalaciodehierro.com/toshiba-pantalla-65-pulgadas-plana-miniled-4k-65z670rm-fire-tv-45315663.html",
-      "price": 10399.2,
-      "list_price": 18570.0,
-      "ean": null,
-      "model": "65Z670RM",
-      "brand": "Toshiba",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45315663",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 50.0,
-      "detail": "$10,982 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3734.05,
-      "store": "palacio",
-      "name": "Laptop OmniBook 3, 14\", Intel Core I5, RAM 8 GB, SSD 512 GB",
-      "url": "https://www.elpalaciodehierro.com/hp-laptop-omnibook-3-14-intel-core-i5-ram-8-gb-ssd-512-gb-45384039.html",
-      "price": 10982.5,
-      "list_price": 21965.0,
-      "ean": null,
-      "model": null,
-      "brand": "Hp",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45384039",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$2,694 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 898.0,
-      "store": "palacio",
-      "name": "Combo Cafetera Nespresso Vertuo Pop Rojo",
-      "url": "https://www.elpalaciodehierro.com/nespresso-combo-cafetera-nespresso-vertuo-pop-rojo-43294637.html",
-      "price": 2694.0,
-      "list_price": 4490.0,
-      "ean": null,
-      "model": null,
-      "brand": "Nespresso",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43294637",
         "outlet": false
       }
     },
@@ -237,90 +195,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$3,749 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1249.75,
-      "store": "palacio",
-      "name": "Licuadora Xpert Series 9 Velocidades",
-      "url": "https://www.elpalaciodehierro.com/oster-licuadora-xpert-series-9-velocidades-42107714.html",
-      "price": 3749.25,
-      "list_price": 4999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "42107714",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$3,089 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1029.75,
-      "store": "palacio",
-      "name": "Licuadora Xtreme Mix, 3 velocidades",
-      "url": "https://www.elpalaciodehierro.com/oster-licuadora-xtreme-mix-3-velocidades-43926491.html",
-      "price": 3089.25,
-      "list_price": 4119.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43926491",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 32.0,
-      "detail": "$11,627 en palacio vs mercado -> -24% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3761.78,
-      "store": "palacio",
-      "name": "Laptop, Vivobook Go, 14\", AMD Ryzen 5, RAM 16 GB, SSD 512 GB",
-      "url": "https://www.elpalaciodehierro.com/asus-laptop-vivobook-go-14-amd-ryzen-5-ram-16-gb-ssd-512-gb-45369608.html",
-      "price": 11627.32,
-      "list_price": 17099.0,
-      "ean": null,
-      "model": null,
-      "brand": "Asus",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45369608",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 55.0,
-      "detail": "$5,142 en palacio vs mercado -> -24% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1599.78,
-      "store": "palacio",
-      "name": "Pantalla 43 Pulgadas Plana Mini-LED 4K UN43M70HAFXZX",
-      "url": "https://www.elpalaciodehierro.com/samsung-pantalla-43-pulgadas-plana-mini-led-4k-un43m70hafxzx-45366538.html",
-      "price": 5142.15,
-      "list_price": 11427.0,
-      "ean": null,
-      "model": "UN43M70HAFXZX",
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45366538",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 41.0,
       "detail": "$35,399 en palacio vs mercado -> -23% bajo la competencia",
       "likely_typo": false,
@@ -337,48 +211,6 @@
       "currency": "MXN",
       "extra": {
         "id": "44600329",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 50.0,
-      "detail": "$19,795 en palacio vs mercado -> -23% bajo la competencia",
-      "likely_typo": false,
-      "savings": 5938.5,
-      "store": "palacio",
-      "name": "Cafetera DG Smeg",
-      "url": "https://www.elpalaciodehierro.com/smeg-cafetera-dg-smeg-44302743.html",
-      "price": 19795.0,
-      "list_price": 39590.0,
-      "ean": null,
-      "model": null,
-      "brand": "Smeg",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44302743",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 48.0,
-      "detail": "$6,313 en palacio vs mercado -> -21% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1699.74,
-      "store": "palacio",
-      "name": "Pantalla 50 Pulgadas Plana Mini-LED 4K UN50M70HAFXZX",
-      "url": "https://www.elpalaciodehierro.com/samsung-pantalla-50-pulgadas-plana-mini-led-4k-un50m70hafxzx-45366544.html",
-      "price": 6313.32,
-      "list_price": 12141.0,
-      "ean": null,
-      "model": "UN50M70HAFXZX",
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45366544",
         "outlet": false
       }
     },
@@ -426,6 +258,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 60.0,
+      "detail": "$4,396 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1099.0,
+      "store": "palacio",
+      "name": "Cafetera Vertuo Lattíssima White",
+      "url": "https://www.elpalaciodehierro.com/nespresso-cafetera-vertuo-lattissima-white-45191597.html",
+      "price": 4396.0,
+      "list_price": 10990.0,
+      "ean": null,
+      "model": null,
+      "brand": "Nespresso",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45191597",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 40.0,
       "detail": "$29,399 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
@@ -442,90 +295,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45262438",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$3,679 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 919.8,
-      "store": "palacio",
-      "name": "Celular Galaxy A17 5G 128 GB, RAM 4 GB Negro Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-a17-5g-128-gb-ram-4-gb-negro-desbloqueado-44951471.html",
-      "price": 3679.2,
-      "list_price": 4599.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44951471",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$7,192 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1798.0,
-      "store": "palacio",
-      "name": "Cafetera Gran Lattissima Negro",
-      "url": "https://www.elpalaciodehierro.com/nespresso-cafetera-gran-lattissima-negro-43135869.html",
-      "price": 7192.0,
-      "list_price": 8990.0,
-      "ean": null,
-      "model": null,
-      "brand": "Nespresso",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43135869",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$3,199 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 799.8,
-      "store": "palacio",
-      "name": "Audífonos Inalámbricos para entrenamiento Bluetooth Powerbeats Fit Negro azabache",
-      "url": "https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-negro-azabache-45001062.html",
-      "price": 3199.2,
-      "list_price": 3999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Apple",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45001062",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$3,199 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 799.8,
-      "store": "palacio",
-      "name": "Audífonos Inalámbricos para entrenamiento Bluetooth Powerbeats Fit Gris grava",
-      "url": "https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-gris-grava-45001063.html",
-      "price": 3199.2,
-      "list_price": 3999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Apple",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45001063",
         "outlet": false
       }
     }

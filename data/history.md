@@ -1,9 +1,14 @@
-# Historial de ofertas encontradas (993)
+# Historial de ofertas encontradas (998)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-09-03 09:53 | -20% | palacio | [Cafetera Vertuo Lattíssima White](https://www.elpalaciodehierro.com/nespresso-cafetera-vertuo-lattissima-white-45191597.html) | $4,396 | $4,396 en palacio vs mercado -> -20% bajo la competencia |
+| 2026-09-03 09:53 | -30% | palacio | [Audífonos Inalámbricos para entrenamiento Bluetooth Pow…](https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-gris-grava-45001063.html) | $2,799 | $2,799 en palacio vs mercado -> -30% bajo la competencia |
+| 2026-09-03 09:53 | -30% | palacio | [Audífonos Inalámbricos para entrenamiento Bluetooth Pow…](https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-negro-azabache-45001062.html) | $2,799 | $2,799 en palacio vs mercado -> -30% bajo la competencia |
+| 2026-09-03 09:53 | -30% | palacio | [Celular Galaxy A17 5G 128 GB, RAM 4 GB Negro Desbloquea…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-a17-5g-128-gb-ram-4-gb-negro-desbloqueado-44951471.html) | $3,219 | $3,219 en palacio vs mercado -> -30% bajo la competencia |
+| 2026-09-03 09:53 | -60% | palacio | [Cafetera Nespresso Vertuo Pop Red](https://www.elpalaciodehierro.com/nespresso-cafetera-nespresso-vertuo-pop-red-43394466.html) | $1,396 | $1,396 en palacio vs mercado -> -60% bajo la competencia |
 | 2026-08-31 18:28 | -28% | liverpool | [Smartwatch Garmin Venu 3 Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-garmin-venu-3-unisex-con-gps/1142098493) | $6,800 | $6,800 en liverpool vs mercado -> -28% bajo la competencia |
 | 2026-08-31 18:28 | -47% | palacio | [Lavadora Automática 25 kg Superior WT25PBTX6](https://www.elpalaciodehierro.com/lg-lavadora-automatica-25-kg-superior-wt25pbtx6-45005046.html) | $14,579 | $14,579 en palacio vs mercado -> -47% bajo la competencia |
 | 2026-08-31 11:50 | -20% | liverpool | [Smartwatch Cubitt Cubitt Viva Lite Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-cubitt-cubitt-viva-lite-unisex-con-gps/1193249947) | $1,039 | $1,039 en liverpool vs mercado -> -20% bajo la competencia |
@@ -399,8 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-08-07 17:43 | -24% | palacio | [Laptop, Vivobook Go, 14", AMD Ryzen 5, RAM 16 GB, SSD 5…](https://www.elpalaciodehierro.com/asus-laptop-vivobook-go-14-amd-ryzen-5-ram-16-gb-ssd-512-gb-45369608.html) | $11,627 | $11,627 en palacio vs mercado -> -24% bajo la competencia |
 | 2026-08-07 17:43 | -25% | palacio | [Combo Cafetera Pixie Aeroccino 3 Verde](https://www.elpalaciodehierro.com/nespresso-combo-cafetera-pixie-aeroccino-3-verde-44032598.html) | $4,118 | $4,118 en palacio vs mercado -> -25% bajo la competencia |
 | 2026-08-07 17:43 | -25% | palacio | [Cafetera automática Coffee Crush Negra, acero inoxidabl…](https://www.elpalaciodehierro.com/krups-cafetera-automatica-coffee-crush-negra-acero-inoxidable-45641563.html) | $7,499 | $7,499 en palacio vs mercado -> -25% bajo la competencia |
-| 2026-08-07 17:43 | -25% | palacio | [Cafetera Creatista Plus Origins](https://www.elpalaciodehierro.com/nespresso-cafetera-creatista-plus-origins-41273412.html) | $13,492 | $13,492 en palacio vs mercado -> -25% bajo la competencia |
-| 2026-08-07 17:43 | -25% | palacio | [Laptop TUF Gaming F16, 16", Nvidia RTX 5050, Intel Core…](https://www.elpalaciodehierro.com/asus-laptop-tuf-gaming-f16-16-nvidia-rtx-5050-intel-core-i5-ram-16-gb-ssd-1-tb-45244409.html) | $19,379 | $19,379 en palacio vs mercado -> -25% bajo la competencia |
-| 2026-08-07 17:43 | -28% | palacio | [Computadora Gaming de Escritorio ROG G700](https://www.elpalaciodehierro.com/asus-computadora-gaming-de-escritorio-rog-g700-45046846.html) | $47,519 | $47,519 en palacio vs mercado -> -28% bajo la competencia |
-| 2026-08-07 17:43 | -29% | palacio | [Combo Summer Cafetera Vertuo Pop Beige & Aeroccino 4](https://www.elpalaciodehierro.com/nespresso-combo-summer-cafetera-vertuo-pop-beige-aeroccino-4-45481963.html) | $2,495 | $2,495 en palacio vs mercado -> -29% bajo la competencia |
-| 2026-08-07 17:43 | -29% | palacio | [Laptop Asus ProArt, 16", AMD Ryzen AI 9, RAM 64 GB, SSD…](https://www.elpalaciodehierro.com/asus-laptop-asus-proart-16-amd-ryzen-ai-9-ram-64-gb-ssd-2-tb-45241138.html) | $56,889 | $56,889 en palacio vs mercado -> -29% bajo la competencia |
