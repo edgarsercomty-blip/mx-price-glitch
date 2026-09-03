@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03 17:41 UTC",
+  "generated_at": "2026-09-03 18:19 UTC",
   "products_scanned": 834,
   "threshold_pct": 20.0,
   "count": 30,
@@ -43,27 +43,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45215652",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 41.0,
-      "detail": "$10,324 en palacio vs mercado -> -36% bajo la competencia",
-      "likely_typo": false,
-      "savings": 5862.17,
-      "store": "palacio",
-      "name": "Laptop Chromebook IdeaPad Slim 3i, 14\", Intel Core i3-N305, RAM 8 GB, 128 GB eMMC",
-      "url": "https://www.elpalaciodehierro.com/lenovo-laptop-chromebook-ideapad-slim-3i-14-intel-core-i3-n305-ram-8-gb-128-gb-emmc-45645120.html",
-      "price": 10324.41,
-      "list_price": 17499.0,
-      "ean": null,
-      "model": "i3-N305",
-      "brand": "Lenovo",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45645120",
         "outlet": false
       }
     },
@@ -127,6 +106,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45215651",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 41.0,
+      "detail": "$10,324 en palacio vs mercado -> -31% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4549.74,
+      "store": "palacio",
+      "name": "Laptop Chromebook IdeaPad Slim 3i, 14\", Intel Core i3-N305, RAM 8 GB, 128 GB eMMC",
+      "url": "https://www.elpalaciodehierro.com/lenovo-laptop-chromebook-ideapad-slim-3i-14-intel-core-i3-n305-ram-8-gb-128-gb-emmc-45645120.html",
+      "price": 10324.41,
+      "list_price": 17499.0,
+      "ean": null,
+      "model": "i3-N305",
+      "brand": "Lenovo",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45645120",
         "outlet": false
       }
     },
