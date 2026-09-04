@@ -227,38 +227,6 @@
     "ts": "2026-09-03T18:19:19.853311+00:00",
     "items": []
   },
-  "liverpool|RC20N6HBX1": {
-    "ts": "2026-09-02T05:20:11.717553+00:00",
-    "items": []
-  },
-  "amazon|RC20N6HBX1": {
-    "ts": "2026-09-02T05:20:12.938628+00:00",
-    "items": []
-  },
-  "walmart|RC20N6HBX1": {
-    "ts": "2026-09-02T05:20:14.358232+00:00",
-    "items": []
-  },
-  "sams|RC20N6HBX1": {
-    "ts": "2026-09-02T05:20:15.963340+00:00",
-    "items": []
-  },
-  "mercadolibre|RC20N6HBX1": {
-    "ts": "2026-09-02T05:20:17.209735+00:00",
-    "items": []
-  },
-  "amazon|NESPRESSONESPRESSOCAFETERAVERTUOPOP": {
-    "ts": "2026-09-02T09:01:41.386434+00:00",
-    "items": []
-  },
-  "walmart|NESPRESSONESPRESSOCAFETERAVERTUOPOP": {
-    "ts": "2026-09-02T09:01:42.932512+00:00",
-    "items": []
-  },
-  "sams|NESPRESSONESPRESSOCAFETERAVERTUOPOP": {
-    "ts": "2026-09-02T09:01:44.752155+00:00",
-    "items": []
-  },
   "amazon|ASUSVIVOBOOKLAPTOPRYZEN512": {
     "ts": "2026-09-02T13:42:27.374782+00:00",
     "items": []
@@ -765,6 +733,42 @@
   },
   "mercadolibre|WD12VVC4S6S": {
     "ts": "2026-09-03T18:19:06.229527+00:00",
+    "items": []
+  },
+  "amazon|HUAWEIDESBLOQUEADOCELULARHUAWEINOVA": {
+    "ts": "2026-09-04T09:12:24.363410+00:00",
+    "items": []
+  },
+  "walmart|HUAWEIDESBLOQUEADOCELULARHUAWEINOVA": {
+    "ts": "2026-09-04T09:12:26.082595+00:00",
+    "items": []
+  },
+  "sams|HUAWEIDESBLOQUEADOCELULARHUAWEINOVA": {
+    "ts": "2026-09-04T09:12:27.830431+00:00",
+    "items": []
+  },
+  "amazon|SAMSUNGDESBLOQUEADOTITANIUMCELULARGALAXY": {
+    "ts": "2026-09-04T09:12:29.200049+00:00",
+    "items": []
+  },
+  "walmart|SAMSUNGDESBLOQUEADOTITANIUMCELULARGALAXY": {
+    "ts": "2026-09-04T09:12:31.231379+00:00",
+    "items": []
+  },
+  "sams|SAMSUNGDESBLOQUEADOTITANIUMCELULARGALAXY": {
+    "ts": "2026-09-04T09:12:32.971790+00:00",
+    "items": []
+  },
+  "amazon|SAMSUNGSMARTWATCHTITANIUMGALAXYWATCH": {
+    "ts": "2026-09-04T09:12:34.253613+00:00",
+    "items": []
+  },
+  "walmart|SAMSUNGSMARTWATCHTITANIUMGALAXYWATCH": {
+    "ts": "2026-09-04T09:12:35.776559+00:00",
+    "items": []
+  },
+  "sams|SAMSUNGSMARTWATCHTITANIUMGALAXYWATCH": {
+    "ts": "2026-09-04T09:12:37.449554+00:00",
     "items": []
   }
 }

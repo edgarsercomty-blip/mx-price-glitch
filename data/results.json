@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-04 05:19 UTC",
-  "products_scanned": 821,
+  "generated_at": "2026-09-04 09:12 UTC",
+  "products_scanned": 737,
   "threshold_pct": 20.0,
-  "count": 25,
+  "count": 20,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -27,22 +27,43 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 35.0,
-      "detail": "$18,199 en palacio vs mercado -> -35% bajo la competencia",
+      "discount_pct": 50.0,
+      "detail": "$8,500 en palacio vs mercado -> -38% bajo la competencia",
       "likely_typo": false,
-      "savings": 9799.65,
+      "savings": 5099.7,
       "store": "palacio",
-      "name": "Lavadora automática 22 kg carga frontal F-WF22C640WCP blanca",
-      "url": "https://www.elpalaciodehierro.com/samsung-lavadora-automatica-22-kg-carga-frontal-f-wf22c640wcp-blanca-43441685.html",
-      "price": 18199.35,
-      "list_price": 27999.0,
+      "name": "Celular Huawei Nova 13 Pro, RAM 12 GB, 512 GB Negro Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/huawei-celular-huawei-nova-13-pro-ram-12-gb-512-gb-negro-desbloqueado-44600334.html",
+      "price": 8499.5,
+      "list_price": 16999.0,
       "ean": null,
-      "model": "F-WF22C640WCP",
-      "brand": "Samsung",
+      "model": null,
+      "brand": "Huawei",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "43441685",
+        "id": "44600334",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 60.0,
+      "detail": "$5,560 en palacio vs mercado -> -33% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2780.0,
+      "store": "palacio",
+      "name": "Hervidor de agua eléctrico Porsche en acero inoxidable",
+      "url": "https://www.elpalaciodehierro.com/smeg-hervidor-de-agua-electrico-porsche-en-acero-inoxidable-45000830.html",
+      "price": 5560.0,
+      "list_price": 13900.0,
+      "ean": null,
+      "model": null,
+      "brand": "Smeg",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45000830",
         "outlet": false
       }
     },
@@ -90,27 +111,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 41.0,
-      "detail": "$10,324 en palacio vs mercado -> -31% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4549.74,
-      "store": "palacio",
-      "name": "Laptop Chromebook IdeaPad Slim 3i, 14\", Intel Core i3-N305, RAM 8 GB, 128 GB eMMC",
-      "url": "https://www.elpalaciodehierro.com/lenovo-laptop-chromebook-ideapad-slim-3i-14-intel-core-i3-n305-ram-8-gb-128-gb-emmc-45645120.html",
-      "price": 10324.41,
-      "list_price": 17499.0,
-      "ean": null,
-      "model": "i3-N305",
-      "brand": "Lenovo",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45645120",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 30.0,
       "detail": "$3,219 en palacio vs mercado -> -30% bajo la competencia",
       "likely_typo": false,
@@ -127,6 +127,27 @@
       "currency": "MXN",
       "extra": {
         "id": "44951471",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 30.0,
+      "detail": "$25,199 en palacio vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 10799.7,
+      "store": "palacio",
+      "name": "Celular Galaxy S25 Ultra 512 GB, RAM 12 GB Titanium White Silver Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-s25-ultra-512-gb-ram-12-gb-titanium-white-silver-desbloqueado-44443565.html",
+      "price": 25199.3,
+      "list_price": 35999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44443565",
         "outlet": false
       }
     },
@@ -153,27 +174,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 30.0,
-      "detail": "$2,799 en palacio vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1199.7,
-      "store": "palacio",
-      "name": "Audífonos Inalámbricos para entrenamiento Bluetooth Powerbeats Fit Gris grava",
-      "url": "https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-gris-grava-45001063.html",
-      "price": 2799.3,
-      "list_price": 3999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Apple",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45001063",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 55.0,
       "detail": "$25,713 en palacio vs mercado -> -29% bajo la competencia",
       "likely_typo": false,
@@ -190,27 +190,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45367602",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 50.0,
-      "detail": "$28,350 en palacio vs mercado -> -29% bajo la competencia",
-      "likely_typo": false,
-      "savings": 11339.8,
-      "store": "palacio",
-      "name": "Refrigerador French Door 28 p3 GM28LIP",
-      "url": "https://www.elpalaciodehierro.com/lg-refrigerador-french-door-28-p3-gm28lip-42808174.html",
-      "price": 28349.5,
-      "list_price": 56699.0,
-      "ean": null,
-      "model": "GM28LIP",
-      "brand": "Lg",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "42808174",
         "outlet": false
       }
     },
@@ -342,64 +321,22 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 50.0,
-      "detail": "$19,795 en palacio vs mercado -> -23% bajo la competencia",
+      "discount_pct": 41.0,
+      "detail": "$35,399 en palacio vs mercado -> -23% bajo la competencia",
       "likely_typo": false,
-      "savings": 5938.5,
+      "savings": 10799.82,
       "store": "palacio",
-      "name": "Cafetera DG Smeg",
-      "url": "https://www.elpalaciodehierro.com/smeg-cafetera-dg-smeg-44302743.html",
-      "price": 19795.0,
-      "list_price": 39590.0,
-      "ean": null,
-      "model": null,
-      "brand": "Smeg",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44302743",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 45.0,
-      "detail": "$11,773 en palacio vs mercado -> -21% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3210.75,
-      "store": "palacio",
-      "name": "Laptop FC0287LA, 15\", AMD Ryzen 7, RAM 8 GB, SSD 512 GB",
-      "url": "https://www.elpalaciodehierro.com/hp-laptop-fc0287la-15-amd-ryzen-7-ram-8-gb-ssd-512-gb-45384043.html",
-      "price": 11772.75,
-      "list_price": 21405.0,
-      "ean": null,
-      "model": "FC0287LA",
-      "brand": "Hp",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45384043",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$7,799 en palacio vs mercado -> -21% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2079.84,
-      "store": "palacio",
-      "name": "Celular Nova 14 Negro 512 GB 12 GB Negro Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/huawei-celular-nova-14-negro-512-gb-12-gb-negro-desbloqueado-45262441.html",
-      "price": 7799.4,
-      "list_price": 12999.0,
+      "name": "Celular Mate XT ULTIMATE DESIGN, 1 TB, RAM 16 GB, Rojo, Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/huawei-celular-mate-xt-ultimate-design-1-tb-ram-16-gb-rojo-desbloqueado-44600329.html",
+      "price": 35399.41,
+      "list_price": 59999.0,
       "ean": null,
       "model": null,
       "brand": "Huawei",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "45262441",
+        "id": "44600329",
         "outlet": false
       }
     },
@@ -468,64 +405,22 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 60.0,
-      "detail": "$4,396 en palacio vs mercado -> -20% bajo la competencia",
+      "discount_pct": 40.0,
+      "detail": "$29,399 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
-      "savings": 1099.0,
+      "savings": 7349.85,
       "store": "palacio",
-      "name": "Cafetera Vertuo Lattíssima White",
-      "url": "https://www.elpalaciodehierro.com/nespresso-cafetera-vertuo-lattissima-white-45191597.html",
-      "price": 4396.0,
-      "list_price": 10990.0,
+      "name": "Celular Mate X7 512 GB 16 GB Rojo Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/huawei-celular-mate-x7-512-gb-16-gb-rojo-desbloqueado-45262438.html",
+      "price": 29399.4,
+      "list_price": 48999.0,
       "ean": null,
       "model": null,
-      "brand": "Nespresso",
+      "brand": "Huawei",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "45191597",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$50,799 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 12699.8,
-      "store": "palacio",
-      "name": "Laptop LEGION 5 15IAX10 15.1\" 32 GB Intel Core Ultra 7 255HX SSD",
-      "url": "https://www.elpalaciodehierro.com/lenovo-laptop-legion-5-15iax10-15.1-32-gb-intel-core-ultra-7-255hx-ssd-45652844.html",
-      "price": 50799.2,
-      "list_price": 63499.0,
-      "ean": null,
-      "model": "15IAX10",
-      "brand": "Lenovo",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45652844",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$7,192 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1798.0,
-      "store": "palacio",
-      "name": "Cafetera Gran Lattissima Negro",
-      "url": "https://www.elpalaciodehierro.com/nespresso-cafetera-gran-lattissima-negro-43135869.html",
-      "price": 7192.0,
-      "list_price": 8990.0,
-      "ean": null,
-      "model": null,
-      "brand": "Nespresso",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43135869",
+        "id": "45262438",
         "outlet": false
       }
     }
