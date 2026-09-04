@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-04 00:20 UTC",
-  "products_scanned": 831,
+  "generated_at": "2026-09-04 04:43 UTC",
+  "products_scanned": 813,
   "threshold_pct": 20.0,
-  "count": 28,
+  "count": 25,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -326,27 +326,6 @@
       "likely_typo": false,
       "savings": 7499.75,
       "store": "palacio",
-      "name": "Celular Razr 70 512 GB 12 GB Ultra Cocoa",
-      "url": "https://www.elpalaciodehierro.com/motorola-celular-razr-70-512-gb-12-gb-ultra-cocoa-45558414.html",
-      "price": 22499.25,
-      "list_price": 29999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Motorola",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45558414",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$22,499 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 7499.75,
-      "store": "palacio",
       "name": "Celular RAZR 70 Ultra 512 GB 8 GB Azul Desbloqueado",
       "url": "https://www.elpalaciodehierro.com/motorola-celular-razr-70-ultra-512-gb-8-gb-azul-desbloqueado-45630424.html",
       "price": 22499.25,
@@ -358,48 +337,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45630424",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$3,749 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1249.75,
-      "store": "palacio",
-      "name": "Licuadora Xpert Series 9 Velocidades",
-      "url": "https://www.elpalaciodehierro.com/oster-licuadora-xpert-series-9-velocidades-42107714.html",
-      "price": 3749.25,
-      "list_price": 4999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "42107714",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$3,089 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1029.75,
-      "store": "palacio",
-      "name": "Licuadora Xtreme Mix, 3 velocidades",
-      "url": "https://www.elpalaciodehierro.com/oster-licuadora-xtreme-mix-3-velocidades-43926491.html",
-      "price": 3089.25,
-      "list_price": 4119.0,
-      "ean": null,
-      "model": null,
-      "brand": "Oster",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43926491",
         "outlet": false
       }
     },
