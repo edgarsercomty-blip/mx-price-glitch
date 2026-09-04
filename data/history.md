@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (1011)
+# Historial de ofertas encontradas (1012)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-09-04 13:33 | -30% | palacio | [Pantalla 55 Pulgadas Plana QLED 4K Google TV 55Q65L](https://www.elpalaciodehierro.com/tcl-pantalla-55-pulgadas-plana-qled-4k-google-tv-55q65l--45657637.html) | $9,799 | $9,799 en palacio vs mercado -> -30% bajo la competencia |
 | 2026-09-04 09:12 | -30% | palacio | [Celular Galaxy S25 Ultra 512 GB, RAM 12 GB Titanium Whi…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s25-ultra-512-gb-ram-12-gb-titanium-white-silver-desbloqueado-44443565.html) | $25,199 | $25,199 en palacio vs mercado -> -30% bajo la competencia |
 | 2026-09-04 09:12 | -38% | palacio | [Celular Huawei Nova 13 Pro, RAM 12 GB, 512 GB Negro Des…](https://www.elpalaciodehierro.com/huawei-celular-huawei-nova-13-pro-ram-12-gb-512-gb-negro-desbloqueado-44600334.html) | $8,500 | $8,500 en palacio vs mercado -> -38% bajo la competencia |
 | 2026-09-03 17:41 | -20% | palacio | [Laptop LEGION 5 15IAX10 15.1" 32 GB Intel Core Ultra 7 …](https://www.elpalaciodehierro.com/lenovo-laptop-legion-5-15iax10-15.1-32-gb-intel-core-ultra-7-255hx-ssd-45652844.html) | $50,799 | $50,799 en palacio vs mercado -> -20% bajo la competencia |
@@ -403,4 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-08-08 07:41 | -33% | palacio | [Hervidor de agua eléctrico Porsche en acero inoxidable](https://www.elpalaciodehierro.com/smeg-hervidor-de-agua-electrico-porsche-en-acero-inoxidable-45000830.html) | $5,560 | $5,560 en palacio vs mercado -> -33% bajo la competencia |
 | 2026-08-08 02:53 | -32% | liverpool | [Apple Iphone 15 Plus 6 7 Pulgadas Super Retina Xdr](https://www.liverpool.com.mx/tienda/pdp/apple-iphone-15-plus-6-7-pulgadas-super-retina-xdr/1142674451) | $9,866 | $9,866 en liverpool vs mercado -> -32% bajo la competencia |
 | 2026-08-07 23:49 | -29% | liverpool | [Funda Esr Para Airpods Pro](https://www.liverpool.com.mx/tienda/pdp/funda-esr-para-airpods-pro/1112842183) | $723 | $723 en liverpool vs mercado -> -29% bajo la competencia |
-| 2026-08-07 20:18 | -20% | liverpool | [Xiaomi Redmi 15C Lcd 6 9 Pulgadas Telcel](https://www.liverpool.com.mx/tienda/pdp/xiaomi-redmi-15c-lcd-6-9-pulgadas-telcel/1184984538) | $2,479 | $2,479 en liverpool vs mercado -> -20% bajo la competencia |

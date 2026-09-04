@@ -1,4 +1,4 @@
-# Errores/chollos de precio — 2026-09-04 09:12 UTC
+# Errores/chollos de precio — 2026-09-04 13:33 UTC
 
 - Productos revisados: **737**
 - Umbral de diferencia: **20%**
@@ -11,8 +11,8 @@
 | -29% | $10,285 | palacio | [Pantalla 65 Pulgadas Plana Micro RGB 4K MRN65R85HAFXZX](https://www.elpalaciodehierro.com/samsung-pantalla-65-pulgadas-plana-micro-rgb-4k-mrn65r85hafxzx-45367602.html) | $25,713 | Confirmado vs competencia | $25,713 en palacio vs mercado -> -29% bajo la competencia |
 | -25% | $9,625 | palacio | [Laptop IdeaPad Slim 3 15IPH11 15.3" 24 GB Intel Core Ultra 7…](https://www.elpalaciodehierro.com/lenovo-laptop-ideapad-slim-3-15iph11-15.3-24-gb-intel-core-ultra-7-355-1-tb-ssd-45652839.html) | $28,874 | Confirmado vs competencia | $28,874 en palacio vs mercado -> -25% bajo la competencia |
 | -25% | $7,500 | palacio | [Celular RAZR 70 Ultra 512 GB 8 GB Azul Desbloqueado](https://www.elpalaciodehierro.com/motorola-celular-razr-70-ultra-512-gb-8-gb-azul-desbloqueado-45630424.html) | $22,499 | Confirmado vs competencia | $22,499 en palacio vs mercado -> -25% bajo la competencia |
-| -20% | $7,350 | palacio | [Celular Mate X7 512 GB 16 GB Rojo Desbloqueado](https://www.elpalaciodehierro.com/huawei-celular-mate-x7-512-gb-16-gb-rojo-desbloqueado-45262438.html) | $29,399 | Confirmado vs competencia | $29,399 en palacio vs mercado -> -20% bajo la competencia |
 | -38% | $5,100 | palacio | [Celular Huawei Nova 13 Pro, RAM 12 GB, 512 GB Negro Desbloqu…](https://www.elpalaciodehierro.com/huawei-celular-huawei-nova-13-pro-ram-12-gb-512-gb-negro-desbloqueado-44600334.html) | $8,500 | Confirmado vs competencia | $8,500 en palacio vs mercado -> -38% bajo la competencia |
+| -30% | $4,200 | palacio | [Pantalla 55 Pulgadas Plana QLED 4K Google TV 55Q65L](https://www.elpalaciodehierro.com/tcl-pantalla-55-pulgadas-plana-qled-4k-google-tv-55q65l--45657637.html) | $9,799 | Confirmado vs competencia | $9,799 en palacio vs mercado -> -30% bajo la competencia |
 | -28% | $4,173 | palacio | [Laptop OmniBook 3, 14", Intel Core I5, RAM 8 GB, SSD 512 GB](https://www.elpalaciodehierro.com/hp-laptop-omnibook-3-14-intel-core-i5-ram-8-gb-ssd-512-gb-45384039.html) | $10,543 | Confirmado vs competencia | $10,543 en palacio vs mercado -> -28% bajo la competencia |
 | -28% | $4,055 | palacio | [Pantalla 65 Pulgadas Plana MiniLED 4K 65Z670RM FIRE TV](https://www.elpalaciodehierro.com/toshiba-pantalla-65-pulgadas-plana-miniled-4k-65z670rm-fire-tv-45315663.html) | $10,399 | Confirmado vs competencia | $10,399 en palacio vs mercado -> -28% bajo la competencia |
 | -21% | $3,450 | palacio | [Smartwatch Ultimate 2 Hombre](https://www.elpalaciodehierro.com/huawei-smartwatch-ultimate-2-hombre-45242623.html) | $13,109 | Confirmado vs competencia | $13,109 en palacio vs mercado -> -21% bajo la competencia |

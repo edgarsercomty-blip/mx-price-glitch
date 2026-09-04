@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04 09:12 UTC",
+  "generated_at": "2026-09-04 13:33 UTC",
   "products_scanned": 737,
   "threshold_pct": 20.0,
   "count": 20,
@@ -106,6 +106,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45215651",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 30.0,
+      "detail": "$9,799 en palacio vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4199.7,
+      "store": "palacio",
+      "name": "Pantalla 55 Pulgadas Plana QLED 4K Google TV 55Q65L",
+      "url": "https://www.elpalaciodehierro.com/tcl-pantalla-55-pulgadas-plana-qled-4k-google-tv-55q65l--45657637.html",
+      "price": 9799.3,
+      "list_price": 13999.0,
+      "ean": null,
+      "model": "55Q65L",
+      "brand": "Tcl",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45657637",
         "outlet": false
       }
     },
@@ -400,27 +421,6 @@
       "currency": "MXN",
       "extra": {
         "id": "44824190",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$29,399 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 7349.85,
-      "store": "palacio",
-      "name": "Celular Mate X7 512 GB 16 GB Rojo Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/huawei-celular-mate-x7-512-gb-16-gb-rojo-desbloqueado-45262438.html",
-      "price": 29399.4,
-      "list_price": 48999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Huawei",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45262438",
         "outlet": false
       }
     }
