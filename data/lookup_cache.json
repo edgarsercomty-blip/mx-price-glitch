@@ -1,26 +1,26 @@
 {
   "amazon|NESPRESSOLATTISSIMACAFETERAGRAN": {
-    "ts": "2026-09-03T05:06:27.808080+00:00",
+    "ts": "2026-09-05T05:10:05.439209+00:00",
     "items": []
   },
   "walmart|NESPRESSOLATTISSIMACAFETERAGRAN": {
-    "ts": "2026-09-03T05:06:29.055644+00:00",
+    "ts": "2026-09-05T05:10:06.994096+00:00",
     "items": []
   },
   "sams|NESPRESSOLATTISSIMACAFETERAGRAN": {
-    "ts": "2026-09-03T05:06:30.335109+00:00",
+    "ts": "2026-09-05T05:10:08.708842+00:00",
     "items": []
   },
   "amazon|NESPRESSONESPRESSOCAFETERAVERTUOCOMBO": {
-    "ts": "2026-09-03T05:06:19.867349+00:00",
+    "ts": "2026-09-05T05:10:00.733637+00:00",
     "items": []
   },
   "walmart|NESPRESSONESPRESSOCAFETERAVERTUOCOMBO": {
-    "ts": "2026-09-03T05:06:21.616241+00:00",
+    "ts": "2026-09-05T05:10:02.344092+00:00",
     "items": []
   },
   "sams|NESPRESSONESPRESSOCAFETERAVERTUOCOMBO": {
-    "ts": "2026-09-03T05:06:23.118577+00:00",
+    "ts": "2026-09-05T05:10:04.219633+00:00",
     "items": []
   },
   "amazon|HPOMNIBOOKLAPTOPINTELCORE": {
@@ -177,18 +177,6 @@
   },
   "sams|SAMSUNGDESBLOQUEADOCELULARGALAXY128": {
     "ts": "2026-09-04T23:34:54.057266+00:00",
-    "items": []
-  },
-  "amazon|SAMSUNGDESBLOQUEADOCELULARGALAXYA17": {
-    "ts": "2026-09-03T05:06:24.191967+00:00",
-    "items": []
-  },
-  "walmart|SAMSUNGDESBLOQUEADOCELULARGALAXYA17": {
-    "ts": "2026-09-03T05:06:25.492958+00:00",
-    "items": []
-  },
-  "sams|SAMSUNGDESBLOQUEADOCELULARGALAXYA17": {
-    "ts": "2026-09-03T05:06:26.680139+00:00",
     "items": []
   },
   "liverpool|UN98DU9000FXZX": {
@@ -665,6 +653,62 @@
   },
   "mercadolibre|85QNED81BSG": {
     "ts": "2026-09-04T17:58:17.636331+00:00",
+    "items": []
+  },
+  "amazon|65QNED81BSG": {
+    "ts": "2026-09-05T05:09:35.146548+00:00",
+    "items": []
+  },
+  "walmart|65QNED81BSG": {
+    "ts": "2026-09-05T05:09:36.628566+00:00",
+    "items": []
+  },
+  "sams|65QNED81BSG": {
+    "ts": "2026-09-05T05:09:38.163499+00:00",
+    "items": []
+  },
+  "mercadolibre|65QNED81BSG": {
+    "ts": "2026-09-05T05:09:39.379737+00:00",
+    "items": []
+  },
+  "liverpool|100U7QG": {
+    "ts": "2026-09-05T05:09:41.582686+00:00",
+    "items": []
+  },
+  "amazon|100U7QG": {
+    "ts": "2026-09-05T05:09:42.822179+00:00",
+    "items": []
+  },
+  "walmart|100U7QG": {
+    "ts": "2026-09-05T05:09:44.230008+00:00",
+    "items": []
+  },
+  "sams|100U7QG": {
+    "ts": "2026-09-05T05:09:45.702745+00:00",
+    "items": []
+  },
+  "mercadolibre|100U7QG": {
+    "ts": "2026-09-05T05:09:46.908468+00:00",
+    "items": []
+  },
+  "liverpool|WM25BFXS": {
+    "ts": "2026-09-05T05:09:47.656174+00:00",
+    "items": []
+  },
+  "amazon|WM25BFXS": {
+    "ts": "2026-09-05T05:09:48.900138+00:00",
+    "items": []
+  },
+  "walmart|WM25BFXS": {
+    "ts": "2026-09-05T05:09:50.359360+00:00",
+    "items": []
+  },
+  "sams|WM25BFXS": {
+    "ts": "2026-09-05T05:09:51.825855+00:00",
+    "items": []
+  },
+  "mercadolibre|WM25BFXS": {
+    "ts": "2026-09-05T05:09:53.056928+00:00",
     "items": []
   }
 }
