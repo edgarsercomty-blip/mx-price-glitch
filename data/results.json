@@ -1,9 +1,30 @@
 {
-  "generated_at": "2026-09-05 10:41 UTC",
-  "products_scanned": 771,
+  "generated_at": "2026-09-05 13:32 UTC",
+  "products_scanned": 827,
   "threshold_pct": 20.0,
-  "count": 25,
+  "count": 28,
   "findings": [
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 60.0,
+      "detail": "$1,396 en palacio vs mercado -> -60% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2094.0,
+      "store": "palacio",
+      "name": "Cafetera Nespresso Vertuo Pop Red",
+      "url": "https://www.elpalaciodehierro.com/nespresso-cafetera-nespresso-vertuo-pop-red-43394466.html",
+      "price": 1396.0,
+      "list_price": 3490.0,
+      "ean": null,
+      "model": null,
+      "brand": "Nespresso",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43394466",
+        "outlet": false
+      }
+    },
     {
       "kind": "cross_confirmed",
       "discount_pct": 65.0,
@@ -48,27 +69,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 60.0,
-      "detail": "$5,560 en palacio vs mercado -> -33% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2780.0,
-      "store": "palacio",
-      "name": "Hervidor de agua eléctrico Porsche en acero inoxidable",
-      "url": "https://www.elpalaciodehierro.com/smeg-hervidor-de-agua-electrico-porsche-en-acero-inoxidable-45000830.html",
-      "price": 5560.0,
-      "list_price": 13900.0,
-      "ean": null,
-      "model": null,
-      "brand": "Smeg",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45000830",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 58.0,
       "detail": "$47,999 en palacio vs mercado -> -33% bajo la competencia",
       "likely_typo": false,
@@ -85,6 +85,48 @@
       "currency": "MXN",
       "extra": {
         "id": "45361289",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 52.0,
+      "detail": "$4,800 en palacio vs mercado -> -33% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2399.76,
+      "store": "palacio",
+      "name": "Smartwatch Watch 5 Unisex",
+      "url": "https://www.elpalaciodehierro.com/huawei-smartwatch-watch-5-unisex-45258358.html",
+      "price": 4799.52,
+      "list_price": 9999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Huawei",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45258358",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 45.0,
+      "detail": "$989 en palacio vs mercado -> -31% bajo la competencia",
+      "likely_typo": false,
+      "savings": 449.75,
+      "store": "palacio",
+      "name": "Licuadora HR2242 93 12 velocidades",
+      "url": "https://www.elpalaciodehierro.com/philips-licuadora-hr2242-93-12-velocidades-45215651.html",
+      "price": 989.45,
+      "list_price": 1799.0,
+      "ean": null,
+      "model": "HR2242",
+      "brand": "Philips",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45215651",
         "outlet": false
       }
     },
@@ -112,21 +154,21 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 30.0,
-      "detail": "$11,899 en palacio vs mercado -> -30% bajo la competencia",
+      "detail": "$3,219 en palacio vs mercado -> -30% bajo la competencia",
       "likely_typo": false,
-      "savings": 5099.7,
+      "savings": 1379.7,
       "store": "palacio",
-      "name": "Pantalla 65 Pulgadas Plana QLED 4K Google TV 65Q65L",
-      "url": "https://www.elpalaciodehierro.com/tcl-pantalla-65-pulgadas-plana-qled-4k-google-tv-65q65l--45657638.html",
-      "price": 11899.3,
-      "list_price": 16999.0,
+      "name": "Celular Galaxy A17 5G 128 GB, RAM 4 GB Negro Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-a17-5g-128-gb-ram-4-gb-negro-desbloqueado-44951471.html",
+      "price": 3219.3,
+      "list_price": 4599.0,
       "ean": null,
-      "model": "65Q65L",
-      "brand": "Tcl",
+      "model": null,
+      "brand": "Samsung",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "45657638",
+        "id": "44951471",
         "outlet": false
       }
     },
@@ -442,6 +484,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45242623",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 43.0,
+      "detail": "$11,399 en palacio vs mercado -> -21% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2999.85,
+      "store": "palacio",
+      "name": "Smartwatch Ultimate 2 Hombre",
+      "url": "https://www.elpalaciodehierro.com/huawei-smartwatch-ultimate-2-hombre-45242624.html",
+      "price": 11399.43,
+      "list_price": 19999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Huawei",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45242624",
         "outlet": false
       }
     },
