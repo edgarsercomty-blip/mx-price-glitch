@@ -1,4 +1,4 @@
-# Productos en vigilancia (771)
+# Productos en vigilancia (774)
 
 Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible, llega alerta de restock.
 
@@ -51,7 +51,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Combo Licuadora Porcelain con 2 Vasos](https://www.elpalaciodehierro.com/kitchenaid-combo-licuadora-porcelain-con-2-vasos-45505385.html) | $2,399 | -25% |
 | 🟢 disponible | palacio | [Licuadora de Inmersion Vel Var Negro](https://www.elpalaciodehierro.com/kitchenaid-licuadora-de-inmersion-vel-var-negro-41646264.html) | $1,770 | -25% |
 | 🟢 disponible | palacio | [Maquina de Cafe Espresso para 27 tazas en Acero](https://www.elpalaciodehierro.com/kitchenaid-maquina-de-cafe-espresso-para-27-tazas-en-acero-44729901.html) | $29,714 | -25% |
-| 🟢 disponible | palacio | [Hervidor de agua 1.7 L Negro Mate](https://www.elpalaciodehierro.com/kitchenaid-hervidor-de-agua-1.7-l-negro-mate-44519513.html) | $2,321 | -25% |
+| 🟢 disponible | palacio | [Hervidor de agua 1.7 L Negro Mate](https://www.elpalaciodehierro.com/kitchenaid-hervidor-de-agua-1.7-l-negro-mate-44519513.html) | $2,708 | -25% |
 | 🟢 disponible | palacio | [Hervidor de agua 1.7 L Blanco](https://www.elpalaciodehierro.com/kitchenaid-hervidor-de-agua-1.7-l-blanco-44519515.html) | $2,708 | -25% |
 | 🟢 disponible | palacio | [Lavadora Carga Superior 24 Kg Diamond Gray + Secadora](https://www.elpalaciodehierro.com/mabe-lavadora-carga-superior-24-kg-diamond-gray-secadora-41222632.html) | $26,239 | -25% |
 | 🟢 disponible | palacio | [Refrigerador bottom mount 22 p3 PWN22JEWCDS](https://www.elpalaciodehierro.com/ge-refrigerador-bottom-mount-22-p3-pwn22jewcds-44964256.html) | $21,959 | -24% |
@@ -113,7 +113,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | amazon | [Eucerin Lápiz corrector anti manchas Anti Pigment Spot Corre…](https://www.amazon.com.mx/dp/B08D47L4VB) | $208 | -27% |
 | 🟢 disponible | palacio | [Celular Galaxy S25 Fe,128 GB, 8 GB, Negro Desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s25-fe128-gb-8-gb-negro-desbloqueado-44951477.html) | $11,004 | -30% |
 | 🟢 disponible | palacio | [Celular Galaxy A37 5G 256 GB, RAM 6 GB, verde obscuro desblo…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-a37-5g-256-gb-ram-6-gb-verde-obscuro-desbloqueado-45345626.html) | $6,999 | -30% |
-| 🟢 disponible | palacio | [Celular Galaxy S25 Ultra 256 GB, RAM 12 GB Titanium Silver B…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s25-ultra-256-gb-ram-12-gb-titanium-silver-blue-desbloqueado-44443562.html) | $32,999 | -30% |
+| 🟢 disponible | palacio | [Celular Galaxy S25 Ultra 256 GB, RAM 12 GB Titanium Silver B…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s25-ultra-256-gb-ram-12-gb-titanium-silver-blue-desbloqueado-44443562.html) | $23,099 | -30% |
 | 🟢 disponible | palacio | [Celular Galaxy S25 FE 128 GB, RAM 8 GB Azul Marino Desbloque…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s25-fe-128-gb-ram-8-gb-azul-marino-desbloqueado-44951481.html) | $11,004 | -30% |
 | 🟢 disponible | palacio | [Celular Galaxy A57 256 GB 8 GB Violeta Desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-a57-256-gb-8-gb-violeta-desbloqueado-45345631.html) | $8,999 | -25% |
 | 🟢 disponible | palacio | [Celular Galaxy A57 256 GB 8 GB Gris Desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-a57-256-gb-8-gb-gris-desbloqueado-45345630.html) | $8,999 | -25% |
@@ -121,14 +121,14 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Celular Galaxy A57 256 GB 8 GB Azul oscuro Desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-a57-256-gb-8-gb-azul-oscuro-desbloqueado-45345629.html) | $8,519 | -25% |
 | 🟢 disponible | palacio | [Celular Galaxy S26 Ultra 1 TB, RAM 16 GB, negro desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-ultra-1-tb-ram-16-gb-negro-desbloqueado-45273253.html) | $32,199 | -25% |
 | 🟢 disponible | palacio | [Celular Galaxy S26 Ultra, 512 GB, RAM 12 GB, Violeta Desbloq…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-ultra-512-gb-ram-12-gb-violeta-desbloqueado-45273254.html) | $27,739 | -23% |
-| 🟢 disponible | palacio | [Celular Galaxy S26 Ultra 512 GB, RAM 12 GB, azul desbloquead…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-ultra-512-gb-ram-12-gb-azul-desbloqueado-45273250.html) | $37,999 | -23% |
+| 🟢 disponible | palacio | [Celular Galaxy S26 Ultra 512 GB, RAM 12 GB, azul desbloquead…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-ultra-512-gb-ram-12-gb-azul-desbloqueado-45273250.html) | $27,739 | -23% |
 | 🟢 disponible | palacio | [Celular Galaxy S26 256 GB, RAM 12 GB, negro desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-256-gb-ram-12-gb-negro-desbloqueado-45273246.html) | $16,424 | -20% |
 | 🟢 disponible | palacio | [Celular Galaxy S26 256 GB, RAM 12 GB Violeta Desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-256-gb-ram-12-gb-violeta-desbloqueado-45273256.html) | $16,874 | -20% |
 | 🟢 disponible | palacio | [Celular Galaxy S26 256 GB, RAM 12 GB, azul claro desbloquead…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-256-gb-ram-12-gb-azul-claro-desbloqueado-45273245.html) | $16,424 | -20% |
 | 🟢 disponible | palacio | [Celular Galaxy S25 FE 128 GB, RAM 8 GB Azul Hielo Desbloquea…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s25-fe-128-gb-ram-8-gb-azul-hielo-desbloqueado-44951479.html) | $10,849 | -30% |
 | 🟢 disponible | palacio | [Celular Galaxy S26 Ultra 512 GB, RAM 12 GB, negro desbloquea…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-ultra-512-gb-ram-12-gb-negro-desbloqueado-45273252.html) | $27,739 | -23% |
 | 🟢 disponible | liverpool | [Set Licuadora Personal Ninja Ss151 5 Velocidades](https://www.liverpool.com.mx/tienda/pdp/set-licuadora-personal-ninja-ss151-5-velocidades/1180553254) | $2,299 | -28% |
-| 🟢 disponible | palacio | [Lavasecadora Eléctrica 26 Kg, 15 Kg Secado BespokeAI, Carga …](https://www.elpalaciodehierro.com/samsung-lavasecadora-electrica-26-kg-15-kg-secado-bespokeai-carga-frontal-wd26fb8690beax-44585698.html) | $30,380 | -26% |
+| 🟢 disponible | palacio | [Lavasecadora Eléctrica 26 Kg, 15 Kg Secado BespokeAI, Carga …](https://www.elpalaciodehierro.com/samsung-lavasecadora-electrica-26-kg-15-kg-secado-bespokeai-carga-frontal-wd26fb8690beax-44585698.html) | $61,999 | -26% |
 | 🟢 disponible | liverpool | [Laptop Hp 245 G10 14 Pulgadas Hd Amd Ryzen 5 Amd Radeon 16 G…](https://www.liverpool.com.mx/tienda/pdp/laptop-hp-245-g10-14-pulgadas-hd-amd-ryzen-5-amd-radeon-16-gb-ram-512-gb-ssd/1181402284) | $11,999 | -21% |
 | 🟢 disponible | liverpool | [Kit De Licuadora Ninja Bn801 3 Velocidades](https://www.liverpool.com.mx/tienda/pdp/kit-de-licuadora-ninja-bn801-3-velocidades/1109672030) | $3,499 | -29% |
 | 🟢 disponible | liverpool | [Samsung Galaxy S25 Ultra Dynamic Amoled 2X 6 9 Pulgadas](https://www.liverpool.com.mx/tienda/pdp/samsung-galaxy-s25-ultra-dynamic-amoled-2x-6-9-pulgadas/1170197151) | $24,999 | -26% |
@@ -167,7 +167,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Monitor Forerunner 965 para correr](https://www.elpalaciodehierro.com/garmin-monitor-forerunner-965-para-correr-43074177.html) | $9,524 | -25% |
 | 🟢 disponible | palacio | [Monitor Venu 3S, Sage Gray + Passivated Deportivo](https://www.elpalaciodehierro.com/garmin-monitor-venu-3s-sage-gray-passivated-deportivo-43401370.html) | $7,049 | -25% |
 | 🟢 disponible | palacio | [Monitor deportivo Venu 4, 41 mm casual](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-venu-4-41-mm-casual-44965112.html) | $11,499 | -25% |
-| 🟢 disponible | palacio | [Celular Huawei Pura 80 Pro 512 GB, 12 GB RAM Rojo desbloquea…](https://www.elpalaciodehierro.com/huawei-celular-huawei-pura-80-pro-512-gb-12-gb-ram-rojo-desbloqueado-44928184.html) | $17,999 | -24% |
+| 🟢 disponible | palacio | [Celular Huawei Pura 80 Pro 512 GB, 12 GB RAM Rojo desbloquea…](https://www.elpalaciodehierro.com/huawei-celular-huawei-pura-80-pro-512-gb-12-gb-ram-rojo-desbloqueado-44928184.html) | $29,999 | -24% |
 | 🟢 disponible | palacio | [Kindle Colorsoft, 7", 16 GB, RAM 1 GB, Linux, MTK MT8113S, W…](https://www.elpalaciodehierro.com/amazon-kindle-colorsoft-7-16-gb-ram-1-gb-linux-mtk-mt8113s-wi-fi-negro-45205059.html) | $3,849 | -23% |
 | 🟢 disponible | palacio | [Smartwatch para entrenamiento Fenix 8 Unisex](https://www.elpalaciodehierro.com/garmin-smartwatch-para-entrenamiento-fenix-8-unisex-44110954.html) | $18,399 | -20% |
 | 🟢 disponible | palacio | [Smartwatch para entrenamiento Fenix 8 Unisex](https://www.elpalaciodehierro.com/garmin-smartwatch-para-entrenamiento-fenix-8-unisex-44110955.html) | $18,399 | -20% |
@@ -178,7 +178,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Monitor Deportivo Instinct 3 Deportivo Unisex](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-instinct-3-deportivo-unisex-44439906.html) | $7,299 | -23% |
 | 🟢 disponible | palacio | [Monitor Deportivo Instinct 3 para entrenamiento](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-instinct-3-para-entrenamiento-44439905.html) | $8,399 | -21% |
 | 🟢 disponible | palacio | [Celular Moto Razr 60 Ultra, 1 TB, 16 GB RAM, café, desbloque…](https://www.elpalaciodehierro.com/motorola-celular-moto-razr-60-ultra-1-tb-16-gb-ram-cafe-desbloqueado-44600338.html) | $21,779 | -20% |
-| 🟢 disponible | palacio | [Celular Pura 80 Pro, 512 GB, RAM 12 GB, Negro, Desbloqueado](https://www.elpalaciodehierro.com/huawei-celular-pura-80-pro-512-gb-ram-12-gb-negro-desbloqueado-44928183.html) | $17,999 | -29% |
+| 🟢 disponible | palacio | [Celular Pura 80 Pro, 512 GB, RAM 12 GB, Negro, Desbloqueado](https://www.elpalaciodehierro.com/huawei-celular-pura-80-pro-512-gb-ram-12-gb-negro-desbloqueado-44928183.html) | $29,999 | -29% |
 | 🟢 disponible | palacio | [Monitor deportivo Venu 4, 41 mm casual](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-venu-4-41-mm-casual-44973731.html) | $9,199 | -25% |
 | 🟢 disponible | liverpool | [Pantalla Smart Tv Hisense Qled De 100 Pulgadas 4K Uhd 100Qd6…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-hisense-qled-de-100-pulgadas-4k-uhd-100qd6sfm-con-fire-os-con-ai-smooth-motion/1197517057) | $33,599 | -52% |
 | 🟢 disponible | palacio | [Monitor Forerunner 265S Music para correr](https://www.elpalaciodehierro.com/garmin-monitor-forerunner-265s-music-para-correr-43074174.html) | $9,499 | -20% |
@@ -371,8 +371,8 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | liverpool | [Playmobil Naruto Shippuden Kabuto 71568](https://www.liverpool.com.mx/tienda/pdp/playmobil-naruto-shippuden-kabuto-71568/1184385364) | $55 | -20% |
 | 🟢 disponible | liverpool | [Combo Cafetera Y Aeroccino Nespresso Vertuo 158436](https://www.liverpool.com.mx/tienda/pdp/combo-cafetera-y-aeroccino-nespresso-vertuo-158436/1194918409) | $1,900 | -22% |
 | 🟢 disponible | liverpool | [Pantalla Smart Tv Samsung Led De 50 Pulgadas 4K Un50M70Hafxz…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-samsung-led-de-50-pulgadas-4k-un50m70hafxzx-con-tizen-con-ai-escalado-a-4k/1195509162) | $7,999 | -25% |
-| 🟢 disponible | palacio | [Celular Huawei Mate X7 512 GR 16 GB Negro Desbloqueado](https://www.elpalaciodehierro.com/huawei-celular-huawei-mate-x7-512-gr-16-gb-negro-desbloqueado-45262437.html) | $29,399 | -20% |
-| 🟢 disponible | palacio | [Celular Mate X7 512 GB 16 GB Rojo Desbloqueado](https://www.elpalaciodehierro.com/huawei-celular-mate-x7-512-gb-16-gb-rojo-desbloqueado-45262438.html) | $29,399 | -20% |
+| 🟢 disponible | palacio | [Celular Huawei Mate X7 512 GR 16 GB Negro Desbloqueado](https://www.elpalaciodehierro.com/huawei-celular-huawei-mate-x7-512-gr-16-gb-negro-desbloqueado-45262437.html) | $48,999 | -20% |
+| 🟢 disponible | palacio | [Celular Mate X7 512 GB 16 GB Rojo Desbloqueado](https://www.elpalaciodehierro.com/huawei-celular-mate-x7-512-gb-16-gb-rojo-desbloqueado-45262438.html) | $48,999 | -20% |
 | 🟢 disponible | liverpool | [Pantalla Smart Tv Hisense Led De 85 Pulgadas 4K Uhd 85A65Nv …](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-hisense-led-de-85-pulgadas-4k-uhd-85a65nv-con-ai-sports-mode/1183307602) | $17,399 | -21% |
 | 🟢 disponible | liverpool | [Pantalla Smart Tv Lg Oled De 55 Pulgadas 4K Oled55G5Psa Con …](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-oled-de-55-pulgadas-4k-oled55g5psa-con-webos-con-evo-ai/1175336482) | $17,999 | -20% |
 | 🟢 disponible | liverpool | [Pantalla Smart Tv Samsung Led De 43 Pulgadas Un43M70Hafxzx C…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-samsung-led-de-43-pulgadas-un43m70hafxzx-con-tizen-con-ai-escalado-a-4k/1195509171) | $6,999 | -24% |
@@ -434,7 +434,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | liverpool | [Estufa De Piso A Gas Natural Lp Hisense 76 2 Cm Hfg3602Cps D…](https://www.liverpool.com.mx/tienda/pdp/estufa-de-piso-a-gas-natural-lp-hisense-76-2-cm-hfg3602cps-de-6-quemadores/1172176514) | $17,159 | -21% |
 | 🟢 disponible | palacio | [Celular nova 14 512 GB, RAM 12 GB, azul desbloqueado](https://www.elpalaciodehierro.com/huawei-celular-nova-14-512-gb-ram-12-gb-azul-desbloqueado-45262439.html) | $7,799 | -21% |
 | 🟢 disponible | liverpool | [Licuadora Hamilton Beach 53521Fg 5 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-hamilton-beach-53521fg-5-velocidades/1157700266) | $889 | -39% |
-| 🟢 disponible | palacio | [Celular nova 14 512 GB, RAM 12 GB, blanco desbloqueado](https://www.elpalaciodehierro.com/huawei-celular-nova-14-512-gb-ram-12-gb-blanco-desbloqueado-45262440.html) | $7,799 | -21% |
+| 🟢 disponible | palacio | [Celular nova 14 512 GB, RAM 12 GB, blanco desbloqueado](https://www.elpalaciodehierro.com/huawei-celular-nova-14-512-gb-ram-12-gb-blanco-desbloqueado-45262440.html) | $12,999 | -21% |
 | 🟢 disponible | liverpool | [Pantalla Smart Tv Tcl Qled De 75 Pulgadas 4K Uhd 75Q6K Con G…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-tcl-qled-de-75-pulgadas-4k-uhd-75q6k-con-google-tv/1173699383) | $13,399 | -59% |
 | 🟢 disponible | liverpool | [Television Hisense Qled De 4K Uhd 75Qd6Sfm Con Fire Os Con A…](https://www.liverpool.com.mx/tienda/pdp/television-hisense-qled-de-4k-uhd-75qd6sfm-con-fire-os-con-ai-picture/1197715665) | $12,999 | -52% |
 | 🟢 disponible | liverpool | [Pantalla Smart Tv Tcl Qled De 55 Pulgadas 4K Uhd 55Q6K Con G…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-tcl-qled-de-55-pulgadas-4k-uhd-55q6k-con-google-tv/1173699367) | $8,499 | -48% |
@@ -573,7 +573,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | walmart | [TV TCL Pantalla 55 Pulgadas QD-Mini Led Smart Google TV 55QM…](https://www.walmart.com.mx/ip/tv-tcl-pantalla-55-pulgadas-qd-mini-led-smart-google-tv-55qm5k/00084046404537?athbdg=L1300) | $6,990 | -20% |
 | 🟢 disponible | liverpool | [Motorola Moto G77 Amoled Extreme 6 7 Pulgadas Telcel](https://www.liverpool.com.mx/tienda/pdp/motorola-moto-g77-amoled-extreme-6-7-pulgadas-telcel/1197256522) | $4,799 | -25% |
 | 🟢 disponible | amazon | [ASUS Vivobook 14, FHD/Nuevo Procesador Intel Core 5 Serie 3 …](https://www.amazon.com.mx/dp/B0GZJ5VFKS) | $10,999 | -38% |
-| 🟢 disponible | palacio | [Laptop Gaming TUF A16, 16", NVIDIA GeForce RTX 5050,  AMD Ry…](https://www.elpalaciodehierro.com/asus-laptop-gaming-tuf-a16-16-nvidia-geforce-rtx-5050--amd-ryzen-7-ram-16-gb-512-gb-ssd-45650689.html) | $23,487 | -22% |
+| 🟢 disponible | palacio | [Laptop Gaming TUF A16, 16", NVIDIA GeForce RTX 5050,  AMD Ry…](https://www.elpalaciodehierro.com/asus-laptop-gaming-tuf-a16-16-nvidia-geforce-rtx-5050--amd-ryzen-7-ram-16-gb-512-gb-ssd-45650689.html) | $27,524 | -22% |
 | 🟢 disponible | palacio | [Laptop TUF FA607NUQ-RL038W R7, 16", AMD Ryzen 7 170, 16 GB, …](https://www.elpalaciodehierro.com/asus-laptop-tuf-fa607nuq-rl038w-r7-16-amd-ryzen-7-170-16-gb-ssd-512-gb-45650688.html) | $25,049 | -22% |
 | 🟢 disponible | amazon | [Piezas de repuesto originales OEM compatibles con licuadora …](https://www.amazon.com.mx/dp/B0GSYDK6DW) | $540 | -20% |
 | 🟢 disponible | liverpool | [Aire Acondicionado Mini Split Inverter Frikko F6800H 100 V](https://www.liverpool.com.mx/tienda/pdp/aire-acondicionado-mini-split-inverter-frikko-f6800h-100-v/57683643) | $11,242 | -45% |
@@ -641,7 +641,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | mercadolibre | [Lavadora automática Whirlpool hasta 18kg color blanco](https://www.mercadolibre.com.mx/lavadora-automatica-whirlpool-hasta-18kg-color-blanco/p/MLM15764094) | $12,799 | -21% |
 | 🟢 disponible | amazon | [UGREEN Audífonos Inalámbricos Bluetooth 5.4 30 Horas,12mm Di…](https://www.amazon.com.mx/dp/B0DMZWD4JP) | $396 | -21% |
 | 🟢 disponible | liverpool | [Apple Macbook Neo 13 Pulgadas](https://www.liverpool.com.mx/tienda/pdp/apple-macbook-neo-13-pulgadas/1196338436) | $17,499 | -27% |
-| 🟢 disponible | palacio | [Celular Nova 14 Negro 512 GB 12 GB Negro Desbloqueado](https://www.elpalaciodehierro.com/huawei-celular-nova-14-negro-512-gb-12-gb-negro-desbloqueado-45262441.html) | $7,799 | -21% |
+| 🟢 disponible | palacio | [Celular Nova 14 Negro 512 GB 12 GB Negro Desbloqueado](https://www.elpalaciodehierro.com/huawei-celular-nova-14-negro-512-gb-12-gb-negro-desbloqueado-45262441.html) | $12,999 | -21% |
 | 🟢 disponible | sams | [Kit de Impresora Canon Ivy Mini Portátil Blanca + Paquete de…](https://www.sams.com.mx/ip/kit-de-impresora-canon-ivy-mini-portatil-blanca-paquete-de-papel/981043145) | $1,022 | -52% |
 | 🟢 disponible | sams | [Smartphone Motorola Edge 60 Fusion 256 GB Azul Desbloqueado](https://www.sams.com.mx/ip/smartphone-motorola-edge-60-fusion-256-gb-azul-desbloqueado/981036687) | $6,136 | -20% |
 | 🟢 disponible | amazon | [Calvin Klein Tenis para Mujer](https://www.amazon.com.mx/dp/B0BTTQHHMY) | $1,008 | -26% |
@@ -775,3 +775,6 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Celular Huawei Nova 13 Pro, RAM 12 GB, 512 GB Negro Desbloqu…](https://www.elpalaciodehierro.com/huawei-celular-huawei-nova-13-pro-ram-12-gb-512-gb-negro-desbloqueado-44600334.html) | $8,500 | -38% |
 | 🟢 disponible | palacio | [Celular Galaxy S25 Ultra 512 GB, RAM 12 GB Titanium White Si…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s25-ultra-512-gb-ram-12-gb-titanium-white-silver-desbloqueado-44443565.html) | $25,199 | -30% |
 | 🟢 disponible | palacio | [Pantalla 55 Pulgadas Plana QLED 4K Google TV 55Q65L](https://www.elpalaciodehierro.com/tcl-pantalla-55-pulgadas-plana-qled-4k-google-tv-55q65l--45657637.html) | $9,799 | -30% |
+| 🟢 disponible | palacio | [Pantalla 85 Pulgadas Plana Micro RGB 4K MRN85R85HAFXZX](https://www.elpalaciodehierro.com/samsung-pantalla-85-pulgadas-plana-micro-rgb-4k-mrn85r85hafxzx-45361289.html) | $47,999 | -33% |
+| 🟢 disponible | palacio | [Pantalla 65 Pulgadas Plana QLED 4K Google TV 65Q65L](https://www.elpalaciodehierro.com/tcl-pantalla-65-pulgadas-plana-qled-4k-google-tv-65q65l--45657638.html) | $11,899 | -30% |
+| 🟢 disponible | palacio | [Pantalla 75 Pulgadas Plana Micro RGB 4K MRN75R95HAFXZX](https://www.elpalaciodehierro.com/samsung-pantalla-75-pulgadas-plana-micro-rgb-4k-mrn75r95hafxzx-45367500.html) | $60,000 | -25% |

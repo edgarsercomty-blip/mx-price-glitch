@@ -1,9 +1,12 @@
-# Historial de ofertas encontradas (1012)
+# Historial de ofertas encontradas (1015)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-09-05 10:41 | -25% | palacio | [Pantalla 75 Pulgadas Plana Micro RGB 4K MRN75R95HAFXZX](https://www.elpalaciodehierro.com/samsung-pantalla-75-pulgadas-plana-micro-rgb-4k-mrn75r95hafxzx-45367500.html) | $60,000 | $60,000 en palacio vs mercado -> -25% bajo la competencia |
+| 2026-09-05 10:41 | -30% | palacio | [Pantalla 65 Pulgadas Plana QLED 4K Google TV 65Q65L](https://www.elpalaciodehierro.com/tcl-pantalla-65-pulgadas-plana-qled-4k-google-tv-65q65l--45657638.html) | $11,899 | $11,899 en palacio vs mercado -> -30% bajo la competencia |
+| 2026-09-05 10:41 | -33% | palacio | [Pantalla 85 Pulgadas Plana Micro RGB 4K MRN85R85HAFXZX](https://www.elpalaciodehierro.com/samsung-pantalla-85-pulgadas-plana-micro-rgb-4k-mrn85r85hafxzx-45361289.html) | $47,999 | $47,999 en palacio vs mercado -> -33% bajo la competencia |
 | 2026-09-04 13:33 | -30% | palacio | [Pantalla 55 Pulgadas Plana QLED 4K Google TV 55Q65L](https://www.elpalaciodehierro.com/tcl-pantalla-55-pulgadas-plana-qled-4k-google-tv-55q65l--45657637.html) | $9,799 | $9,799 en palacio vs mercado -> -30% bajo la competencia |
 | 2026-09-04 09:12 | -30% | palacio | [Celular Galaxy S25 Ultra 512 GB, RAM 12 GB Titanium Whi…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s25-ultra-512-gb-ram-12-gb-titanium-white-silver-desbloqueado-44443565.html) | $25,199 | $25,199 en palacio vs mercado -> -30% bajo la competencia |
 | 2026-09-04 09:12 | -38% | palacio | [Celular Huawei Nova 13 Pro, RAM 12 GB, 512 GB Negro Des…](https://www.elpalaciodehierro.com/huawei-celular-huawei-nova-13-pro-ram-12-gb-512-gb-negro-desbloqueado-44600334.html) | $8,500 | $8,500 en palacio vs mercado -> -38% bajo la competencia |
@@ -401,6 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-08-08 07:41 | -20% | palacio | [Licuadora Foddi, 2 velocidades](https://www.elpalaciodehierro.com/ninja-licuadora-foddi-2-velocidades-45040659.html) | $2,559 | $2,559 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-08-08 07:41 | -25% | palacio | [Descalcificador para Cafeteras](https://www.elpalaciodehierro.com/krups-descalcificador-para-cafeteras-15513938.html) | $74 | $74 en palacio vs mercado -> -25% bajo la competencia |
 | 2026-08-08 07:41 | -26% | palacio | [Laptop, Yoga Book 9 14IAH10, 14", Intel Core Ultra 7 25…](https://www.elpalaciodehierro.com/lenovo-laptop-yoga-book-9-14iah10-14-intel-core-ultra-7-255h-16-gb-1-tb-ssd-gris-45353704.html) | $35,844 | $35,844 en palacio vs mercado -> -26% bajo la competencia |
-| 2026-08-08 07:41 | -33% | palacio | [Hervidor de agua eléctrico Porsche en acero inoxidable](https://www.elpalaciodehierro.com/smeg-hervidor-de-agua-electrico-porsche-en-acero-inoxidable-45000830.html) | $5,560 | $5,560 en palacio vs mercado -> -33% bajo la competencia |
-| 2026-08-08 02:53 | -32% | liverpool | [Apple Iphone 15 Plus 6 7 Pulgadas Super Retina Xdr](https://www.liverpool.com.mx/tienda/pdp/apple-iphone-15-plus-6-7-pulgadas-super-retina-xdr/1142674451) | $9,866 | $9,866 en liverpool vs mercado -> -32% bajo la competencia |
-| 2026-08-07 23:49 | -29% | liverpool | [Funda Esr Para Airpods Pro](https://www.liverpool.com.mx/tienda/pdp/funda-esr-para-airpods-pro/1112842183) | $723 | $723 en liverpool vs mercado -> -29% bajo la competencia |

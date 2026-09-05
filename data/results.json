@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-05 06:17 UTC",
-  "products_scanned": 819,
+  "generated_at": "2026-09-05 10:41 UTC",
+  "products_scanned": 771,
   "threshold_pct": 20.0,
-  "count": 26,
+  "count": 25,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -48,43 +48,43 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 52.0,
-      "detail": "$4,800 en palacio vs mercado -> -33% bajo la competencia",
+      "discount_pct": 60.0,
+      "detail": "$5,560 en palacio vs mercado -> -33% bajo la competencia",
       "likely_typo": false,
-      "savings": 2399.76,
+      "savings": 2780.0,
       "store": "palacio",
-      "name": "Smartwatch Watch 5 Unisex",
-      "url": "https://www.elpalaciodehierro.com/huawei-smartwatch-watch-5-unisex-45258358.html",
-      "price": 4799.52,
-      "list_price": 9999.0,
+      "name": "Hervidor de agua eléctrico Porsche en acero inoxidable",
+      "url": "https://www.elpalaciodehierro.com/smeg-hervidor-de-agua-electrico-porsche-en-acero-inoxidable-45000830.html",
+      "price": 5560.0,
+      "list_price": 13900.0,
       "ean": null,
       "model": null,
-      "brand": "Huawei",
+      "brand": "Smeg",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "45258358",
+        "id": "45000830",
         "outlet": false
       }
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 45.0,
-      "detail": "$989 en palacio vs mercado -> -31% bajo la competencia",
+      "discount_pct": 58.0,
+      "detail": "$47,999 en palacio vs mercado -> -33% bajo la competencia",
       "likely_typo": false,
-      "savings": 449.75,
+      "savings": 23999.64,
       "store": "palacio",
-      "name": "Licuadora HR2242 93 12 velocidades",
-      "url": "https://www.elpalaciodehierro.com/philips-licuadora-hr2242-93-12-velocidades-45215651.html",
-      "price": 989.45,
-      "list_price": 1799.0,
+      "name": "Pantalla 85 Pulgadas Plana Micro RGB 4K MRN85R85HAFXZX",
+      "url": "https://www.elpalaciodehierro.com/samsung-pantalla-85-pulgadas-plana-micro-rgb-4k-mrn85r85hafxzx-45361289.html",
+      "price": 47999.28,
+      "list_price": 114284.0,
       "ean": null,
-      "model": "HR2242",
-      "brand": "Philips",
+      "model": "MRN85R85HAFXZX",
+      "brand": "Samsung",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "45215651",
+        "id": "45361289",
         "outlet": false
       }
     },
@@ -112,21 +112,21 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 30.0,
-      "detail": "$3,219 en palacio vs mercado -> -30% bajo la competencia",
+      "detail": "$11,899 en palacio vs mercado -> -30% bajo la competencia",
       "likely_typo": false,
-      "savings": 1379.7,
+      "savings": 5099.7,
       "store": "palacio",
-      "name": "Celular Galaxy A17 5G 128 GB, RAM 4 GB Negro Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-a17-5g-128-gb-ram-4-gb-negro-desbloqueado-44951471.html",
-      "price": 3219.3,
-      "list_price": 4599.0,
+      "name": "Pantalla 65 Pulgadas Plana QLED 4K Google TV 65Q65L",
+      "url": "https://www.elpalaciodehierro.com/tcl-pantalla-65-pulgadas-plana-qled-4k-google-tv-65q65l--45657638.html",
+      "price": 11899.3,
+      "list_price": 16999.0,
       "ean": null,
-      "model": null,
-      "brand": "Samsung",
+      "model": "65Q65L",
+      "brand": "Tcl",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "44951471",
+        "id": "45657638",
         "outlet": false
       }
     },
@@ -158,27 +158,6 @@
       "likely_typo": false,
       "savings": 1199.7,
       "store": "palacio",
-      "name": "Audífonos Inalámbricos para entrenamiento Bluetooth Powerbeats Fit Gris grava",
-      "url": "https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-gris-grava-45001063.html",
-      "price": 2799.3,
-      "list_price": 3999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Apple",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45001063",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 30.0,
-      "detail": "$2,799 en palacio vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1199.7,
-      "store": "palacio",
       "name": "Audífonos Inalámbricos para entrenamiento Bluetooth Powerbeats Fit Negro azabache",
       "url": "https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-negro-azabache-45001062.html",
       "price": 2799.3,
@@ -190,6 +169,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45001062",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 30.0,
+      "detail": "$2,799 en palacio vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1199.7,
+      "store": "palacio",
+      "name": "Audífonos Inalámbricos para entrenamiento Bluetooth Powerbeats Fit Gris grava",
+      "url": "https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-gris-grava-45001063.html",
+      "price": 2799.3,
+      "list_price": 3999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Apple",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45001063",
         "outlet": false
       }
     },
@@ -300,6 +300,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 58.0,
+      "detail": "$60,000 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 19999.84,
+      "store": "palacio",
+      "name": "Pantalla 75 Pulgadas Plana Micro RGB 4K MRN75R95HAFXZX",
+      "url": "https://www.elpalaciodehierro.com/samsung-pantalla-75-pulgadas-plana-micro-rgb-4k-mrn75r95hafxzx-45367500.html",
+      "price": 59999.52,
+      "list_price": 142856.0,
+      "ean": null,
+      "model": "MRN75R95HAFXZX",
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45367500",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 40.0,
       "detail": "$2,694 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
@@ -405,27 +426,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$7,799 en palacio vs mercado -> -21% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2079.84,
-      "store": "palacio",
-      "name": "Celular Nova 14 Negro 512 GB 12 GB Negro Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/huawei-celular-nova-14-negro-512-gb-12-gb-negro-desbloqueado-45262441.html",
-      "price": 7799.4,
-      "list_price": 12999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Huawei",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45262441",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 43.0,
       "detail": "$13,109 en palacio vs mercado -> -21% bajo la competencia",
       "likely_typo": false,
@@ -442,27 +442,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45242623",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 43.0,
-      "detail": "$11,399 en palacio vs mercado -> -21% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2999.85,
-      "store": "palacio",
-      "name": "Smartwatch Ultimate 2 Hombre",
-      "url": "https://www.elpalaciodehierro.com/huawei-smartwatch-ultimate-2-hombre-45242624.html",
-      "price": 11399.43,
-      "list_price": 19999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Huawei",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45242624",
         "outlet": false
       }
     },
