@@ -71,18 +71,6 @@
     "ts": "2026-09-03T22:36:53.157121+00:00",
     "items": []
   },
-  "amazon|HUAWEIDESBLOQUEADOCELULARMATE512": {
-    "ts": "2026-09-03T14:02:02.159872+00:00",
-    "items": []
-  },
-  "walmart|HUAWEIDESBLOQUEADOCELULARMATE512": {
-    "ts": "2026-09-03T14:02:03.841949+00:00",
-    "items": []
-  },
-  "sams|HUAWEIDESBLOQUEADOCELULARMATE512": {
-    "ts": "2026-09-03T14:02:05.488983+00:00",
-    "items": []
-  },
   "amazon|APPLEENTRENAMIENTOINALAMBRICOSPOWERBEATSBLUETOOTH": {
     "ts": "2026-09-04T23:34:55.321751+00:00",
     "items": []
@@ -729,6 +717,18 @@
   },
   "sams|NESPRESSONESPRESSOCAFETERAVERTUOPOP": {
     "ts": "2026-09-05T13:32:43.224499+00:00",
+    "items": []
+  },
+  "amazon|NESPRESSONESPRESSOCAFETERAVERTUORED": {
+    "ts": "2026-09-05T16:13:43.760771+00:00",
+    "items": []
+  },
+  "walmart|NESPRESSONESPRESSOCAFETERAVERTUORED": {
+    "ts": "2026-09-05T16:13:45.399726+00:00",
+    "items": []
+  },
+  "sams|NESPRESSONESPRESSOCAFETERAVERTUORED": {
+    "ts": "2026-09-05T16:13:47.032860+00:00",
     "items": []
   }
 }
