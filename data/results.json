@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-06 06:57 UTC",
-  "products_scanned": 817,
+  "generated_at": "2026-09-06 11:29 UTC",
+  "products_scanned": 751,
   "threshold_pct": 20.0,
-  "count": 25,
+  "count": 22,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -22,6 +22,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45215652",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 50.0,
+      "detail": "$8,500 en palacio vs mercado -> -38% bajo la competencia",
+      "likely_typo": false,
+      "savings": 5099.7,
+      "store": "palacio",
+      "name": "Celular Huawei Nova 13 Pro, RAM 12 GB, 512 GB Blanco Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/huawei-celular-huawei-nova-13-pro-ram-12-gb-512-gb-blanco-desbloqueado-44600335.html",
+      "price": 8499.5,
+      "list_price": 16999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Huawei",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44600335",
         "outlet": false
       }
     },
@@ -85,27 +106,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45258358",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 45.0,
-      "detail": "$989 en palacio vs mercado -> -31% bajo la competencia",
-      "likely_typo": false,
-      "savings": 449.75,
-      "store": "palacio",
-      "name": "Licuadora HR2242 93 12 velocidades",
-      "url": "https://www.elpalaciodehierro.com/philips-licuadora-hr2242-93-12-velocidades-45215651.html",
-      "price": 989.45,
-      "list_price": 1799.0,
-      "ean": null,
-      "model": "HR2242",
-      "brand": "Philips",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45215651",
         "outlet": false
       }
     },
@@ -279,48 +279,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 44.0,
-      "detail": "$10,399 en palacio vs mercado -> -28% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4055.21,
-      "store": "palacio",
-      "name": "Pantalla 65 Pulgadas Plana MiniLED 4K 65Z670RM FIRE TV",
-      "url": "https://www.elpalaciodehierro.com/toshiba-pantalla-65-pulgadas-plana-miniled-4k-65z670rm-fire-tv-45315663.html",
-      "price": 10399.2,
-      "list_price": 18570.0,
-      "ean": null,
-      "model": "65Z670RM",
-      "brand": "Toshiba",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45315663",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 45.0,
-      "detail": "$8,946 en palacio vs mercado -> -28% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3415.65,
-      "store": "palacio",
-      "name": "Laptop 15FD0161LA, 15.6\", Intel Core i5, RAM 8 GB, SSD 256 GB",
-      "url": "https://www.elpalaciodehierro.com/hp-laptop-15fd0161la-15.6-intel-core-i5-ram-8-gb-ssd-256-gb-45371050.html",
-      "price": 8945.75,
-      "list_price": 16265.0,
-      "ean": null,
-      "model": "15FD0161LA",
-      "brand": "Hp",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45371050",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 58.0,
       "detail": "$60,000 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
@@ -442,27 +400,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45242624",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 34.0,
-      "detail": "$7,919 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2039.83,
-      "store": "palacio",
-      "name": "Smartwatch Galaxy Watch Ultra 2025 Titanium azul Unisex",
-      "url": "https://www.elpalaciodehierro.com/samsung-smartwatch-galaxy-watch-ultra-2025-titanium-azul-unisex-44824190.html",
-      "price": 7919.34,
-      "list_price": 11999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44824190",
         "outlet": false
       }
     },

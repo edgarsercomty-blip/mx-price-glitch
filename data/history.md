@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (1015)
+# Historial de ofertas encontradas (1016)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-09-06 11:29 | -38% | palacio | [Celular Huawei Nova 13 Pro, RAM 12 GB, 512 GB Blanco De…](https://www.elpalaciodehierro.com/huawei-celular-huawei-nova-13-pro-ram-12-gb-512-gb-blanco-desbloqueado-44600335.html) | $8,500 | $8,500 en palacio vs mercado -> -38% bajo la competencia |
 | 2026-09-05 10:41 | -25% | palacio | [Pantalla 75 Pulgadas Plana Micro RGB 4K MRN75R95HAFXZX](https://www.elpalaciodehierro.com/samsung-pantalla-75-pulgadas-plana-micro-rgb-4k-mrn75r95hafxzx-45367500.html) | $60,000 | $60,000 en palacio vs mercado -> -25% bajo la competencia |
 | 2026-09-05 10:41 | -30% | palacio | [Pantalla 65 Pulgadas Plana QLED 4K Google TV 65Q65L](https://www.elpalaciodehierro.com/tcl-pantalla-65-pulgadas-plana-qled-4k-google-tv-65q65l--45657638.html) | $11,899 | $11,899 en palacio vs mercado -> -30% bajo la competencia |
 | 2026-09-05 10:41 | -33% | palacio | [Pantalla 85 Pulgadas Plana Micro RGB 4K MRN85R85HAFXZX](https://www.elpalaciodehierro.com/samsung-pantalla-85-pulgadas-plana-micro-rgb-4k-mrn85r85hafxzx-45361289.html) | $47,999 | $47,999 en palacio vs mercado -> -33% bajo la competencia |
@@ -403,4 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-08-08 09:20 | -33% | palacio | [Funda Bumper para celular iPhone Air, Canela](https://www.elpalaciodehierro.com/apple-funda-bumper-para-celular-iphone-air-canela-45003623.html) | $360 | $360 en palacio vs mercado -> -33% bajo la competencia |
 | 2026-08-08 07:41 | -20% | palacio | [Licuadora Foddi, 2 velocidades](https://www.elpalaciodehierro.com/ninja-licuadora-foddi-2-velocidades-45040659.html) | $2,559 | $2,559 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-08-08 07:41 | -25% | palacio | [Descalcificador para Cafeteras](https://www.elpalaciodehierro.com/krups-descalcificador-para-cafeteras-15513938.html) | $74 | $74 en palacio vs mercado -> -25% bajo la competencia |
-| 2026-08-08 07:41 | -26% | palacio | [Laptop, Yoga Book 9 14IAH10, 14", Intel Core Ultra 7 25…](https://www.elpalaciodehierro.com/lenovo-laptop-yoga-book-9-14iah10-14-intel-core-ultra-7-255h-16-gb-1-tb-ssd-gris-45353704.html) | $35,844 | $35,844 en palacio vs mercado -> -26% bajo la competencia |
