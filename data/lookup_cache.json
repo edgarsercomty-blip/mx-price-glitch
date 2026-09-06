@@ -107,28 +107,16 @@
     "ts": "2026-09-05T18:20:37.833105+00:00",
     "items": []
   },
-  "amazon|SMEGCAFETERASMEG": {
-    "ts": "2026-09-04T17:02:23.884116+00:00",
-    "items": []
-  },
-  "walmart|SMEGCAFETERASMEG": {
-    "ts": "2026-09-04T17:02:26.030249+00:00",
-    "items": []
-  },
-  "sams|SMEGCAFETERASMEG": {
-    "ts": "2026-09-04T17:02:27.483942+00:00",
-    "items": []
-  },
   "amazon|APPLEENTRENAMIENTOINALAMBRICOSPOWERBEATSAUDIFONOS": {
-    "ts": "2026-09-04T17:02:19.404002+00:00",
+    "ts": "2026-09-06T17:19:48.244821+00:00",
     "items": []
   },
   "walmart|APPLEENTRENAMIENTOINALAMBRICOSPOWERBEATSAUDIFONOS": {
-    "ts": "2026-09-04T17:02:21.265123+00:00",
+    "ts": "2026-09-06T17:19:49.577620+00:00",
     "items": []
   },
   "sams|APPLEENTRENAMIENTOINALAMBRICOSPOWERBEATSAUDIFONOS": {
-    "ts": "2026-09-04T17:02:22.772312+00:00",
+    "ts": "2026-09-06T17:19:50.853987+00:00",
     "items": []
   },
   "amazon|SAMSUNGDESBLOQUEADOCELULARGALAXY128": {
@@ -777,6 +765,30 @@
   },
   "sams|APPLEMEDIANOCHETELCELIPHONE128": {
     "ts": "2026-09-06T14:22:56.544706+00:00",
+    "items": []
+  },
+  "amazon|APPLEMEDIANOCHEIPHONETELCEL128": {
+    "ts": "2026-09-06T17:19:40.506098+00:00",
+    "items": []
+  },
+  "walmart|APPLEMEDIANOCHEIPHONETELCEL128": {
+    "ts": "2026-09-06T17:19:41.878141+00:00",
+    "items": []
+  },
+  "sams|APPLEMEDIANOCHEIPHONETELCEL128": {
+    "ts": "2026-09-06T17:19:43.363241+00:00",
+    "items": []
+  },
+  "amazon|SAMSUNGDESBLOQUEADOTITANIUMCELULARGALAXY": {
+    "ts": "2026-09-06T17:19:44.472594+00:00",
+    "items": []
+  },
+  "walmart|SAMSUNGDESBLOQUEADOTITANIUMCELULARGALAXY": {
+    "ts": "2026-09-06T17:19:45.776236+00:00",
+    "items": []
+  },
+  "sams|SAMSUNGDESBLOQUEADOTITANIUMCELULARGALAXY": {
+    "ts": "2026-09-06T17:19:47.154401+00:00",
     "items": []
   }
 }
