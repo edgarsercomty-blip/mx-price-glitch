@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (1016)
+# Historial de ofertas encontradas (1017)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-09-06 14:23 | -30% | palacio | [iPhone 14 128 GB Medianoche Telcel](https://www.elpalaciodehierro.com/apple-iphone%C2%A014-128%C2%A0gb-medianoche-telcel-42824645.html) | $10,499 | $10,499 en palacio vs mercado -> -30% bajo la competencia |
 | 2026-09-06 11:29 | -38% | palacio | [Celular Huawei Nova 13 Pro, RAM 12 GB, 512 GB Blanco De…](https://www.elpalaciodehierro.com/huawei-celular-huawei-nova-13-pro-ram-12-gb-512-gb-blanco-desbloqueado-44600335.html) | $8,500 | $8,500 en palacio vs mercado -> -38% bajo la competencia |
 | 2026-09-05 10:41 | -25% | palacio | [Pantalla 75 Pulgadas Plana Micro RGB 4K MRN75R95HAFXZX](https://www.elpalaciodehierro.com/samsung-pantalla-75-pulgadas-plana-micro-rgb-4k-mrn75r95hafxzx-45367500.html) | $60,000 | $60,000 en palacio vs mercado -> -25% bajo la competencia |
 | 2026-09-05 10:41 | -30% | palacio | [Pantalla 65 Pulgadas Plana QLED 4K Google TV 65Q65L](https://www.elpalaciodehierro.com/tcl-pantalla-65-pulgadas-plana-qled-4k-google-tv-65q65l--45657638.html) | $11,899 | $11,899 en palacio vs mercado -> -30% bajo la competencia |
@@ -403,4 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-08-08 10:27 | -20% | palacio | [Pantalla 85 pulgadas Plana Mini-LED 4K Google TV 85QM7L…](https://www.elpalaciodehierro.com/tcl-pantalla-85-pulgadas-plana-mini-led-4k-google-tv-85qm7l-sqd-45368711.html) | $33,599 | $33,599 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-08-08 09:20 | -33% | palacio | [Funda Bumper para celular iPhone Air, Canela](https://www.elpalaciodehierro.com/apple-funda-bumper-para-celular-iphone-air-canela-45003623.html) | $360 | $360 en palacio vs mercado -> -33% bajo la competencia |
 | 2026-08-08 07:41 | -20% | palacio | [Licuadora Foddi, 2 velocidades](https://www.elpalaciodehierro.com/ninja-licuadora-foddi-2-velocidades-45040659.html) | $2,559 | $2,559 en palacio vs mercado -> -20% bajo la competencia |
-| 2026-08-08 07:41 | -25% | palacio | [Descalcificador para Cafeteras](https://www.elpalaciodehierro.com/krups-descalcificador-para-cafeteras-15513938.html) | $74 | $74 en palacio vs mercado -> -25% bajo la competencia |

@@ -1,7 +1,7 @@
-# 🆕 Nuevos posibles errores de precio — 2026-09-06 11:29 UTC
+# 🆕 Nuevos posibles errores de precio — 2026-09-06 14:23 UTC
 
 - Hallazgos: **1**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
-| -38% | $5,100 | palacio | [Celular Huawei Nova 13 Pro, RAM 12 GB, 512 GB Blanco Desbloq…](https://www.elpalaciodehierro.com/huawei-celular-huawei-nova-13-pro-ram-12-gb-512-gb-blanco-desbloqueado-44600335.html) | $8,500 | Confirmado vs competencia | $8,500 en palacio vs mercado -> -38% bajo la competencia |
+| -30% | $4,500 | palacio | [iPhone 14 128 GB Medianoche Telcel](https://www.elpalaciodehierro.com/apple-iphone%C2%A014-128%C2%A0gb-medianoche-telcel-42824645.html) | $10,499 | Confirmado vs competencia | $10,499 en palacio vs mercado -> -30% bajo la competencia |

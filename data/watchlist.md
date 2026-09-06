@@ -490,7 +490,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Cafetera Nespresso Vertuo Pop Red](https://www.elpalaciodehierro.com/nespresso-cafetera-nespresso-vertuo-pop-red-43394466.html) | $1,396 | -60% |
 | 🟢 disponible | palacio | [Laptop Gaming Thin A15 B7V, 15.6quot, NVIDIA RTX 4050, AMD R…](https://www.elpalaciodehierro.com/msi-laptop-gaming-thin-a15-b7v-15.6quot-nvidia-rtx-4050-amd-ryzen-5-7535hs-ram-16-gb-512-gb-ssd-gris-43836168.html) | $12,800 | -33% |
 | 🟢 disponible | palacio | [iPhone 13 128 GB Blanco Telcel](https://www.elpalaciodehierro.com/apple-iphone-13-128-gb-blanco-telcel-44639312.html) | $10,009 | -23% |
-| 🟢 disponible | palacio | [iPhone 14 128 GB Medianoche Telcel](https://www.elpalaciodehierro.com/apple-iphone%C2%A014-128%C2%A0gb-medianoche-telcel-42824645.html) | $11,549 | -23% |
+| 🟢 disponible | palacio | [iPhone 14 128 GB Medianoche Telcel](https://www.elpalaciodehierro.com/apple-iphone%C2%A014-128%C2%A0gb-medianoche-telcel-42824645.html) | $10,499 | -30% |
 | 🟢 disponible | liverpool | [Cafetera De Capsula Nespresso Vertuo Pop Gdv6 Us Bk Ne](https://www.liverpool.com.mx/tienda/pdp/cafetera-de-capsula-nespresso-vertuo-pop-gdv6-us-bk-ne/1137498878) | $1,745 | -35% |
 | 🟢 disponible | palacio | [Hervidor de agua eléctrico Porsche en acero inoxidable](https://www.elpalaciodehierro.com/smeg-hervidor-de-agua-electrico-porsche-en-acero-inoxidable-45000829.html) | $5,560 | -33% |
 | 🟢 disponible | palacio | [Laptop 15-fc0080la 15.6 AMD Ryzen 7 7730U, RAM 16 GB, SSD 51…](https://www.elpalaciodehierro.com/hp-laptop-15-fc0080la-15.6-amd-ryzen-7-7730u-ram-16-gb-ssd-512-gb-44850150.html) | $10,335 | -25% |

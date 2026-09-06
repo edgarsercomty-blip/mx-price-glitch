@@ -311,28 +311,16 @@
     "ts": "2026-09-06T11:29:36.544648+00:00",
     "items": []
   },
-  "amazon|55Q65L": {
-    "ts": "2026-09-04T13:33:38.028226+00:00",
-    "items": []
-  },
-  "walmart|55Q65L": {
-    "ts": "2026-09-04T13:33:39.729366+00:00",
-    "items": []
-  },
-  "sams|55Q65L": {
-    "ts": "2026-09-04T13:33:41.504910+00:00",
-    "items": []
-  },
   "amazon|SAMSUNGDESBLOQUEADOTITANIUMCELULARSILVER": {
-    "ts": "2026-09-04T13:33:42.785759+00:00",
+    "ts": "2026-09-06T14:22:57.885277+00:00",
     "items": []
   },
   "walmart|SAMSUNGDESBLOQUEADOTITANIUMCELULARSILVER": {
-    "ts": "2026-09-04T13:33:44.379424+00:00",
+    "ts": "2026-09-06T14:22:59.545644+00:00",
     "items": []
   },
   "sams|SAMSUNGDESBLOQUEADOTITANIUMCELULARSILVER": {
-    "ts": "2026-09-04T13:33:46.087257+00:00",
+    "ts": "2026-09-06T14:23:01.301040+00:00",
     "items": []
   },
   "liverpool|RC20N6HBX1": {
@@ -777,6 +765,18 @@
   },
   "mercadolibre|75A400": {
     "ts": "2026-09-06T05:25:18.836533+00:00",
+    "items": []
+  },
+  "amazon|APPLEMEDIANOCHETELCELIPHONE128": {
+    "ts": "2026-09-06T14:22:52.723815+00:00",
+    "items": []
+  },
+  "walmart|APPLEMEDIANOCHETELCELIPHONE128": {
+    "ts": "2026-09-06T14:22:54.736498+00:00",
+    "items": []
+  },
+  "sams|APPLEMEDIANOCHETELCELIPHONE128": {
+    "ts": "2026-09-06T14:22:56.544706+00:00",
     "items": []
   }
 }
