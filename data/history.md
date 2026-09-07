@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (1021)
+# Historial de ofertas encontradas (1022)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-09-07 17:54 | -20% | palacio | [Celular Galaxy Z Fold8 5G 512 GB 12 GB Desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-z-fold8-5g-512-gb-12-gb-desbloqueado-45632961.html) | $36,374 | $36,374 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-09-07 12:37 | -20% | palacio | [Celular Galaxy Z Fold8 5G 512 GB 12 GB Gris Desbloquead…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-z-fold8-5g-512-gb-12-gb-gris-desbloqueado-45632962.html) | $36,374 | $36,374 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-09-07 12:37 | -20% | palacio | [Celular Galaxy Z Fold8 5G 512 GB 12 GB Desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-z-fold8-5g-512-gb-12-gb-desbloqueado-45632963.html) | $36,374 | $36,374 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-09-07 12:37 | -21% | palacio | [Celular Galaxy Z Fold8 Ultra 5G 512 GB 12 GB Violeta De…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-z-fold8-ultra-5g-512-gb-12-gb-violeta-desbloqueado-45632967.html) | $40,124 | $40,124 en palacio vs mercado -> -21% bajo la competencia |
@@ -403,4 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-08-09 19:03 | -20% | liverpool | [Cafetera De Capsula Nespresso Vertuo Pop Gdv6 Us Bk Ne](https://www.liverpool.com.mx/tienda/pdp/cafetera-de-capsula-nespresso-vertuo-pop-gdv6-us-bk-ne/1137498878) | $2,094 | $2,094 en liverpool vs mercado -> -20% bajo la competencia |
 | 2026-08-09 13:34 | -23% | palacio | [iPhone 14 128 GB Medianoche Telcel](https://www.elpalaciodehierro.com/apple-iphone%C2%A014-128%C2%A0gb-medianoche-telcel-42824645.html) | $11,549 | $11,549 en palacio vs mercado -> -23% bajo la competencia |
 | 2026-08-09 07:38 | -23% | palacio | [iPhone 13 128 GB Blanco Telcel](https://www.elpalaciodehierro.com/apple-iphone-13-128-gb-blanco-telcel-44639312.html) | $10,009 | $10,009 en palacio vs mercado -> -23% bajo la competencia |
-| 2026-08-09 07:38 | -33% | palacio | [Laptop Gaming Thin A15 B7V, 15.6quot, NVIDIA RTX 4050, …](https://www.elpalaciodehierro.com/msi-laptop-gaming-thin-a15-b7v-15.6quot-nvidia-rtx-4050-amd-ryzen-5-7535hs-ram-16-gb-512-gb-ssd-gris-43836168.html) | $12,800 | $12,800 en palacio vs mercado -> -33% bajo la competencia |
