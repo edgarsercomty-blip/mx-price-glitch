@@ -1,9 +1,13 @@
-# Historial de ofertas encontradas (1017)
+# Historial de ofertas encontradas (1021)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-09-07 12:37 | -20% | palacio | [Celular Galaxy Z Fold8 5G 512 GB 12 GB Gris Desbloquead…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-z-fold8-5g-512-gb-12-gb-gris-desbloqueado-45632962.html) | $36,374 | $36,374 en palacio vs mercado -> -20% bajo la competencia |
+| 2026-09-07 12:37 | -20% | palacio | [Celular Galaxy Z Fold8 5G 512 GB 12 GB Desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-z-fold8-5g-512-gb-12-gb-desbloqueado-45632963.html) | $36,374 | $36,374 en palacio vs mercado -> -20% bajo la competencia |
+| 2026-09-07 12:37 | -21% | palacio | [Celular Galaxy Z Fold8 Ultra 5G 512 GB 12 GB Violeta De…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-z-fold8-ultra-5g-512-gb-12-gb-violeta-desbloqueado-45632967.html) | $40,124 | $40,124 en palacio vs mercado -> -21% bajo la competencia |
+| 2026-09-07 12:37 | -21% | palacio | [Celular Galaxy Z Fold8 Ultra 5G 512 GB 12 GB Desbloquea…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-z-fold8-ultra-5g-512-gb-12-gb-desbloqueado-45632965.html) | $40,124 | $40,124 en palacio vs mercado -> -21% bajo la competencia |
 | 2026-09-06 14:23 | -30% | palacio | [iPhone 14 128 GB Medianoche Telcel](https://www.elpalaciodehierro.com/apple-iphone%C2%A014-128%C2%A0gb-medianoche-telcel-42824645.html) | $10,499 | $10,499 en palacio vs mercado -> -30% bajo la competencia |
 | 2026-09-06 11:29 | -38% | palacio | [Celular Huawei Nova 13 Pro, RAM 12 GB, 512 GB Blanco De…](https://www.elpalaciodehierro.com/huawei-celular-huawei-nova-13-pro-ram-12-gb-512-gb-blanco-desbloqueado-44600335.html) | $8,500 | $8,500 en palacio vs mercado -> -38% bajo la competencia |
 | 2026-09-05 10:41 | -25% | palacio | [Pantalla 75 Pulgadas Plana Micro RGB 4K MRN75R95HAFXZX](https://www.elpalaciodehierro.com/samsung-pantalla-75-pulgadas-plana-micro-rgb-4k-mrn75r95hafxzx-45367500.html) | $60,000 | $60,000 en palacio vs mercado -> -25% bajo la competencia |
@@ -400,7 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-08-09 13:34 | -23% | palacio | [iPhone 14 128 GB Medianoche Telcel](https://www.elpalaciodehierro.com/apple-iphone%C2%A014-128%C2%A0gb-medianoche-telcel-42824645.html) | $11,549 | $11,549 en palacio vs mercado -> -23% bajo la competencia |
 | 2026-08-09 07:38 | -23% | palacio | [iPhone 13 128 GB Blanco Telcel](https://www.elpalaciodehierro.com/apple-iphone-13-128-gb-blanco-telcel-44639312.html) | $10,009 | $10,009 en palacio vs mercado -> -23% bajo la competencia |
 | 2026-08-09 07:38 | -33% | palacio | [Laptop Gaming Thin A15 B7V, 15.6quot, NVIDIA RTX 4050, …](https://www.elpalaciodehierro.com/msi-laptop-gaming-thin-a15-b7v-15.6quot-nvidia-rtx-4050-amd-ryzen-5-7535hs-ram-16-gb-512-gb-ssd-gris-43836168.html) | $12,800 | $12,800 en palacio vs mercado -> -33% bajo la competencia |
-| 2026-08-08 14:09 | -50% | palacio | [Cafetera Nespresso Vertuo Pop Red](https://www.elpalaciodehierro.com/nespresso-cafetera-nespresso-vertuo-pop-red-43394466.html) | $1,745 | $1,745 en palacio vs mercado -> -50% bajo la competencia |
-| 2026-08-08 10:27 | -20% | palacio | [Pantalla 85 pulgadas Plana Mini-LED 4K Google TV 85QM7L…](https://www.elpalaciodehierro.com/tcl-pantalla-85-pulgadas-plana-mini-led-4k-google-tv-85qm7l-sqd-45368711.html) | $33,599 | $33,599 en palacio vs mercado -> -20% bajo la competencia |
-| 2026-08-08 09:20 | -33% | palacio | [Funda Bumper para celular iPhone Air, Canela](https://www.elpalaciodehierro.com/apple-funda-bumper-para-celular-iphone-air-canela-45003623.html) | $360 | $360 en palacio vs mercado -> -33% bajo la competencia |
-| 2026-08-08 07:41 | -20% | palacio | [Licuadora Foddi, 2 velocidades](https://www.elpalaciodehierro.com/ninja-licuadora-foddi-2-velocidades-45040659.html) | $2,559 | $2,559 en palacio vs mercado -> -20% bajo la competencia |

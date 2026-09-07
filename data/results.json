@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-07 06:08 UTC",
-  "products_scanned": 816,
+  "generated_at": "2026-09-07 12:37 UTC",
+  "products_scanned": 802,
   "threshold_pct": 20.0,
-  "count": 21,
+  "count": 26,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -27,6 +27,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 50.0,
+      "detail": "$8,500 en palacio vs mercado -> -38% bajo la competencia",
+      "likely_typo": false,
+      "savings": 5099.7,
+      "store": "palacio",
+      "name": "Celular Huawei Nova 13 Pro, RAM 12 GB, 512 GB Negro Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/huawei-celular-huawei-nova-13-pro-ram-12-gb-512-gb-negro-desbloqueado-44600334.html",
+      "price": 8499.5,
+      "list_price": 16999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Huawei",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44600334",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 35.0,
       "detail": "$18,199 en palacio vs mercado -> -35% bajo la competencia",
       "likely_typo": false,
@@ -43,6 +64,27 @@
       "currency": "MXN",
       "extra": {
         "id": "43441685",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 60.0,
+      "detail": "$5,560 en palacio vs mercado -> -33% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2780.0,
+      "store": "palacio",
+      "name": "Hervidor de agua eléctrico Porsche en acero inoxidable",
+      "url": "https://www.elpalaciodehierro.com/smeg-hervidor-de-agua-electrico-porsche-en-acero-inoxidable-45000830.html",
+      "price": 5560.0,
+      "list_price": 13900.0,
+      "ean": null,
+      "model": null,
+      "brand": "Smeg",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45000830",
         "outlet": false
       }
     },
@@ -133,21 +175,21 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 30.0,
-      "detail": "$3,219 en palacio vs mercado -> -30% bajo la competencia",
+      "detail": "$10,499 en palacio vs mercado -> -30% bajo la competencia",
       "likely_typo": false,
-      "savings": 1379.7,
+      "savings": 4499.7,
       "store": "palacio",
-      "name": "Celular Galaxy A17 5G 128 GB, RAM 4 GB Negro Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-a17-5g-128-gb-ram-4-gb-negro-desbloqueado-44951471.html",
-      "price": 3219.3,
-      "list_price": 4599.0,
+      "name": "iPhone 14 128 GB Medianoche Telcel",
+      "url": "https://www.elpalaciodehierro.com/apple-iphone%C2%A014-128%C2%A0gb-medianoche-telcel-42824645.html",
+      "price": 10499.3,
+      "list_price": 14999.0,
       "ean": null,
       "model": null,
-      "brand": "Samsung",
+      "brand": "Apple",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "44951471",
+        "id": "42824645",
         "outlet": false
       }
     },
@@ -321,27 +363,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$28,874 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 9624.75,
-      "store": "palacio",
-      "name": "Laptop IdeaPad Slim 3 15IPH11 15.3\" 24 GB Intel Core Ultra 7 355 1 TB SSD",
-      "url": "https://www.elpalaciodehierro.com/lenovo-laptop-ideapad-slim-3-15iph11-15.3-24-gb-intel-core-ultra-7-355-1-tb-ssd-45652839.html",
-      "price": 28874.25,
-      "list_price": 38499.0,
-      "ean": null,
-      "model": "15IPH11",
-      "brand": "Lenovo",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45652839",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 45.0,
       "detail": "$11,773 en palacio vs mercado -> -21% bajo la competencia",
       "likely_typo": false,
@@ -358,6 +379,69 @@
       "currency": "MXN",
       "extra": {
         "id": "45384043",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$40,124 en palacio vs mercado -> -21% bajo la competencia",
+      "likely_typo": false,
+      "savings": 10699.8,
+      "store": "palacio",
+      "name": "Celular Galaxy Z Fold8 Ultra 5G 512 GB 12 GB Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-z-fold8-ultra-5g-512-gb-12-gb-desbloqueado-45632965.html",
+      "price": 40124.25,
+      "list_price": 53499.0,
+      "ean": null,
+      "model": "Fold8",
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45632965",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$40,124 en palacio vs mercado -> -21% bajo la competencia",
+      "likely_typo": false,
+      "savings": 10699.8,
+      "store": "palacio",
+      "name": "Celular Galaxy Z Fold8 Ultra 5G 512 GB 12 GB Violeta Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-z-fold8-ultra-5g-512-gb-12-gb-violeta-desbloqueado-45632967.html",
+      "price": 40124.25,
+      "list_price": 53499.0,
+      "ean": null,
+      "model": "Fold8",
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45632967",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 43.0,
+      "detail": "$13,109 en palacio vs mercado -> -21% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3449.85,
+      "store": "palacio",
+      "name": "Smartwatch Ultimate 2 Hombre",
+      "url": "https://www.elpalaciodehierro.com/huawei-smartwatch-ultimate-2-hombre-45242623.html",
+      "price": 13109.43,
+      "list_price": 22999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Huawei",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45242623",
         "outlet": false
       }
     },
@@ -384,6 +468,48 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$36,374 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 9214.81,
+      "store": "palacio",
+      "name": "Celular Galaxy Z Fold8 5G 512 GB 12 GB Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-z-fold8-5g-512-gb-12-gb-desbloqueado-45632963.html",
+      "price": 36374.25,
+      "list_price": 48499.0,
+      "ean": null,
+      "model": "Fold8",
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45632963",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$36,374 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 9214.81,
+      "store": "palacio",
+      "name": "Celular Galaxy Z Fold8 5G 512 GB 12 GB Gris Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-z-fold8-5g-512-gb-12-gb-gris-desbloqueado-45632962.html",
+      "price": 36374.25,
+      "list_price": 48499.0,
+      "ean": null,
+      "model": "Fold8",
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45632962",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 60.0,
       "detail": "$4,396 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
@@ -400,27 +526,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45191597",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$50,799 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 12699.8,
-      "store": "palacio",
-      "name": "Laptop LEGION 5 15IAX10 15.1\" 32 GB Intel Core Ultra 7 255HX SSD",
-      "url": "https://www.elpalaciodehierro.com/lenovo-laptop-legion-5-15iax10-15.1-32-gb-intel-core-ultra-7-255hx-ssd-45652844.html",
-      "price": 50799.2,
-      "list_price": 63499.0,
-      "ean": null,
-      "model": "15IAX10",
-      "brand": "Lenovo",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45652844",
         "outlet": false
       }
     },
