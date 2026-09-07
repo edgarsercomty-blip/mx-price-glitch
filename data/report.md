@@ -1,12 +1,11 @@
-# Errores/chollos de precio — 2026-09-07 20:55 UTC
+# Errores/chollos de precio — 2026-09-07 23:11 UTC
 
-- Productos revisados: **820**
+- Productos revisados: **819**
 - Umbral de diferencia: **20%**
-- Hallazgos: **28**
+- Hallazgos: **27**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
-| -33% | $24,000 | palacio | [Pantalla 85 Pulgadas Plana Micro RGB 4K MRN85R85HAFXZX](https://www.elpalaciodehierro.com/samsung-pantalla-85-pulgadas-plana-micro-rgb-4k-mrn85r85hafxzx-45361289.html) | $47,999 | Confirmado vs competencia | $47,999 en palacio vs mercado -> -33% bajo la competencia |
 | -20% | $12,700 | palacio | [Laptop LEGION 5 15IAX10 15.1" 32 GB Intel Core Ultra 7 255HX…](https://www.elpalaciodehierro.com/lenovo-laptop-legion-5-15iax10-15.1-32-gb-intel-core-ultra-7-255hx-ssd-45652844.html) | $50,799 | Confirmado vs competencia | $50,799 en palacio vs mercado -> -20% bajo la competencia |
 | -30% | $10,800 | palacio | [Celular Galaxy S25 Ultra 512 GB, RAM 12 GB Titanium White Si…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s25-ultra-512-gb-ram-12-gb-titanium-white-silver-desbloqueado-44443565.html) | $25,199 | Confirmado vs competencia | $25,199 en palacio vs mercado -> -30% bajo la competencia |
 | -21% | $10,700 | palacio | [Celular Galaxy Z Fold8 Ultra 5G 512 GB 12 GB Desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-z-fold8-ultra-5g-512-gb-12-gb-desbloqueado-45632965.html) | $40,124 | Confirmado vs competencia | $40,124 en palacio vs mercado -> -21% bajo la competencia |
