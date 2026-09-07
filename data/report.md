@@ -1,20 +1,17 @@
-# Errores/chollos de precio — 2026-09-07 01:02 UTC
+# Errores/chollos de precio — 2026-09-07 05:34 UTC
 
-- Productos revisados: **818**
+- Productos revisados: **816**
 - Umbral de diferencia: **20%**
-- Hallazgos: **24**
+- Hallazgos: **21**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
 | -33% | $24,000 | palacio | [Pantalla 85 Pulgadas Plana Micro RGB 4K MRN85R85HAFXZX](https://www.elpalaciodehierro.com/samsung-pantalla-85-pulgadas-plana-micro-rgb-4k-mrn85r85hafxzx-45361289.html) | $47,999 | Confirmado vs competencia | $47,999 en palacio vs mercado -> -33% bajo la competencia |
-| -25% | $20,000 | palacio | [Pantalla 75 Pulgadas Plana Micro RGB 4K MRN75R95HAFXZX](https://www.elpalaciodehierro.com/samsung-pantalla-75-pulgadas-plana-micro-rgb-4k-mrn75r95hafxzx-45367500.html) | $60,000 | Confirmado vs competencia | $60,000 en palacio vs mercado -> -25% bajo la competencia |
 | -20% | $12,700 | palacio | [Laptop LEGION 5 15IAX10 15.1" 32 GB Intel Core Ultra 7 255HX…](https://www.elpalaciodehierro.com/lenovo-laptop-legion-5-15iax10-15.1-32-gb-intel-core-ultra-7-255hx-ssd-45652844.html) | $50,799 | Confirmado vs competencia | $50,799 en palacio vs mercado -> -20% bajo la competencia |
-| -29% | $11,340 | palacio | [Refrigerador French Door 28 p3 GM28LIP](https://www.elpalaciodehierro.com/lg-refrigerador-french-door-28-p3-gm28lip-42808174.html) | $28,350 | Confirmado vs competencia | $28,350 en palacio vs mercado -> -29% bajo la competencia |
 | -30% | $10,800 | palacio | [Celular Galaxy S25 Ultra 512 GB, RAM 12 GB Titanium White Si…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s25-ultra-512-gb-ram-12-gb-titanium-white-silver-desbloqueado-44443565.html) | $25,199 | Confirmado vs competencia | $25,199 en palacio vs mercado -> -30% bajo la competencia |
 | -29% | $10,285 | palacio | [Pantalla 65 Pulgadas Plana Micro RGB 4K MRN65R85HAFXZX](https://www.elpalaciodehierro.com/samsung-pantalla-65-pulgadas-plana-micro-rgb-4k-mrn65r85hafxzx-45367602.html) | $25,713 | Confirmado vs competencia | $25,713 en palacio vs mercado -> -29% bajo la competencia |
 | -35% | $9,800 | palacio | [Lavadora automática 22 kg carga frontal F-WF22C640WCP blanca](https://www.elpalaciodehierro.com/samsung-lavadora-automatica-22-kg-carga-frontal-f-wf22c640wcp-blanca-43441685.html) | $18,199 | Confirmado vs competencia | $18,199 en palacio vs mercado -> -35% bajo la competencia |
 | -25% | $9,625 | palacio | [Laptop IdeaPad Slim 3 15IPH11 15.3" 24 GB Intel Core Ultra 7…](https://www.elpalaciodehierro.com/lenovo-laptop-ideapad-slim-3-15iph11-15.3-24-gb-intel-core-ultra-7-355-1-tb-ssd-45652839.html) | $28,874 | Confirmado vs competencia | $28,874 en palacio vs mercado -> -25% bajo la competencia |
-| -25% | $7,500 | palacio | [Celular RAZR 70 Ultra 512 GB 8 GB Azul Desbloqueado](https://www.elpalaciodehierro.com/motorola-celular-razr-70-ultra-512-gb-8-gb-azul-desbloqueado-45630424.html) | $22,499 | Confirmado vs competencia | $22,499 en palacio vs mercado -> -25% bajo la competencia |
 | -31% | $4,550 | palacio | [Laptop Chromebook IdeaPad Slim 3i, 14", Intel Core i3-N305, …](https://www.elpalaciodehierro.com/lenovo-laptop-chromebook-ideapad-slim-3i-14-intel-core-i3-n305-ram-8-gb-128-gb-emmc-45645120.html) | $10,324 | Confirmado vs competencia | $10,324 en palacio vs mercado -> -31% bajo la competencia |
 | -28% | $4,173 | palacio | [Laptop OmniBook 3, 14", Intel Core I5, RAM 8 GB, SSD 512 GB](https://www.elpalaciodehierro.com/hp-laptop-omnibook-3-14-intel-core-i5-ram-8-gb-ssd-512-gb-45384039.html) | $10,543 | Confirmado vs competencia | $10,543 en palacio vs mercado -> -28% bajo la competencia |
 | -28% | $4,055 | palacio | [Pantalla 65 Pulgadas Plana MiniLED 4K 65Z670RM FIRE TV](https://www.elpalaciodehierro.com/toshiba-pantalla-65-pulgadas-plana-miniled-4k-65z670rm-fire-tv-45315663.html) | $10,399 | Confirmado vs competencia | $10,399 en palacio vs mercado -> -28% bajo la competencia |

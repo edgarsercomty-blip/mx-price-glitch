@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-07 01:02 UTC",
-  "products_scanned": 818,
+  "generated_at": "2026-09-07 05:34 UTC",
+  "products_scanned": 816,
   "threshold_pct": 20.0,
-  "count": 24,
+  "count": 21,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -237,27 +237,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 50.0,
-      "detail": "$28,350 en palacio vs mercado -> -29% bajo la competencia",
-      "likely_typo": false,
-      "savings": 11339.8,
-      "store": "palacio",
-      "name": "Refrigerador French Door 28 p3 GM28LIP",
-      "url": "https://www.elpalaciodehierro.com/lg-refrigerador-french-door-28-p3-gm28lip-42808174.html",
-      "price": 28349.5,
-      "list_price": 56699.0,
-      "ean": null,
-      "model": "GM28LIP",
-      "brand": "Lg",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "42808174",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 52.0,
       "detail": "$10,543 en palacio vs mercado -> -28% bajo la competencia",
       "likely_typo": false,
@@ -321,27 +300,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 58.0,
-      "detail": "$60,000 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 19999.84,
-      "store": "palacio",
-      "name": "Pantalla 75 Pulgadas Plana Micro RGB 4K MRN75R95HAFXZX",
-      "url": "https://www.elpalaciodehierro.com/samsung-pantalla-75-pulgadas-plana-micro-rgb-4k-mrn75r95hafxzx-45367500.html",
-      "price": 59999.52,
-      "list_price": 142856.0,
-      "ean": null,
-      "model": "MRN75R95HAFXZX",
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45367500",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 40.0,
       "detail": "$2,694 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
@@ -379,27 +337,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45652839",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$22,499 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 7499.75,
-      "store": "palacio",
-      "name": "Celular RAZR 70 Ultra 512 GB 8 GB Azul Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/motorola-celular-razr-70-ultra-512-gb-8-gb-azul-desbloqueado-45630424.html",
-      "price": 22499.25,
-      "list_price": 29999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Motorola",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45630424",
         "outlet": false
       }
     },
