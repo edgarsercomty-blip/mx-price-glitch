@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-09-08 10:44 UTC",
-  "products_scanned": 751,
+  "generated_at": "2026-09-08 14:50 UTC",
+  "products_scanned": 813,
   "threshold_pct": 20.0,
-  "count": 23,
+  "count": 30,
   "findings": [
     {
       "kind": "cross_confirmed",
-      "discount_pct": 50.0,
-      "detail": "$8,500 en palacio vs mercado -> -38% bajo la competencia",
+      "discount_pct": 65.0,
+      "detail": "$1,120 en palacio vs mercado -> -53% bajo la competencia",
       "likely_typo": false,
-      "savings": 5099.7,
+      "savings": 1279.6,
       "store": "palacio",
-      "name": "Celular Huawei Nova 13 Pro, RAM 12 GB, 512 GB Negro Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/huawei-celular-huawei-nova-13-pro-ram-12-gb-512-gb-negro-desbloqueado-44600334.html",
-      "price": 8499.5,
-      "list_price": 16999.0,
+      "name": "Licuadora HR2244 91 12 velocidades",
+      "url": "https://www.elpalaciodehierro.com/philips-licuadora-hr2244-91-12-velocidades-45215652.html",
+      "price": 1119.65,
+      "list_price": 3199.0,
       "ean": null,
-      "model": null,
-      "brand": "Huawei",
+      "model": "HR2244",
+      "brand": "Philips",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "44600334",
+        "id": "45215652",
         "outlet": false
       }
     },
@@ -69,6 +69,48 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 52.0,
+      "detail": "$4,800 en palacio vs mercado -> -33% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2399.76,
+      "store": "palacio",
+      "name": "Smartwatch Watch 5 Unisex",
+      "url": "https://www.elpalaciodehierro.com/huawei-smartwatch-watch-5-unisex-45258358.html",
+      "price": 4799.52,
+      "list_price": 9999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Huawei",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45258358",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 45.0,
+      "detail": "$989 en palacio vs mercado -> -31% bajo la competencia",
+      "likely_typo": false,
+      "savings": 449.75,
+      "store": "palacio",
+      "name": "Licuadora HR2242 93 12 velocidades",
+      "url": "https://www.elpalaciodehierro.com/philips-licuadora-hr2242-93-12-velocidades-45215651.html",
+      "price": 989.45,
+      "list_price": 1799.0,
+      "ean": null,
+      "model": "HR2242",
+      "brand": "Philips",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45215651",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 41.0,
       "detail": "$10,324 en palacio vs mercado -> -31% bajo la competencia",
       "likely_typo": false,
@@ -106,6 +148,48 @@
       "currency": "MXN",
       "extra": {
         "id": "44443565",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 30.0,
+      "detail": "$2,799 en palacio vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1199.7,
+      "store": "palacio",
+      "name": "Audífonos Inalámbricos para entrenamiento Bluetooth Powerbeats Fit Negro azabache",
+      "url": "https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-negro-azabache-45001062.html",
+      "price": 2799.3,
+      "list_price": 3999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Apple",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45001062",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 30.0,
+      "detail": "$2,799 en palacio vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1199.7,
+      "store": "palacio",
+      "name": "Audífonos Inalámbricos para entrenamiento Bluetooth Powerbeats Fit Gris grava",
+      "url": "https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-gris-grava-45001063.html",
+      "price": 2799.3,
+      "list_price": 3999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Apple",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45001063",
         "outlet": false
       }
     },
@@ -300,6 +384,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$2,699 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 899.75,
+      "store": "palacio",
+      "name": "Monitor de sueño Index",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-de-sueno-index-44840620.html",
+      "price": 2699.25,
+      "list_price": 3599.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44840620",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 45.0,
       "detail": "$11,773 en palacio vs mercado -> -21% bajo la competencia",
       "likely_typo": false,
@@ -337,6 +442,27 @@
       "currency": "MXN",
       "extra": {
         "id": "43441685",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$40,124 en palacio vs mercado -> -21% bajo la competencia",
+      "likely_typo": false,
+      "savings": 10699.8,
+      "store": "palacio",
+      "name": "Celular Galaxy Z Fold8 Ultra 5G 512 GB 12 GB Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-z-fold8-ultra-5g-512-gb-12-gb-desbloqueado-45632965.html",
+      "price": 40124.25,
+      "list_price": 53499.0,
+      "ean": null,
+      "model": "Fold8",
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45632965",
         "outlet": false
       }
     },
@@ -442,6 +568,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45632961",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 60.0,
+      "detail": "$4,396 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1099.0,
+      "store": "palacio",
+      "name": "Cafetera Vertuo Lattíssima White",
+      "url": "https://www.elpalaciodehierro.com/nespresso-cafetera-vertuo-lattissima-white-45191597.html",
+      "price": 4396.0,
+      "list_price": 10990.0,
+      "ean": null,
+      "model": null,
+      "brand": "Nespresso",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45191597",
         "outlet": false
       }
     },
