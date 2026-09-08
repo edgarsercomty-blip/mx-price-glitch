@@ -1,8 +1,8 @@
-# Errores/chollos de precio — 2026-09-08 01:14 UTC
+# Errores/chollos de precio — 2026-09-08 05:32 UTC
 
-- Productos revisados: **818**
+- Productos revisados: **811**
 - Umbral de diferencia: **20%**
-- Hallazgos: **28**
+- Hallazgos: **27**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
@@ -12,17 +12,16 @@
 | -21% | $10,700 | palacio | [Celular Galaxy Z Fold8 Ultra 5G 512 GB 12 GB Desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-z-fold8-ultra-5g-512-gb-12-gb-desbloqueado-45632965.html) | $40,124 | Confirmado vs competencia | $40,124 en palacio vs mercado -> -21% bajo la competencia |
 | -21% | $10,700 | palacio | [Celular Galaxy Z Fold8 Ultra 5G 512 GB 12 GB Violeta Desbloq…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-z-fold8-ultra-5g-512-gb-12-gb-violeta-desbloqueado-45632967.html) | $40,124 | Confirmado vs competencia | $40,124 en palacio vs mercado -> -21% bajo la competencia |
 | -29% | $10,285 | palacio | [Pantalla 65 Pulgadas Plana Micro RGB 4K MRN65R85HAFXZX](https://www.elpalaciodehierro.com/samsung-pantalla-65-pulgadas-plana-micro-rgb-4k-mrn65r85hafxzx-45367602.html) | $25,713 | Confirmado vs competencia | $25,713 en palacio vs mercado -> -29% bajo la competencia |
-| -35% | $9,800 | palacio | [Lavadora automática 22 kg carga frontal F-WF22C640WCP blanca](https://www.elpalaciodehierro.com/samsung-lavadora-automatica-22-kg-carga-frontal-f-wf22c640wcp-blanca-43441685.html) | $18,199 | Confirmado vs competencia | $18,199 en palacio vs mercado -> -35% bajo la competencia |
 | -25% | $9,625 | palacio | [Laptop IdeaPad Slim 3 15IPH11 15.3" 24 GB Intel Core Ultra 7…](https://www.elpalaciodehierro.com/lenovo-laptop-ideapad-slim-3-15iph11-15.3-24-gb-intel-core-ultra-7-355-1-tb-ssd-45652839.html) | $28,874 | Confirmado vs competencia | $28,874 en palacio vs mercado -> -25% bajo la competencia |
 | -20% | $9,215 | palacio | [Celular Galaxy Z Fold8 5G 512 GB 12 GB Desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-z-fold8-5g-512-gb-12-gb-desbloqueado-45632963.html) | $36,374 | Confirmado vs competencia | $36,374 en palacio vs mercado -> -20% bajo la competencia |
 | -20% | $9,215 | palacio | [Celular Galaxy Z Fold8 5G 512 GB 12 GB Gris Desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-z-fold8-5g-512-gb-12-gb-gris-desbloqueado-45632962.html) | $36,374 | Confirmado vs competencia | $36,374 en palacio vs mercado -> -20% bajo la competencia |
 | -20% | $9,215 | palacio | [Celular Galaxy Z Fold8 5G 512 GB 12 GB Desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-z-fold8-5g-512-gb-12-gb-desbloqueado-45632961.html) | $36,374 | Confirmado vs competencia | $36,374 en palacio vs mercado -> -20% bajo la competencia |
 | -38% | $5,100 | palacio | [Celular Huawei Nova 13 Pro, RAM 12 GB, 512 GB Negro Desbloqu…](https://www.elpalaciodehierro.com/huawei-celular-huawei-nova-13-pro-ram-12-gb-512-gb-negro-desbloqueado-44600334.html) | $8,500 | Confirmado vs competencia | $8,500 en palacio vs mercado -> -38% bajo la competencia |
 | -38% | $5,100 | palacio | [Celular Huawei Nova 13 Pro, RAM 12 GB, 512 GB Blanco Desbloq…](https://www.elpalaciodehierro.com/huawei-celular-huawei-nova-13-pro-ram-12-gb-512-gb-blanco-desbloqueado-44600335.html) | $8,500 | Confirmado vs competencia | $8,500 en palacio vs mercado -> -38% bajo la competencia |
+| -21% | $4,900 | palacio | [Lavadora automática 22 kg carga frontal F-WF22C640WCP blanca](https://www.elpalaciodehierro.com/samsung-lavadora-automatica-22-kg-carga-frontal-f-wf22c640wcp-blanca-43441685.html) | $18,199 | Confirmado vs competencia | $18,199 en palacio vs mercado -> -21% bajo la competencia |
 | -31% | $4,550 | palacio | [Laptop Chromebook IdeaPad Slim 3i, 14", Intel Core i3-N305, …](https://www.elpalaciodehierro.com/lenovo-laptop-chromebook-ideapad-slim-3i-14-intel-core-i3-n305-ram-8-gb-128-gb-emmc-45645120.html) | $10,324 | Confirmado vs competencia | $10,324 en palacio vs mercado -> -31% bajo la competencia |
 | -28% | $4,173 | palacio | [Laptop OmniBook 3, 14", Intel Core I5, RAM 8 GB, SSD 512 GB](https://www.elpalaciodehierro.com/hp-laptop-omnibook-3-14-intel-core-i5-ram-8-gb-ssd-512-gb-45384039.html) | $10,543 | Confirmado vs competencia | $10,543 en palacio vs mercado -> -28% bajo la competencia |
 | -28% | $4,055 | palacio | [Pantalla 65 Pulgadas Plana MiniLED 4K 65Z670RM FIRE TV](https://www.elpalaciodehierro.com/toshiba-pantalla-65-pulgadas-plana-miniled-4k-65z670rm-fire-tv-45315663.html) | $10,399 | Confirmado vs competencia | $10,399 en palacio vs mercado -> -28% bajo la competencia |
-| -21% | $3,450 | palacio | [Smartwatch Ultimate 2 Hombre](https://www.elpalaciodehierro.com/huawei-smartwatch-ultimate-2-hombre-45242623.html) | $13,109 | Confirmado vs competencia | $13,109 en palacio vs mercado -> -21% bajo la competencia |
 | -28% | $3,416 | palacio | [Laptop 15FD0161LA, 15.6", Intel Core i5, RAM 8 GB, SSD 256 G…](https://www.elpalaciodehierro.com/hp-laptop-15fd0161la-15.6-intel-core-i5-ram-8-gb-ssd-256-gb-45371050.html) | $8,946 | Confirmado vs competencia | $8,946 en palacio vs mercado -> -28% bajo la competencia |
 | -21% | $3,211 | palacio | [Laptop FC0287LA, 15", AMD Ryzen 7, RAM 8 GB, SSD 512 GB](https://www.elpalaciodehierro.com/hp-laptop-fc0287la-15-amd-ryzen-7-ram-8-gb-ssd-512-gb-45384043.html) | $11,773 | Confirmado vs competencia | $11,773 en palacio vs mercado -> -21% bajo la competencia |
 | -21% | $3,000 | palacio | [Smartwatch Ultimate 2 Hombre](https://www.elpalaciodehierro.com/huawei-smartwatch-ultimate-2-hombre-45242624.html) | $11,399 | Confirmado vs competencia | $11,399 en palacio vs mercado -> -21% bajo la competencia |
