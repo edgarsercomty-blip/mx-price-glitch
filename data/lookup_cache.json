@@ -72,15 +72,15 @@
     "items": []
   },
   "amazon|APPLEENTRENAMIENTOINALAMBRICOSPOWERBEATSAUDIFONOS": {
-    "ts": "2026-09-06T17:19:48.244821+00:00",
+    "ts": "2026-09-08T18:12:26.804282+00:00",
     "items": []
   },
   "walmart|APPLEENTRENAMIENTOINALAMBRICOSPOWERBEATSAUDIFONOS": {
-    "ts": "2026-09-06T17:19:49.577620+00:00",
+    "ts": "2026-09-08T18:12:28.285578+00:00",
     "items": []
   },
   "sams|APPLEENTRENAMIENTOINALAMBRICOSPOWERBEATSAUDIFONOS": {
-    "ts": "2026-09-06T17:19:50.853987+00:00",
+    "ts": "2026-09-08T18:12:29.777267+00:00",
     "items": []
   },
   "amazon|SMEGINOXIDABLEELECTRICOHERVIDORPORSCHE": {
@@ -439,50 +439,6 @@
     "ts": "2026-09-08T05:32:43.518222+00:00",
     "items": []
   },
-  "amazon|APPLEMEDIANOCHEIPHONETELCEL128": {
-    "ts": "2026-09-06T17:19:40.506098+00:00",
-    "items": []
-  },
-  "walmart|APPLEMEDIANOCHEIPHONETELCEL128": {
-    "ts": "2026-09-06T17:19:41.878141+00:00",
-    "items": []
-  },
-  "sams|APPLEMEDIANOCHEIPHONETELCEL128": {
-    "ts": "2026-09-06T17:19:43.363241+00:00",
-    "items": []
-  },
-  "amazon|SAMSUNGDESBLOQUEADOTITANIUMCELULARGALAXY": {
-    "ts": "2026-09-06T17:19:44.472594+00:00",
-    "items": []
-  },
-  "walmart|SAMSUNGDESBLOQUEADOTITANIUMCELULARGALAXY": {
-    "ts": "2026-09-06T17:19:45.776236+00:00",
-    "items": []
-  },
-  "sams|SAMSUNGDESBLOQUEADOTITANIUMCELULARGALAXY": {
-    "ts": "2026-09-06T17:19:47.154401+00:00",
-    "items": []
-  },
-  "liverpool|65QNED9MASA": {
-    "ts": "2026-09-06T17:27:14.743947+00:00",
-    "items": []
-  },
-  "amazon|65QNED9MASA": {
-    "ts": "2026-09-06T17:27:15.847111+00:00",
-    "items": []
-  },
-  "walmart|65QNED9MASA": {
-    "ts": "2026-09-06T17:27:17.078288+00:00",
-    "items": []
-  },
-  "sams|65QNED9MASA": {
-    "ts": "2026-09-06T17:27:18.469783+00:00",
-    "items": []
-  },
-  "mercadolibre|65QNED9MASA": {
-    "ts": "2026-09-06T17:27:19.677837+00:00",
-    "items": []
-  },
   "liverpool|RC20N6HBX1": {
     "ts": "2026-09-07T05:33:58.877974+00:00",
     "items": []
@@ -661,6 +617,30 @@
   },
   "sams|GARMINMONITORINDEXSUENO": {
     "ts": "2026-09-08T14:50:22.854821+00:00",
+    "items": []
+  },
+  "amazon|SAMSUNGDESBLOQUEADOTITANIUMCELULARSILVER": {
+    "ts": "2026-09-08T18:12:21.988514+00:00",
+    "items": []
+  },
+  "walmart|SAMSUNGDESBLOQUEADOTITANIUMCELULARSILVER": {
+    "ts": "2026-09-08T18:12:23.904111+00:00",
+    "items": []
+  },
+  "sams|SAMSUNGDESBLOQUEADOTITANIUMCELULARSILVER": {
+    "ts": "2026-09-08T18:12:25.591077+00:00",
+    "items": []
+  },
+  "amazon|GARMINMONITORSUENOINDEX": {
+    "ts": "2026-09-08T18:12:30.955141+00:00",
+    "items": []
+  },
+  "walmart|GARMINMONITORSUENOINDEX": {
+    "ts": "2026-09-08T18:12:32.499551+00:00",
+    "items": []
+  },
+  "sams|GARMINMONITORSUENOINDEX": {
+    "ts": "2026-09-08T18:12:33.984862+00:00",
     "items": []
   }
 }
