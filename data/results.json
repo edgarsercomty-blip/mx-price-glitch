@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-09 18:15 UTC",
-  "products_scanned": 1102,
+  "generated_at": "2026-09-09 18:49 UTC",
+  "products_scanned": 821,
   "threshold_pct": 20.0,
-  "count": 43,
+  "count": 28,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -22,27 +22,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45215652",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 58.0,
-      "detail": "$8,232 en palacio vs mercado -> -40% bajo la competencia",
-      "likely_typo": false,
-      "savings": 5475.6,
-      "store": "palacio",
-      "name": "Lavadora automática 18 Kg Xpert System carga superior 8MWTW1824WJM blanco",
-      "url": "https://www.elpalaciodehierro.com/whirlpool-lavadora-automatica-18-kg-xpert-system-carga-superior-8mwtw1824wjm-blanco-40904406.html",
-      "price": 8231.58,
-      "list_price": 19599.0,
-      "ean": null,
-      "model": "8MWTW1824WJM",
-      "brand": "Whirlpool",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "40904406",
         "outlet": false
       }
     },
@@ -90,46 +69,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 45.8,
-      "detail": "$4,242 en sams vs mercado -> -36% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2356.62,
-      "store": "sams",
-      "name": "Smartphone Samsung  Galaxy A27 128 GB Rosa Desbloqueado",
-      "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a27-128-gb-rosa-desbloqueado/981055228",
-      "price": 4242.38,
-      "list_price": 7830.89,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "981055228"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 34.5,
-      "detail": "$1,942 en sams vs mercado -> -34% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1023.0,
-      "store": "sams",
-      "name": "Combo T-fal  Freidora + Licuadora + Cafetera ",
-      "url": "https://www.sams.com.mx/ip/combo-t-fal-freidora-licuadora-cafetera/981050797",
-      "price": 1941.65,
-      "list_price": 2964.65,
-      "ean": null,
-      "model": null,
-      "brand": "T-fal",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "981050797"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 52.0,
       "detail": "$4,800 en palacio vs mercado -> -33% bajo la competencia",
       "likely_typo": false,
@@ -147,26 +86,6 @@
       "extra": {
         "id": "45258358",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 50.0,
-      "detail": "$1,533 en sams vs mercado -> -33% bajo la competencia",
-      "likely_typo": false,
-      "savings": 750.0,
-      "store": "sams",
-      "name": "Licuadora Power XL  1800W 6 Aspas de Titanio 2L",
-      "url": "https://www.sams.com.mx/ip/licuadora-power-xl-1800w-6-aspas-de-titanio-2l/981019939",
-      "price": 1533.48,
-      "list_price": 3067.96,
-      "ean": null,
-      "model": "1800W",
-      "brand": "Power Xl",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "981019939"
       }
     },
     {
@@ -360,26 +279,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 46.5,
-      "detail": "$10,229 en sams vs mercado -> -28% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4070.02,
-      "store": "sams",
-      "name": "Laptop HP  Pavilion Intel Core i5/8 GB RAM/512 GB SSD 15-eg2523la",
-      "url": "https://www.sams.com.mx/ip/laptop-hp-pavilion-intel-core-i5-8-gb-ram-512-gb-ssd-15-eg2523la/981030009",
-      "price": 10228.98,
-      "list_price": 19129.06,
-      "ean": null,
-      "model": "15-eg2523la",
-      "brand": "HP",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "981030009"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 52.0,
       "detail": "$10,543 en palacio vs mercado -> -28% bajo la competencia",
       "likely_typo": false,
@@ -438,27 +337,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45371050",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 30.0,
-      "detail": "$3,000 en palacio vs sams $4,085 -> -27% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1085.34,
-      "store": "palacio",
-      "name": "Pantalla 32 Pulgadas Plana FHD Full HD UN32H5000FFXZX",
-      "url": "https://www.elpalaciodehierro.com/samsung-pantalla-32-pulgadas-plana-fhd-full-hd-un32h5000ffxzx-45361287.html",
-      "price": 2999.5,
-      "list_price": 4285.0,
-      "ean": null,
-      "model": "UN32H5000FFXZX",
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45361287",
         "outlet": false
       }
     },
@@ -523,146 +401,6 @@
       "extra": {
         "id": "44840620",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 31.7,
-      "detail": "$8,386 en sams vs mercado -> -24% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2661.85,
-      "store": "sams",
-      "name": "Smartphone Samsung Galaxy A57 256 GB Dark Blue Desbloqueado",
-      "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a57-256-gb-dark-blue-desbloqueado/981050990",
-      "price": 8385.53,
-      "list_price": 12274.96,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "981050990"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 31.7,
-      "detail": "$8,386 en sams vs mercado -> -24% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2661.85,
-      "store": "sams",
-      "name": "Smartphone Samsung Galaxy A57 256 GB Violet Desbloqueado",
-      "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a57-256-gb-violet-desbloqueado/981050991",
-      "price": 8385.53,
-      "list_price": 12274.96,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "981050991"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 31.6,
-      "detail": "$13,298 en sams vs mercado -> -24% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4092.0,
-      "store": "sams",
-      "name": "Laptop HP  AMD Ryzen 7/16 GB RAM/1 TB SSD 15-fc0276la",
-      "url": "https://www.sams.com.mx/ip/laptop-hp-amd-ryzen-7-16-gb-ram-1-tb-ssd-15-fc0276la/981043905",
-      "price": 13297.98,
-      "list_price": 19435.96,
-      "ean": null,
-      "model": "15-fc0276la",
-      "brand": "HP",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "981043905"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 22.6,
-      "detail": "$1,227 en sams vs mercado -> -23% bajo la competencia",
-      "likely_typo": false,
-      "savings": 358.03,
-      "store": "sams",
-      "name": "Masajeador de Electroterapia Omron  Portátil",
-      "url": "https://www.sams.com.mx/ip/masajeador-de-electroterapia-omron-portatil/981033422",
-      "price": 1226.58,
-      "list_price": 1584.61,
-      "ean": null,
-      "model": null,
-      "brand": "Omron",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "981033422"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 41.7,
-      "detail": "$715 en sams vs mercado -> -22% bajo la competencia",
-      "likely_typo": false,
-      "savings": 204.6,
-      "store": "sams",
-      "name": "Máquina de Videojuegos Portátil My arcade Atari DGUNL-7015",
-      "url": "https://www.sams.com.mx/ip/maquina-de-videojuegos-portatil-my-arcade-atari-dgunl-7015/981052308",
-      "price": 715.08,
-      "list_price": 1226.57,
-      "ean": null,
-      "model": "DGUNL-7015",
-      "brand": "My Arcade",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "981052308"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 34.9,
-      "detail": "$14,321 en sams vs mercado -> -22% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4092.0,
-      "store": "sams",
-      "name": "Laptop HP  Omnibook 5 NG AI Snapdragon X/16 GB RAM/512 GB SSD 14-he0000la",
-      "url": "https://www.sams.com.mx/ip/laptop-hp-omnibook-5-ng-ai-snapdragon-x-16-gb-ram-512-gb-ssd-14-he0000la/981043728",
-      "price": 14320.98,
-      "list_price": 21993.47,
-      "ean": null,
-      "model": "14-he0000la",
-      "brand": "HP",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "981043728"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 21.9,
-      "detail": "$13,296 en sams vs mercado -> -22% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3735.98,
-      "store": "sams",
-      "name": "Pantalla Hisense  75\" QLED 4K Vidaa 75QD65QV",
-      "url": "https://www.sams.com.mx/ip/pantalla-hisense-75-qled-4k-vidaa-75qd65qv/981040844",
-      "price": 13295.93,
-      "list_price": 17031.91,
-      "ean": null,
-      "model": "75QD65QV",
-      "brand": "Hisense",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "981040844"
       }
     },
     {
@@ -814,26 +552,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 20.1,
-      "detail": "$244 en sams vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 61.36,
-      "store": "sams",
-      "name": "Batidora de Mano RCA  7 Velocidades Azul RC-67SS",
-      "url": "https://www.sams.com.mx/ip/batidora-de-mano-rca-7-velocidades-azul-rc-67ss/981020255",
-      "price": 244.5,
-      "list_price": 305.86,
-      "ean": null,
-      "model": "RC-67SS",
-      "brand": "RCA",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "981020255"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 20.0,
       "detail": "$50,799 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
@@ -872,26 +590,6 @@
       "extra": {
         "id": "43135869",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$1,636 en sams vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 408.16,
-      "store": "sams",
-      "name": "Licuadora Black+Decker  6 Velocidades 1.5 L 900 Watts con Filtro Infusor de Jugos 3 en 1",
-      "url": "https://www.sams.com.mx/ip/licuadora-black-decker-6-velocidades-1-5-l-900-watts-con-filtro-infusor-de-jugos-3-en-1/981053199",
-      "price": 1635.78,
-      "list_price": 2043.94,
-      "ean": null,
-      "model": null,
-      "brand": "Black+decker",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "981053199"
       }
     }
   ]
