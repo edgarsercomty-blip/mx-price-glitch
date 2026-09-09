@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (1023)
+# Historial de ofertas encontradas (1024)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-09-09 11:49 | -30% | palacio | [iPad de 10.2 pulgadas y 64 GB con Wi-Fi - Plata](https://www.elpalaciodehierro.com/apple-ipad-de-10.2-pulgadas-y-64-gb-con-wi-fi---plata-42036980.html) | $3,849 | $3,849 en palacio vs mercado -> -30% bajo la competencia |
 | 2026-09-08 14:50 | -25% | palacio | [Monitor de sueño Index](https://www.elpalaciodehierro.com/garmin-monitor-de-sueno-index-44840620.html) | $2,699 | $2,699 en palacio vs mercado -> -25% bajo la competencia |
 | 2026-09-07 17:54 | -20% | palacio | [Celular Galaxy Z Fold8 5G 512 GB 12 GB Desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-z-fold8-5g-512-gb-12-gb-desbloqueado-45632961.html) | $36,374 | $36,374 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-09-07 12:37 | -20% | palacio | [Celular Galaxy Z Fold8 5G 512 GB 12 GB Gris Desbloquead…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-z-fold8-5g-512-gb-12-gb-gris-desbloqueado-45632962.html) | $36,374 | $36,374 en palacio vs mercado -> -20% bajo la competencia |
@@ -403,4 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-08-10 08:52 | -33% | palacio | [Hervidor de agua eléctrico Porsche en acero inoxidable](https://www.elpalaciodehierro.com/smeg-hervidor-de-agua-electrico-porsche-en-acero-inoxidable-45000829.html) | $5,560 | $5,560 en palacio vs mercado -> -33% bajo la competencia |
 | 2026-08-10 08:52 | -40% | palacio | [Combo Licuadora Negra con 2 Vasos](https://www.elpalaciodehierro.com/kitchenaid-combo-licuadora-negra-con-2-vasos-45522776.html) | $2,399 | $2,399 en palacio vs mercado -> -40% bajo la competencia |
 | 2026-08-09 19:03 | -20% | liverpool | [Cafetera De Capsula Nespresso Vertuo Pop Gdv6 Us Bk Ne](https://www.liverpool.com.mx/tienda/pdp/cafetera-de-capsula-nespresso-vertuo-pop-gdv6-us-bk-ne/1137498878) | $2,094 | $2,094 en liverpool vs mercado -> -20% bajo la competencia |
-| 2026-08-09 13:34 | -23% | palacio | [iPhone 14 128 GB Medianoche Telcel](https://www.elpalaciodehierro.com/apple-iphone%C2%A014-128%C2%A0gb-medianoche-telcel-42824645.html) | $11,549 | $11,549 en palacio vs mercado -> -23% bajo la competencia |
