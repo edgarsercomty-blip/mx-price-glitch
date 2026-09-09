@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-09 01:29 UTC",
-  "products_scanned": 812,
+  "generated_at": "2026-09-09 05:39 UTC",
+  "products_scanned": 810,
   "threshold_pct": 20.0,
-  "count": 30,
+  "count": 29,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -421,27 +421,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45384043",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 35.0,
-      "detail": "$18,199 en palacio vs mercado -> -21% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4899.82,
-      "store": "palacio",
-      "name": "Lavadora automática 22 kg carga frontal F-WF22C640WCP blanca",
-      "url": "https://www.elpalaciodehierro.com/samsung-lavadora-automatica-22-kg-carga-frontal-f-wf22c640wcp-blanca-43441685.html",
-      "price": 18199.35,
-      "list_price": 27999.0,
-      "ean": null,
-      "model": "F-WF22C640WCP",
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43441685",
         "outlet": false
       }
     },
