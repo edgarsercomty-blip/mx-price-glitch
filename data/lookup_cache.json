@@ -48,27 +48,27 @@
     "items": []
   },
   "amazon|HR2244": {
-    "ts": "2026-09-07T18:57:37.735310+00:00",
+    "ts": "2026-09-09T21:23:29.374135+00:00",
     "items": []
   },
   "walmart|HR2244": {
-    "ts": "2026-09-07T18:57:39.355344+00:00",
+    "ts": "2026-09-09T21:23:31.295245+00:00",
     "items": []
   },
   "sams|HR2244": {
-    "ts": "2026-09-07T18:57:41.204954+00:00",
+    "ts": "2026-09-09T21:23:33.018456+00:00",
     "items": []
   },
   "amazon|HR2242": {
-    "ts": "2026-09-07T18:57:59.975383+00:00",
+    "ts": "2026-09-09T21:23:38.029145+00:00",
     "items": []
   },
   "walmart|HR2242": {
-    "ts": "2026-09-07T18:58:01.598442+00:00",
+    "ts": "2026-09-09T21:23:39.554637+00:00",
     "items": []
   },
   "sams|HR2242": {
-    "ts": "2026-09-07T18:58:03.132368+00:00",
+    "ts": "2026-09-09T21:23:40.063290+00:00",
     "items": []
   },
   "amazon|APPLEENTRENAMIENTOINALAMBRICOSPOWERBEATSAUDIFONOS": {
@@ -84,112 +84,274 @@
     "items": []
   },
   "amazon|I3N305": {
-    "ts": "2026-09-07T18:58:04.399478+00:00",
+    "ts": "2026-09-09T21:23:41.631309+00:00",
     "items": []
   },
   "walmart|I3N305": {
-    "ts": "2026-09-07T18:58:05.873413+00:00",
+    "ts": "2026-09-09T21:23:43.337496+00:00",
     "items": []
   },
   "sams|I3N305": {
-    "ts": "2026-09-07T18:58:08.117000+00:00",
-    "items": []
-  },
-  "amazon|FWF22C640WCP": {
-    "ts": "2026-09-07T18:57:42.504886+00:00",
-    "items": []
-  },
-  "walmart|FWF22C640WCP": {
-    "ts": "2026-09-07T18:57:44.406982+00:00",
-    "items": []
-  },
-  "sams|FWF22C640WCP": {
-    "ts": "2026-09-07T18:57:46.108657+00:00",
-    "items": []
+    "ts": "2026-09-09T21:23:44.189986+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Desktop Lenovo Ideacentre Core i3/8 GB RAM/512 GB SDD A100-2PLD",
+        "url": "https://www.sams.com.mx/ip/desktop-lenovo-ideacentre-core-i3-8-gb-ram-512-gb-sdd-a100-2pld/981037124",
+        "price": 6648.48,
+        "model": "A100-2PLD"
+      },
+      {
+        "store": "sams",
+        "name": "Laptop Lenovo IdeaPad Slim 3 Intel Core i3/8 GB RAM/256 GB SSD",
+        "url": "https://www.sams.com.mx/ip/laptop-lenovo-ideapad-slim-3-intel-core-i3-8-gb-ram-256-gb-ssd/981010979",
+        "price": 12467.27,
+        "model": "RAM/256"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Laptop HP  LT Intel Core i3/8 GB RAM/512 GB SSD + Mochila + Office 365",
+        "url": "https://www.sams.com.mx/ip/combo-laptop-hp-lt-intel-core-i3-8-gb-ram-512-gb-ssd-mochila-office-365/981023364",
+        "price": 7156.91,
+        "model": "RAM/512"
+      },
+      {
+        "store": "sams",
+        "name": "Laptop Lenovo IdeaPad Core i3 11a gen/8 GB RAM/1 TB + 256 GB SDD",
+        "url": "https://www.sams.com.mx/ip/laptop-lenovo-ideapad-core-i3-11a-gen-8-gb-ram-1-tb-256-gb-sdd/980035699",
+        "price": 16876.43,
+        "model": "gen/8"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Desktop Lenovo IdeaCentre AIO Intel Core i3/8 GB RAM/512 GB SDD + Tablet Lenovo M8",
+        "url": "https://www.sams.com.mx/ip/combo-desktop-lenovo-ideacentre-aio-intel-core-i3-8-gb-ram-512-gb-sdd-tablet-lenovo-m8/981022925",
+        "price": 16362.89,
+        "model": "RAM/512"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Laptop ASUS Vivobook Core i3/8 GB RAM/512 GB SDD E1404GA-NK136W + Backpack + Mouse",
+        "url": "https://www.sams.com.mx/ip/combo-laptop-asus-vivobook-core-i3-8-gb-ram-512-gb-sdd-e1404ga-nk136w-backpack-mouse/981020182",
+        "price": 9920.03,
+        "model": "E1404GA-NK136W"
+      },
+      {
+        "store": "sams",
+        "name": "Combo Laptop HP  Intel Core i3/8 GB RAM/512 GB SSD 15-fd0231la + Impresora Ink Advantage 2375",
+        "url": "https://www.sams.com.mx/ip/combo-laptop-hp-intel-core-i3-8-gb-ram-512-gb-ssd-15-fd0231la-impresora-ink-advantage-2375/981040237",
+        "price": 9205.98,
+        "model": "15-fd0231la"
+      }
+    ]
   },
   "amazon|HUAWEISMARTWATCHWATCH": {
-    "ts": "2026-09-07T18:57:47.382570+00:00",
+    "ts": "2026-09-09T21:23:34.214819+00:00",
     "items": []
   },
   "walmart|HUAWEISMARTWATCHWATCH": {
-    "ts": "2026-09-07T18:57:57.188068+00:00",
+    "ts": "2026-09-09T21:23:35.649487+00:00",
     "items": []
   },
   "sams|HUAWEISMARTWATCHWATCH": {
-    "ts": "2026-09-07T18:57:58.720844+00:00",
-    "items": []
+    "ts": "2026-09-09T21:23:36.737403+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Smartwatch Samsung Galaxy Watch8 Classic Negro 46 mm",
+        "url": "https://www.sams.com.mx/ip/smartwatch-samsung-galaxy-watch8-classic-negro-46-mm/981039183",
+        "price": 7671.48,
+        "model": "Watch8"
+      },
+      {
+        "store": "sams",
+        "name": "Smartwatch Samsung Galaxy Watch8 Classic Blanco 46 mm",
+        "url": "https://www.sams.com.mx/ip/smartwatch-samsung-galaxy-watch8-classic-blanco-46-mm/981039184",
+        "price": 7671.48,
+        "model": "Watch8"
+      }
+    ]
   },
   "amazon|MRN65R85HAFXZX": {
-    "ts": "2026-09-07T18:58:09.450400+00:00",
+    "ts": "2026-09-09T21:23:45.599916+00:00",
     "items": []
   },
   "walmart|MRN65R85HAFXZX": {
-    "ts": "2026-09-07T18:58:11.089409+00:00",
+    "ts": "2026-09-09T21:23:47.188446+00:00",
     "items": []
   },
   "sams|MRN65R85HAFXZX": {
-    "ts": "2026-09-07T18:58:12.845134+00:00",
+    "ts": "2026-09-09T21:23:47.670996+00:00",
     "items": []
   },
   "amazon|15FD0161LA": {
-    "ts": "2026-09-07T18:58:14.103175+00:00",
+    "ts": "2026-09-09T21:23:48.986280+00:00",
     "items": []
   },
   "walmart|15FD0161LA": {
-    "ts": "2026-09-07T18:58:15.665532+00:00",
+    "ts": "2026-09-09T21:23:50.631103+00:00",
     "items": []
   },
   "sams|15FD0161LA": {
-    "ts": "2026-09-07T18:58:17.175756+00:00",
+    "ts": "2026-09-09T21:23:51.362665+00:00",
     "items": []
   },
   "amazon|FC0287LA": {
-    "ts": "2026-09-07T18:58:18.439100+00:00",
+    "ts": "2026-09-09T21:23:52.523692+00:00",
     "items": []
   },
   "walmart|FC0287LA": {
-    "ts": "2026-09-07T18:58:19.899170+00:00",
+    "ts": "2026-09-09T21:23:54.136700+00:00",
     "items": []
   },
   "sams|FC0287LA": {
-    "ts": "2026-09-07T18:58:21.508180+00:00",
-    "items": []
+    "ts": "2026-09-09T21:23:54.857323+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Combo Laptop HP  AMD Ryzen 5/16 GB RAM/512 GB SSD 15-fc0253la + Impresora Ink Advatage 2375",
+        "url": "https://www.sams.com.mx/ip/combo-laptop-hp-amd-ryzen-5-16-gb-ram-512-gb-ssd-15-fc0253la-impresora-ink-advatage-2375/981043727",
+        "price": 13809.48,
+        "model": "15-fc0253la"
+      }
+    ]
   },
   "amazon|HUAWEISMARTWATCHULTIMATE": {
-    "ts": "2026-09-07T18:58:22.762256+00:00",
+    "ts": "2026-09-09T21:23:56.033385+00:00",
     "items": []
   },
   "walmart|HUAWEISMARTWATCHULTIMATE": {
-    "ts": "2026-09-07T18:58:24.277146+00:00",
+    "ts": "2026-09-09T21:23:57.591182+00:00",
     "items": []
   },
   "sams|HUAWEISMARTWATCHULTIMATE": {
-    "ts": "2026-09-07T18:58:25.807508+00:00",
-    "items": []
+    "ts": "2026-09-09T21:23:58.495818+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Smartphone Huawei P Smart 2019 32 GB Negro Telcel",
+        "url": "https://www.sams.com.mx/ip/smartphone-huawei-p-smart-2019-32-gb-negro-telcel/980011338",
+        "price": 3500.71,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Combo Tablet Huawei  MatePad 128 GB + Audífonos FreeBuds SE ",
+        "url": "https://www.sams.com.mx/ip/combo-tablet-huawei-matepad-128-gb-audifonos-freebuds-se/981054460",
+        "price": 5930.33,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartwatch STF Kronos Element Correa 23 mm Negro",
+        "url": "https://www.sams.com.mx/ip/smartwatch-stf-kronos-element-correa-23-mm-negro/981028531",
+        "price": 1021.96,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartwatch Garmin  Forerunner 570 con GPS 47 mm",
+        "url": "https://www.sams.com.mx/ip/smartwatch-garmin-forerunner-570-con-gps-47-mm/981042768",
+        "price": 11498.52,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartwatch STF Kronos Element Mini Correa 21 mm Rosa",
+        "url": "https://www.sams.com.mx/ip/smartwatch-stf-kronos-element-mini-correa-21-mm-rosa/981028529",
+        "price": 1021.96,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartwatch Garmin  Instinct 3 con GPS Amoled 50 mm",
+        "url": "https://www.sams.com.mx/ip/smartwatch-garmin-instinct-3-con-gps-amoled-50-mm/981042296",
+        "price": 9134.36,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartwatch Garmin  Forerunner 970 con GPS Negro 22 mm",
+        "url": "https://www.sams.com.mx/ip/smartwatch-garmin-forerunner-970-con-gps-negro-22-mm/981042770",
+        "price": 15698.95,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartwatch STF  1.43\" Gris",
+        "url": "https://www.sams.com.mx/ip/smartwatch-stf-1-43-gris/981053786",
+        "price": 798.98,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartwatch Garmin  Forerunner 970 con GPS Gris 22 mm",
+        "url": "https://www.sams.com.mx/ip/smartwatch-garmin-forerunner-970-con-gps-gris-22-mm/981042769",
+        "price": 15698.95,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartwatch STF  Kronos AI Chat Negro",
+        "url": "https://www.sams.com.mx/ip/smartwatch-stf-kronos-ai-chat-negro/981053789",
+        "price": 1298.93,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartwatch Garmin  Forerunner 570 con GPS 42 mm",
+        "url": "https://www.sams.com.mx/ip/smartwatch-garmin-forerunner-570-con-gps-42-mm/981042767",
+        "price": 11498.52,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Smartwatch Garmin  Fenix 8 Solar 51 mm",
+        "url": "https://www.sams.com.mx/ip/smartwatch-garmin-fenix-8-solar-51-mm/981042772",
+        "price": 24998.01,
+        "model": null
+      }
+    ]
   },
   "amazon|15IPH11": {
-    "ts": "2026-09-07T18:58:27.104233+00:00",
+    "ts": "2026-09-09T21:23:59.674558+00:00",
     "items": []
   },
   "walmart|15IPH11": {
-    "ts": "2026-09-07T18:58:28.568039+00:00",
+    "ts": "2026-09-09T21:24:01.376713+00:00",
     "items": []
   },
   "sams|15IPH11": {
-    "ts": "2026-09-07T18:58:30.174095+00:00",
-    "items": []
+    "ts": "2026-09-09T21:24:02.015979+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Combo Laptop Lenovo IdeaPad Slim 3 Intel Core i5/16 GB RAM/1 TB SSD 15IRH10-04DLM + Audífonos",
+        "url": "https://www.sams.com.mx/ip/combo-laptop-lenovo-ideapad-slim-3-intel-core-i5-16-gb-ram-1-tb-ssd-15irh10-04dlm-audifonos/981050109",
+        "price": 19431.89,
+        "model": "15IRH10-04DLM"
+      }
+    ]
   },
   "amazon|15IAX10": {
-    "ts": "2026-09-07T18:58:31.431286+00:00",
+    "ts": "2026-09-09T21:24:03.201852+00:00",
     "items": []
   },
   "walmart|15IAX10": {
-    "ts": "2026-09-07T18:58:32.939448+00:00",
+    "ts": "2026-09-09T21:24:05.463421+00:00",
     "items": []
   },
   "sams|15IAX10": {
-    "ts": "2026-09-07T18:58:34.529385+00:00",
-    "items": []
+    "ts": "2026-09-09T21:24:06.163421+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Combo Laptop Lenovo IdeaPad Slim 3 Intel Core i5/16 GB RAM/1 TB SSD 15IRH10-04DLM + Audífonos",
+        "url": "https://www.sams.com.mx/ip/combo-laptop-lenovo-ideapad-slim-3-intel-core-i5-16-gb-ram-1-tb-ssd-15irh10-04dlm-audifonos/981050109",
+        "price": 19431.89,
+        "model": "15IRH10-04DLM"
+      }
+    ]
   },
   "amazon|HUAWEIDESBLOQUEADOCELULARHUAWEINOVA": {
     "ts": "2026-09-08T14:50:13.499695+00:00",
@@ -433,66 +595,6 @@
   },
   "sams|FOLD8": {
     "ts": "2026-09-09T15:35:18.013304+00:00",
-    "items": []
-  },
-  "liverpool|UN98DU9000FXZX": {
-    "ts": "2026-09-07T18:57:04.245598+00:00",
-    "items": []
-  },
-  "amazon|UN98DU9000FXZX": {
-    "ts": "2026-09-07T18:57:05.578021+00:00",
-    "items": []
-  },
-  "walmart|UN98DU9000FXZX": {
-    "ts": "2026-09-07T18:57:07.195275+00:00",
-    "items": []
-  },
-  "sams|UN98DU9000FXZX": {
-    "ts": "2026-09-07T18:57:08.833592+00:00",
-    "items": []
-  },
-  "mercadolibre|UN98DU9000FXZX": {
-    "ts": "2026-09-07T18:57:10.149844+00:00",
-    "items": []
-  },
-  "liverpool|86MRGB86BSA": {
-    "ts": "2026-09-07T18:57:20.005917+00:00",
-    "items": []
-  },
-  "amazon|86MRGB86BSA": {
-    "ts": "2026-09-07T18:57:21.272004+00:00",
-    "items": []
-  },
-  "walmart|86MRGB86BSA": {
-    "ts": "2026-09-07T18:57:22.888963+00:00",
-    "items": []
-  },
-  "sams|86MRGB86BSA": {
-    "ts": "2026-09-07T18:57:25.587660+00:00",
-    "items": []
-  },
-  "mercadolibre|86MRGB86BSA": {
-    "ts": "2026-09-07T18:57:26.890092+00:00",
-    "items": []
-  },
-  "liverpool|65Q6K": {
-    "ts": "2026-09-07T18:57:30.484073+00:00",
-    "items": []
-  },
-  "amazon|65Q6K": {
-    "ts": "2026-09-07T18:57:31.946509+00:00",
-    "items": []
-  },
-  "walmart|65Q6K": {
-    "ts": "2026-09-07T18:57:33.489931+00:00",
-    "items": []
-  },
-  "sams|65Q6K": {
-    "ts": "2026-09-07T18:57:35.122195+00:00",
-    "items": []
-  },
-  "mercadolibre|65Q6K": {
-    "ts": "2026-09-07T18:57:36.386833+00:00",
     "items": []
   },
   "liverpool|MRN75R95HAFXZX": {
