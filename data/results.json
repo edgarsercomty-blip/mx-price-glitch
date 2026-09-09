@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09 11:49 UTC",
-  "products_scanned": 782,
+  "generated_at": "2026-09-09 15:35 UTC",
+  "products_scanned": 821,
   "threshold_pct": 20.0,
   "count": 28,
   "findings": [
@@ -64,27 +64,6 @@
       "currency": "MXN",
       "extra": {
         "id": "44600334",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 60.0,
-      "detail": "$5,560 en palacio vs mercado -> -33% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2780.0,
-      "store": "palacio",
-      "name": "Hervidor de agua eléctrico Porsche en acero inoxidable",
-      "url": "https://www.elpalaciodehierro.com/smeg-hervidor-de-agua-electrico-porsche-en-acero-inoxidable-45000830.html",
-      "price": 5560.0,
-      "list_price": 13900.0,
-      "ean": null,
-      "model": null,
-      "brand": "Smeg",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45000830",
         "outlet": false
       }
     },
@@ -175,27 +154,6 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 30.0,
-      "detail": "$3,849 en palacio vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1649.7,
-      "store": "palacio",
-      "name": "iPad de 10.2 pulgadas y 64 GB con Wi-Fi - Plata",
-      "url": "https://www.elpalaciodehierro.com/apple-ipad-de-10.2-pulgadas-y-64-gb-con-wi-fi---plata-42036980.html",
-      "price": 3849.3,
-      "list_price": 5499.0,
-      "ean": null,
-      "model": null,
-      "brand": "Apple",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "42036980",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 30.0,
       "detail": "$2,799 en palacio vs mercado -> -30% bajo la competencia",
       "likely_typo": false,
       "savings": 1199.7,
@@ -211,6 +169,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45001062",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 30.0,
+      "detail": "$2,799 en palacio vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1199.7,
+      "store": "palacio",
+      "name": "Audífonos Inalámbricos para entrenamiento Bluetooth Powerbeats Fit Gris grava",
+      "url": "https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-gris-grava-45001063.html",
+      "price": 2799.3,
+      "list_price": 3999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Apple",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45001063",
         "outlet": false
       }
     },
@@ -405,6 +384,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$2,699 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 899.75,
+      "store": "palacio",
+      "name": "Monitor de sueño Index",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-de-sueno-index-44840620.html",
+      "price": 2699.25,
+      "list_price": 3599.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44840620",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 45.0,
       "detail": "$11,773 en palacio vs mercado -> -21% bajo la competencia",
       "likely_typo": false,
@@ -552,22 +552,22 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 60.0,
-      "detail": "$4,396 en palacio vs mercado -> -20% bajo la competencia",
+      "discount_pct": 20.0,
+      "detail": "$50,799 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
-      "savings": 1099.0,
+      "savings": 12699.8,
       "store": "palacio",
-      "name": "Cafetera Vertuo Lattíssima White",
-      "url": "https://www.elpalaciodehierro.com/nespresso-cafetera-vertuo-lattissima-white-45191597.html",
-      "price": 4396.0,
-      "list_price": 10990.0,
+      "name": "Laptop LEGION 5 15IAX10 15.1\" 32 GB Intel Core Ultra 7 255HX SSD",
+      "url": "https://www.elpalaciodehierro.com/lenovo-laptop-legion-5-15iax10-15.1-32-gb-intel-core-ultra-7-255hx-ssd-45652844.html",
+      "price": 50799.2,
+      "list_price": 63499.0,
       "ean": null,
-      "model": null,
-      "brand": "Nespresso",
+      "model": "15IAX10",
+      "brand": "Lenovo",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "45191597",
+        "id": "45652844",
         "outlet": false
       }
     },
