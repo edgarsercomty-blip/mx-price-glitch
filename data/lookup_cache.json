@@ -71,18 +71,6 @@
     "ts": "2026-09-09T21:23:40.063290+00:00",
     "items": []
   },
-  "amazon|APPLEENTRENAMIENTOINALAMBRICOSPOWERBEATSAUDIFONOS": {
-    "ts": "2026-09-08T18:12:26.804282+00:00",
-    "items": []
-  },
-  "walmart|APPLEENTRENAMIENTOINALAMBRICOSPOWERBEATSAUDIFONOS": {
-    "ts": "2026-09-08T18:12:28.285578+00:00",
-    "items": []
-  },
-  "sams|APPLEENTRENAMIENTOINALAMBRICOSPOWERBEATSAUDIFONOS": {
-    "ts": "2026-09-08T18:12:29.777267+00:00",
-    "items": []
-  },
   "amazon|I3N305": {
     "ts": "2026-09-09T21:23:41.631309+00:00",
     "items": []
@@ -463,50 +451,6 @@
   },
   "sams|KITCHENAIDVELOCIDADESLICUADORAPOWERPURE": {
     "ts": "2026-09-10T11:46:44.196177+00:00",
-    "items": []
-  },
-  "amazon|SAMSUNGDESBLOQUEADOTITANIUMCELULARSILVER": {
-    "ts": "2026-09-08T18:12:21.988514+00:00",
-    "items": []
-  },
-  "walmart|SAMSUNGDESBLOQUEADOTITANIUMCELULARSILVER": {
-    "ts": "2026-09-08T18:12:23.904111+00:00",
-    "items": []
-  },
-  "sams|SAMSUNGDESBLOQUEADOTITANIUMCELULARSILVER": {
-    "ts": "2026-09-08T18:12:25.591077+00:00",
-    "items": []
-  },
-  "amazon|GARMINMONITORSUENOINDEX": {
-    "ts": "2026-09-08T18:12:30.955141+00:00",
-    "items": []
-  },
-  "walmart|GARMINMONITORSUENOINDEX": {
-    "ts": "2026-09-08T18:12:32.499551+00:00",
-    "items": []
-  },
-  "sams|GARMINMONITORSUENOINDEX": {
-    "ts": "2026-09-08T18:12:33.984862+00:00",
-    "items": []
-  },
-  "liverpool|55QNED81BSG": {
-    "ts": "2026-09-08T18:14:13.716251+00:00",
-    "items": []
-  },
-  "amazon|55QNED81BSG": {
-    "ts": "2026-09-08T18:14:15.098266+00:00",
-    "items": []
-  },
-  "walmart|55QNED81BSG": {
-    "ts": "2026-09-08T18:14:18.449600+00:00",
-    "items": []
-  },
-  "sams|55QNED81BSG": {
-    "ts": "2026-09-08T18:14:19.985371+00:00",
-    "items": []
-  },
-  "mercadolibre|55QNED81BSG": {
-    "ts": "2026-09-08T18:14:21.296372+00:00",
     "items": []
   },
   "amazon|SAMSUNGDESBLOQUEADOTITANIUMCELULARGALAXY": {
@@ -1107,6 +1051,30 @@
   },
   "mercadolibre|50NU850BPSA": {
     "ts": "2026-09-10T18:00:00.401741+00:00",
+    "items": []
+  },
+  "amazon|NESPRESSOCAFETERAVERTUOTERMOTITAN": {
+    "ts": "2026-09-10T18:40:07.824700+00:00",
+    "items": []
+  },
+  "walmart|NESPRESSOCAFETERAVERTUOTERMOTITAN": {
+    "ts": "2026-09-10T18:40:09.456296+00:00",
+    "items": []
+  },
+  "sams|NESPRESSOCAFETERAVERTUOTERMOTITAN": {
+    "ts": "2026-09-10T18:40:11.585714+00:00",
+    "items": []
+  },
+  "amazon|GARMINMONITORINDEXSUENO": {
+    "ts": "2026-09-10T18:40:12.854492+00:00",
+    "items": []
+  },
+  "walmart|GARMINMONITORINDEXSUENO": {
+    "ts": "2026-09-10T18:40:14.147005+00:00",
+    "items": []
+  },
+  "sams|GARMINMONITORINDEXSUENO": {
+    "ts": "2026-09-10T18:40:15.476044+00:00",
     "items": []
   }
 }
