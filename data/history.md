@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (1046)
+# Historial de ofertas encontradas (1047)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-09-10 11:46 | -20% | palacio | [Licuadora personal Blend Up](https://www.elpalaciodehierro.com/t-fal-licuadora-personal-blend-up-45646588.html) | $2,239 | $2,239 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-09-10 05:30 | -20% | sams | [Pantalla Hisense  55" Mini LED 4K Google TV 55U7QG](https://www.sams.com.mx/ip/pantalla-hisense-55-mini-led-4k-google-tv-55u7qg/981037149) | $9,591 | $9,591 en sams vs mercado -> -20% bajo la competencia |
 | 2026-09-10 05:30 | -21% | sams | [Lavasecadora Samsung Bespoke Carga Frontal 26 kg Lavado…](https://www.sams.com.mx/ip/lavasecadora-samsung-bespoke-carga-frontal-26-kg-lavado-15-kg-secado-con-ai-wd26db8995bzax/981024524) | $30,688 | $30,688 en sams vs mercado -> -21% bajo la competencia |
 | 2026-09-10 05:30 | -21% | sams | [Combo Lavadora y Secadora Samsung  Carga Frontal Lavado…](https://www.sams.com.mx/ip/combo-lavadora-y-secadora-samsung-carga-frontal-lavado-22-kg-secado-24-kg-f-wf22dv246v/981042980) | $28,642 | $28,642 en sams vs mercado -> -21% bajo la competencia |
@@ -403,4 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-08-11 16:32 | -35% | sams | [Refrigerador Midea  20 Pies Cúbicos Side By Side Plus I…](https://www.sams.com.mx/ip/refrigerador-midea-20-pies-cubicos-side-by-side-plus-inverter-bru-steel-mdrs710fgm46/981036735) | $13,999 | $13,999 en sams vs mercado -> -35% bajo la competencia |
 | 2026-08-11 16:32 | -35% | sams | [Licuadora Hamilton Beach  Sound Shield con Vaso de Vidr…](https://www.sams.com.mx/ip/licuadora-hamilton-beach-sound-shield-con-vaso-de-vidrio-1-53-l/981045739) | $999 | $999 en sams vs mercado -> -35% bajo la competencia |
 | 2026-08-11 16:32 | -39% | sams | [Refrigerador Midea  French Door 19 Pies Cúbicos MDRF700…](https://www.sams.com.mx/ip/refrigerador-midea-french-door-19-pies-cubicos-mdrf700fgm45/981052254) | $13,999 | $13,999 en sams vs mercado -> -39% bajo la competencia |
-| 2026-08-11 16:32 | -43% | walmart | [Pistola de Calor SainSmart 1800W Temperatura Variable 5…](https://www.walmart.com.mx/ip/pistola-de-calor-sainsmart-1800w-temperatura-variable-50-650-c-110v/00081655002508?athbdg=L1300) | $849 | $849 en walmart vs sams $1,499, walmart $2,189 -> -43% bajo la competencia |
