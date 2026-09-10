@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-10 05:30 UTC",
-  "products_scanned": 1093,
+  "generated_at": "2026-09-10 06:37 UTC",
+  "products_scanned": 821,
   "threshold_pct": 20.0,
-  "count": 48,
+  "count": 28,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -22,27 +22,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45215652",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 58.0,
-      "detail": "$8,232 en palacio vs mercado -> -40% bajo la competencia",
-      "likely_typo": false,
-      "savings": 5475.6,
-      "store": "palacio",
-      "name": "Lavadora automática 18 Kg Xpert System carga superior 8MWTW1824WJM blanco",
-      "url": "https://www.elpalaciodehierro.com/whirlpool-lavadora-automatica-18-kg-xpert-system-carga-superior-8mwtw1824wjm-blanco-40904406.html",
-      "price": 8231.58,
-      "list_price": 19599.0,
-      "ean": null,
-      "model": "8MWTW1824WJM",
-      "brand": "Whirlpool",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "40904406",
         "outlet": false
       }
     },
@@ -90,66 +69,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 45.8,
-      "detail": "$4,242 en sams vs mercado -> -36% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2356.62,
-      "store": "sams",
-      "name": "Smartphone Samsung  Galaxy A27 128 GB Azul Desbloqueado",
-      "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a27-128-gb-azul-desbloqueado/981055227",
-      "price": 4242.38,
-      "list_price": 7830.89,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "981055227"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 45.8,
-      "detail": "$4,242 en sams vs mercado -> -36% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2356.62,
-      "store": "sams",
-      "name": "Smartphone Samsung  Galaxy A27 128 GB Rosa Desbloqueado",
-      "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a27-128-gb-rosa-desbloqueado/981055228",
-      "price": 4242.38,
-      "list_price": 7830.89,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "981055228"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 45.8,
-      "detail": "$4,242 en sams vs mercado -> -36% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2356.62,
-      "store": "sams",
-      "name": "Smartphone Samsung  Galaxy A27 128 GB Negro Desbloqueado",
-      "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a27-128-gb-negro-desbloqueado/981054990",
-      "price": 4242.38,
-      "list_price": 7830.89,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "981054990"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 52.0,
       "detail": "$4,800 en palacio vs mercado -> -33% bajo la competencia",
       "likely_typo": false,
@@ -167,26 +86,6 @@
       "extra": {
         "id": "45258358",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 32.8,
-      "detail": "$3,574 en sams vs mercado -> -33% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1744.21,
-      "store": "sams",
-      "name": "Pantalla TCL 43\" FHD QLED Android TV 43Q3K",
-      "url": "https://www.sams.com.mx/ip/pantalla-tcl-43-fhd-qled-android-tv-43q3k/981036994",
-      "price": 3574.36,
-      "list_price": 5318.57,
-      "ean": null,
-      "model": "43Q3K",
-      "brand": "TCL",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "981036994"
       }
     },
     {
@@ -380,26 +279,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 47.4,
-      "detail": "$5,114 en sams vs mercado -> -29% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2046.0,
-      "store": "sams",
-      "name": "Pantalla Samsung  43\" QLED Smart TV QN43Q7FAAFXZX",
-      "url": "https://www.sams.com.mx/ip/pantalla-samsung-43-qled-smart-tv-qn43q7faafxzx/981034241",
-      "price": 5113.98,
-      "list_price": 9717.47,
-      "ean": null,
-      "model": "QN43Q7FAAFXZX",
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "981034241"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 52.0,
       "detail": "$10,543 en palacio vs mercado -> -28% bajo la competencia",
       "likely_typo": false,
@@ -459,26 +338,6 @@
       "extra": {
         "id": "45371050",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 33.3,
-      "detail": "$4,092 en sams vs mercado -> -26% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1431.18,
-      "store": "sams",
-      "name": "Smartphone Samsung Galaxy A26 128 GB Negro",
-      "url": "https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a26-128-gb-negro/981035902",
-      "price": 4092.0,
-      "list_price": 6136.97,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "981035902"
       }
     },
     {
@@ -546,186 +405,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 45.4,
-      "detail": "$30,688 en sams vs mercado -> -24% bajo la competencia",
-      "likely_typo": false,
-      "savings": 9560.96,
-      "store": "sams",
-      "name": "Lavasecadora Samsung Bespoke AI 26 kg Lavado/15 kg Secado WD26FB8690BEAX",
-      "url": "https://www.sams.com.mx/ip/lavasecadora-samsung-bespoke-ai-26-kg-lavado-15-kg-secado-wd26fb8690beax/981039371",
-      "price": 30687.95,
-      "list_price": 56161.67,
-      "ean": null,
-      "model": "WD26FB8690BEAX",
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "981039371"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 30.3,
-      "detail": "$2,137 en sams vs mercado -> -23% bajo la competencia",
-      "likely_typo": false,
-      "savings": 624.03,
-      "store": "sams",
-      "name": "Bocina Portátil Aiwa  AWPOK400LD",
-      "url": "https://www.sams.com.mx/ip/bocina-portatil-aiwa-awpok400ld/981043152",
-      "price": 2137.05,
-      "list_price": 3067.96,
-      "ean": null,
-      "model": "AWPOK400LD",
-      "brand": "Aiwa",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "981043152"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 22.6,
-      "detail": "$1,227 en sams vs mercado -> -23% bajo la competencia",
-      "likely_typo": false,
-      "savings": 358.03,
-      "store": "sams",
-      "name": "Masajeador de Electroterapia Omron  Portátil",
-      "url": "https://www.sams.com.mx/ip/masajeador-de-electroterapia-omron-portatil/981033422",
-      "price": 1226.58,
-      "list_price": 1584.61,
-      "ean": null,
-      "model": null,
-      "brand": "Omron",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "981033422"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 35.0,
-      "detail": "$5,318 en sams vs mercado -> -22% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1534.5,
-      "store": "sams",
-      "name": "Batidora KitchenAid  Ultra Power Plata",
-      "url": "https://www.sams.com.mx/ip/batidora-kitchenaid-ultra-power-plata/980011775",
-      "price": 5317.55,
-      "list_price": 8181.94,
-      "ean": null,
-      "model": null,
-      "brand": "Kitchenaid",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "980011775"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 35.0,
-      "detail": "$5,318 en sams vs mercado -> -22% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1534.5,
-      "store": "sams",
-      "name": "Batidora KitchenAid Ultra Power Roja",
-      "url": "https://www.sams.com.mx/ip/batidora-kitchenaid-ultra-power-roja/980011776",
-      "price": 5317.55,
-      "list_price": 8181.94,
-      "ean": null,
-      "model": null,
-      "brand": "Kitchenaid",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "980011776"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 41.7,
-      "detail": "$715 en sams vs mercado -> -22% bajo la competencia",
-      "likely_typo": false,
-      "savings": 204.6,
-      "store": "sams",
-      "name": "Máquina de Videojuegos Portátil My arcade Atari DGUNL-7015",
-      "url": "https://www.sams.com.mx/ip/maquina-de-videojuegos-portatil-my-arcade-atari-dgunl-7015/981052308",
-      "price": 715.08,
-      "list_price": 1226.57,
-      "ean": null,
-      "model": "DGUNL-7015",
-      "brand": "My Arcade",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "981052308"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 35.7,
-      "detail": "$1,840 en sams vs mercado -> -22% bajo la competencia",
-      "likely_typo": false,
-      "savings": 511.5,
-      "store": "sams",
-      "name": "Bocina Portátil Aiwa  AWS544BT",
-      "url": "https://www.sams.com.mx/ip/bocina-portatil-aiwa-aws544bt/981043149",
-      "price": 1840.38,
-      "list_price": 2863.37,
-      "ean": null,
-      "model": "AWS544BT",
-      "brand": "Aiwa",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "981043149"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 31.6,
-      "detail": "$13,998 en sams vs mercado -> -22% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3873.08,
-      "store": "sams",
-      "name": "Refrigerador Vitrina HISENSE  de 9 Pies Cúbicos CVC494N3ABX",
-      "url": "https://www.sams.com.mx/ip/refrigerador-vitrina-hisense-de-9-pies-cubicos-cvc494n3abx/981052959",
-      "price": 13997.71,
-      "list_price": 20453.85,
-      "ean": null,
-      "model": "CVC494N3ABX",
-      "brand": "Hisense",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "981052959"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 31.3,
-      "detail": "$3,368 en sams vs mercado -> -22% bajo la competencia",
-      "likely_typo": false,
-      "savings": 920.7,
-      "store": "sams",
-      "name": "Frigobar Hisense  4.3 Pies Cúbicos Negro RR43D6ABX1",
-      "url": "https://www.sams.com.mx/ip/frigobar-hisense-4-3-pies-cubicos-negro-rr43d6abx1/981037016",
-      "price": 3367.72,
-      "list_price": 4902.19,
-      "ean": null,
-      "model": "RR43D6ABX1",
-      "brand": "Hisense",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "981037016"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 45.0,
       "detail": "$11,773 en palacio vs mercado -> -21% bajo la competencia",
       "likely_typo": false,
@@ -789,26 +468,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 34.5,
-      "detail": "$1,942 en sams vs mercado -> -21% bajo la competencia",
-      "likely_typo": false,
-      "savings": 511.5,
-      "store": "sams",
-      "name": "Combo T-fal  Freidora + Licuadora + Cafetera ",
-      "url": "https://www.sams.com.mx/ip/combo-t-fal-freidora-licuadora-cafetera/981050797",
-      "price": 1941.65,
-      "list_price": 2964.65,
-      "ean": null,
-      "model": null,
-      "brand": "T-fal",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "981050797"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 43.0,
       "detail": "$11,399 en palacio vs mercado -> -21% bajo la competencia",
       "likely_typo": false,
@@ -826,66 +485,6 @@
       "extra": {
         "id": "45242624",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.7,
-      "detail": "$28,642 en sams vs mercado -> -21% bajo la competencia",
-      "likely_typo": false,
-      "savings": 7468.99,
-      "store": "sams",
-      "name": "Combo Lavadora y Secadora Samsung  Carga Frontal Lavado 22 kg/Secado 24 kg F-WF22DV246V",
-      "url": "https://www.sams.com.mx/ip/combo-lavadora-y-secadora-samsung-carga-frontal-lavado-22-kg-secado-24-kg-f-wf22dv246v/981042980",
-      "price": 28641.95,
-      "list_price": 36110.94,
-      "ean": null,
-      "model": "F-WF22DV246V",
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "981042980"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 37.5,
-      "detail": "$30,688 en sams vs mercado -> -21% bajo la competencia",
-      "likely_typo": false,
-      "savings": 7947.18,
-      "store": "sams",
-      "name": "Lavasecadora Samsung Bespoke Carga Frontal 26 kg Lavado / 15 kg Secado con AI WD26DB8995BZAX",
-      "url": "https://www.sams.com.mx/ip/lavasecadora-samsung-bespoke-carga-frontal-26-kg-lavado-15-kg-secado-con-ai-wd26db8995bzax/981024524",
-      "price": 30687.95,
-      "list_price": 49102.96,
-      "ean": null,
-      "model": "WD26DB8995BZAX",
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "981024524"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 42.8,
-      "detail": "$9,591 en sams vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2457.24,
-      "store": "sams",
-      "name": "Pantalla Hisense  55\" Mini LED 4K Google TV 55U7QG",
-      "url": "https://www.sams.com.mx/ip/pantalla-hisense-55-mini-led-4k-google-tv-55u7qg/981037149",
-      "price": 9590.63,
-      "list_price": 16772.08,
-      "ean": null,
-      "model": "55U7QG",
-      "brand": "Hisense",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "981037149"
       }
     },
     {

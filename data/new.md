@@ -1,20 +1,5 @@
-# 🆕 Nuevos posibles errores de precio — 2026-09-10 05:30 UTC
+# 🆕 Nuevos posibles errores de precio — 2026-09-10 06:37 UTC
 
-- Hallazgos: **14**
+- Hallazgos: **0**
 
-| Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
-|------:|-------:|--------|----------|-------:|------|---------|
-| -24% | $9,561 | sams | [Lavasecadora Samsung Bespoke AI 26 kg Lavado/15 kg Secado WD…](https://www.sams.com.mx/ip/lavasecadora-samsung-bespoke-ai-26-kg-lavado-15-kg-secado-wd26fb8690beax/981039371) | $30,688 | Confirmado vs competencia | $30,688 en sams vs mercado -> -24% bajo la competencia |
-| -21% | $7,947 | sams | [Lavasecadora Samsung Bespoke Carga Frontal 26 kg Lavado / 15…](https://www.sams.com.mx/ip/lavasecadora-samsung-bespoke-carga-frontal-26-kg-lavado-15-kg-secado-con-ai-wd26db8995bzax/981024524) | $30,688 | Confirmado vs competencia | $30,688 en sams vs mercado -> -21% bajo la competencia |
-| -21% | $7,469 | sams | [Combo Lavadora y Secadora Samsung  Carga Frontal Lavado 22 k…](https://www.sams.com.mx/ip/combo-lavadora-y-secadora-samsung-carga-frontal-lavado-22-kg-secado-24-kg-f-wf22dv246v/981042980) | $28,642 | Confirmado vs competencia | $28,642 en sams vs mercado -> -21% bajo la competencia |
-| -22% | $3,873 | sams | [Refrigerador Vitrina HISENSE  de 9 Pies Cúbicos CVC494N3ABX](https://www.sams.com.mx/ip/refrigerador-vitrina-hisense-de-9-pies-cubicos-cvc494n3abx/981052959) | $13,998 | Confirmado vs competencia | $13,998 en sams vs mercado -> -22% bajo la competencia |
-| -20% | $2,457 | sams | [Pantalla Hisense  55" Mini LED 4K Google TV 55U7QG](https://www.sams.com.mx/ip/pantalla-hisense-55-mini-led-4k-google-tv-55u7qg/981037149) | $9,591 | Confirmado vs competencia | $9,591 en sams vs mercado -> -20% bajo la competencia |
-| -36% | $2,357 | sams | [Smartphone Samsung  Galaxy A27 128 GB Azul Desbloqueado](https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a27-128-gb-azul-desbloqueado/981055227) | $4,242 | Confirmado vs competencia | $4,242 en sams vs mercado -> -36% bajo la competencia |
-| -36% | $2,357 | sams | [Smartphone Samsung  Galaxy A27 128 GB Negro Desbloqueado](https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a27-128-gb-negro-desbloqueado/981054990) | $4,242 | Confirmado vs competencia | $4,242 en sams vs mercado -> -36% bajo la competencia |
-| -29% | $2,046 | sams | [Pantalla Samsung  43" QLED Smart TV QN43Q7FAAFXZX](https://www.sams.com.mx/ip/pantalla-samsung-43-qled-smart-tv-qn43q7faafxzx/981034241) | $5,114 | Confirmado vs competencia | $5,114 en sams vs mercado -> -29% bajo la competencia |
-| -33% | $1,744 | sams | [Pantalla TCL 43" FHD QLED Android TV 43Q3K](https://www.sams.com.mx/ip/pantalla-tcl-43-fhd-qled-android-tv-43q3k/981036994) | $3,574 | Confirmado vs competencia | $3,574 en sams vs mercado -> -33% bajo la competencia |
-| -22% | $1,534 | sams | [Batidora KitchenAid  Ultra Power Plata](https://www.sams.com.mx/ip/batidora-kitchenaid-ultra-power-plata/980011775) | $5,318 | Confirmado vs competencia | $5,318 en sams vs mercado -> -22% bajo la competencia |
-| -22% | $1,534 | sams | [Batidora KitchenAid Ultra Power Roja](https://www.sams.com.mx/ip/batidora-kitchenaid-ultra-power-roja/980011776) | $5,318 | Confirmado vs competencia | $5,318 en sams vs mercado -> -22% bajo la competencia |
-| -22% | $921 | sams | [Frigobar Hisense  4.3 Pies Cúbicos Negro RR43D6ABX1](https://www.sams.com.mx/ip/frigobar-hisense-4-3-pies-cubicos-negro-rr43d6abx1/981037016) | $3,368 | Confirmado vs competencia | $3,368 en sams vs mercado -> -22% bajo la competencia |
-| -23% | $624 | sams | [Bocina Portátil Aiwa  AWPOK400LD](https://www.sams.com.mx/ip/bocina-portatil-aiwa-awpok400ld/981043152) | $2,137 | Confirmado vs competencia | $2,137 en sams vs mercado -> -23% bajo la competencia |
-| -22% | $512 | sams | [Bocina Portátil Aiwa  AWS544BT](https://www.sams.com.mx/ip/bocina-portatil-aiwa-aws544bt/981043149) | $1,840 | Confirmado vs competencia | $1,840 en sams vs mercado -> -22% bajo la competencia |
+_Sin hallazgos por encima del umbral en esta corrida._
