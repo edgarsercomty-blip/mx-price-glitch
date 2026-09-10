@@ -453,18 +453,6 @@
     "ts": "2026-09-10T11:46:44.196177+00:00",
     "items": []
   },
-  "amazon|SAMSUNGDESBLOQUEADOTITANIUMCELULARGALAXY": {
-    "ts": "2026-09-08T21:11:30.945808+00:00",
-    "items": []
-  },
-  "walmart|SAMSUNGDESBLOQUEADOTITANIUMCELULARGALAXY": {
-    "ts": "2026-09-08T21:11:32.786559+00:00",
-    "items": []
-  },
-  "sams|SAMSUNGDESBLOQUEADOTITANIUMCELULARGALAXY": {
-    "ts": "2026-09-08T21:11:34.605333+00:00",
-    "items": []
-  },
   "amazon|APPLEENTRENAMIENTOINALAMBRICOSPOWERBEATSBLUETOOTH": {
     "ts": "2026-09-09T06:38:00.479912+00:00",
     "items": []
@@ -1076,5 +1064,99 @@
   "sams|GARMINMONITORINDEXSUENO": {
     "ts": "2026-09-10T18:40:15.476044+00:00",
     "items": []
+  },
+  "amazon|KITCHENAIDVELOCIDADESLICUADORAPOWERROJA": {
+    "ts": "2026-09-10T21:11:43.577352+00:00",
+    "items": []
+  },
+  "walmart|KITCHENAIDVELOCIDADESLICUADORAPOWERROJA": {
+    "ts": "2026-09-10T21:11:45.277667+00:00",
+    "items": []
+  },
+  "sams|KITCHENAIDVELOCIDADESLICUADORAPOWERROJA": {
+    "ts": "2026-09-10T21:11:46.956386+00:00",
+    "items": []
+  },
+  "amazon|APPLEENTRENAMIENTOINALAMBRICOSPOWERBEATSAUDIFONOS": {
+    "ts": "2026-09-10T21:11:48.243023+00:00",
+    "items": []
+  },
+  "walmart|APPLEENTRENAMIENTOINALAMBRICOSPOWERBEATSAUDIFONOS": {
+    "ts": "2026-09-10T21:11:49.728753+00:00",
+    "items": []
+  },
+  "sams|APPLEENTRENAMIENTOINALAMBRICOSPOWERBEATSAUDIFONOS": {
+    "ts": "2026-09-10T21:11:50.287325+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Audífonos Inalámbricos Member's Mark MM Flow Headphones",
+        "url": "https://www.sams.com.mx/ip/audifonos-inalambricos-member-s-mark-mm-flow-headphones/981042536",
+        "price": 675.31,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Audífonos Inalámbricos Apple  AirPods Max Naranja ​​​​​​​",
+        "url": "https://www.sams.com.mx/ip/audifonos-inalambricos-apple-airpods-max-naranja/981035974",
+        "price": 11250.95,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Audífonos Inalámbricos Apple  AirPods Max Morado ​​​​​​​",
+        "url": "https://www.sams.com.mx/ip/audifonos-inalambricos-apple-airpods-max-morado/981035975",
+        "price": 11250.95,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Audífonos Inalámbricos Apple  AirPods Max Azul ​​​​​​​",
+        "url": "https://www.sams.com.mx/ip/audifonos-inalambricos-apple-airpods-max-azul/981035973",
+        "price": 11250.95,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Audífonos Inalámbricos Apple  AirPods Max Azul Medianoche ​​​​​​​",
+        "url": "https://www.sams.com.mx/ip/audifonos-inalambricos-apple-airpods-max-azul-medianoche/981035971",
+        "price": 11250.95,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Audífonos Inalámbricos Apple  AirPods Max Blanco Estelar ​​​​​​​",
+        "url": "https://www.sams.com.mx/ip/audifonos-inalambricos-apple-airpods-max-blanco-estelar/981035972",
+        "price": 11250.95,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Airpods Apple  con Estuche de Carga Blanco",
+        "url": "https://www.sams.com.mx/ip/airpods-apple-con-estuche-de-carga-blanco/980020208",
+        "price": 3037.29,
+        "model": null
+      }
+    ]
+  },
+  "amazon|GARMINMONITORSUENOINDEX": {
+    "ts": "2026-09-10T21:11:51.623795+00:00",
+    "items": []
+  },
+  "walmart|GARMINMONITORSUENOINDEX": {
+    "ts": "2026-09-10T21:11:53.276907+00:00",
+    "items": []
+  },
+  "sams|GARMINMONITORSUENOINDEX": {
+    "ts": "2026-09-10T21:11:54.587138+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Smartwatch para Golf Garmin  Monitor Approach S50 43 mm",
+        "url": "https://www.sams.com.mx/ip/smartwatch-para-golf-garmin-monitor-approach-s50-43-mm/981042764",
+        "price": 8398.82,
+        "model": null
+      }
+    ]
   }
 }
