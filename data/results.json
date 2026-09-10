@@ -1,9 +1,51 @@
 {
-  "generated_at": "2026-09-10 11:46 UTC",
+  "generated_at": "2026-09-10 15:31 UTC",
   "products_scanned": 842,
   "threshold_pct": 20.0,
-  "count": 24,
+  "count": 29,
   "findings": [
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 50.0,
+      "detail": "$1,974 en palacio vs mercado -> -50% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1974.5,
+      "store": "palacio",
+      "name": "Licuadora Pure Power 10 velocidades roja",
+      "url": "https://www.elpalaciodehierro.com/kitchenaid-licuadora-pure-power-10-velocidades-roja-44729904.html",
+      "price": 1974.5,
+      "list_price": 3949.0,
+      "ean": null,
+      "model": null,
+      "brand": "KitchenAid",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44729904",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 62.0,
+      "detail": "$1,896 en palacio vs mercado -> -46% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1596.8,
+      "store": "palacio",
+      "name": "Set Vertuo Pop Titan Cafetera + Termo",
+      "url": "https://www.elpalaciodehierro.com/nespresso-set-vertuo-pop-titan-cafetera-termo-45281004.html",
+      "price": 1896.2,
+      "list_price": 4990.0,
+      "ean": null,
+      "model": null,
+      "brand": "Nespresso",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45281004",
+        "outlet": false
+      }
+    },
     {
       "kind": "cross_confirmed",
       "discount_pct": 50.0,
@@ -43,6 +85,27 @@
       "currency": "MXN",
       "extra": {
         "id": "44600334",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 58.0,
+      "detail": "$47,999 en palacio vs mercado -> -33% bajo la competencia",
+      "likely_typo": false,
+      "savings": 23999.64,
+      "store": "palacio",
+      "name": "Pantalla 85 Pulgadas Plana Micro RGB 4K MRN85R85HAFXZX",
+      "url": "https://www.elpalaciodehierro.com/samsung-pantalla-85-pulgadas-plana-micro-rgb-4k-mrn85r85hafxzx-45361289.html",
+      "price": 47999.28,
+      "list_price": 114284.0,
+      "ean": null,
+      "model": "MRN85R85HAFXZX",
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45361289",
         "outlet": false
       }
     },
@@ -91,6 +154,90 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 30.0,
+      "detail": "$4,193 en palacio vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1797.0,
+      "store": "palacio",
+      "name": "Cafetera Vertuo Up Negro",
+      "url": "https://www.elpalaciodehierro.com/nespresso-cafetera-vertuo-up-negro-45555103.html",
+      "price": 4193.0,
+      "list_price": 5990.0,
+      "ean": null,
+      "model": null,
+      "brand": "Nespresso",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45555103",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 30.0,
+      "detail": "$4,893 en palacio vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2097.0,
+      "store": "palacio",
+      "name": "Combo Cafetera Vertuo Up Azul",
+      "url": "https://www.elpalaciodehierro.com/nespresso-combo-cafetera-vertuo-up-azul-45529514.html",
+      "price": 4893.0,
+      "list_price": 6990.0,
+      "ean": null,
+      "model": null,
+      "brand": "Nespresso",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45529514",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 30.0,
+      "detail": "$4,893 en palacio vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2097.0,
+      "store": "palacio",
+      "name": "Combo Cafetera Vertuo Up con Aeroccino  3",
+      "url": "https://www.elpalaciodehierro.com/nespresso-combo-cafetera-vertuo-up-con-aeroccino--3-45366272.html",
+      "price": 4893.0,
+      "list_price": 6990.0,
+      "ean": null,
+      "model": null,
+      "brand": "Nespresso",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45366272",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 30.0,
+      "detail": "$4,893 en palacio vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2097.0,
+      "store": "palacio",
+      "name": "Combo Cafetera Vertuo Up Negro",
+      "url": "https://www.elpalaciodehierro.com/nespresso-combo-cafetera-vertuo-up-negro-45498201.html",
+      "price": 4893.0,
+      "list_price": 6990.0,
+      "ean": null,
+      "model": null,
+      "brand": "Nespresso",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45498201",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 30.0,
       "detail": "$2,799 en palacio vs mercado -> -30% bajo la competencia",
       "likely_typo": false,
       "savings": 1199.7,
@@ -127,69 +274,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45001063",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$1,799 en palacio vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 767.45,
-      "store": "palacio",
-      "name": "Licuadora Pure Power 10 velocidades",
-      "url": "https://www.elpalaciodehierro.com/kitchenaid-licuadora-pure-power-10-velocidades-44729905.html",
-      "price": 1799.4,
-      "list_price": 2999.0,
-      "ean": null,
-      "model": null,
-      "brand": "KitchenAid",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44729905",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$1,799 en palacio vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 767.45,
-      "store": "palacio",
-      "name": "Licuadora Pure Power 10 Velocidades",
-      "url": "https://www.elpalaciodehierro.com/kitchenaid-licuadora-pure-power-10-velocidades-44729902.html",
-      "price": 1799.4,
-      "list_price": 2999.0,
-      "ean": null,
-      "model": null,
-      "brand": "KitchenAid",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44729902",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$1,799 en palacio vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 767.45,
-      "store": "palacio",
-      "name": "Licuadora Pure Power 10 Velocidades",
-      "url": "https://www.elpalaciodehierro.com/kitchenaid-licuadora-pure-power-10-velocidades-44729903.html",
-      "price": 1799.4,
-      "list_price": 2999.0,
-      "ean": null,
-      "model": null,
-      "brand": "KitchenAid",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44729903",
         "outlet": false
       }
     },
@@ -274,6 +358,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45371050",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 40.0,
+      "detail": "$2,694 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 898.0,
+      "store": "palacio",
+      "name": "Combo Cafetera Nespresso Vertuo Pop Rojo",
+      "url": "https://www.elpalaciodehierro.com/nespresso-combo-cafetera-nespresso-vertuo-pop-rojo-43294637.html",
+      "price": 2694.0,
+      "list_price": 4490.0,
+      "ean": null,
+      "model": null,
+      "brand": "Nespresso",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43294637",
         "outlet": false
       }
     },

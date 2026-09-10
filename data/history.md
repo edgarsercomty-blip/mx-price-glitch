@@ -1,9 +1,15 @@
-# Historial de ofertas encontradas (1047)
+# Historial de ofertas encontradas (1053)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-09-10 15:31 | -30% | palacio | [Combo Cafetera Vertuo Up Negro](https://www.elpalaciodehierro.com/nespresso-combo-cafetera-vertuo-up-negro-45498201.html) | $4,893 | $4,893 en palacio vs mercado -> -30% bajo la competencia |
+| 2026-09-10 15:31 | -30% | palacio | [Combo Cafetera Vertuo Up con Aeroccino  3](https://www.elpalaciodehierro.com/nespresso-combo-cafetera-vertuo-up-con-aeroccino--3-45366272.html) | $4,893 | $4,893 en palacio vs mercado -> -30% bajo la competencia |
+| 2026-09-10 15:31 | -30% | palacio | [Combo Cafetera Vertuo Up Azul](https://www.elpalaciodehierro.com/nespresso-combo-cafetera-vertuo-up-azul-45529514.html) | $4,893 | $4,893 en palacio vs mercado -> -30% bajo la competencia |
+| 2026-09-10 15:31 | -30% | palacio | [Cafetera Vertuo Up Negro](https://www.elpalaciodehierro.com/nespresso-cafetera-vertuo-up-negro-45555103.html) | $4,193 | $4,193 en palacio vs mercado -> -30% bajo la competencia |
+| 2026-09-10 15:31 | -46% | palacio | [Set Vertuo Pop Titan Cafetera + Termo](https://www.elpalaciodehierro.com/nespresso-set-vertuo-pop-titan-cafetera-termo-45281004.html) | $1,896 | $1,896 en palacio vs mercado -> -46% bajo la competencia |
+| 2026-09-10 15:31 | -50% | palacio | [Licuadora Pure Power 10 velocidades roja](https://www.elpalaciodehierro.com/kitchenaid-licuadora-pure-power-10-velocidades-roja-44729904.html) | $1,974 | $1,974 en palacio vs mercado -> -50% bajo la competencia |
 | 2026-09-10 11:46 | -20% | palacio | [Licuadora personal Blend Up](https://www.elpalaciodehierro.com/t-fal-licuadora-personal-blend-up-45646588.html) | $2,239 | $2,239 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-09-10 05:30 | -20% | sams | [Pantalla Hisense  55" Mini LED 4K Google TV 55U7QG](https://www.sams.com.mx/ip/pantalla-hisense-55-mini-led-4k-google-tv-55u7qg/981037149) | $9,591 | $9,591 en sams vs mercado -> -20% bajo la competencia |
 | 2026-09-10 05:30 | -21% | sams | [Lavasecadora Samsung Bespoke Carga Frontal 26 kg Lavado…](https://www.sams.com.mx/ip/lavasecadora-samsung-bespoke-carga-frontal-26-kg-lavado-15-kg-secado-con-ai-wd26db8995bzax/981024524) | $30,688 | $30,688 en sams vs mercado -> -21% bajo la competencia |
@@ -398,9 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-08-11 16:32 | -32% | sams | [Refrigerador General Electric  French Door 25 Pies Cúbi…](https://www.sams.com.mx/ip/refrigerador-general-electric-french-door-25-pies-cubicos-pff25lercds-black-slate/981029731) | $23,998 | $23,998 en sams vs mercado -> -32% bajo la competencia |
 | 2026-08-11 16:32 | -32% | walmart | [Pantalla 43 pulgadas Samsung Crystal U8200H 4K Smart TV…](https://www.walmart.com.mx/ip/pantalla-43-pulgadas-samsung-crystal-u8200h-4k-smart-tv-2026-/00750940184218) | $4,290 | $4,290 en walmart vs mercado -> -32% bajo la competencia |
 | 2026-08-11 16:32 | -34% | mercadolibre | [Lavadora Semiautomática White-Westinghouse de 13 kg y D…](https://www.mercadolibre.com.mx/lavadora-semiautomatica-white-westinghouse-de-13-kg-y-doble-tina-con-centrifugado/p/MLM47040221) | $4,399 | $4,399 en mercadolibre vs mercado -> -34% bajo la competencia |
-| 2026-08-11 16:32 | -34% | walmart | [Procesador de Alimentos Hamilton Beach 4 Tazas Negro](https://www.walmart.com.mx/ip/Procesador-de-Alimentos-Hamilton-Beach-4-Tazas-Negro/00004009470510?athbdg=L1300) | $759 | $759 en walmart vs walmart $1,149, walmart $1,469, sams $1,599 -> -34% bajo la competencia |
-| 2026-08-11 16:32 | -34% | sams | [Combo T-fal  Freidora + Licuadora + Cafetera ](https://www.sams.com.mx/ip/combo-t-fal-freidora-licuadora-cafetera/981050797) | $1,942 | $1,942 en sams vs mercado -> -34% bajo la competencia |
-| 2026-08-11 16:32 | -35% | mercadolibre | [Pantalla Smart Tv Roku 43 PuLG. Jvc](https://www.mercadolibre.com.mx/pantalla-smart-tv-roku-43-pulg-jvc/p/MLM20656473) | $4,499 | $4,499 en mercadolibre vs mercado -> -35% bajo la competencia |
-| 2026-08-11 16:32 | -35% | sams | [Refrigerador Midea  20 Pies Cúbicos Side By Side Plus I…](https://www.sams.com.mx/ip/refrigerador-midea-20-pies-cubicos-side-by-side-plus-inverter-bru-steel-mdrs710fgm46/981036735) | $13,999 | $13,999 en sams vs mercado -> -35% bajo la competencia |
-| 2026-08-11 16:32 | -35% | sams | [Licuadora Hamilton Beach  Sound Shield con Vaso de Vidr…](https://www.sams.com.mx/ip/licuadora-hamilton-beach-sound-shield-con-vaso-de-vidrio-1-53-l/981045739) | $999 | $999 en sams vs mercado -> -35% bajo la competencia |
-| 2026-08-11 16:32 | -39% | sams | [Refrigerador Midea  French Door 19 Pies Cúbicos MDRF700…](https://www.sams.com.mx/ip/refrigerador-midea-french-door-19-pies-cubicos-mdrf700fgm45/981052254) | $13,999 | $13,999 en sams vs mercado -> -39% bajo la competencia |
