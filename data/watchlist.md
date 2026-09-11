@@ -481,7 +481,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Laptop, Yoga Book 9 14IAH10, 14", Intel Core Ultra 7 255H, 1…](https://www.elpalaciodehierro.com/lenovo-laptop-yoga-book-9-14iah10-14-intel-core-ultra-7-255h-16-gb-1-tb-ssd-gris-45353704.html) | $44,554 | -26% |
 | 🟢 disponible | palacio | [Descalcificador para Cafeteras](https://www.elpalaciodehierro.com/krups-descalcificador-para-cafeteras-15513938.html) | $74 | -25% |
 | 🟢 disponible | palacio | [Licuadora Foddi, 2 velocidades](https://www.elpalaciodehierro.com/ninja-licuadora-foddi-2-velocidades-45040659.html) | $2,559 | -20% |
-| 🟢 disponible | palacio | [Funda Bumper para celular iPhone Air, Canela](https://www.elpalaciodehierro.com/apple-funda-bumper-para-celular-iphone-air-canela-45003623.html) | $360 | -20% |
+| 🟢 disponible | palacio | [Funda Bumper para celular iPhone Air, Canela](https://www.elpalaciodehierro.com/apple-funda-bumper-para-celular-iphone-air-canela-45003623.html) | $899 | -20% |
 | 🟢 disponible | palacio | [Pantalla 85 pulgadas Plana Mini-LED 4K Google TV 85QM7L SQD](https://www.elpalaciodehierro.com/tcl-pantalla-85-pulgadas-plana-mini-led-4k-google-tv-85qm7l-sqd-45368711.html) | $33,599 | -20% |
 | 🟢 disponible | palacio | [Cafetera Nespresso Vertuo Pop Red](https://www.elpalaciodehierro.com/nespresso-cafetera-nespresso-vertuo-pop-red-43394466.html) | $1,396 | -60% |
 | 🟢 disponible | palacio | [Laptop Gaming Thin A15 B7V, 15.6quot, NVIDIA RTX 4050, AMD R…](https://www.elpalaciodehierro.com/msi-laptop-gaming-thin-a15-b7v-15.6quot-nvidia-rtx-4050-amd-ryzen-5-7535hs-ram-16-gb-512-gb-ssd-gris-43836168.html) | $12,800 | -33% |
@@ -741,7 +741,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | liverpool | [Smartwatch Generica Para Mujer Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-generica-para-mujer-con-gps/999680512682) | $649 | -27% |
 | 🟢 disponible | liverpool | [Congelador Midea Mdrc205Fzm01 Deshielo Manual Con Drenaje 5 …](https://www.liverpool.com.mx/tienda/pdp/congelador-midea-mdrc205fzm01-deshielo-manual-con-drenaje-5-pies-cubicos/1152345832) | $4,320 | -26% |
 | 🟢 disponible | liverpool | [Kit Smartwatch Reebok Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/kit-smartwatch-reebok-unisex-con-gps/1196431612) | $1,039 | -20% |
-| 🟢 disponible | palacio | [Pantalla 65 Pulgadas Plana MiniLED 4K 65Z670RM FIRE TV](https://www.elpalaciodehierro.com/toshiba-pantalla-65-pulgadas-plana-miniled-4k-65z670rm-fire-tv-45315663.html) | $10,399 | -28% |
+| 🟢 disponible | palacio | [Pantalla 65 Pulgadas Plana MiniLED 4K 65Z670RM FIRE TV](https://www.elpalaciodehierro.com/toshiba-pantalla-65-pulgadas-plana-miniled-4k-65z670rm-fire-tv-45315663.html) | $10,399 | -26% |
 | 🟢 disponible | liverpool | [Licuadora Kitchenaid 7Ksb1325M 3 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-kitchenaid-7ksb1325m-3-velocidades/1109351527) | $2,387 | -21% |
 | 🟢 disponible | liverpool | [Laptop Hp 14 Dq6011Dx 14 Pulgadas Hd Intel Celeron Integrada…](https://www.liverpool.com.mx/tienda/pdp/laptop-hp-14-dq6011dx-14-pulgadas-hd-intel-celeron-integradas-4-gb-ram-128-gb-ssd/1181496939) | $5,449 | -24% |
 | 🟢 disponible | liverpool | [Laptop 2 En 1 Touch Lenovo Ideapad Slim 3 15Irh10 15 3 Pulga…](https://www.liverpool.com.mx/tienda/pdp/laptop-2-en-1-touch-lenovo-ideapad-slim-3-15irh10-15-3-pulgadas-hd-intel-core-i5-intel-uhd-graphics-8-gb-ram-512-gb-ssd/999679929364) | $12,678 | -40% |
@@ -760,7 +760,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Cafetera Vertuo Lattíssima White](https://www.elpalaciodehierro.com/nespresso-cafetera-vertuo-lattissima-white-45191597.html) | $10,990 | -20% |
 | 🟢 disponible | palacio | [Laptop Chromebook IdeaPad Slim 3i, 14", Intel Core i3-N305, …](https://www.elpalaciodehierro.com/lenovo-laptop-chromebook-ideapad-slim-3i-14-intel-core-i3-n305-ram-8-gb-128-gb-emmc-45645120.html) | $10,324 | -31% |
 | 🟢 disponible | palacio | [Lavadora automática 22 kg carga frontal F-WF22C640WCP blanca](https://www.elpalaciodehierro.com/samsung-lavadora-automatica-22-kg-carga-frontal-f-wf22c640wcp-blanca-43441685.html) | $18,199 | -21% |
-| 🟢 disponible | palacio | [Smartwatch Watch 5 Unisex](https://www.elpalaciodehierro.com/huawei-smartwatch-watch-5-unisex-45258358.html) | $4,800 | -33% |
+| 🟢 disponible | palacio | [Smartwatch Watch 5 Unisex](https://www.elpalaciodehierro.com/huawei-smartwatch-watch-5-unisex-45258358.html) | $4,800 | -31% |
 | 🟢 disponible | palacio | [Pantalla 65 Pulgadas Plana Micro RGB 4K MRN65R85HAFXZX](https://www.elpalaciodehierro.com/samsung-pantalla-65-pulgadas-plana-micro-rgb-4k-mrn65r85hafxzx-45367602.html) | $25,713 | -29% |
 | 🟢 disponible | palacio | [Refrigerador French Door 28 p3 GM28LIP](https://www.elpalaciodehierro.com/lg-refrigerador-french-door-28-p3-gm28lip-42808174.html) | $28,350 | -29% |
 | 🟢 disponible | palacio | [Laptop IdeaPad Slim 3 15IPH11 15.3" 24 GB Intel Core Ultra 7…](https://www.elpalaciodehierro.com/lenovo-laptop-ideapad-slim-3-15iph11-15.3-24-gb-intel-core-ultra-7-355-1-tb-ssd-45652839.html) | $28,874 | -25% |
