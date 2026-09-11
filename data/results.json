@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-11 21:14 UTC",
+  "generated_at": "2026-09-11 23:18 UTC",
   "products_scanned": 835,
   "threshold_pct": 20.0,
-  "count": 28,
+  "count": 27,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -384,27 +384,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$2,699 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 899.75,
-      "store": "palacio",
-      "name": "Monitor de sueño Index",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-de-sueno-index-44840620.html",
-      "price": 2699.25,
-      "list_price": 3599.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44840620",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 45.0,
       "detail": "$11,773 en palacio vs mercado -> -21% bajo la competencia",
       "likely_typo": false,
@@ -515,27 +494,6 @@
       "likely_typo": false,
       "savings": 9214.81,
       "store": "palacio",
-      "name": "Celular Galaxy Z Fold8 5G 512 GB 12 GB Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-z-fold8-5g-512-gb-12-gb-desbloqueado-45632961.html",
-      "price": 36374.25,
-      "list_price": 48499.0,
-      "ean": null,
-      "model": "Fold8",
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45632961",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$36,374 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 9214.81,
-      "store": "palacio",
       "name": "Celular Galaxy Z Fold8 5G 512 GB 12 GB Gris Desbloqueado",
       "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-z-fold8-5g-512-gb-12-gb-gris-desbloqueado-45632962.html",
       "price": 36374.25,
@@ -547,6 +505,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45632962",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$36,374 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 9214.81,
+      "store": "palacio",
+      "name": "Celular Galaxy Z Fold8 5G 512 GB 12 GB Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-z-fold8-5g-512-gb-12-gb-desbloqueado-45632961.html",
+      "price": 36374.25,
+      "list_price": 48499.0,
+      "ean": null,
+      "model": "Fold8",
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45632961",
         "outlet": false
       }
     },
