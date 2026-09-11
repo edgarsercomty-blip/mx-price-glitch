@@ -342,16 +342,38 @@
     "items": []
   },
   "amazon|FOLD8": {
-    "ts": "2026-09-09T15:35:14.935686+00:00",
+    "ts": "2026-09-11T18:05:59.437524+00:00",
     "items": []
   },
   "walmart|FOLD8": {
-    "ts": "2026-09-09T15:35:16.576835+00:00",
+    "ts": "2026-09-11T18:06:00.901909+00:00",
     "items": []
   },
   "sams|FOLD8": {
-    "ts": "2026-09-09T15:35:18.013304+00:00",
-    "items": []
+    "ts": "2026-09-11T18:06:03.864380+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Folder Carta Member's Mark  Arcoiris con 100 pzas",
+        "url": "https://www.sams.com.mx/ip/folder-carta-member-s-mark-arcoiris-con-100-pzas/980039494",
+        "price": 425.56,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Folder Oficio Member's Mark  Crema con 150 pzas",
+        "url": "https://www.sams.com.mx/ip/folder-oficio-member-s-mark-crema-con-150-pzas/980039493",
+        "price": 315.07,
+        "model": null
+      },
+      {
+        "store": "sams",
+        "name": "Folder Carta Member's Mark  Crema con 200 pzas",
+        "url": "https://www.sams.com.mx/ip/folder-carta-member-s-mark-crema-con-200-pzas/980039492",
+        "price": 364.17,
+        "model": null
+      }
+    ]
   },
   "amazon|KITCHENAIDVELOCIDADESLICUADORAPOWERPURE": {
     "ts": "2026-09-10T11:46:40.993565+00:00",
@@ -1077,6 +1099,262 @@
   },
   "sams|NESPRESSOLATTISSIMACAFETERAVERTUOWHITE": {
     "ts": "2026-09-11T15:11:14.443189+00:00",
+    "items": []
+  },
+  "amazon|65QNED81BSG": {
+    "ts": "2026-09-11T18:04:56.482317+00:00",
+    "items": []
+  },
+  "walmart|65QNED81BSG": {
+    "ts": "2026-09-11T18:04:57.930227+00:00",
+    "items": []
+  },
+  "sams|65QNED81BSG": {
+    "ts": "2026-09-11T18:04:58.436241+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Pantalla LG  65\" QNED Smart TV AI 4K 65QNED82ASG",
+        "url": "https://www.sams.com.mx/ip/pantalla-lg-65-qned-smart-tv-ai-4k-65qned82asg/981038745",
+        "price": 12998.0,
+        "model": "65QNED82ASG"
+      }
+    ]
+  },
+  "mercadolibre|65QNED81BSG": {
+    "ts": "2026-09-11T18:04:59.594427+00:00",
+    "items": []
+  },
+  "liverpool|RC20N6HBX1": {
+    "ts": "2026-09-11T18:05:02.742401+00:00",
+    "items": []
+  },
+  "amazon|RC20N6HBX1": {
+    "ts": "2026-09-11T18:05:03.930718+00:00",
+    "items": []
+  },
+  "walmart|RC20N6HBX1": {
+    "ts": "2026-09-11T18:05:05.596828+00:00",
+    "items": []
+  },
+  "sams|RC20N6HBX1": {
+    "ts": "2026-09-11T18:05:06.231146+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Refrigerador Hisense  20 Pies Cúbicos French Door RC20N6HBX1",
+        "url": "https://www.sams.com.mx/ip/refrigerador-hisense-20-pies-cubicos-french-door-rc20n6hbx1/981037019",
+        "price": 43782.35,
+        "model": "RC20N6HBX1"
+      }
+    ]
+  },
+  "mercadolibre|RC20N6HBX1": {
+    "ts": "2026-09-11T18:05:07.723210+00:00",
+    "items": []
+  },
+  "liverpool|100U7QG": {
+    "ts": "2026-09-11T18:05:09.710980+00:00",
+    "items": []
+  },
+  "amazon|100U7QG": {
+    "ts": "2026-09-11T18:05:10.885161+00:00",
+    "items": []
+  },
+  "walmart|100U7QG": {
+    "ts": "2026-09-11T18:05:12.544055+00:00",
+    "items": []
+  },
+  "sams|100U7QG": {
+    "ts": "2026-09-11T18:05:13.266693+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Pantalla Hisense  100\" ULED Mini LED 4K Google TV 100U7QG",
+        "url": "https://www.sams.com.mx/ip/pantalla-hisense-100-uled-mini-led-4k-google-tv-100u7qg/981040715",
+        "price": 51998.07,
+        "model": "100U7QG"
+      }
+    ]
+  },
+  "mercadolibre|100U7QG": {
+    "ts": "2026-09-11T18:05:14.678708+00:00",
+    "items": []
+  },
+  "liverpool|WM25BFXS": {
+    "ts": "2026-09-11T18:05:15.342981+00:00",
+    "items": []
+  },
+  "amazon|WM25BFXS": {
+    "ts": "2026-09-11T18:05:16.567026+00:00",
+    "items": []
+  },
+  "walmart|WM25BFXS": {
+    "ts": "2026-09-11T18:05:18.148460+00:00",
+    "items": []
+  },
+  "sams|WM25BFXS": {
+    "ts": "2026-09-11T18:05:18.728904+00:00",
+    "items": []
+  },
+  "mercadolibre|WM25BFXS": {
+    "ts": "2026-09-11T18:05:19.976066+00:00",
+    "items": []
+  },
+  "liverpool|OLED65G6PSA": {
+    "ts": "2026-09-11T18:05:24.508022+00:00",
+    "items": []
+  },
+  "amazon|OLED65G6PSA": {
+    "ts": "2026-09-11T18:05:25.777037+00:00",
+    "items": []
+  },
+  "walmart|OLED65G6PSA": {
+    "ts": "2026-09-11T18:05:27.430509+00:00",
+    "items": []
+  },
+  "sams|OLED65G6PSA": {
+    "ts": "2026-09-11T18:05:28.583259+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Pantalla LG  65\" OLED AI Smart TV OLED65B6PSA",
+        "url": "https://www.sams.com.mx/ip/pantalla-lg-65-oled-ai-smart-tv-oled65b6psa/981052378",
+        "price": 22504.98,
+        "model": "OLED65B6PSA"
+      }
+    ]
+  },
+  "mercadolibre|OLED65G6PSA": {
+    "ts": "2026-09-11T18:05:29.839024+00:00",
+    "items": []
+  },
+  "liverpool|75A400": {
+    "ts": "2026-09-11T18:05:30.572502+00:00",
+    "items": []
+  },
+  "amazon|75A400": {
+    "ts": "2026-09-11T18:05:32.117139+00:00",
+    "items": []
+  },
+  "walmart|75A400": {
+    "ts": "2026-09-11T18:05:33.537275+00:00",
+    "items": []
+  },
+  "sams|75A400": {
+    "ts": "2026-09-11T18:05:33.920731+00:00",
+    "items": []
+  },
+  "mercadolibre|75A400": {
+    "ts": "2026-09-11T18:05:35.138840+00:00",
+    "items": []
+  },
+  "liverpool|65Q6K": {
+    "ts": "2026-09-11T18:05:37.256423+00:00",
+    "items": []
+  },
+  "amazon|65Q6K": {
+    "ts": "2026-09-11T18:05:38.429634+00:00",
+    "items": []
+  },
+  "walmart|65Q6K": {
+    "ts": "2026-09-11T18:05:39.767759+00:00",
+    "items": []
+  },
+  "sams|65Q6K": {
+    "ts": "2026-09-11T18:05:40.227080+00:00",
+    "items": [
+      {
+        "store": "sams",
+        "name": "Pantalla TCL  65\" QLED Google TV 65Q63K",
+        "url": "https://www.sams.com.mx/ip/pantalla-tcl-65-qled-google-tv-65q63k/981036710",
+        "price": 7913.93,
+        "model": "65Q63K"
+      }
+    ]
+  },
+  "mercadolibre|65Q6K": {
+    "ts": "2026-09-11T18:05:41.372274+00:00",
+    "items": []
+  },
+  "amazon|APPLEMIDNIGHTTELCELIPHONEAPPLE": {
+    "ts": "2026-09-11T18:05:42.699998+00:00",
+    "items": []
+  },
+  "walmart|APPLEMIDNIGHTTELCELIPHONEAPPLE": {
+    "ts": "2026-09-11T18:05:44.085118+00:00",
+    "items": []
+  },
+  "amazon|APPLESTARLIGHTTELCELIPHONEAPPLE": {
+    "ts": "2026-09-11T18:05:45.245074+00:00",
+    "items": []
+  },
+  "walmart|APPLESTARLIGHTTELCELIPHONEAPPLE": {
+    "ts": "2026-09-11T18:05:46.702320+00:00",
+    "items": []
+  },
+  "amazon|FA506NCQHN058W": {
+    "ts": "2026-09-11T18:05:47.853886+00:00",
+    "items": []
+  },
+  "walmart|FA506NCQHN058W": {
+    "ts": "2026-09-11T18:05:49.259237+00:00",
+    "items": []
+  },
+  "amazon|RAM512": {
+    "ts": "2026-09-11T18:05:50.523180+00:00",
+    "items": []
+  },
+  "walmart|RAM512": {
+    "ts": "2026-09-11T18:05:51.924865+00:00",
+    "items": []
+  },
+  "amazon|KOBLENZBATIDORACAFETERAPEDESTALKOBLENZ": {
+    "ts": "2026-09-11T18:05:53.222969+00:00",
+    "items": []
+  },
+  "walmart|KOBLENZBATIDORACAFETERAPEDESTALKOBLENZ": {
+    "ts": "2026-09-11T18:05:54.742480+00:00",
+    "items": []
+  },
+  "amazon|M1407KALY137W": {
+    "ts": "2026-09-11T18:05:56.070271+00:00",
+    "items": []
+  },
+  "walmart|M1407KALY137W": {
+    "ts": "2026-09-11T18:05:57.958227+00:00",
+    "items": []
+  },
+  "amazon|15FD0331LA": {
+    "ts": "2026-09-11T18:06:05.141967+00:00",
+    "items": []
+  },
+  "walmart|15FD0331LA": {
+    "ts": "2026-09-11T18:06:06.497180+00:00",
+    "items": []
+  },
+  "amazon|15FC0253LA": {
+    "ts": "2026-09-11T18:06:07.667572+00:00",
+    "items": []
+  },
+  "walmart|15FC0253LA": {
+    "ts": "2026-09-11T18:06:09.032931+00:00",
+    "items": []
+  },
+  "amazon|AG1571P53FR": {
+    "ts": "2026-09-11T18:06:10.289216+00:00",
+    "items": []
+  },
+  "walmart|AG1571P53FR": {
+    "ts": "2026-09-11T18:06:11.854190+00:00",
+    "items": []
+  },
+  "amazon|LMX70214WDAB0": {
+    "ts": "2026-09-11T18:06:13.025434+00:00",
+    "items": []
+  },
+  "walmart|LMX70214WDAB0": {
+    "ts": "2026-09-11T18:06:14.421138+00:00",
     "items": []
   }
 }

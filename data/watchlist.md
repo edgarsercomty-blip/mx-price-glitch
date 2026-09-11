@@ -1,4 +1,4 @@
-# Productos en vigilancia (802)
+# Productos en vigilancia (812)
 
 Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible, llega alerta de restock.
 
@@ -16,8 +16,8 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | walmart | [Lavadora Whirlpool Carga Superior 21 Kg Negra](https://www.walmart.com.mx/ip/lavadora-whirlpool-carga-superior-21-kg-negra/00770822805142?athbdg=L1300) | $9,999 | -32% |
 | 🟢 disponible | palacio | [Pantalla 65 Pulgadas Plana Mini LED 4K 65U6SV](https://www.elpalaciodehierro.com/hisense-pantalla-65-pulgadas-plana-mini-led-4k-65u6sv-45452464.html) | $13,439 | -25% |
 | 🟢 disponible | palacio | [Lavadora 25 Kg Carga Superior WA25DG5505AVAX Negra](https://www.elpalaciodehierro.com/samsung-lavadora-25-kg-carga-superior-wa25dg5505avax-negra-44548089.html) | $15,707 | -24% |
-| 🟢 disponible | sams | [iPhone 13 Apple  128 GB Midnight Telcel](https://www.sams.com.mx/ip/iphone-13-apple-128-gb-midnight-telcel/981026358) | $9,747 | -23% |
-| 🟢 disponible | sams | [iPhone 13 Apple  128 GB Starlight Telcel](https://www.sams.com.mx/ip/iphone-13-apple-128-gb-starlight-telcel/981027284) | $9,747 | -23% |
+| 🟢 disponible | sams | [iPhone 13 Apple  128 GB Midnight Telcel](https://www.sams.com.mx/ip/iphone-13-apple-128-gb-midnight-telcel/981026358) | $7,159 | -30% |
+| 🟢 disponible | sams | [iPhone 13 Apple  128 GB Starlight Telcel](https://www.sams.com.mx/ip/iphone-13-apple-128-gb-starlight-telcel/981027284) | $7,159 | -30% |
 | 🟢 disponible | palacio | [Pantalla 65 Pulgadas Plana OLED 4K WebOS OLED65C6PSA](https://www.elpalaciodehierro.com/lg-pantalla-65-pulgadas-plana-oled-4k-webos-oled65c6psa-45395463.html) | $28,599 | -29% |
 | 🟢 disponible | palacio | [Pantalla 55 Pulgadas Plana OLED 4K Bravia 8 K-55XR80M2](https://www.elpalaciodehierro.com/sony-pantalla-55-pulgadas-plana-oled-4k-bravia-8-k-55xr80m2-44729908.html) | $39,599 | -41% |
 | 🟢 disponible | palacio | [Refrigerador Bottom Mount 15 p3 RMB400IBMRX0 Acero](https://www.elpalaciodehierro.com/mabe-refrigerador-bottom-mount-15-p3-rmb400ibmrx0-acero-41471043.html) | $15,575 | -29% |
@@ -425,7 +425,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | liverpool | [Plato Ensalada Zahra Ramadan De Ceramica](https://www.liverpool.com.mx/tienda/pdp/plato-ensalada-zahra-ramadan-de-ceramica/1167857431) | $250 | -29% |
 | 🟢 disponible | liverpool | [Cafetera Multicapsulas Nespresso C140 Mx Ti Ne](https://www.liverpool.com.mx/tienda/pdp/cafetera-multicapsulas-nespresso-c140-mx-ti-ne/1137498851) | $2,309 | -25% |
 | 🟢 disponible | liverpool | [Lavadora Doble Tina Mabe 11 Kg Semiautomatica Carga Superior…](https://www.liverpool.com.mx/tienda/pdp/lavadora-doble-tina-mabe-11-kg-semiautomatica-carga-superior-lmdx1123hbab0/1162817830) | $4,739 | -24% |
-| 🟢 disponible | palacio | [Lavadora automática 18 Kg Xpert System carga superior 8MWTW1…](https://www.elpalaciodehierro.com/whirlpool-lavadora-automatica-18-kg-xpert-system-carga-superior-8mwtw1824wjm-blanco-40904406.html) | $8,232 | -40% |
+| 🟢 disponible | palacio | [Lavadora automática 18 Kg Xpert System carga superior 8MWTW1…](https://www.elpalaciodehierro.com/whirlpool-lavadora-automatica-18-kg-xpert-system-carga-superior-8mwtw1824wjm-blanco-40904406.html) | $8,232 | -46% |
 | 🟢 disponible | liverpool | [Refrigerador Bottom Mount Mabe 14 Pies Cubicos No Frost Rmb4…](https://www.liverpool.com.mx/tienda/pdp/refrigerador-bottom-mount-mabe-14-pies-cubicos-no-frost-rmb400ibmrp0/1162487672) | $14,122 | -21% |
 | 🟢 disponible | liverpool | [Estufa De Piso A Gas Natural Lp Hisense 76 2 Cm Hfg3602Cps D…](https://www.liverpool.com.mx/tienda/pdp/estufa-de-piso-a-gas-natural-lp-hisense-76-2-cm-hfg3602cps-de-6-quemadores/1172176514) | $17,159 | -21% |
 | 🟢 disponible | palacio | [Celular nova 14 512 GB, RAM 12 GB, azul desbloqueado](https://www.elpalaciodehierro.com/huawei-celular-nova-14-512-gb-ram-12-gb-azul-desbloqueado-45262439.html) | $8,969 | -21% |
@@ -520,11 +520,11 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | sams | [Batidora de Pedestal Daewoo Blanco](https://www.sams.com.mx/ip/batidora-de-pedestal-daewoo-blanco/981010847) | $1,298 | -29% |
 | 🟢 disponible | walmart | [Refrigerador Portátil Sunnimix 12V con Congelador](https://www.walmart.com.mx/ip/refrigerador-portatil-sunnimix-12v-con-congelador/00075535817203?athbdg=L1300) | $2,049 | -28% |
 | 🟢 disponible | mercadolibre | [Smart Tv Pantalla 32 Pulgadas LED Full HD Vedd Android Tv Te…](https://www.mercadolibre.com.mx/smart-tv-pantalla-32-pulgadas-led-full-hd-vedd-android-tv-television-32-bluetooth-hdmi-wi-fi-negro-con-dolby-audio/p/MLM27346159) | $2,503 | -28% |
-| 🟢 disponible | sams | [Lavasecadora Samsung Bespoke Carga Frontal 26 kg Lavado / 15…](https://www.sams.com.mx/ip/lavasecadora-samsung-bespoke-carga-frontal-26-kg-lavado-15-kg-secado-con-ai-wd26db8995bzax/981024524) | $30,688 | -21% |
+| 🟢 disponible | sams | [Lavasecadora Samsung Bespoke Carga Frontal 26 kg Lavado / 15…](https://www.sams.com.mx/ip/lavasecadora-samsung-bespoke-carga-frontal-26-kg-lavado-15-kg-secado-con-ai-wd26db8995bzax/981024524) | $30,688 | -20% |
 | 🟢 disponible | sams | [Refrigerador GE Profile  26 Pies Cúbicos Dúplex Black Steel …](https://www.sams.com.mx/ip/refrigerador-ge-profile-26-pies-cubicos-duplex-black-steel-pnm26pgtfps/981036222) | $29,318 | -23% |
 | 🟢 disponible | amazon | [Samsung Galaxy A17 6+128GB Azul Claro](https://www.amazon.com.mx/dp/B0FSF35HP1) | $3,700 | -26% |
 | 🟢 disponible | sams | [Licuadora Oster 6 velocidades con Pulso + Vaso BNG Plata](https://www.sams.com.mx/ip/licuadora-oster-6-velocidades-con-pulso-vaso-bng-plata/981009012) | $1,021 | -26% |
-| 🟢 disponible | sams | [Accesorio Rallador/Cortador KitchenAid  para Batidora KSMVSA](https://www.sams.com.mx/ip/accesorio-rallador-cortador-kitchenaid-para-batidora-ksmvsa/981024190) | $1,022 | -26% |
+| 🟢 disponible | sams | [Accesorio Rallador/Cortador KitchenAid  para Batidora KSMVSA](https://www.sams.com.mx/ip/accesorio-rallador-cortador-kitchenaid-para-batidora-ksmvsa/981024190) | $1,380 | -26% |
 | 🟢 disponible | amazon | [Bose QuietComfort - Auriculares Bluetooth con cancelación Ac…](https://www.amazon.com.mx/dp/B0FC6KNK6X) | $2,999 | -25% |
 | 🟢 disponible | amazon | [Bose Audífonos inalámbricos con cancelación de Ruido QuietCo…](https://www.amazon.com.mx/dp/B0CCZ26B5V) | $6,999 | -25% |
 | 🟢 disponible | amazon | [Bose Audífonos inalámbricos con cancelación de Ruido QuietCo…](https://www.amazon.com.mx/dp/B0D4Z9BZV2) | $6,999 | -25% |
@@ -644,9 +644,9 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | liverpool | [Refrigerador Duplex Whirlpool 18 Pies Cubicos Inverter No Fr…](https://www.liverpool.com.mx/tienda/pdp/refrigerador-duplex-whirlpool-18-pies-cubicos-inverter-no-frost-wd1600s/1139411460) | $16,280 | -24% |
 | 🟢 disponible | sams | [Smartphone Samsung Galaxy A26 128 GB Negro](https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a26-128-gb-negro/981035902) | $4,092 | -26% |
 | 🟢 disponible | amazon | [UGREEN USB C Hub para MacBook Pro, Adaptador USB Tipo C con …](https://www.amazon.com.mx/dp/B087TSQR6X) | $538 | -23% |
-| 🟢 disponible | sams | [Laptop HP  Pavilion Intel Core i5/8 GB RAM/512 GB SSD 15-eg2…](https://www.sams.com.mx/ip/laptop-hp-pavilion-intel-core-i5-8-gb-ram-512-gb-ssd-15-eg2523la/981030009) | $10,229 | -28% |
+| 🟢 disponible | sams | [Laptop HP  Pavilion Intel Core i5/8 GB RAM/512 GB SSD 15-eg2…](https://www.sams.com.mx/ip/laptop-hp-pavilion-intel-core-i5-8-gb-ram-512-gb-ssd-15-eg2523la/981030009) | $19,129 | -28% |
 | 🟢 disponible | walmart | [Congelador Hisense 7 Pies Cúbicos Blanco](https://www.walmart.com.mx/ip/congelador-hisense-7-pies-cubicos-blanco/00692172704679?athbdg=L1600) | $5,490 | -21% |
-| 🟢 disponible | sams | [Laptop HP  Omnibook 5 NG AI Snapdragon X/16 GB RAM/512 GB SS…](https://www.sams.com.mx/ip/laptop-hp-omnibook-5-ng-ai-snapdragon-x-16-gb-ram-512-gb-ssd-14-he0000la/981043728) | $14,321 | -22% |
+| 🟢 disponible | sams | [Laptop HP  Omnibook 5 NG AI Snapdragon X/16 GB RAM/512 GB SS…](https://www.sams.com.mx/ip/laptop-hp-omnibook-5-ng-ai-snapdragon-x-16-gb-ram-512-gb-ssd-14-he0000la/981043728) | $13,809 | -25% |
 | 🟢 disponible | liverpool | [Samsung Galaxy A07 Lcd 6 7 Pulgadas](https://www.liverpool.com.mx/tienda/pdp/samsung-galaxy-a07-lcd-6-7-pulgadas/1200691462) | $3,224 | -30% |
 | 🟢 disponible | amazon | [Vaso De Vidrio Para Licuadora Compatible InfinyForce LN8148M…](https://www.amazon.com.mx/dp/B0F3444GH7) | $215 | -73% |
 | 🟢 disponible | amazon | [Mustela Maternidad Aceite Prevención Estrías Corporal, 105ml](https://www.amazon.com.mx/dp/B01CGE66TG) | $130 | -63% |
@@ -806,3 +806,13 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Combo Cafetera Vertuo Up Azul](https://www.elpalaciodehierro.com/nespresso-combo-cafetera-vertuo-up-azul-45529514.html) | $4,893 | -30% |
 | 🟢 disponible | palacio | [Combo Cafetera Vertuo Up con Aeroccino  3](https://www.elpalaciodehierro.com/nespresso-combo-cafetera-vertuo-up-con-aeroccino--3-45366272.html) | $4,893 | -30% |
 | 🟢 disponible | palacio | [Combo Cafetera Vertuo Up Negro](https://www.elpalaciodehierro.com/nespresso-combo-cafetera-vertuo-up-negro-45498201.html) | $4,893 | -30% |
+| 🟢 disponible | sams | [Laptop 2 en 1 Lenovo IdeaPad 5 AMD Ryzen AI 7/16 GB RAM/512 …](https://www.sams.com.mx/ip/laptop-2-en-1-lenovo-ideapad-5-amd-ryzen-ai-7-16-gb-ram-512-gb-ssd-14akp10/981053223) | $17,386 | -29% |
+| 🟢 disponible | sams | [Combo Laptop Gaming  Asus TUF AMD Ryzen 7/16 GB RAM/512 GB S…](https://www.sams.com.mx/ip/combo-laptop-gaming-asus-tuf-amd-ryzen-7-16-gb-ram-512-gb-ssd-fa506ncq-hn058w-mouse-tuf-gaming-m3/981052358) | $18,412 | -28% |
+| 🟢 disponible | sams | [Laptop Lenovo IdeaPad Slim AMD Ryzen 3/16 GB RAM/512 GB SSD …](https://www.sams.com.mx/ip/laptop-lenovo-ideapad-slim-amd-ryzen-3-16-gb-ram-512-gb-ssd-3-127lm/981051363) | $11,156 | -27% |
+| 🟢 disponible | sams | [Laptop Acer  Aspire Go 15 Intel Core i5/16 GB RAM/512 GB SSD…](https://www.sams.com.mx/ip/laptop-acer-aspire-go-15-intel-core-i5-16-gb-ram-512-gb-ssd-ag15-71p-53fr/981039243) | $12,786 | -26% |
+| 🟢 disponible | sams | [Lavadora Mabe  Carga Superior 20 kg LMX70214WDAB0](https://www.sams.com.mx/ip/lavadora-mabe-carga-superior-20-kg-lmx70214wdab0/981013433) | $10,228 | -26% |
+| 🟢 disponible | sams | [Batidora de Pedestal KOBLENZ  + Cafetera de Regalo](https://www.sams.com.mx/ip/batidora-de-pedestal-koblenz-cafetera-de-regalo/981050198) | $1,328 | -26% |
+| 🟢 disponible | palacio | [Pantalla 100 Pulgadas Plana ULED Mini-LED PRO 100U7QG Pro](https://www.elpalaciodehierro.com/hisense-pantalla-100-pulgadas-plana-uled-mini-led-pro-100u7qg-pro-44767296.html) | $40,500 | -22% |
+| 🟢 disponible | sams | [Combo Laptop HP  AMD Ryzen 5/16 GB RAM/512 GB SSD 15-fc0253l…](https://www.sams.com.mx/ip/combo-laptop-hp-amd-ryzen-5-16-gb-ram-512-gb-ssd-15-fc0253la-impresora-ink-advatage-2375/981043727) | $12,275 | -22% |
+| 🟢 disponible | sams | [Combo Laptop Asus Vivobook 14 AMD Ryzen AI 5/16 GB RAM/512 G…](https://www.sams.com.mx/ip/combo-laptop-asus-vivobook-14-amd-ryzen-ai-5-16-gb-ram-512-gb-ssd-m1407ka-ly137w-backpack-mouse/981042136) | $14,320 | -20% |
+| 🟢 disponible | sams | [Laptop HP  Intel Core 3/8 GB RAM/512 GB SSD 15-fd0331la](https://www.sams.com.mx/ip/laptop-hp-intel-core-3-8-gb-ram-512-gb-ssd-15-fd0331la/981046092) | $8,183 | -20% |
