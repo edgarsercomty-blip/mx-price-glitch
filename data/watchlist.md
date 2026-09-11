@@ -1,4 +1,4 @@
-# Productos en vigilancia (803)
+# Productos en vigilancia (802)
 
 Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible, llega alerta de restock.
 
@@ -77,7 +77,6 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Refrigerador Dúplex 22 p3](https://www.elpalaciodehierro.com/mabe-refrigerador-duplex-22-p3-44964261.html) | $21,174 | -33% |
 | 🟢 disponible | palacio | [Refrigerador Omega Smart Inverter Top Mount 11 p3 GT32WDC Pl…](https://www.elpalaciodehierro.com/lg-refrigerador-omega-smart-inverter-top-mount-11-p3-gt32wdc-plata-40330810.html) | $11,899 | -30% |
 | 🟢 disponible | mercadolibre | [Auriculares Inalámbricos Xiaomi Redmi Buds 6 Play Negro](https://www.mercadolibre.com.mx/auriculares-inalambricos-xiaomi-redmi-buds-6-play-negro/p/MLM39962085) | $288 | -21% |
-| 🟢 disponible | palacio | [Lavasecadora Eléctrica 12.5 Kg, 7 Kg WD12TP04DBE/AX Carga Fr…](https://www.elpalaciodehierro.com/samsung-lavasecadora-electrica-12.5-kg-7-kg-wd12tp04dbe%2Fax-carga-frontal-blanca-42108046.html) | $10,747 | -25% |
 | 🟢 disponible | palacio | [Licuadora Pure Power 10 Velocidades](https://www.elpalaciodehierro.com/kitchenaid-licuadora-pure-power-10-velocidades-44729902.html) | $2,099 | -30% |
 | 🟢 disponible | palacio | [Aditamento Molinillo de Alimentos en Metal](https://www.elpalaciodehierro.com/kitchenaid-aditamento-molinillo-de-alimentos-en-metal-41758703.html) | $2,309 | -25% |
 | 🟢 disponible | palacio | [Refrigerador Top Mount 19 p3](https://www.elpalaciodehierro.com/mabe-refrigerador-top-mount-19-p3-44621887.html) | $12,479 | -24% |
