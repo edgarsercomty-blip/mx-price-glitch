@@ -1,18 +1,5 @@
-# 🆕 Nuevos posibles errores de precio — 2026-09-11 18:06 UTC
+# 🆕 Nuevos posibles errores de precio — 2026-09-11 18:35 UTC
 
-- Hallazgos: **12**
+- Hallazgos: **0**
 
-| Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
-|------:|-------:|--------|----------|-------:|------|---------|
-| -22% | $11,499 | palacio | [Pantalla 100 Pulgadas Plana ULED Mini-LED PRO 100U7QG Pro](https://www.elpalaciodehierro.com/hisense-pantalla-100-pulgadas-plana-uled-mini-led-pro-100u7qg-pro-44767296.html) | $40,500 | Confirmado vs competencia | $40,500 en palacio vs sams $51,998 -> -22% bajo la competencia |
-| -29% | $7,163 | sams | [Laptop 2 en 1 Lenovo IdeaPad 5 AMD Ryzen AI 7/16 GB RAM/512 …](https://www.sams.com.mx/ip/laptop-2-en-1-lenovo-ideapad-5-amd-ryzen-ai-7-16-gb-ram-512-gb-ssd-14akp10/981053223) | $17,386 | Confirmado vs competencia | $17,386 en sams vs mercado -> -29% bajo la competencia |
-| -28% | $7,162 | sams | [Combo Laptop Gaming  Asus TUF AMD Ryzen 7/16 GB RAM/512 GB S…](https://www.sams.com.mx/ip/combo-laptop-gaming-asus-tuf-amd-ryzen-7-16-gb-ram-512-gb-ssd-fa506ncq-hn058w-mouse-tuf-gaming-m3/981052358) | $18,412 | Confirmado vs competencia | $18,412 en sams vs mercado -> -28% bajo la competencia |
-| -26% | $4,603 | sams | [Laptop Acer  Aspire Go 15 Intel Core i5/16 GB RAM/512 GB SSD…](https://www.sams.com.mx/ip/laptop-acer-aspire-go-15-intel-core-i5-16-gb-ram-512-gb-ssd-ag15-71p-53fr/981039243) | $12,786 | Confirmado vs competencia | $12,786 en sams vs mercado -> -26% bajo la competencia |
-| -27% | $4,143 | sams | [Laptop Lenovo IdeaPad Slim AMD Ryzen 3/16 GB RAM/512 GB SSD …](https://www.sams.com.mx/ip/laptop-lenovo-ideapad-slim-amd-ryzen-3-16-gb-ram-512-gb-ssd-3-127lm/981051363) | $11,156 | Confirmado vs competencia | $11,156 en sams vs mercado -> -27% bajo la competencia |
-| -26% | $3,677 | sams | [Lavadora Mabe  Carga Superior 20 kg LMX70214WDAB0](https://www.sams.com.mx/ip/lavadora-mabe-carga-superior-20-kg-lmx70214wdab0/981013433) | $10,228 | Confirmado vs competencia | $10,228 en sams vs mercado -> -26% bajo la competencia |
-| -20% | $3,582 | sams | [Combo Laptop Asus Vivobook 14 AMD Ryzen AI 5/16 GB RAM/512 G…](https://www.sams.com.mx/ip/combo-laptop-asus-vivobook-14-amd-ryzen-ai-5-16-gb-ram-512-gb-ssd-m1407ka-ly137w-backpack-mouse/981042136) | $14,320 | Confirmado vs competencia | $14,320 en sams vs mercado -> -20% bajo la competencia |
-| -22% | $3,376 | sams | [Combo Laptop HP  AMD Ryzen 5/16 GB RAM/512 GB SSD 15-fc0253l…](https://www.sams.com.mx/ip/combo-laptop-hp-amd-ryzen-5-16-gb-ram-512-gb-ssd-15-fc0253la-impresora-ink-advatage-2375/981043727) | $12,275 | Confirmado vs competencia | $12,275 en sams vs mercado -> -22% bajo la competencia |
-| -30% | $3,069 | sams | [iPhone 13 Apple  128 GB Midnight Telcel](https://www.sams.com.mx/ip/iphone-13-apple-128-gb-midnight-telcel/981026358) | $7,159 | Confirmado vs competencia | $7,159 en sams vs mercado -> -30% bajo la competencia |
-| -30% | $3,069 | sams | [iPhone 13 Apple  128 GB Starlight Telcel](https://www.sams.com.mx/ip/iphone-13-apple-128-gb-starlight-telcel/981027284) | $7,159 | Confirmado vs competencia | $7,159 en sams vs mercado -> -30% bajo la competencia |
-| -20% | $2,046 | sams | [Laptop HP  Intel Core 3/8 GB RAM/512 GB SSD 15-fd0331la](https://www.sams.com.mx/ip/laptop-hp-intel-core-3-8-gb-ram-512-gb-ssd-15-fd0331la/981046092) | $8,183 | Confirmado vs competencia | $8,183 en sams vs mercado -> -20% bajo la competencia |
-| -26% | $460 | sams | [Batidora de Pedestal KOBLENZ  + Cafetera de Regalo](https://www.sams.com.mx/ip/batidora-de-pedestal-koblenz-cafetera-de-regalo/981050198) | $1,328 | Confirmado vs competencia | $1,328 en sams vs mercado -> -26% bajo la competencia |
+_Sin hallazgos por encima del umbral en esta corrida._
