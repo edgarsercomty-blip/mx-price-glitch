@@ -390,7 +390,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Refrigerador Top Mount 19p3 RT53DG6758S9EM](https://www.elpalaciodehierro.com/samsung-refrigerador-top-mount-19p3-rt53dg6758s9em-43689719.html) | $15,731 | -21% |
 | 🟢 disponible | palacio | [Smart Folio para iPadPro de 13 pulgadas M4 Blanco](https://www.elpalaciodehierro.com/apple-smart-folio-para-ipadpro-de-13-pulgadas-m4-blanco-44004165.html) | $920 | -20% |
 | 🟢 disponible | palacio | [Extensible para Apple Watch 40 mm, Cargo Khaki](https://www.elpalaciodehierro.com/apple-extensible-para-apple-watch-40-mm-cargo-khaki-44272688.html) | $440 | -20% |
-| 🟢 disponible | palacio | [Protector de pantalla para Apple Watch](https://www.elpalaciodehierro.com/belkin-protector-de-pantalla-para-apple-watch-42704900.html) | $699 | -20% |
+| 🟢 disponible | palacio | [Protector de pantalla para Apple Watch](https://www.elpalaciodehierro.com/belkin-protector-de-pantalla-para-apple-watch-42704900.html) | $280 | -20% |
 | 🟢 disponible | palacio | [Audífonos Inalámbricos para entrenamiento Bluetooth Powerbea…](https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-rosa-intenso-45001065.html) | $3,999 | -20% |
 | 🟢 disponible | palacio | [Audífonos Inalámbricos para entrenamiento Bluetooth Powerbea…](https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-naranja-destello-45001064.html) | $3,999 | -20% |
 | 🟢 disponible | liverpool | [Lavasecadora Lg 20 Kg 10 Kg Wd20Egnts6P](https://www.liverpool.com.mx/tienda/pdp/lavasecadora-lg-20-kg-10-kg-wd20egnts6p/1179905341) | $20,832 | -25% |
@@ -757,7 +757,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | liverpool | [Licuadora Bogner Bsb08S 16 Velocidades](https://www.liverpool.com.mx/tienda/pdp/licuadora-bogner-bsb08s-16-velocidades/1184112864) | $999 | -23% |
 | 🟢 disponible | liverpool | [Smartwatch Cubitt Cubitt Viva Lite Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-cubitt-cubitt-viva-lite-unisex-con-gps/1193249947) | $1,039 | -20% |
 | 🟢 disponible | liverpool | [Smartwatch Garmin Venu 3 Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-garmin-venu-3-unisex-con-gps/1142098493) | $6,800 | -28% |
-| 🟢 disponible | palacio | [Cafetera Vertuo Lattíssima White](https://www.elpalaciodehierro.com/nespresso-cafetera-vertuo-lattissima-white-45191597.html) | $10,990 | -20% |
+| 🟢 disponible | palacio | [Cafetera Vertuo Lattíssima White](https://www.elpalaciodehierro.com/nespresso-cafetera-vertuo-lattissima-white-45191597.html) | $4,396 | -20% |
 | 🟢 disponible | palacio | [Laptop Chromebook IdeaPad Slim 3i, 14", Intel Core i3-N305, …](https://www.elpalaciodehierro.com/lenovo-laptop-chromebook-ideapad-slim-3i-14-intel-core-i3-n305-ram-8-gb-128-gb-emmc-45645120.html) | $10,324 | -31% |
 | 🟢 disponible | palacio | [Lavadora automática 22 kg carga frontal F-WF22C640WCP blanca](https://www.elpalaciodehierro.com/samsung-lavadora-automatica-22-kg-carga-frontal-f-wf22c640wcp-blanca-43441685.html) | $18,199 | -21% |
 | 🟢 disponible | palacio | [Smartwatch Watch 5 Unisex](https://www.elpalaciodehierro.com/huawei-smartwatch-watch-5-unisex-45258358.html) | $4,800 | -31% |

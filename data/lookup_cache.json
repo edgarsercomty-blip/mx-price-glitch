@@ -365,18 +365,6 @@
     "ts": "2026-09-10T11:46:44.196177+00:00",
     "items": []
   },
-  "amazon|APPLEIPAD": {
-    "ts": "2026-09-09T11:49:06.408051+00:00",
-    "items": []
-  },
-  "walmart|APPLEIPAD": {
-    "ts": "2026-09-09T11:49:08.072086+00:00",
-    "items": []
-  },
-  "sams|APPLEIPAD": {
-    "ts": "2026-09-09T11:49:09.872797+00:00",
-    "items": []
-  },
   "liverpool|65NU850BPSA": {
     "ts": "2026-09-09T18:14:16.420776+00:00",
     "items": []
@@ -1077,6 +1065,18 @@
   },
   "mercadolibre|55QNED81BSG": {
     "ts": "2026-09-11T05:31:28.792923+00:00",
+    "items": []
+  },
+  "amazon|NESPRESSOLATTISSIMACAFETERAVERTUOWHITE": {
+    "ts": "2026-09-11T15:11:09.358873+00:00",
+    "items": []
+  },
+  "walmart|NESPRESSOLATTISSIMACAFETERAVERTUOWHITE": {
+    "ts": "2026-09-11T15:11:11.244951+00:00",
+    "items": []
+  },
+  "sams|NESPRESSOLATTISSIMACAFETERAVERTUOWHITE": {
+    "ts": "2026-09-11T15:11:14.443189+00:00",
     "items": []
   }
 }

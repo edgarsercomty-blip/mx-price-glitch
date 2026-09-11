@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-11 11:25 UTC",
+  "generated_at": "2026-09-11 15:11 UTC",
   "products_scanned": 833,
   "threshold_pct": 20.0,
-  "count": 27,
+  "count": 28,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -179,27 +179,6 @@
       "likely_typo": false,
       "savings": 2097.0,
       "store": "palacio",
-      "name": "Combo Cafetera Vertuo Up con Aeroccino  3",
-      "url": "https://www.elpalaciodehierro.com/nespresso-combo-cafetera-vertuo-up-con-aeroccino--3-45366272.html",
-      "price": 4893.0,
-      "list_price": 6990.0,
-      "ean": null,
-      "model": null,
-      "brand": "Nespresso",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45366272",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 30.0,
-      "detail": "$4,893 en palacio vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2097.0,
-      "store": "palacio",
       "name": "Combo Cafetera Vertuo Up Negro",
       "url": "https://www.elpalaciodehierro.com/nespresso-combo-cafetera-vertuo-up-negro-45498201.html",
       "price": 4893.0,
@@ -211,6 +190,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45498201",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 30.0,
+      "detail": "$4,893 en palacio vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2097.0,
+      "store": "palacio",
+      "name": "Combo Cafetera Vertuo Up con Aeroccino  3",
+      "url": "https://www.elpalaciodehierro.com/nespresso-combo-cafetera-vertuo-up-con-aeroccino--3-45366272.html",
+      "price": 4893.0,
+      "list_price": 6990.0,
+      "ean": null,
+      "model": null,
+      "brand": "Nespresso",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45366272",
         "outlet": false
       }
     },
@@ -515,6 +515,27 @@
       "likely_typo": false,
       "savings": 9214.81,
       "store": "palacio",
+      "name": "Celular Galaxy Z Fold8 5G 512 GB 12 GB Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-z-fold8-5g-512-gb-12-gb-desbloqueado-45632961.html",
+      "price": 36374.25,
+      "list_price": 48499.0,
+      "ean": null,
+      "model": "Fold8",
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45632961",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$36,374 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 9214.81,
+      "store": "palacio",
       "name": "Celular Galaxy Z Fold8 5G 512 GB 12 GB Gris Desbloqueado",
       "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-z-fold8-5g-512-gb-12-gb-gris-desbloqueado-45632962.html",
       "price": 36374.25,
@@ -531,22 +552,22 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$36,374 en palacio vs mercado -> -20% bajo la competencia",
+      "discount_pct": 60.0,
+      "detail": "$4,396 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
-      "savings": 9214.81,
+      "savings": 1099.0,
       "store": "palacio",
-      "name": "Celular Galaxy Z Fold8 5G 512 GB 12 GB Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-z-fold8-5g-512-gb-12-gb-desbloqueado-45632961.html",
-      "price": 36374.25,
-      "list_price": 48499.0,
+      "name": "Cafetera Vertuo Lattíssima White",
+      "url": "https://www.elpalaciodehierro.com/nespresso-cafetera-vertuo-lattissima-white-45191597.html",
+      "price": 4396.0,
+      "list_price": 10990.0,
       "ean": null,
-      "model": "Fold8",
-      "brand": "Samsung",
+      "model": null,
+      "brand": "Nespresso",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "45632961",
+        "id": "45191597",
         "outlet": false
       }
     },
