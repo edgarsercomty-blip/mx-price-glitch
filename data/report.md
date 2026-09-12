@@ -1,6 +1,6 @@
-# Errores/chollos de precio — 2026-09-11 23:18 UTC
+# Errores/chollos de precio — 2026-09-12 01:11 UTC
 
-- Productos revisados: **835**
+- Productos revisados: **831**
 - Umbral de diferencia: **20%**
 - Hallazgos: **27**
 
@@ -13,8 +13,8 @@
 | -29% | $10,285 | palacio | [Pantalla 65 Pulgadas Plana Micro RGB 4K MRN65R85HAFXZX](https://www.elpalaciodehierro.com/samsung-pantalla-65-pulgadas-plana-micro-rgb-4k-mrn65r85hafxzx-45367602.html) | $25,713 | Confirmado vs competencia | $25,713 en palacio vs mercado -> -29% bajo la competencia |
 | -25% | $9,625 | palacio | [Laptop IdeaPad Slim 3 15IPH11 15.3" 24 GB Intel Core Ultra 7…](https://www.elpalaciodehierro.com/lenovo-laptop-ideapad-slim-3-15iph11-15.3-24-gb-intel-core-ultra-7-355-1-tb-ssd-45652839.html) | $28,874 | Confirmado vs competencia | $28,874 en palacio vs mercado -> -25% bajo la competencia |
 | -20% | $9,215 | palacio | [Celular Galaxy Z Fold8 5G 512 GB 12 GB Desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-z-fold8-5g-512-gb-12-gb-desbloqueado-45632963.html) | $36,374 | Confirmado vs competencia | $36,374 en palacio vs mercado -> -20% bajo la competencia |
-| -20% | $9,215 | palacio | [Celular Galaxy Z Fold8 5G 512 GB 12 GB Gris Desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-z-fold8-5g-512-gb-12-gb-gris-desbloqueado-45632962.html) | $36,374 | Confirmado vs competencia | $36,374 en palacio vs mercado -> -20% bajo la competencia |
 | -20% | $9,215 | palacio | [Celular Galaxy Z Fold8 5G 512 GB 12 GB Desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-z-fold8-5g-512-gb-12-gb-desbloqueado-45632961.html) | $36,374 | Confirmado vs competencia | $36,374 en palacio vs mercado -> -20% bajo la competencia |
+| -20% | $9,215 | palacio | [Celular Galaxy Z Fold8 5G 512 GB 12 GB Gris Desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-z-fold8-5g-512-gb-12-gb-gris-desbloqueado-45632962.html) | $36,374 | Confirmado vs competencia | $36,374 en palacio vs mercado -> -20% bajo la competencia |
 | -38% | $5,100 | palacio | [Celular Huawei Nova 13 Pro, RAM 12 GB, 512 GB Blanco Desbloq…](https://www.elpalaciodehierro.com/huawei-celular-huawei-nova-13-pro-ram-12-gb-512-gb-blanco-desbloqueado-44600335.html) | $8,500 | Confirmado vs competencia | $8,500 en palacio vs mercado -> -38% bajo la competencia |
 | -38% | $5,100 | palacio | [Celular Huawei Nova 13 Pro, RAM 12 GB, 512 GB Negro Desbloqu…](https://www.elpalaciodehierro.com/huawei-celular-huawei-nova-13-pro-ram-12-gb-512-gb-negro-desbloqueado-44600334.html) | $8,500 | Confirmado vs competencia | $8,500 en palacio vs mercado -> -38% bajo la competencia |
 | -31% | $4,550 | palacio | [Laptop Chromebook IdeaPad Slim 3i, 14", Intel Core i3-N305, …](https://www.elpalaciodehierro.com/lenovo-laptop-chromebook-ideapad-slim-3i-14-intel-core-i3-n305-ram-8-gb-128-gb-emmc-45645120.html) | $10,324 | Confirmado vs competencia | $10,324 en palacio vs mercado -> -31% bajo la competencia |
@@ -28,8 +28,8 @@
 | -30% | $2,097 | palacio | [Combo Cafetera Vertuo Up Negro](https://www.elpalaciodehierro.com/nespresso-combo-cafetera-vertuo-up-negro-45498201.html) | $4,893 | Confirmado vs competencia | $4,893 en palacio vs mercado -> -30% bajo la competencia |
 | -30% | $2,097 | palacio | [Combo Cafetera Vertuo Up con Aeroccino  3](https://www.elpalaciodehierro.com/nespresso-combo-cafetera-vertuo-up-con-aeroccino--3-45366272.html) | $4,893 | Confirmado vs competencia | $4,893 en palacio vs mercado -> -30% bajo la competencia |
 | -30% | $1,797 | palacio | [Cafetera Vertuo Up Negro](https://www.elpalaciodehierro.com/nespresso-cafetera-vertuo-up-negro-45555103.html) | $4,193 | Confirmado vs competencia | $4,193 en palacio vs mercado -> -30% bajo la competencia |
-| -46% | $1,597 | palacio | [Set Vertuo Pop Titan Cafetera + Termo](https://www.elpalaciodehierro.com/nespresso-set-vertuo-pop-titan-cafetera-termo-45281004.html) | $1,896 | Confirmado vs competencia | $1,896 en palacio vs mercado -> -46% bajo la competencia |
 | -30% | $1,200 | palacio | [Audífonos Inalámbricos para entrenamiento Bluetooth Powerbea…](https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-negro-azabache-45001062.html) | $2,799 | Confirmado vs competencia | $2,799 en palacio vs mercado -> -30% bajo la competencia |
 | -30% | $1,200 | palacio | [Audífonos Inalámbricos para entrenamiento Bluetooth Powerbea…](https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-gris-grava-45001063.html) | $2,799 | Confirmado vs competencia | $2,799 en palacio vs mercado -> -30% bajo la competencia |
 | -20% | $1,099 | palacio | [Cafetera Vertuo Lattíssima White](https://www.elpalaciodehierro.com/nespresso-cafetera-vertuo-lattissima-white-45191597.html) | $4,396 | Confirmado vs competencia | $4,396 en palacio vs mercado -> -20% bajo la competencia |
+| -25% | $900 | palacio | [Monitor de sueño Index](https://www.elpalaciodehierro.com/garmin-monitor-de-sueno-index-44840620.html) | $2,699 | Confirmado vs competencia | $2,699 en palacio vs mercado -> -25% bajo la competencia |
 | -25% | $898 | palacio | [Combo Cafetera Nespresso Vertuo Pop Rojo](https://www.elpalaciodehierro.com/nespresso-combo-cafetera-nespresso-vertuo-pop-rojo-43294637.html) | $2,694 | Confirmado vs competencia | $2,694 en palacio vs mercado -> -25% bajo la competencia |
