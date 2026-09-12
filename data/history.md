@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (1065)
+# Historial de ofertas encontradas (1066)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-09-12 09:49 | -25% | palacio | [Mini Refri Personal, .5 p3](https://www.elpalaciodehierro.com/chefman-mini-refri-personal-.5-p3-44421105.html) | $1,199 | $1,199 en palacio vs mercado -> -25% bajo la competencia |
 | 2026-09-11 18:06 | -20% | sams | [Laptop HP  Intel Core 3/8 GB RAM/512 GB SSD 15-fd0331la](https://www.sams.com.mx/ip/laptop-hp-intel-core-3-8-gb-ram-512-gb-ssd-15-fd0331la/981046092) | $8,183 | $8,183 en sams vs mercado -> -20% bajo la competencia |
 | 2026-09-11 18:06 | -20% | sams | [Combo Laptop Asus Vivobook 14 AMD Ryzen AI 5/16 GB RAM/…](https://www.sams.com.mx/ip/combo-laptop-asus-vivobook-14-amd-ryzen-ai-5-16-gb-ram-512-gb-ssd-m1407ka-ly137w-backpack-mouse/981042136) | $14,320 | $14,320 en sams vs mercado -> -20% bajo la competencia |
 | 2026-09-11 18:06 | -22% | sams | [Combo Laptop HP  AMD Ryzen 5/16 GB RAM/512 GB SSD 15-fc…](https://www.sams.com.mx/ip/combo-laptop-hp-amd-ryzen-5-16-gb-ram-512-gb-ssd-15-fc0253la-impresora-ink-advatage-2375/981043727) | $12,275 | $12,275 en sams vs mercado -> -22% bajo la competencia |
@@ -403,4 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-08-11 16:32 | -24% | walmart | [Fragancia Nautica 200ml.](https://www.walmart.com.mx/ip/fragancia-nautica-200ml-/00361422883403?athbdg=L1300) | $265 | $265 en walmart vs mercado -> -24% bajo la competencia |
 | 2026-08-11 16:32 | -25% | sams | [Licuadora Daewoo con Molino 1.5L](https://www.sams.com.mx/ip/licuadora-daewoo-con-molino-1-5l/981010849) | $920 | $920 en sams vs mercado -> -25% bajo la competencia |
 | 2026-08-11 16:32 | -25% | amazon | [Guess Loven Zapatillas para Mujer](https://www.amazon.com.mx/dp/B09NLBWH3K) | $750 | $750 en amazon vs mercado -> -25% bajo la competencia |
-| 2026-08-11 16:32 | -26% | walmart | [Smartphone Samsung Galaxy A16 4G Dual sim 128gb 84ram- …](https://www.walmart.com.mx/ip/smartphone-samsung-galaxy-a16-4g-dual-sim-128gb-84ram-negro/00880609582888?athbdg=L1300) | $2,879 | $2,879 en walmart vs sams $19,947, sams $19,947 -> -26% bajo la competencia |

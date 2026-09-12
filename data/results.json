@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-09-12 05:49 UTC",
-  "products_scanned": 831,
+  "generated_at": "2026-09-12 09:49 UTC",
+  "products_scanned": 754,
   "threshold_pct": 20.0,
   "count": 27,
   "findings": [
     {
       "kind": "cross_confirmed",
-      "discount_pct": 50.0,
-      "detail": "$8,500 en palacio vs mercado -> -38% bajo la competencia",
+      "discount_pct": 62.0,
+      "detail": "$1,896 en palacio vs mercado -> -46% bajo la competencia",
       "likely_typo": false,
-      "savings": 5099.7,
+      "savings": 1596.8,
       "store": "palacio",
-      "name": "Celular Huawei Nova 13 Pro, RAM 12 GB, 512 GB Blanco Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/huawei-celular-huawei-nova-13-pro-ram-12-gb-512-gb-blanco-desbloqueado-44600335.html",
-      "price": 8499.5,
-      "list_price": 16999.0,
+      "name": "Set Vertuo Pop Titan Cafetera + Termo",
+      "url": "https://www.elpalaciodehierro.com/nespresso-set-vertuo-pop-titan-cafetera-termo-45281004.html",
+      "price": 1896.2,
+      "list_price": 4990.0,
       "ean": null,
       "model": null,
-      "brand": "Huawei",
+      "brand": "Nespresso",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "44600335",
+        "id": "45281004",
         "outlet": false
       }
     },
@@ -85,6 +85,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45645120",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 30.0,
+      "detail": "$25,199 en palacio vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 10799.7,
+      "store": "palacio",
+      "name": "Celular Galaxy S25 Ultra 512 GB, RAM 12 GB Titanium White Silver Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-s25-ultra-512-gb-ram-12-gb-titanium-white-silver-desbloqueado-44443565.html",
+      "price": 25199.3,
+      "list_price": 35999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44443565",
         "outlet": false
       }
     },
@@ -169,27 +190,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45366272",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 30.0,
-      "detail": "$2,799 en palacio vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1199.7,
-      "store": "palacio",
-      "name": "Audífonos Inalámbricos para entrenamiento Bluetooth Powerbeats Fit Negro azabache",
-      "url": "https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-negro-azabache-45001062.html",
-      "price": 2799.3,
-      "list_price": 3999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Apple",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45001062",
         "outlet": false
       }
     },
@@ -343,21 +343,21 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 25.0,
-      "detail": "$2,699 en palacio vs mercado -> -25% bajo la competencia",
+      "detail": "$1,199 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
-      "savings": 899.75,
+      "savings": 399.75,
       "store": "palacio",
-      "name": "Monitor de sueño Index",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-de-sueno-index-44840620.html",
-      "price": 2699.25,
-      "list_price": 3599.0,
+      "name": "Mini Refri Personal, .5 p3",
+      "url": "https://www.elpalaciodehierro.com/chefman-mini-refri-personal-.5-p3-44421105.html",
+      "price": 1199.25,
+      "list_price": 1599.0,
       "ean": null,
       "model": null,
-      "brand": "Garmin",
+      "brand": "Chefman",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "44840620",
+        "id": "44421105",
         "outlet": false
       }
     },
@@ -510,27 +510,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$36,374 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 9214.81,
-      "store": "palacio",
-      "name": "Celular Galaxy Z Fold8 5G 512 GB 12 GB Gris Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-z-fold8-5g-512-gb-12-gb-gris-desbloqueado-45632962.html",
-      "price": 36374.25,
-      "list_price": 48499.0,
-      "ean": null,
-      "model": "Fold8",
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45632962",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 60.0,
       "detail": "$4,396 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
@@ -547,6 +526,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45191597",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 60.0,
+      "detail": "$5,560 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1390.0,
+      "store": "palacio",
+      "name": "Hervidor de agua eléctrico Porsche en acero inoxidable",
+      "url": "https://www.elpalaciodehierro.com/smeg-hervidor-de-agua-electrico-porsche-en-acero-inoxidable-45000830.html",
+      "price": 5560.0,
+      "list_price": 13900.0,
+      "ean": null,
+      "model": null,
+      "brand": "Smeg",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45000830",
         "outlet": false
       }
     },
