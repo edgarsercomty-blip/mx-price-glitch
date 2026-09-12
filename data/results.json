@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-12 01:11 UTC",
+  "generated_at": "2026-09-12 05:19 UTC",
   "products_scanned": 831,
   "threshold_pct": 20.0,
-  "count": 27,
+  "count": 28,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -64,27 +64,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45361289",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 52.0,
-      "detail": "$4,800 en palacio vs mercado -> -31% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2199.78,
-      "store": "palacio",
-      "name": "Smartwatch Watch 5 Unisex",
-      "url": "https://www.elpalaciodehierro.com/huawei-smartwatch-watch-5-unisex-45258358.html",
-      "price": 4799.52,
-      "list_price": 9999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Huawei",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45258358",
         "outlet": false
       }
     },
@@ -237,6 +216,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 52.0,
+      "detail": "$4,800 en palacio vs mercado -> -29% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1999.8,
+      "store": "palacio",
+      "name": "Smartwatch Watch 5 Unisex",
+      "url": "https://www.elpalaciodehierro.com/huawei-smartwatch-watch-5-unisex-45258358.html",
+      "price": 4799.52,
+      "list_price": 9999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Huawei",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45258358",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 55.0,
       "detail": "$25,713 en palacio vs mercado -> -29% bajo la competencia",
       "likely_typo": false,
@@ -300,27 +300,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 44.0,
-      "detail": "$10,399 en palacio vs mercado -> -26% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3687.72,
-      "store": "palacio",
-      "name": "Pantalla 65 Pulgadas Plana MiniLED 4K 65Z670RM FIRE TV",
-      "url": "https://www.elpalaciodehierro.com/toshiba-pantalla-65-pulgadas-plana-miniled-4k-65z670rm-fire-tv-45315663.html",
-      "price": 10399.2,
-      "list_price": 18570.0,
-      "ean": null,
-      "model": "65Z670RM",
-      "brand": "Toshiba",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45315663",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 40.0,
       "detail": "$2,694 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
@@ -379,6 +358,48 @@
       "currency": "MXN",
       "extra": {
         "id": "44840620",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 44.0,
+      "detail": "$10,399 en palacio vs mercado -> -24% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3320.24,
+      "store": "palacio",
+      "name": "Pantalla 65 Pulgadas Plana MiniLED 4K 65Z670RM FIRE TV",
+      "url": "https://www.elpalaciodehierro.com/toshiba-pantalla-65-pulgadas-plana-miniled-4k-65z670rm-fire-tv-45315663.html",
+      "price": 10399.2,
+      "list_price": 18570.0,
+      "ean": null,
+      "model": "65Z670RM",
+      "brand": "Toshiba",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45315663",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 55.0,
+      "detail": "$40,500 en palacio vs sams $51,998 -> -22% bajo la competencia",
+      "likely_typo": false,
+      "savings": 11498.52,
+      "store": "palacio",
+      "name": "Pantalla 100 Pulgadas Plana ULED Mini-LED PRO 100U7QG Pro",
+      "url": "https://www.elpalaciodehierro.com/hisense-pantalla-100-pulgadas-plana-uled-mini-led-pro-100u7qg-pro-44767296.html",
+      "price": 40499.55,
+      "list_price": 89999.0,
+      "ean": null,
+      "model": "100U7QG",
+      "brand": "Hisense",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44767296",
         "outlet": false
       }
     },

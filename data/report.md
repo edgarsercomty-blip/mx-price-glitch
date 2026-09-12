@@ -1,13 +1,14 @@
-# Errores/chollos de precio — 2026-09-12 01:11 UTC
+# Errores/chollos de precio — 2026-09-12 05:19 UTC
 
 - Productos revisados: **831**
 - Umbral de diferencia: **20%**
-- Hallazgos: **27**
+- Hallazgos: **28**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
 | -33% | $24,000 | palacio | [Pantalla 85 Pulgadas Plana Micro RGB 4K MRN85R85HAFXZX](https://www.elpalaciodehierro.com/samsung-pantalla-85-pulgadas-plana-micro-rgb-4k-mrn85r85hafxzx-45361289.html) | $47,999 | Confirmado vs competencia | $47,999 en palacio vs mercado -> -33% bajo la competencia |
 | -20% | $12,700 | palacio | [Laptop LEGION 5 15IAX10 15.1" 32 GB Intel Core Ultra 7 255HX…](https://www.elpalaciodehierro.com/lenovo-laptop-legion-5-15iax10-15.1-32-gb-intel-core-ultra-7-255hx-ssd-45652844.html) | $50,799 | Confirmado vs competencia | $50,799 en palacio vs mercado -> -20% bajo la competencia |
+| -22% | $11,499 | palacio | [Pantalla 100 Pulgadas Plana ULED Mini-LED PRO 100U7QG Pro](https://www.elpalaciodehierro.com/hisense-pantalla-100-pulgadas-plana-uled-mini-led-pro-100u7qg-pro-44767296.html) | $40,500 | Confirmado vs competencia | $40,500 en palacio vs sams $51,998 -> -22% bajo la competencia |
 | -21% | $10,700 | palacio | [Celular Galaxy Z Fold8 Ultra 5G 512 GB 12 GB Desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-z-fold8-ultra-5g-512-gb-12-gb-desbloqueado-45632965.html) | $40,124 | Confirmado vs competencia | $40,124 en palacio vs mercado -> -21% bajo la competencia |
 | -21% | $10,700 | palacio | [Celular Galaxy Z Fold8 Ultra 5G 512 GB 12 GB Violeta Desbloq…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-z-fold8-ultra-5g-512-gb-12-gb-violeta-desbloqueado-45632967.html) | $40,124 | Confirmado vs competencia | $40,124 en palacio vs mercado -> -21% bajo la competencia |
 | -29% | $10,285 | palacio | [Pantalla 65 Pulgadas Plana Micro RGB 4K MRN65R85HAFXZX](https://www.elpalaciodehierro.com/samsung-pantalla-65-pulgadas-plana-micro-rgb-4k-mrn65r85hafxzx-45367602.html) | $25,713 | Confirmado vs competencia | $25,713 en palacio vs mercado -> -29% bajo la competencia |
@@ -19,14 +20,14 @@
 | -38% | $5,100 | palacio | [Celular Huawei Nova 13 Pro, RAM 12 GB, 512 GB Negro Desbloqu…](https://www.elpalaciodehierro.com/huawei-celular-huawei-nova-13-pro-ram-12-gb-512-gb-negro-desbloqueado-44600334.html) | $8,500 | Confirmado vs competencia | $8,500 en palacio vs mercado -> -38% bajo la competencia |
 | -31% | $4,550 | palacio | [Laptop Chromebook IdeaPad Slim 3i, 14", Intel Core i3-N305, …](https://www.elpalaciodehierro.com/lenovo-laptop-chromebook-ideapad-slim-3i-14-intel-core-i3-n305-ram-8-gb-128-gb-emmc-45645120.html) | $10,324 | Confirmado vs competencia | $10,324 en palacio vs mercado -> -31% bajo la competencia |
 | -28% | $4,173 | palacio | [Laptop OmniBook 3, 14", Intel Core I5, RAM 8 GB, SSD 512 GB](https://www.elpalaciodehierro.com/hp-laptop-omnibook-3-14-intel-core-i5-ram-8-gb-ssd-512-gb-45384039.html) | $10,543 | Confirmado vs competencia | $10,543 en palacio vs mercado -> -28% bajo la competencia |
-| -26% | $3,688 | palacio | [Pantalla 65 Pulgadas Plana MiniLED 4K 65Z670RM FIRE TV](https://www.elpalaciodehierro.com/toshiba-pantalla-65-pulgadas-plana-miniled-4k-65z670rm-fire-tv-45315663.html) | $10,399 | Confirmado vs competencia | $10,399 en palacio vs mercado -> -26% bajo la competencia |
 | -28% | $3,416 | palacio | [Laptop 15FD0161LA, 15.6", Intel Core i5, RAM 8 GB, SSD 256 G…](https://www.elpalaciodehierro.com/hp-laptop-15fd0161la-15.6-intel-core-i5-ram-8-gb-ssd-256-gb-45371050.html) | $8,946 | Confirmado vs competencia | $8,946 en palacio vs mercado -> -28% bajo la competencia |
+| -24% | $3,320 | palacio | [Pantalla 65 Pulgadas Plana MiniLED 4K 65Z670RM FIRE TV](https://www.elpalaciodehierro.com/toshiba-pantalla-65-pulgadas-plana-miniled-4k-65z670rm-fire-tv-45315663.html) | $10,399 | Confirmado vs competencia | $10,399 en palacio vs mercado -> -24% bajo la competencia |
 | -21% | $3,211 | palacio | [Laptop FC0287LA, 15", AMD Ryzen 7, RAM 8 GB, SSD 512 GB](https://www.elpalaciodehierro.com/hp-laptop-fc0287la-15-amd-ryzen-7-ram-8-gb-ssd-512-gb-45384043.html) | $11,773 | Confirmado vs competencia | $11,773 en palacio vs mercado -> -21% bajo la competencia |
 | -21% | $3,000 | palacio | [Smartwatch Ultimate 2 Hombre](https://www.elpalaciodehierro.com/huawei-smartwatch-ultimate-2-hombre-45242624.html) | $11,399 | Confirmado vs competencia | $11,399 en palacio vs mercado -> -21% bajo la competencia |
-| -31% | $2,200 | palacio | [Smartwatch Watch 5 Unisex](https://www.elpalaciodehierro.com/huawei-smartwatch-watch-5-unisex-45258358.html) | $4,800 | Confirmado vs competencia | $4,800 en palacio vs mercado -> -31% bajo la competencia |
 | -30% | $2,097 | palacio | [Combo Cafetera Vertuo Up Azul](https://www.elpalaciodehierro.com/nespresso-combo-cafetera-vertuo-up-azul-45529514.html) | $4,893 | Confirmado vs competencia | $4,893 en palacio vs mercado -> -30% bajo la competencia |
 | -30% | $2,097 | palacio | [Combo Cafetera Vertuo Up Negro](https://www.elpalaciodehierro.com/nespresso-combo-cafetera-vertuo-up-negro-45498201.html) | $4,893 | Confirmado vs competencia | $4,893 en palacio vs mercado -> -30% bajo la competencia |
 | -30% | $2,097 | palacio | [Combo Cafetera Vertuo Up con Aeroccino  3](https://www.elpalaciodehierro.com/nespresso-combo-cafetera-vertuo-up-con-aeroccino--3-45366272.html) | $4,893 | Confirmado vs competencia | $4,893 en palacio vs mercado -> -30% bajo la competencia |
+| -29% | $2,000 | palacio | [Smartwatch Watch 5 Unisex](https://www.elpalaciodehierro.com/huawei-smartwatch-watch-5-unisex-45258358.html) | $4,800 | Confirmado vs competencia | $4,800 en palacio vs mercado -> -29% bajo la competencia |
 | -30% | $1,797 | palacio | [Cafetera Vertuo Up Negro](https://www.elpalaciodehierro.com/nespresso-cafetera-vertuo-up-negro-45555103.html) | $4,193 | Confirmado vs competencia | $4,193 en palacio vs mercado -> -30% bajo la competencia |
 | -30% | $1,200 | palacio | [Audífonos Inalámbricos para entrenamiento Bluetooth Powerbea…](https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-negro-azabache-45001062.html) | $2,799 | Confirmado vs competencia | $2,799 en palacio vs mercado -> -30% bajo la competencia |
 | -30% | $1,200 | palacio | [Audífonos Inalámbricos para entrenamiento Bluetooth Powerbea…](https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-gris-grava-45001063.html) | $2,799 | Confirmado vs competencia | $2,799 en palacio vs mercado -> -30% bajo la competencia |
