@@ -1,14 +1,13 @@
-# Errores/chollos de precio — 2026-09-12 17:37 UTC
+# Errores/chollos de precio — 2026-09-12 18:42 UTC
 
-- Productos revisados: **832**
+- Productos revisados: **831**
 - Umbral de diferencia: **20%**
-- Hallazgos: **29**
+- Hallazgos: **27**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
 | -33% | $24,000 | palacio | [Pantalla 85 Pulgadas Plana Micro RGB 4K MRN85R85HAFXZX](https://www.elpalaciodehierro.com/samsung-pantalla-85-pulgadas-plana-micro-rgb-4k-mrn85r85hafxzx-45361289.html) | $47,999 | Confirmado vs competencia | $47,999 en palacio vs mercado -> -33% bajo la competencia |
 | -20% | $12,700 | palacio | [Laptop LEGION 5 15IAX10 15.1" 32 GB Intel Core Ultra 7 255HX…](https://www.elpalaciodehierro.com/lenovo-laptop-legion-5-15iax10-15.1-32-gb-intel-core-ultra-7-255hx-ssd-45652844.html) | $50,799 | Confirmado vs competencia | $50,799 en palacio vs mercado -> -20% bajo la competencia |
-| -22% | $11,499 | palacio | [Pantalla 100 Pulgadas Plana ULED Mini-LED PRO 100U7QG Pro](https://www.elpalaciodehierro.com/hisense-pantalla-100-pulgadas-plana-uled-mini-led-pro-100u7qg-pro-44767296.html) | $40,500 | Confirmado vs competencia | $40,500 en palacio vs sams $51,998 -> -22% bajo la competencia |
 | -21% | $10,700 | palacio | [Celular Galaxy Z Fold8 Ultra 5G 512 GB 12 GB Desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-z-fold8-ultra-5g-512-gb-12-gb-desbloqueado-45632965.html) | $40,124 | Confirmado vs competencia | $40,124 en palacio vs mercado -> -21% bajo la competencia |
 | -21% | $10,700 | palacio | [Celular Galaxy Z Fold8 Ultra 5G 512 GB 12 GB Violeta Desbloq…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-z-fold8-ultra-5g-512-gb-12-gb-violeta-desbloqueado-45632967.html) | $40,124 | Confirmado vs competencia | $40,124 en palacio vs mercado -> -21% bajo la competencia |
 | -29% | $10,285 | palacio | [Pantalla 65 Pulgadas Plana Micro RGB 4K MRN65R85HAFXZX](https://www.elpalaciodehierro.com/samsung-pantalla-65-pulgadas-plana-micro-rgb-4k-mrn65r85hafxzx-45367602.html) | $25,713 | Confirmado vs competencia | $25,713 en palacio vs mercado -> -29% bajo la competencia |
@@ -28,7 +27,6 @@
 | -30% | $2,097 | palacio | [Combo Cafetera Vertuo Up Azul](https://www.elpalaciodehierro.com/nespresso-combo-cafetera-vertuo-up-azul-45529514.html) | $4,893 | Confirmado vs competencia | $4,893 en palacio vs mercado -> -30% bajo la competencia |
 | -30% | $2,097 | palacio | [Combo Cafetera Vertuo Up con Aeroccino  3](https://www.elpalaciodehierro.com/nespresso-combo-cafetera-vertuo-up-con-aeroccino--3-45366272.html) | $4,893 | Confirmado vs competencia | $4,893 en palacio vs mercado -> -30% bajo la competencia |
 | -29% | $2,000 | palacio | [Smartwatch Watch 5 Unisex](https://www.elpalaciodehierro.com/huawei-smartwatch-watch-5-unisex-45258358.html) | $4,800 | Confirmado vs competencia | $4,800 en palacio vs mercado -> -29% bajo la competencia |
-| -50% | $1,974 | palacio | [Licuadora Pure Power 10 velocidades roja](https://www.elpalaciodehierro.com/kitchenaid-licuadora-pure-power-10-velocidades-roja-44729904.html) | $1,974 | Confirmado vs competencia | $1,974 en palacio vs mercado -> -50% bajo la competencia |
 | -30% | $1,797 | palacio | [Cafetera Vertuo Up Negro](https://www.elpalaciodehierro.com/nespresso-cafetera-vertuo-up-negro-45555103.html) | $4,193 | Confirmado vs competencia | $4,193 en palacio vs mercado -> -30% bajo la competencia |
 | -30% | $1,200 | palacio | [Audífonos Inalámbricos para entrenamiento Bluetooth Powerbea…](https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-negro-azabache-45001062.html) | $2,799 | Confirmado vs competencia | $2,799 en palacio vs mercado -> -30% bajo la competencia |
 | -30% | $1,200 | palacio | [Audífonos Inalámbricos para entrenamiento Bluetooth Powerbea…](https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-gris-grava-45001063.html) | $2,799 | Confirmado vs competencia | $2,799 en palacio vs mercado -> -30% bajo la competencia |
