@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13 06:13 UTC",
-  "products_scanned": 827,
+  "generated_at": "2026-09-13 11:56 UTC",
+  "products_scanned": 768,
   "threshold_pct": 20.0,
   "count": 27,
   "findings": [
@@ -106,27 +106,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45555103",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 30.0,
-      "detail": "$4,893 en palacio vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2097.0,
-      "store": "palacio",
-      "name": "Combo Cafetera Vertuo Up Negro",
-      "url": "https://www.elpalaciodehierro.com/nespresso-combo-cafetera-vertuo-up-negro-45498201.html",
-      "price": 4893.0,
-      "list_price": 6990.0,
-      "ean": null,
-      "model": null,
-      "brand": "Nespresso",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45498201",
         "outlet": false
       }
     },
@@ -279,27 +258,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$2,694 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 898.0,
-      "store": "palacio",
-      "name": "Combo Cafetera Nespresso Vertuo Pop Rojo",
-      "url": "https://www.elpalaciodehierro.com/nespresso-combo-cafetera-nespresso-vertuo-pop-rojo-43294637.html",
-      "price": 2694.0,
-      "list_price": 4490.0,
-      "ean": null,
-      "model": null,
-      "brand": "Nespresso",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43294637",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 25.0,
       "detail": "$28,874 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
@@ -316,6 +274,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45652839",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$3,899 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1299.75,
+      "store": "palacio",
+      "name": "Monitor Deportivo Lily 2 Cream Gold",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-lily-2-cream-gold-43687680.html",
+      "price": 3899.25,
+      "list_price": 5199.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43687680",
         "outlet": false
       }
     },
@@ -568,6 +547,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45652844",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$51,839 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 12959.8,
+      "store": "palacio",
+      "name": "Monitor Deportivo MARQ Adventurer Gen 2 Damascus Steel Edition",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-marq-adventurer-gen-2-damascus-steel-edition-44232024.html",
+      "price": 51839.2,
+      "list_price": 64799.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44232024",
         "outlet": false
       }
     }

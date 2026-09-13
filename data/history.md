@@ -1,9 +1,11 @@
-# Historial de ofertas encontradas (1066)
+# Historial de ofertas encontradas (1068)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-09-13 11:56 | -20% | palacio | [Monitor Deportivo MARQ Adventurer Gen 2 Damascus Steel …](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-marq-adventurer-gen-2-damascus-steel-edition-44232024.html) | $51,839 | $51,839 en palacio vs mercado -> -20% bajo la competencia |
+| 2026-09-13 11:56 | -25% | palacio | [Monitor Deportivo Lily 2 Cream Gold](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-lily-2-cream-gold-43687680.html) | $3,899 | $3,899 en palacio vs mercado -> -25% bajo la competencia |
 | 2026-09-12 09:49 | -25% | palacio | [Mini Refri Personal, .5 p3](https://www.elpalaciodehierro.com/chefman-mini-refri-personal-.5-p3-44421105.html) | $1,199 | $1,199 en palacio vs mercado -> -25% bajo la competencia |
 | 2026-09-11 18:06 | -20% | sams | [Laptop HP  Intel Core 3/8 GB RAM/512 GB SSD 15-fd0331la](https://www.sams.com.mx/ip/laptop-hp-intel-core-3-8-gb-ram-512-gb-ssd-15-fd0331la/981046092) | $8,183 | $8,183 en sams vs mercado -> -20% bajo la competencia |
 | 2026-09-11 18:06 | -20% | sams | [Combo Laptop Asus Vivobook 14 AMD Ryzen AI 5/16 GB RAM/…](https://www.sams.com.mx/ip/combo-laptop-asus-vivobook-14-amd-ryzen-ai-5-16-gb-ram-512-gb-ssd-m1407ka-ly137w-backpack-mouse/981042136) | $14,320 | $14,320 en sams vs mercado -> -20% bajo la competencia |
@@ -402,5 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-08-11 16:32 | -22% | sams | [Laptop HP  Pavilion Intel Core i5/8 GB RAM/512 GB SSD 1…](https://www.sams.com.mx/ip/laptop-hp-pavilion-intel-core-i5-8-gb-ram-512-gb-ssd-15-eg2523la/981030009) | $10,229 | $10,229 en sams vs mercado -> -22% bajo la competencia |
 | 2026-08-11 16:32 | -24% | sams | [Laptop HP  AMD Ryzen 7/16 GB RAM/1 TB SSD 15-fc0276la](https://www.sams.com.mx/ip/laptop-hp-amd-ryzen-7-16-gb-ram-1-tb-ssd-15-fc0276la/981043905) | $13,298 | $13,298 en sams vs mercado -> -24% bajo la competencia |
 | 2026-08-11 16:32 | -24% | walmart | [Fragancia Nautica 200ml.](https://www.walmart.com.mx/ip/fragancia-nautica-200ml-/00361422883403?athbdg=L1300) | $265 | $265 en walmart vs mercado -> -24% bajo la competencia |
-| 2026-08-11 16:32 | -25% | sams | [Licuadora Daewoo con Molino 1.5L](https://www.sams.com.mx/ip/licuadora-daewoo-con-molino-1-5l/981010849) | $920 | $920 en sams vs mercado -> -25% bajo la competencia |
-| 2026-08-11 16:32 | -25% | amazon | [Guess Loven Zapatillas para Mujer](https://www.amazon.com.mx/dp/B09NLBWH3K) | $750 | $750 en amazon vs mercado -> -25% bajo la competencia |
