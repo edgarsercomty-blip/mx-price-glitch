@@ -1,13 +1,12 @@
-# Errores/chollos de precio — 2026-09-13 11:56 UTC
+# Errores/chollos de precio — 2026-09-13 15:23 UTC
 
-- Productos revisados: **768**
+- Productos revisados: **829**
 - Umbral de diferencia: **20%**
-- Hallazgos: **27**
+- Hallazgos: **28**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
 | -33% | $24,000 | palacio | [Pantalla 85 Pulgadas Plana Micro RGB 4K MRN85R85HAFXZX](https://www.elpalaciodehierro.com/samsung-pantalla-85-pulgadas-plana-micro-rgb-4k-mrn85r85hafxzx-45361289.html) | $47,999 | Confirmado vs competencia | $47,999 en palacio vs mercado -> -33% bajo la competencia |
-| -20% | $12,960 | palacio | [Monitor Deportivo MARQ Adventurer Gen 2 Damascus Steel Editi…](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-marq-adventurer-gen-2-damascus-steel-edition-44232024.html) | $51,839 | Confirmado vs competencia | $51,839 en palacio vs mercado -> -20% bajo la competencia |
 | -20% | $12,700 | palacio | [Laptop LEGION 5 15IAX10 15.1" 32 GB Intel Core Ultra 7 255HX…](https://www.elpalaciodehierro.com/lenovo-laptop-legion-5-15iax10-15.1-32-gb-intel-core-ultra-7-255hx-ssd-45652844.html) | $50,799 | Confirmado vs competencia | $50,799 en palacio vs mercado -> -20% bajo la competencia |
 | -21% | $10,700 | palacio | [Celular Galaxy Z Fold8 Ultra 5G 512 GB 12 GB Desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-z-fold8-ultra-5g-512-gb-12-gb-desbloqueado-45632965.html) | $40,124 | Confirmado vs competencia | $40,124 en palacio vs mercado -> -21% bajo la competencia |
 | -21% | $10,700 | palacio | [Celular Galaxy Z Fold8 Ultra 5G 512 GB 12 GB Violeta Desbloq…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-z-fold8-ultra-5g-512-gb-12-gb-violeta-desbloqueado-45632967.html) | $40,124 | Confirmado vs competencia | $40,124 en palacio vs mercado -> -21% bajo la competencia |
@@ -25,6 +24,7 @@
 | -21% | $3,211 | palacio | [Laptop FC0287LA, 15", AMD Ryzen 7, RAM 8 GB, SSD 512 GB](https://www.elpalaciodehierro.com/hp-laptop-fc0287la-15-amd-ryzen-7-ram-8-gb-ssd-512-gb-45384043.html) | $11,773 | Confirmado vs competencia | $11,773 en palacio vs mercado -> -21% bajo la competencia |
 | -21% | $3,000 | palacio | [Smartwatch Ultimate 2 Hombre](https://www.elpalaciodehierro.com/huawei-smartwatch-ultimate-2-hombre-45242624.html) | $11,399 | Confirmado vs competencia | $11,399 en palacio vs mercado -> -21% bajo la competencia |
 | -30% | $2,097 | palacio | [Combo Cafetera Vertuo Up Azul](https://www.elpalaciodehierro.com/nespresso-combo-cafetera-vertuo-up-azul-45529514.html) | $4,893 | Confirmado vs competencia | $4,893 en palacio vs mercado -> -30% bajo la competencia |
+| -30% | $2,097 | palacio | [Combo Cafetera Vertuo Up Negro](https://www.elpalaciodehierro.com/nespresso-combo-cafetera-vertuo-up-negro-45498201.html) | $4,893 | Confirmado vs competencia | $4,893 en palacio vs mercado -> -30% bajo la competencia |
 | -30% | $2,097 | palacio | [Combo Cafetera Vertuo Up con Aeroccino  3](https://www.elpalaciodehierro.com/nespresso-combo-cafetera-vertuo-up-con-aeroccino--3-45366272.html) | $4,893 | Confirmado vs competencia | $4,893 en palacio vs mercado -> -30% bajo la competencia |
 | -29% | $2,000 | palacio | [Smartwatch Watch 5 Unisex](https://www.elpalaciodehierro.com/huawei-smartwatch-watch-5-unisex-45258358.html) | $4,800 | Confirmado vs competencia | $4,800 en palacio vs mercado -> -29% bajo la competencia |
 | -30% | $1,797 | palacio | [Cafetera Vertuo Up Negro](https://www.elpalaciodehierro.com/nespresso-cafetera-vertuo-up-negro-45555103.html) | $4,193 | Confirmado vs competencia | $4,193 en palacio vs mercado -> -30% bajo la competencia |
@@ -33,3 +33,4 @@
 | -30% | $1,200 | palacio | [Audífonos Inalámbricos para entrenamiento Bluetooth Powerbea…](https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-gris-grava-45001063.html) | $2,799 | Confirmado vs competencia | $2,799 en palacio vs mercado -> -30% bajo la competencia |
 | -20% | $1,099 | palacio | [Cafetera Vertuo Lattíssima White](https://www.elpalaciodehierro.com/nespresso-cafetera-vertuo-lattissima-white-45191597.html) | $4,396 | Confirmado vs competencia | $4,396 en palacio vs mercado -> -20% bajo la competencia |
 | -25% | $900 | palacio | [Monitor de sueño Index](https://www.elpalaciodehierro.com/garmin-monitor-de-sueno-index-44840620.html) | $2,699 | Confirmado vs competencia | $2,699 en palacio vs mercado -> -25% bajo la competencia |
+| -25% | $898 | palacio | [Combo Cafetera Nespresso Vertuo Pop Rojo](https://www.elpalaciodehierro.com/nespresso-combo-cafetera-nespresso-vertuo-pop-rojo-43294637.html) | $2,694 | Confirmado vs competencia | $2,694 en palacio vs mercado -> -25% bajo la competencia |
