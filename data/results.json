@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-14 20:41 UTC",
-  "products_scanned": 819,
+  "generated_at": "2026-09-14 23:36 UTC",
+  "products_scanned": 824,
   "threshold_pct": 20.0,
-  "count": 26,
+  "count": 27,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -274,6 +274,27 @@
       "currency": "MXN",
       "extra": {
         "id": "43687680",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$2,699 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 899.75,
+      "store": "palacio",
+      "name": "Monitor de sueño Index",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-de-sueno-index-44840620.html",
+      "price": 2699.25,
+      "list_price": 3599.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44840620",
         "outlet": false
       }
     },
