@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14 05:39 UTC",
-  "products_scanned": 826,
+  "generated_at": "2026-09-14 10:57 UTC",
+  "products_scanned": 771,
   "threshold_pct": 20.0,
   "count": 25,
   "findings": [
@@ -43,69 +43,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45361289",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 50.0,
-      "detail": "$8,500 en palacio vs mercado -> -33% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4249.75,
-      "store": "palacio",
-      "name": "Celular Huawei Nova 13 Pro, RAM 12 GB, 512 GB Blanco Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/huawei-celular-huawei-nova-13-pro-ram-12-gb-512-gb-blanco-desbloqueado-44600335.html",
-      "price": 8499.5,
-      "list_price": 16999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Huawei",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44600335",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 41.0,
-      "detail": "$10,324 en palacio vs mercado -> -31% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4549.74,
-      "store": "palacio",
-      "name": "Laptop Chromebook IdeaPad Slim 3i, 14\", Intel Core i3-N305, RAM 8 GB, 128 GB eMMC",
-      "url": "https://www.elpalaciodehierro.com/lenovo-laptop-chromebook-ideapad-slim-3i-14-intel-core-i3-n305-ram-8-gb-128-gb-emmc-45645120.html",
-      "price": 10324.41,
-      "list_price": 17499.0,
-      "ean": null,
-      "model": "i3-N305",
-      "brand": "Lenovo",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45645120",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 30.0,
-      "detail": "$4,193 en palacio vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1797.0,
-      "store": "palacio",
-      "name": "Cafetera Vertuo Up Negro",
-      "url": "https://www.elpalaciodehierro.com/nespresso-cafetera-vertuo-up-negro-45555103.html",
-      "price": 4193.0,
-      "list_price": 5990.0,
-      "ean": null,
-      "model": null,
-      "brand": "Nespresso",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45555103",
         "outlet": false
       }
     },
@@ -195,27 +132,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 55.0,
-      "detail": "$25,713 en palacio vs mercado -> -29% bajo la competencia",
-      "likely_typo": false,
-      "savings": 10285.38,
-      "store": "palacio",
-      "name": "Pantalla 65 Pulgadas Plana Micro RGB 4K MRN65R85HAFXZX",
-      "url": "https://www.elpalaciodehierro.com/samsung-pantalla-65-pulgadas-plana-micro-rgb-4k-mrn65r85hafxzx-45367602.html",
-      "price": 25713.45,
-      "list_price": 57141.0,
-      "ean": null,
-      "model": "MRN65R85HAFXZX",
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45367602",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 45.0,
       "detail": "$8,946 en palacio vs mercado -> -28% bajo la competencia",
       "likely_typo": false,
@@ -300,6 +216,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$4,949 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1649.75,
+      "store": "palacio",
+      "name": "Celular Galaxy A27 128 GB 6 GB Negro Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-a27-128-gb-6-gb-negro-desbloqueado-45558416.html",
+      "price": 4949.25,
+      "list_price": 6599.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45558416",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 30.0,
       "detail": "$2,799 en palacio vs mercado -> -24% bajo la competencia",
       "likely_typo": false,
@@ -358,6 +295,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45315663",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 30.0,
+      "detail": "$5,599 en palacio vs mercado -> -23% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1639.79,
+      "store": "palacio",
+      "name": "Celular Galaxy A37 128GB, RAM 6 GB",
+      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-a37-128gb-ram-6-gb-45676149.html",
+      "price": 5599.3,
+      "list_price": 7999.0,
+      "ean": null,
+      "model": "128GB",
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45676149",
         "outlet": false
       }
     },
@@ -510,6 +468,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 36.0,
+      "detail": "$14,399 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3599.84,
+      "store": "palacio",
+      "name": "Celular Galaxy S26 256 GB, RAM 12 GB, negro desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-256-gb-ram-12-gb-negro-desbloqueado-45273246.html",
+      "price": 14399.36,
+      "list_price": 22499.0,
+      "ean": null,
+      "model": null,
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45273246",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 20.0,
       "detail": "$50,799 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
@@ -526,6 +505,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45652844",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$51,839 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 12959.8,
+      "store": "palacio",
+      "name": "Monitor MARQGolfer Gen 2 - Carbon Edition para golf",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-marqgolfer-gen-2---carbon-edition-para-golf-43587919.html",
+      "price": 51839.2,
+      "list_price": 64799.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43587919",
         "outlet": false
       }
     }

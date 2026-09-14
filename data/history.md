@@ -1,9 +1,13 @@
-# Historial de ofertas encontradas (1068)
+# Historial de ofertas encontradas (1072)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-09-14 10:57 | -20% | palacio | [Monitor MARQGolfer Gen 2 - Carbon Edition para golf](https://www.elpalaciodehierro.com/garmin-monitor-marqgolfer-gen-2---carbon-edition-para-golf-43587919.html) | $51,839 | $51,839 en palacio vs mercado -> -20% bajo la competencia |
+| 2026-09-14 10:57 | -20% | palacio | [Celular Galaxy S26 256 GB, RAM 12 GB, negro desbloquead…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-256-gb-ram-12-gb-negro-desbloqueado-45273246.html) | $14,399 | $14,399 en palacio vs mercado -> -20% bajo la competencia |
+| 2026-09-14 10:57 | -23% | palacio | [Celular Galaxy A37 128GB, RAM 6 GB](https://www.elpalaciodehierro.com/samsung-celular-galaxy-a37-128gb-ram-6-gb-45676149.html) | $5,599 | $5,599 en palacio vs mercado -> -23% bajo la competencia |
+| 2026-09-14 10:57 | -25% | palacio | [Celular Galaxy A27 128 GB 6 GB Negro Desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-a27-128-gb-6-gb-negro-desbloqueado-45558416.html) | $4,949 | $4,949 en palacio vs mercado -> -25% bajo la competencia |
 | 2026-09-13 11:56 | -20% | palacio | [Monitor Deportivo MARQ Adventurer Gen 2 Damascus Steel …](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-marq-adventurer-gen-2-damascus-steel-edition-44232024.html) | $51,839 | $51,839 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-09-13 11:56 | -25% | palacio | [Monitor Deportivo Lily 2 Cream Gold](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-lily-2-cream-gold-43687680.html) | $3,899 | $3,899 en palacio vs mercado -> -25% bajo la competencia |
 | 2026-09-12 09:49 | -25% | palacio | [Mini Refri Personal, .5 p3](https://www.elpalaciodehierro.com/chefman-mini-refri-personal-.5-p3-44421105.html) | $1,199 | $1,199 en palacio vs mercado -> -25% bajo la competencia |
@@ -400,7 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-08-11 16:32 | -21% | palacio | [Lavasecadora a gas LP, 26 kg, 24 kg, Bespoke AI carga f…](https://www.elpalaciodehierro.com/samsung-lavasecadora-a-gas-lp-26-kg-24-kg-bespoke-ai-carga-frontal-fwd90f26audsp-44770750.html) | $41,768 | $41,768 en palacio vs sams $52,786 -> -21% bajo la competencia |
 | 2026-08-11 16:32 | -21% | sams | [Airpods Apple  con Estuche de Carga Blanco](https://www.sams.com.mx/ip/airpods-apple-con-estuche-de-carga-blanco/980020208) | $3,375 | $3,375 en sams vs mercado -> -21% bajo la competencia |
 | 2026-08-11 16:32 | -21% | amazon | [Reloj de Mujer de Cuero PU de Latón Estilo Bohemio Mult…](https://www.amazon.com.mx/dp/B0BVRBNZZ2) | $227 | $227 en amazon vs mercado -> -21% bajo la competencia |
-| 2026-08-11 16:32 | -22% | mercadolibre | [Hisense Lavadora Semiautomática Doble Tina Wsa1104p \| C…](https://www.mercadolibre.com.mx/hisense-lavadora-semiautomatica-doble-tina-wsa1104p-capacidad-de-lavado-11-kg-centrifugado-55-kg-motores-independientes-cubierta-antioxidante-de-plastico-3-perillas-de-control/p/MLM67475070) | $3,899 | $3,899 en mercadolibre vs mercado -> -22% bajo la competencia |
-| 2026-08-11 16:32 | -22% | sams | [Laptop HP  Pavilion Intel Core i5/8 GB RAM/512 GB SSD 1…](https://www.sams.com.mx/ip/laptop-hp-pavilion-intel-core-i5-8-gb-ram-512-gb-ssd-15-eg2523la/981030009) | $10,229 | $10,229 en sams vs mercado -> -22% bajo la competencia |
-| 2026-08-11 16:32 | -24% | sams | [Laptop HP  AMD Ryzen 7/16 GB RAM/1 TB SSD 15-fc0276la](https://www.sams.com.mx/ip/laptop-hp-amd-ryzen-7-16-gb-ram-1-tb-ssd-15-fc0276la/981043905) | $13,298 | $13,298 en sams vs mercado -> -24% bajo la competencia |
-| 2026-08-11 16:32 | -24% | walmart | [Fragancia Nautica 200ml.](https://www.walmart.com.mx/ip/fragancia-nautica-200ml-/00361422883403?athbdg=L1300) | $265 | $265 en walmart vs mercado -> -24% bajo la competencia |
