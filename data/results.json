@@ -1,30 +1,9 @@
 {
-  "generated_at": "2026-09-14 00:33 UTC",
+  "generated_at": "2026-09-14 05:23 UTC",
   "products_scanned": 826,
   "threshold_pct": 20.0,
-  "count": 28,
+  "count": 25,
   "findings": [
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 50.0,
-      "detail": "$8,500 en palacio vs mercado -> -38% bajo la competencia",
-      "likely_typo": false,
-      "savings": 5099.7,
-      "store": "palacio",
-      "name": "Celular Huawei Nova 13 Pro, RAM 12 GB, 512 GB Blanco Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/huawei-celular-huawei-nova-13-pro-ram-12-gb-512-gb-blanco-desbloqueado-44600335.html",
-      "price": 8499.5,
-      "list_price": 16999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Huawei",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44600335",
-        "outlet": false
-      }
-    },
     {
       "kind": "cross_confirmed",
       "discount_pct": 50.0,
@@ -64,6 +43,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45361289",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 50.0,
+      "detail": "$8,500 en palacio vs mercado -> -33% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4249.75,
+      "store": "palacio",
+      "name": "Celular Huawei Nova 13 Pro, RAM 12 GB, 512 GB Blanco Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/huawei-celular-huawei-nova-13-pro-ram-12-gb-512-gb-blanco-desbloqueado-44600335.html",
+      "price": 8499.5,
+      "list_price": 16999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Huawei",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44600335",
         "outlet": false
       }
     },
@@ -174,48 +174,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 30.0,
-      "detail": "$2,799 en palacio vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1199.7,
-      "store": "palacio",
-      "name": "Audífonos Inalámbricos para entrenamiento Bluetooth Powerbeats Fit Negro azabache",
-      "url": "https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-negro-azabache-45001062.html",
-      "price": 2799.3,
-      "list_price": 3999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Apple",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45001062",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 30.0,
-      "detail": "$2,799 en palacio vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1199.7,
-      "store": "palacio",
-      "name": "Audífonos Inalámbricos para entrenamiento Bluetooth Powerbeats Fit Gris grava",
-      "url": "https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-gris-grava-45001063.html",
-      "price": 2799.3,
-      "list_price": 3999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Apple",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45001063",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 52.0,
       "detail": "$4,800 en palacio vs mercado -> -29% bajo la competencia",
       "likely_typo": false,
@@ -274,27 +232,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45371050",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 40.0,
-      "detail": "$2,694 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 898.0,
-      "store": "palacio",
-      "name": "Combo Cafetera Nespresso Vertuo Pop Rojo",
-      "url": "https://www.elpalaciodehierro.com/nespresso-combo-cafetera-nespresso-vertuo-pop-rojo-43294637.html",
-      "price": 2694.0,
-      "list_price": 4490.0,
-      "ean": null,
-      "model": null,
-      "brand": "Nespresso",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43294637",
         "outlet": false
       }
     },
@@ -363,22 +300,43 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 52.0,
-      "detail": "$10,543 en palacio vs mercado -> -24% bajo la competencia",
+      "discount_pct": 30.0,
+      "detail": "$2,799 en palacio vs mercado -> -24% bajo la competencia",
       "likely_typo": false,
-      "savings": 3404.57,
+      "savings": 899.77,
       "store": "palacio",
-      "name": "Laptop OmniBook 3, 14\", Intel Core I5, RAM 8 GB, SSD 512 GB",
-      "url": "https://www.elpalaciodehierro.com/hp-laptop-omnibook-3-14-intel-core-i5-ram-8-gb-ssd-512-gb-45384039.html",
-      "price": 10543.2,
-      "list_price": 21965.0,
+      "name": "Audífonos Inalámbricos para entrenamiento Bluetooth Powerbeats Fit Negro azabache",
+      "url": "https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-negro-azabache-45001062.html",
+      "price": 2799.3,
+      "list_price": 3999.0,
       "ean": null,
       "model": null,
-      "brand": "Hp",
+      "brand": "Apple",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "45384039",
+        "id": "45001062",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 30.0,
+      "detail": "$2,799 en palacio vs mercado -> -24% bajo la competencia",
+      "likely_typo": false,
+      "savings": 899.77,
+      "store": "palacio",
+      "name": "Audífonos Inalámbricos para entrenamiento Bluetooth Powerbeats Fit Gris grava",
+      "url": "https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-gris-grava-45001063.html",
+      "price": 2799.3,
+      "list_price": 3999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Apple",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45001063",
         "outlet": false
       }
     },
@@ -400,27 +358,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45315663",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 45.0,
-      "detail": "$11,773 en palacio vs mercado -> -21% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3210.75,
-      "store": "palacio",
-      "name": "Laptop FC0287LA, 15\", AMD Ryzen 7, RAM 8 GB, SSD 512 GB",
-      "url": "https://www.elpalaciodehierro.com/hp-laptop-fc0287la-15-amd-ryzen-7-ram-8-gb-ssd-512-gb-45384043.html",
-      "price": 11772.75,
-      "list_price": 21405.0,
-      "ean": null,
-      "model": "FC0287LA",
-      "brand": "Hp",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45384043",
         "outlet": false
       }
     },
@@ -463,27 +400,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45632967",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 43.0,
-      "detail": "$11,399 en palacio vs mercado -> -21% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2999.85,
-      "store": "palacio",
-      "name": "Smartwatch Ultimate 2 Hombre",
-      "url": "https://www.elpalaciodehierro.com/huawei-smartwatch-ultimate-2-hombre-45242624.html",
-      "price": 11399.43,
-      "list_price": 19999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Huawei",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45242624",
         "outlet": false
       }
     },
@@ -568,6 +484,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45191597",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 52.0,
+      "detail": "$10,543 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2635.8,
+      "store": "palacio",
+      "name": "Laptop OmniBook 3, 14\", Intel Core I5, RAM 8 GB, SSD 512 GB",
+      "url": "https://www.elpalaciodehierro.com/hp-laptop-omnibook-3-14-intel-core-i5-ram-8-gb-ssd-512-gb-45384039.html",
+      "price": 10543.2,
+      "list_price": 21965.0,
+      "ean": null,
+      "model": null,
+      "brand": "Hp",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45384039",
         "outlet": false
       }
     },
