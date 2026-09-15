@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-15 18:40 UTC",
-  "products_scanned": 824,
+  "generated_at": "2026-09-15 20:16 UTC",
+  "products_scanned": 820,
   "threshold_pct": 20.0,
-  "count": 26,
+  "count": 24,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -64,27 +64,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45645120",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 30.0,
-      "detail": "$5,599 en palacio vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2399.7,
-      "store": "palacio",
-      "name": "Celular Galaxy A37 128GB, RAM 6 GB Violeta",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-a37-128gb-ram-6-gb-violeta-45676151.html",
-      "price": 5599.3,
-      "list_price": 7999.0,
-      "ean": null,
-      "model": "128GB",
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45676151",
         "outlet": false
       }
     },
@@ -316,27 +295,6 @@
       "currency": "MXN",
       "extra": {
         "id": "44840620",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$4,949 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1649.75,
-      "store": "palacio",
-      "name": "Celular Galaxy A27 128 GB 6 GB Negro Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-a27-128-gb-6-gb-negro-desbloqueado-45558416.html",
-      "price": 4949.25,
-      "list_price": 6599.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45558416",
         "outlet": false
       }
     },

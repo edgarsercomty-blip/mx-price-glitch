@@ -1,8 +1,8 @@
-# Errores/chollos de precio — 2026-09-15 18:40 UTC
+# Errores/chollos de precio — 2026-09-15 20:16 UTC
 
-- Productos revisados: **824**
+- Productos revisados: **820**
 - Umbral de diferencia: **20%**
-- Hallazgos: **26**
+- Hallazgos: **24**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
@@ -21,14 +21,12 @@
 | -24% | $3,320 | palacio | [Pantalla 65 Pulgadas Plana MiniLED 4K 65Z670RM FIRE TV](https://www.elpalaciodehierro.com/toshiba-pantalla-65-pulgadas-plana-miniled-4k-65z670rm-fire-tv-45315663.html) | $10,399 | Confirmado vs competencia | $10,399 en palacio vs mercado -> -24% bajo la competencia |
 | -26% | $3,090 | palacio | [Laptop 15FD0161LA, 15.6", Intel Core i5, RAM 8 GB, SSD 256 G…](https://www.elpalaciodehierro.com/hp-laptop-15fd0161la-15.6-intel-core-i5-ram-8-gb-ssd-256-gb-45371050.html) | $8,946 | Confirmado vs competencia | $8,946 en palacio vs mercado -> -26% bajo la competencia |
 | -20% | $2,636 | palacio | [Laptop OmniBook 3, 14", Intel Core I5, RAM 8 GB, SSD 512 GB](https://www.elpalaciodehierro.com/hp-laptop-omnibook-3-14-intel-core-i5-ram-8-gb-ssd-512-gb-45384039.html) | $10,543 | Confirmado vs competencia | $10,543 en palacio vs mercado -> -20% bajo la competencia |
-| -30% | $2,400 | palacio | [Celular Galaxy A37 128GB, RAM 6 GB Violeta](https://www.elpalaciodehierro.com/samsung-celular-galaxy-a37-128gb-ram-6-gb-violeta-45676151.html) | $5,599 | Confirmado vs competencia | $5,599 en palacio vs mercado -> -30% bajo la competencia |
 | -20% | $2,300 | palacio | [Monitor Deportivo Forerunner 570 Morado Unisex](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-forerunner-570-morado-unisex-44674622.html) | $9,199 | Confirmado vs competencia | $9,199 en palacio vs mercado -> -20% bajo la competencia |
 | -30% | $2,097 | palacio | [Combo Cafetera Vertuo Up Azul](https://www.elpalaciodehierro.com/nespresso-combo-cafetera-vertuo-up-azul-45529514.html) | $4,893 | Confirmado vs competencia | $4,893 en palacio vs mercado -> -30% bajo la competencia |
 | -30% | $2,097 | palacio | [Combo Cafetera Vertuo Up Negro](https://www.elpalaciodehierro.com/nespresso-combo-cafetera-vertuo-up-negro-45498201.html) | $4,893 | Confirmado vs competencia | $4,893 en palacio vs mercado -> -30% bajo la competencia |
 | -30% | $2,097 | palacio | [Combo Cafetera Vertuo Up con Aeroccino  3](https://www.elpalaciodehierro.com/nespresso-combo-cafetera-vertuo-up-con-aeroccino--3-45366272.html) | $4,893 | Confirmado vs competencia | $4,893 en palacio vs mercado -> -30% bajo la competencia |
 | -29% | $2,000 | palacio | [Smartwatch Watch 5 Unisex](https://www.elpalaciodehierro.com/huawei-smartwatch-watch-5-unisex-45258358.html) | $4,800 | Confirmado vs competencia | $4,800 en palacio vs mercado -> -29% bajo la competencia |
 | -30% | $1,797 | palacio | [Cafetera Vertuo Up Negro](https://www.elpalaciodehierro.com/nespresso-cafetera-vertuo-up-negro-45555103.html) | $4,193 | Confirmado vs competencia | $4,193 en palacio vs mercado -> -30% bajo la competencia |
-| -25% | $1,650 | palacio | [Celular Galaxy A27 128 GB 6 GB Negro Desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-a27-128-gb-6-gb-negro-desbloqueado-45558416.html) | $4,949 | Confirmado vs competencia | $4,949 en palacio vs mercado -> -25% bajo la competencia |
 | -25% | $1,300 | palacio | [Monitor Deportivo Lily 2 Cream Gold](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-lily-2-cream-gold-43687680.html) | $3,899 | Confirmado vs competencia | $3,899 en palacio vs mercado -> -25% bajo la competencia |
 | -20% | $1,099 | palacio | [Cafetera Vertuo Lattíssima White](https://www.elpalaciodehierro.com/nespresso-cafetera-vertuo-lattissima-white-45191597.html) | $4,396 | Confirmado vs competencia | $4,396 en palacio vs mercado -> -20% bajo la competencia |
 | -25% | $900 | palacio | [Monitor de sueño Index](https://www.elpalaciodehierro.com/garmin-monitor-de-sueno-index-44840620.html) | $2,699 | Confirmado vs competencia | $2,699 en palacio vs mercado -> -25% bajo la competencia |
