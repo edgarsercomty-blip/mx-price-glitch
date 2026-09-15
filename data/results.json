@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-15 01:54 UTC",
-  "products_scanned": 825,
+  "generated_at": "2026-09-15 05:40 UTC",
+  "products_scanned": 824,
   "threshold_pct": 20.0,
-  "count": 27,
+  "count": 26,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -43,27 +43,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45361289",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 50.0,
-      "detail": "$8,500 en palacio vs mercado -> -33% bajo la competencia",
-      "likely_typo": false,
-      "savings": 4249.75,
-      "store": "palacio",
-      "name": "Celular Huawei Nova 13 Pro, RAM 12 GB, 512 GB Blanco Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/huawei-celular-huawei-nova-13-pro-ram-12-gb-512-gb-blanco-desbloqueado-44600335.html",
-      "price": 8499.5,
-      "list_price": 16999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Huawei",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44600335",
         "outlet": false
       }
     },
@@ -216,10 +195,31 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 45.0,
-      "detail": "$8,946 en palacio vs mercado -> -28% bajo la competencia",
+      "discount_pct": 50.0,
+      "detail": "$8,500 en palacio vs mercado -> -29% bajo la competencia",
       "likely_typo": false,
-      "savings": 3415.65,
+      "savings": 3399.8,
+      "store": "palacio",
+      "name": "Celular Huawei Nova 13 Pro, RAM 12 GB, 512 GB Blanco Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/huawei-celular-huawei-nova-13-pro-ram-12-gb-512-gb-blanco-desbloqueado-44600335.html",
+      "price": 8499.5,
+      "list_price": 16999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Huawei",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44600335",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 45.0,
+      "detail": "$8,946 en palacio vs mercado -> -26% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3090.35,
       "store": "palacio",
       "name": "Laptop 15FD0161LA, 15.6\", Intel Core i5, RAM 8 GB, SSD 256 GB",
       "url": "https://www.elpalaciodehierro.com/hp-laptop-15fd0161la-15.6-intel-core-i5-ram-8-gb-ssd-256-gb-45371050.html",
@@ -300,43 +300,22 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 30.0,
-      "detail": "$2,799 en palacio vs mercado -> -24% bajo la competencia",
+      "discount_pct": 25.0,
+      "detail": "$4,949 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
-      "savings": 899.77,
+      "savings": 1649.75,
       "store": "palacio",
-      "name": "Audífonos Inalámbricos para entrenamiento Bluetooth Powerbeats Fit Negro azabache",
-      "url": "https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-negro-azabache-45001062.html",
-      "price": 2799.3,
-      "list_price": 3999.0,
+      "name": "Celular Galaxy A27 128 GB 6 GB Negro Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-a27-128-gb-6-gb-negro-desbloqueado-45558416.html",
+      "price": 4949.25,
+      "list_price": 6599.0,
       "ean": null,
       "model": null,
-      "brand": "Apple",
+      "brand": "Samsung",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "45001062",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 30.0,
-      "detail": "$2,799 en palacio vs mercado -> -24% bajo la competencia",
-      "likely_typo": false,
-      "savings": 899.77,
-      "store": "palacio",
-      "name": "Audífonos Inalámbricos para entrenamiento Bluetooth Powerbeats Fit Gris grava",
-      "url": "https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-gris-grava-45001063.html",
-      "price": 2799.3,
-      "list_price": 3999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Apple",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45001063",
+        "id": "45558416",
         "outlet": false
       }
     },
