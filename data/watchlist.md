@@ -1,4 +1,4 @@
-# Productos en vigilancia (810)
+# Productos en vigilancia (809)
 
 Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible, llega alerta de restock.
 
@@ -131,7 +131,6 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | liverpool | [Laptop Hp 245 G10 14 Pulgadas Hd Amd Ryzen 5 Amd Radeon 16 G…](https://www.liverpool.com.mx/tienda/pdp/laptop-hp-245-g10-14-pulgadas-hd-amd-ryzen-5-amd-radeon-16-gb-ram-512-gb-ssd/1181402284) | $11,999 | -21% |
 | 🟢 disponible | liverpool | [Kit De Licuadora Ninja Bn801 3 Velocidades](https://www.liverpool.com.mx/tienda/pdp/kit-de-licuadora-ninja-bn801-3-velocidades/1109672030) | $3,499 | -29% |
 | 🟢 disponible | liverpool | [Samsung Galaxy S25 Ultra Dynamic Amoled 2X 6 9 Pulgadas](https://www.liverpool.com.mx/tienda/pdp/samsung-galaxy-s25-ultra-dynamic-amoled-2x-6-9-pulgadas/1170197151) | $24,999 | -26% |
-| 🟢 disponible | liverpool | [Pantalla Smart Tv Lg Uhd De 55 Pulgadas 4K Uhd 55Ua7500Psa C…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-uhd-de-55-pulgadas-4k-uhd-55ua7500psa-con-ai-webos/1179253123) | $11,059 | -32% |
 | 🟢 disponible | liverpool | [Smartwatch Elego St2 G Para Hombre](https://www.liverpool.com.mx/tienda/pdp/smartwatch-elego-st2-g-para-hombre/1180364354) | $1,148 | -29% |
 | 🟢 disponible | liverpool | [Congelador Mirage Mcp15Hb Horizontal 5 Pies Cubicos](https://www.liverpool.com.mx/tienda/pdp/congelador-mirage-mcp15hb-horizontal-5-pies-cubicos/1160020527) | $4,619 | -26% |
 | 🟢 disponible | liverpool | [Porta Audifonos In Ear Sovico](https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-sovico/1132756798) | $499 | -25% |
@@ -179,7 +178,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | liverpool | [Pantalla Smart Tv Hisense Qled De 100 Pulgadas 4K Uhd 100Qd6…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-hisense-qled-de-100-pulgadas-4k-uhd-100qd6sfm-con-fire-os-con-ai-smooth-motion/1197517057) | $33,599 | -52% |
 | 🟢 disponible | palacio | [Monitor Forerunner 265S Music para correr](https://www.elpalaciodehierro.com/garmin-monitor-forerunner-265s-music-para-correr-43074174.html) | $7,599 | -20% |
 | 🟢 disponible | liverpool | [Smartwatch Garmin Venu 3S Unisex Con Gps](https://www.liverpool.com.mx/tienda/pdp/smartwatch-garmin-venu-3s-unisex-con-gps/1142099627) | $6,800 | -25% |
-| 🟢 disponible | palacio | [Lavadora Automática 25 kg Superior WT25PBTX6](https://www.elpalaciodehierro.com/lg-lavadora-automatica-25-kg-superior-wt25pbtx6-45005046.html) | $14,309 | -47% |
+| 🟢 disponible | palacio | [Lavadora Automática 25 kg Superior WT25PBTX6](https://www.elpalaciodehierro.com/lg-lavadora-automatica-25-kg-superior-wt25pbtx6-45005046.html) | $16,199 | -47% |
 | 🟢 disponible | liverpool | [Laptop Hp 15 Fc0240La 15 6 Pulgadas Full Hd Amd Ryzen 2 Amd …](https://www.liverpool.com.mx/tienda/pdp/laptop-hp-15-fc0240la-15-6-pulgadas-full-hd-amd-ryzen-2-amd-radeon-8-gb-ram-512-gb-ssd/9995792253) | $10,979 | -27% |
 | 🟢 disponible | palacio | [Monitor Deportivo Forerunner 165 Music para Correr](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-forerunner-165-music-para-correr-43698152.html) | $5,039 | -25% |
 | 🟢 disponible | palacio | [Monitor Venu 3, Whitestone Passivated Deportivo](https://www.elpalaciodehierro.com/garmin-monitor-venu-3-whitestone-passivated-deportivo-43401374.html) | $7,049 | -25% |
@@ -251,10 +250,8 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | liverpool | [Pantalla Smart Tv Lg Nanocell De 50 Pulgadas 4K Uhd 50Nu850B…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-nanocell-de-50-pulgadas-4k-uhd-50nu850bpsa-con-webos/1199018091) | $7,499 | -50% |
 | 🟢 disponible | liverpool | [Pantalla Smart Tv Lg Nanocell 65 Pulgadas 4K Uhd 65Nu850Bpsa…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-nanocell-65-pulgadas-4k-uhd-65nu850bpsa-con-ai-webos/1199017744) | $10,999 | -48% |
 | 🟢 disponible | liverpool | [Pantalla Smart Tv Lg Uhd De 75 Pulgadas 4K Uhd 75Nu850Bpsa C…](https://www.liverpool.com.mx/tienda/pdp/pantalla-smart-tv-lg-uhd-de-75-pulgadas-4k-uhd-75nu850bpsa-con-webos/1200202381) | $13,499 | -50% |
-| 🟢 disponible | palacio | [Laptop Zenbook S 13 OLED, 13.3", Intel Core Ultra 7, 32 GB, …](https://www.elpalaciodehierro.com/asus-laptop-zenbook-s-13-oled-13.3-intel-core-ultra-7-32-gb-1tb-ssd-gris-43740349.html) | $17,250 | -50% |
-| 🟢 disponible | palacio | [Torre Gaming Lenovo Legion, Intel Core i5-14400F, 16 GB RAM,…](https://www.elpalaciodehierro.com/lenovo-torre-gaming-lenovo-legion-intel-core-i5-14400f-16-gb-ram1-tb-ssd-geforce-rtx-4060-8-gb-windows-11-home-44472024.html) | $23,000 | -50% |
 | 🟢 disponible | palacio | [Licuadora Pure Power 10 velocidades roja](https://www.elpalaciodehierro.com/kitchenaid-licuadora-pure-power-10-velocidades-roja-44729904.html) | $1,974 | -50% |
-| 🟢 disponible | palacio | [Refrigerador French Door Xpert Inverter 30 p3](https://www.elpalaciodehierro.com/whirlpool-refrigerador-french-door-xpert-inverter-30-p3-45040173.html) | $25,805 | -27% |
+| 🟢 disponible | palacio | [Refrigerador French Door Xpert Inverter 30 p3](https://www.elpalaciodehierro.com/whirlpool-refrigerador-french-door-xpert-inverter-30-p3-45040173.html) | $35,419 | -27% |
 | 🟢 disponible | palacio | [Laptop ROG Strix G16 16" Nvidia GeForce RTX 5060, AMD Ryzen …](https://www.elpalaciodehierro.com/asus-laptop-rog-strix-g16-16-nvidia-geforce-rtx-5060-amd-ryzen-9-ram-16-gb-ssd-1-tb-44923676.html) | $26,699 | -40% |
 | 🟢 disponible | palacio | [Licuadora reversible New Blade, 3 velocidades, Roja](https://www.elpalaciodehierro.com/oster-licuadora-reversible-new-blade-3-velocidades-roja-43216480.html) | $1,444 | -25% |
 | 🟢 disponible | palacio | [Licuadora BLSTPYG1312XBG de 3 velocidades](https://www.elpalaciodehierro.com/oster-licuadora-blstpyg1312xbg-de-3-velocidades-43216479.html) | $1,850 | -25% |
@@ -273,7 +270,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Maquina de cafe Espresso](https://www.elpalaciodehierro.com/chefman-maquina-de-cafe-espresso-44587559.html) | $7,344 | -29% |
 | 🟢 disponible | palacio | [Mica protectora antirreflejante para Galaxy S26 Ultra](https://www.elpalaciodehierro.com/samsung-mica-protectora-antirreflejante-para-galaxy-s26-ultra-45272435.html) | $295 | -26% |
 | 🟢 disponible | palacio | [Pantalla 65 Pulgadas Plana Lifesyle 4K Frame Pro](https://www.elpalaciodehierro.com/samsung-pantalla-65-pulgadas-plana-lifesyle-4k-frame-pro-45467987.html) | $31,499 | -26% |
-| 🟢 disponible | palacio | [Secadora a Gas con Pedestal 23 Kg Carga Frontal CP_7MMGD7020…](https://www.elpalaciodehierro.com/maytag-secadora-a-gas-con-pedestal-23-kg-carga-frontal-cp_7mmgd7020ru-44892324.html) | $21,089 | -25% |
+| 🟢 disponible | palacio | [Secadora a Gas con Pedestal 23 Kg Carga Frontal CP_7MMGD7020…](https://www.elpalaciodehierro.com/maytag-secadora-a-gas-con-pedestal-23-kg-carga-frontal-cp_7mmgd7020ru-44892324.html) | $19,949 | -25% |
 | 🟢 disponible | palacio | [Licuadora Titan, 5 velocidades](https://www.elpalaciodehierro.com/oster-licuadora-titan-5-velocidades-45281005.html) | $5,999 | -25% |
 | 🟢 disponible | palacio | [Licuadora Clásica BLST4125 de 1 velocidad](https://www.elpalaciodehierro.com/oster-licuadora-clasica-blst4125-de-1-velocidad-43216476.html) | $3,299 | -25% |
 | 🟢 disponible | palacio | [CAFETERA PERFECT BREW MAXIMA](https://www.elpalaciodehierro.com/oster-cafetera-perfect-brew-maxima-43926489.html) | $15,999 | -20% |
@@ -291,7 +288,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | liverpool | [Porta Audifonos In Ear Ecoshopmaster](https://www.liverpool.com.mx/tienda/pdp/porta-audifonos-in-ear-ecoshopmaster/1166990315) | $383 | -23% |
 | 🟢 disponible | palacio | [Funda magnética de silicón para Galaxy S26 Plus](https://www.elpalaciodehierro.com/samsung-funda-magnetica-de-silicon-para-galaxy-s26-plus-45272471.html) | $739 | -26% |
 | 🟢 disponible | palacio | [Monitor Deportivo Enduro 3 para correr](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-enduro-3-para-correr-44439914.html) | $15,979 | -20% |
-| 🟢 disponible | palacio | [Secadora Eléctrica con Pedestal 23 Kg Carga Frontal CP_7MMED…](https://www.elpalaciodehierro.com/maytag-secadora-electrica-con-pedestal-23-kg-carga-frontal-cp_7mmed7020ru-44911285.html) | $21,089 | -25% |
+| 🟢 disponible | palacio | [Secadora Eléctrica con Pedestal 23 Kg Carga Frontal CP_7MMED…](https://www.elpalaciodehierro.com/maytag-secadora-electrica-con-pedestal-23-kg-carga-frontal-cp_7mmed7020ru-44911285.html) | $19,949 | -25% |
 | 🟢 disponible | palacio | [Cargador de corriente 25W](https://www.elpalaciodehierro.com/samsung-cargador-de-corriente-25w-43520802.html) | $295 | -26% |
 | 🟢 disponible | liverpool | [Playera Tipo Polo Head Para Mujer](https://www.liverpool.com.mx/tienda/pdp/playera-tipo-polo-head-para-mujer/29113918) | $349 | -33% |
 | 🟢 disponible | palacio | [Pantalla 85 Pulgadas Plana QLED 4K Tizen Neo QN85D QN85QN85D…](https://www.elpalaciodehierro.com/samsung-pantalla-85-pulgadas-plana-qled-4k-tizen-neo-qn85d-qn85qn85dbfxzx-43788563.html) | $36,428 | -54% |
@@ -399,7 +396,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | liverpool | [Correa Para Reloj Mobo](https://www.liverpool.com.mx/tienda/pdp/correa-para-reloj-mobo/1136430587) | $119 | -20% |
 | 🟢 disponible | liverpool | [Estufa De Piso A Gas Lp Mabe Ultimate 72 Cm Emh7614Datss0 De…](https://www.liverpool.com.mx/tienda/pdp/estufa-de-piso-a-gas-lp-mabe-ultimate-72-cm-emh7614datss0-de-6-quemadores/1125228701) | $19,056 | -29% |
 | 🟢 disponible | liverpool | [Cafetera Capsulas A3Kgcv6Us Li N Rosa](https://www.liverpool.com.mx/tienda/pdp/cafetera-capsulas-a3kgcv6us-li-n-rosa/1183038172) | $1,796 | -20% |
-| 🟢 disponible | palacio | [Lavadora 25 Kg carga frontal WM25VFXS](https://www.elpalaciodehierro.com/lg-lavadora-25-kg-carga-frontal-wm25vfxs-44968789.html) | $25,175 | -21% |
+| 🟢 disponible | palacio | [Lavadora 25 Kg carga frontal WM25VFXS](https://www.elpalaciodehierro.com/lg-lavadora-25-kg-carga-frontal-wm25vfxs-44968789.html) | $28,025 | -21% |
 | 🟢 disponible | palacio | [Pantalla 65 Pulgadas Plana Hi-QLED 4K 65QD6SFM](https://www.elpalaciodehierro.com/hisense-pantalla-65-pulgadas-plana-hi-qled-4k-65qd6sfm-45467919.html) | $9,771 | -20% |
 | 🟢 disponible | liverpool | [Oppo A5 Pro Lcd 6 67 Pulgadas Telcel](https://www.liverpool.com.mx/tienda/pdp/oppo-a5-pro-lcd-6-67-pulgadas-telcel/1183393251) | $4,799 | -20% |
 | 🟢 disponible | liverpool | [Cafetera Goteo Electrica C44 Plateado](https://www.liverpool.com.mx/tienda/pdp/cafetera-goteo-electrica-c44-plateado/1163604104) | $1,599 | -20% |
@@ -417,7 +414,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | liverpool | [Plato Ensalada Zahra Ramadan De Ceramica](https://www.liverpool.com.mx/tienda/pdp/plato-ensalada-zahra-ramadan-de-ceramica/1167857431) | $250 | -29% |
 | 🟢 disponible | liverpool | [Cafetera Multicapsulas Nespresso C140 Mx Ti Ne](https://www.liverpool.com.mx/tienda/pdp/cafetera-multicapsulas-nespresso-c140-mx-ti-ne/1137498851) | $2,309 | -25% |
 | 🟢 disponible | liverpool | [Lavadora Doble Tina Mabe 11 Kg Semiautomatica Carga Superior…](https://www.liverpool.com.mx/tienda/pdp/lavadora-doble-tina-mabe-11-kg-semiautomatica-carga-superior-lmdx1123hbab0/1162817830) | $4,739 | -24% |
-| 🟢 disponible | palacio | [Lavadora automática 18 Kg Xpert System carga superior 8MWTW1…](https://www.elpalaciodehierro.com/whirlpool-lavadora-automatica-18-kg-xpert-system-carga-superior-8mwtw1824wjm-blanco-40904406.html) | $8,232 | -46% |
+| 🟢 disponible | palacio | [Lavadora automática 18 Kg Xpert System carga superior 8MWTW1…](https://www.elpalaciodehierro.com/whirlpool-lavadora-automatica-18-kg-xpert-system-carga-superior-8mwtw1824wjm-blanco-40904406.html) | $13,719 | -46% |
 | 🟢 disponible | liverpool | [Refrigerador Bottom Mount Mabe 14 Pies Cubicos No Frost Rmb4…](https://www.liverpool.com.mx/tienda/pdp/refrigerador-bottom-mount-mabe-14-pies-cubicos-no-frost-rmb400ibmrp0/1162487672) | $14,122 | -21% |
 | 🟢 disponible | liverpool | [Estufa De Piso A Gas Natural Lp Hisense 76 2 Cm Hfg3602Cps D…](https://www.liverpool.com.mx/tienda/pdp/estufa-de-piso-a-gas-natural-lp-hisense-76-2-cm-hfg3602cps-de-6-quemadores/1172176514) | $17,159 | -21% |
 | 🟢 disponible | palacio | [Celular nova 14 512 GB, RAM 12 GB, azul desbloqueado](https://www.elpalaciodehierro.com/huawei-celular-nova-14-512-gb-ram-12-gb-azul-desbloqueado-45262439.html) | $8,969 | -21% |
@@ -603,7 +600,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | amazon | [Keds WH61626 Tenis de piel para Dama](https://www.amazon.com.mx/dp/B0CNV44WCH) | $794 | -21% |
 | 🟢 disponible | liverpool | [Refrigerador Top Mount Midea 17 Pies Cubicos Inverter Y No F…](https://www.liverpool.com.mx/tienda/pdp/refrigerador-top-mount-midea-17-pies-cubicos-inverter-y-no-frost-con-fabrica-de-hielo-mdrt645mtm46wd/1186067378) | $10,800 | -39% |
 | 🟢 disponible | mercadolibre | [Mezcladora Analógica Tklbls V4 Bluetooth 4 Canales USB XLR R…](https://www.mercadolibre.com.mx/mezcladora-analogica-tklbls-v4-bluetooth-4-canales-usb-xlr-rca/p/MLM51527435) | $698 | -23% |
-| 🟢 disponible | palacio | [Combo de lavadora y secadora a gas natural 25 Kg, 22 Kg carg…](https://www.elpalaciodehierro.com/lg-combo-de-lavadora-y-secadora-a-gas-natural-25-kg-22-kg-carga-frontal-wm25bfxs.df22bfx-44968794.html) | $40,480 | -26% |
+| 🟢 disponible | palacio | [Combo de lavadora y secadora a gas natural 25 Kg, 22 Kg carg…](https://www.elpalaciodehierro.com/lg-combo-de-lavadora-y-secadora-a-gas-natural-25-kg-22-kg-carga-frontal-wm25bfxs.df22bfx-44968794.html) | $50,159 | -26% |
 | 🟢 disponible | amazon | [On Cloud X 4 - Tenis para Mujer \| Zapatos de entrenamiento c…](https://www.amazon.com.mx/dp/B0DM2KZCCL) | $2,707 | -21% |
 | 🟢 disponible | amazon | [Skechers Skechers Hands Free Slip-ins Squad Chaos - Stroke o…](https://www.amazon.com.mx/dp/B0CXJNJTNY) | $1,224 | -21% |
 | 🟢 disponible | liverpool | [Smartwatch Xiaomi Xiaomi Watch S4 41Mm Leather Unisex Con Gp…](https://www.liverpool.com.mx/tienda/pdp/smartwatch-xiaomi-xiaomi-watch-s4-41mm-leather-unisex-con-gps/1185267934) | $2,404 | -26% |
@@ -682,7 +679,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Celular Razr 70 512 GB 12 GB Ultra Cocoa](https://www.elpalaciodehierro.com/motorola-celular-razr-70-512-gb-12-gb-ultra-cocoa-45558414.html) | $29,999 | -25% |
 | 🟢 disponible | palacio | [Celular Huawei Nova 13 Pro, RAM 12 GB, 512 GB Blanco Desbloq…](https://www.elpalaciodehierro.com/huawei-celular-huawei-nova-13-pro-ram-12-gb-512-gb-blanco-desbloqueado-44600335.html) | $8,500 | -29% |
 | 🟢 disponible | mercadolibre | [Consolas Sonido 4 Canales Usb Mezcladora Mixer Bt 48v Aelora](https://www.mercadolibre.com.mx/consolas-sonido-4-canales-usb-mezcladora-mixer-bt-48v-aelora/p/MLM62370061) | $599 | -31% |
-| 🟢 disponible | palacio | [Refrigerador French Door Xpert Inverter 31p3](https://www.elpalaciodehierro.com/whirlpool-refrigerador-french-door-xpert-inverter-31p3-45040174.html) | $23,597 | -26% |
+| 🟢 disponible | palacio | [Refrigerador French Door Xpert Inverter 31p3](https://www.elpalaciodehierro.com/whirlpool-refrigerador-french-door-xpert-inverter-31p3-45040174.html) | $30,589 | -26% |
 | 🟢 disponible | walmart | [Combo Cargador Turbo Tipo C 20W Para IPhone 1Hora Punto Cell…](https://www.walmart.com.mx/ip/combo-cargador-turbo-tipo-c-20w-para-iphone-1hora-punto-cell-combo-cargador-turbo-iphone/00750303254285) | $85 | -24% |
 | 🟢 disponible | sams | [Cafetera Nespresso  Vertuo Pop Titan](https://www.sams.com.mx/ip/cafetera-nespresso-vertuo-pop-titan/981042781) | $1,964 | -27% |
 | 🟢 disponible | amazon | [PUMA Pounce Lite](https://www.amazon.com.mx/dp/B0D1YLWQQ1) | $952 | -33% |
@@ -814,3 +811,5 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Celular Galaxy A27 128 GB 6 GB Negro Desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-a27-128-gb-6-gb-negro-desbloqueado-45558416.html) | $4,949 | -25% |
 | 🟢 disponible | palacio | [Celular Galaxy A37 128GB, RAM 6 GB](https://www.elpalaciodehierro.com/samsung-celular-galaxy-a37-128gb-ram-6-gb-45676149.html) | $5,599 | -23% |
 | 🟢 disponible | palacio | [Monitor MARQGolfer Gen 2 - Carbon Edition para golf](https://www.elpalaciodehierro.com/garmin-monitor-marqgolfer-gen-2---carbon-edition-para-golf-43587919.html) | $51,839 | -20% |
+| 🟢 disponible | palacio | [Celular Galaxy A37 128GB, RAM 6 GB Violeta](https://www.elpalaciodehierro.com/samsung-celular-galaxy-a37-128gb-ram-6-gb-violeta-45676151.html) | $5,599 | -30% |
+| 🟢 disponible | palacio | [Monitor Deportivo Forerunner 570 Morado Unisex](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-forerunner-570-morado-unisex-44674622.html) | $9,199 | -20% |

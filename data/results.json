@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-15 06:59 UTC",
-  "products_scanned": 824,
+  "generated_at": "2026-09-15 12:28 UTC",
+  "products_scanned": 819,
   "threshold_pct": 20.0,
-  "count": 24,
+  "count": 26,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -64,6 +64,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45645120",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 30.0,
+      "detail": "$5,599 en palacio vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2399.7,
+      "store": "palacio",
+      "name": "Celular Galaxy A37 128GB, RAM 6 GB Violeta",
+      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-a37-128gb-ram-6-gb-violeta-45676151.html",
+      "price": 5599.3,
+      "list_price": 7999.0,
+      "ean": null,
+      "model": "128GB",
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45676151",
         "outlet": false
       }
     },
@@ -280,6 +301,27 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 25.0,
+      "detail": "$2,699 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 899.75,
+      "store": "palacio",
+      "name": "Monitor de sueño Index",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-de-sueno-index-44840620.html",
+      "price": 2699.25,
+      "list_price": 3599.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44840620",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
       "detail": "$4,949 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
       "savings": 1649.75,
@@ -326,27 +368,6 @@
       "likely_typo": false,
       "savings": 10699.8,
       "store": "palacio",
-      "name": "Celular Galaxy Z Fold8 Ultra 5G 512 GB 12 GB Violeta Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-z-fold8-ultra-5g-512-gb-12-gb-violeta-desbloqueado-45632967.html",
-      "price": 40124.25,
-      "list_price": 53499.0,
-      "ean": null,
-      "model": "Fold8",
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45632967",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$40,124 en palacio vs mercado -> -21% bajo la competencia",
-      "likely_typo": false,
-      "savings": 10699.8,
-      "store": "palacio",
       "name": "Celular Galaxy Z Fold8 Ultra 5G 512 GB 12 GB Desbloqueado",
       "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-z-fold8-ultra-5g-512-gb-12-gb-desbloqueado-45632965.html",
       "price": 40124.25,
@@ -358,6 +379,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45632965",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$40,124 en palacio vs mercado -> -21% bajo la competencia",
+      "likely_typo": false,
+      "savings": 10699.8,
+      "store": "palacio",
+      "name": "Celular Galaxy Z Fold8 Ultra 5G 512 GB 12 GB Violeta Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-z-fold8-ultra-5g-512-gb-12-gb-violeta-desbloqueado-45632967.html",
+      "price": 40124.25,
+      "list_price": 53499.0,
+      "ean": null,
+      "model": "Fold8",
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45632967",
         "outlet": false
       }
     },
@@ -389,27 +431,6 @@
       "likely_typo": false,
       "savings": 9214.81,
       "store": "palacio",
-      "name": "Celular Galaxy Z Fold8 5G 512 GB 12 GB Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-z-fold8-5g-512-gb-12-gb-desbloqueado-45632961.html",
-      "price": 36374.25,
-      "list_price": 48499.0,
-      "ean": null,
-      "model": "Fold8",
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45632961",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$36,374 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 9214.81,
-      "store": "palacio",
       "name": "Celular Galaxy Z Fold8 5G 512 GB 12 GB Gris Desbloqueado",
       "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-z-fold8-5g-512-gb-12-gb-gris-desbloqueado-45632962.html",
       "price": 36374.25,
@@ -421,6 +442,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45632962",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$36,374 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 9214.81,
+      "store": "palacio",
+      "name": "Celular Galaxy Z Fold8 5G 512 GB 12 GB Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-z-fold8-5g-512-gb-12-gb-desbloqueado-45632961.html",
+      "price": 36374.25,
+      "list_price": 48499.0,
+      "ean": null,
+      "model": "Fold8",
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45632961",
         "outlet": false
       }
     },
@@ -490,21 +532,21 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 20.0,
-      "detail": "$51,839 en palacio vs mercado -> -20% bajo la competencia",
+      "detail": "$9,199 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
-      "savings": 12959.8,
+      "savings": 2299.8,
       "store": "palacio",
-      "name": "Monitor MARQGolfer Gen 2 - Carbon Edition para golf",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-marqgolfer-gen-2---carbon-edition-para-golf-43587919.html",
-      "price": 51839.2,
-      "list_price": 64799.0,
+      "name": "Monitor Deportivo Forerunner 570 Morado Unisex",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-forerunner-570-morado-unisex-44674622.html",
+      "price": 9199.2,
+      "list_price": 11499.0,
       "ean": null,
       "model": null,
       "brand": "Garmin",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "43587919",
+        "id": "44674622",
         "outlet": false
       }
     }

@@ -1,9 +1,11 @@
-# Historial de ofertas encontradas (1072)
+# Historial de ofertas encontradas (1074)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-09-15 12:28 | -20% | palacio | [Monitor Deportivo Forerunner 570 Morado Unisex](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-forerunner-570-morado-unisex-44674622.html) | $9,199 | $9,199 en palacio vs mercado -> -20% bajo la competencia |
+| 2026-09-15 12:28 | -30% | palacio | [Celular Galaxy A37 128GB, RAM 6 GB Violeta](https://www.elpalaciodehierro.com/samsung-celular-galaxy-a37-128gb-ram-6-gb-violeta-45676151.html) | $5,599 | $5,599 en palacio vs mercado -> -30% bajo la competencia |
 | 2026-09-14 10:57 | -20% | palacio | [Monitor MARQGolfer Gen 2 - Carbon Edition para golf](https://www.elpalaciodehierro.com/garmin-monitor-marqgolfer-gen-2---carbon-edition-para-golf-43587919.html) | $51,839 | $51,839 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-09-14 10:57 | -20% | palacio | [Celular Galaxy S26 256 GB, RAM 12 GB, negro desbloquead…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s26-256-gb-ram-12-gb-negro-desbloqueado-45273246.html) | $14,399 | $14,399 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-09-14 10:57 | -23% | palacio | [Celular Galaxy A37 128GB, RAM 6 GB](https://www.elpalaciodehierro.com/samsung-celular-galaxy-a37-128gb-ram-6-gb-45676149.html) | $5,599 | $5,599 en palacio vs mercado -> -23% bajo la competencia |
@@ -402,5 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-08-11 16:32 | -21% | mercadolibre | [Lavadora Redonda Koblenz Lrk-2311a 23 Kg Color Blanco](https://www.mercadolibre.com.mx/lavadora-redonda-koblenz-lrk-2311a-23-kg-color-blanco/p/MLM46517919) | $4,999 | $4,999 en mercadolibre vs mercado -> -21% bajo la competencia |
 | 2026-08-11 16:32 | -21% | walmart | [Pantalla 50 pulgadas Samsung MiniLed M70H 4K Smart TV (…](https://www.walmart.com.mx/ip/pantalla-50-pulgadas-samsung-miniled-m70h-4k-smart-tv-2026-/00750940184165) | $5,490 | $5,490 en walmart vs mercado -> -21% bajo la competencia |
 | 2026-08-11 16:32 | -21% | palacio | [Lavasecadora a gas LP, 26 kg, 24 kg, Bespoke AI carga f…](https://www.elpalaciodehierro.com/samsung-lavasecadora-a-gas-lp-26-kg-24-kg-bespoke-ai-carga-frontal-fwd90f26audsp-44770750.html) | $41,768 | $41,768 en palacio vs sams $52,786 -> -21% bajo la competencia |
-| 2026-08-11 16:32 | -21% | sams | [Airpods Apple  con Estuche de Carga Blanco](https://www.sams.com.mx/ip/airpods-apple-con-estuche-de-carga-blanco/980020208) | $3,375 | $3,375 en sams vs mercado -> -21% bajo la competencia |
-| 2026-08-11 16:32 | -21% | amazon | [Reloj de Mujer de Cuero PU de Latón Estilo Bohemio Mult…](https://www.amazon.com.mx/dp/B0BVRBNZZ2) | $227 | $227 en amazon vs mercado -> -21% bajo la competencia |

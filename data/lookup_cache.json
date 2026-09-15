@@ -423,30 +423,6 @@
     "ts": "2026-09-15T05:40:35.248369+00:00",
     "items": []
   },
-  "amazon|GARMINDEPORTIVOMONITORCREAMLILY": {
-    "ts": "2026-09-13T11:56:28.588527+00:00",
-    "items": []
-  },
-  "walmart|GARMINDEPORTIVOMONITORCREAMLILY": {
-    "ts": "2026-09-13T11:56:30.104024+00:00",
-    "items": []
-  },
-  "sams|GARMINDEPORTIVOMONITORCREAMLILY": {
-    "ts": "2026-09-13T11:56:32.044945+00:00",
-    "items": []
-  },
-  "amazon|GARMINADVENTURERDEPORTIVODAMASCUSMONITOR": {
-    "ts": "2026-09-13T11:56:33.803288+00:00",
-    "items": []
-  },
-  "walmart|GARMINADVENTURERDEPORTIVODAMASCUSMONITOR": {
-    "ts": "2026-09-13T11:56:35.262763+00:00",
-    "items": []
-  },
-  "sams|GARMINADVENTURERDEPORTIVODAMASCUSMONITOR": {
-    "ts": "2026-09-13T11:56:36.782887+00:00",
-    "items": []
-  },
   "liverpool|50NU850BPSA": {
     "ts": "2026-09-13T17:49:49.454775+00:00",
     "items": []
@@ -697,6 +673,18 @@
   },
   "mercadolibre|7MMHW6621HC": {
     "ts": "2026-09-15T05:40:43.515957+00:00",
+    "items": []
+  },
+  "amazon|GARMINFORERUNNERDEPORTIVOMONITORMORADO": {
+    "ts": "2026-09-15T12:28:50.471069+00:00",
+    "items": []
+  },
+  "walmart|GARMINFORERUNNERDEPORTIVOMONITORMORADO": {
+    "ts": "2026-09-15T12:28:52.329149+00:00",
+    "items": []
+  },
+  "sams|GARMINFORERUNNERDEPORTIVOMONITORMORADO": {
+    "ts": "2026-09-15T12:28:54.063572+00:00",
     "items": []
   }
 }
