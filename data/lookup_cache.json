@@ -227,18 +227,6 @@
     "ts": "2026-09-15T17:14:51.969937+00:00",
     "items": []
   },
-  "amazon|APPLEENTRENAMIENTOINALAMBRICOSPOWERBEATSBLUETOOTH": {
-    "ts": "2026-09-13T20:56:50.568925+00:00",
-    "items": []
-  },
-  "walmart|APPLEENTRENAMIENTOINALAMBRICOSPOWERBEATSBLUETOOTH": {
-    "ts": "2026-09-13T20:56:52.156533+00:00",
-    "items": []
-  },
-  "sams|APPLEENTRENAMIENTOINALAMBRICOSPOWERBEATSBLUETOOTH": {
-    "ts": "2026-09-13T20:56:54.035441+00:00",
-    "items": []
-  },
   "liverpool|RC21N6FDX": {
     "ts": "2026-09-14T19:42:54.196115+00:00",
     "items": []
@@ -757,6 +745,30 @@
   },
   "sams|GARMINDEPORTIVOMONITORCREAMLILY": {
     "ts": "2026-09-15T18:40:06.413176+00:00",
+    "items": []
+  },
+  "amazon|APPLEESPACIALMACBOOKRAMSSD": {
+    "ts": "2026-09-15T22:55:18.285805+00:00",
+    "items": []
+  },
+  "walmart|APPLEESPACIALMACBOOKRAMSSD": {
+    "ts": "2026-09-15T22:55:19.893843+00:00",
+    "items": []
+  },
+  "sams|APPLEESPACIALMACBOOKRAMSSD": {
+    "ts": "2026-09-15T22:55:21.645283+00:00",
+    "items": []
+  },
+  "amazon|APPLEMEDIANOCHEMACBOOKRAMSSD": {
+    "ts": "2026-09-15T22:55:24.054286+00:00",
+    "items": []
+  },
+  "walmart|APPLEMEDIANOCHEMACBOOKRAMSSD": {
+    "ts": "2026-09-15T22:55:25.653033+00:00",
+    "items": []
+  },
+  "sams|APPLEMEDIANOCHEMACBOOKRAMSSD": {
+    "ts": "2026-09-15T22:55:31.200813+00:00",
     "items": []
   }
 }
