@@ -1,9 +1,30 @@
 {
-  "generated_at": "2026-09-16 05:33 UTC",
-  "products_scanned": 829,
+  "generated_at": "2026-09-16 10:16 UTC",
+  "products_scanned": 844,
   "threshold_pct": 20.0,
-  "count": 23,
+  "count": 26,
   "findings": [
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 50.0,
+      "detail": "$13,500 en palacio vs mercado -> -50% bajo la competencia",
+      "likely_typo": false,
+      "savings": 13499.5,
+      "store": "palacio",
+      "name": "Refrigerador Top Freezer 16 p3 VT45AWP Plata",
+      "url": "https://www.elpalaciodehierro.com/lg-refrigerador-top-freezer-16-p3-vt45awp-plata-43796853.html",
+      "price": 13499.5,
+      "list_price": 26999.0,
+      "ean": null,
+      "model": "VT45AWP",
+      "brand": "Lg",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43796853",
+        "outlet": false
+      }
+    },
     {
       "kind": "cross_confirmed",
       "discount_pct": 50.0,
@@ -64,6 +85,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45645120",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 30.0,
+      "detail": "$10,499 en palacio vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4499.7,
+      "store": "palacio",
+      "name": "iPhone 14 128 GB Medianoche Telcel",
+      "url": "https://www.elpalaciodehierro.com/apple-iphone%C2%A014-128%C2%A0gb-medianoche-telcel-42824645.html",
+      "price": 10499.3,
+      "list_price": 14999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Apple",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "42824645",
         "outlet": false
       }
     },
@@ -316,6 +358,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45371050",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 50.0,
+      "detail": "$5,495 en palacio vs mercado -> -23% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1648.5,
+      "store": "palacio",
+      "name": "Cafetera Expreso ECF02BLUS Negra",
+      "url": "https://www.elpalaciodehierro.com/smeg-cafetera-expreso-ecf02blus-negra-44011025.html",
+      "price": 5495.0,
+      "list_price": 10990.0,
+      "ean": null,
+      "model": "ECF02BLUS",
+      "brand": "Smeg",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44011025",
         "outlet": false
       }
     },

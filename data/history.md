@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (1076)
+# Historial de ofertas encontradas (1077)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-09-16 10:16 | -50% | palacio | [Refrigerador Top Freezer 16 p3 VT45AWP Plata](https://www.elpalaciodehierro.com/lg-refrigerador-top-freezer-16-p3-vt45awp-plata-43796853.html) | $13,500 | $13,500 en palacio vs mercado -> -50% bajo la competencia |
 | 2026-09-15 22:55 | -30% | palacio | [MacBook Air, 13.6“, M2, RAM 8 GB, SSD 256 GB, Medianoch…](https://www.elpalaciodehierro.com/apple-macbook-air-13.6-m2-ram-8-gb-ssd-256-gb-medianoche-42622367.html) | $13,999 | $13,999 en palacio vs mercado -> -30% bajo la competencia |
 | 2026-09-15 22:55 | -30% | palacio | [MacBook Air, 13.6", M2, RAM 8 GB, SSD 256 GB, Gris espa…](https://www.elpalaciodehierro.com/apple-macbook-air-13.6-m2-ram-8-gb-ssd-256-gb-gris-espacial-42622361.html) | $13,999 | $13,999 en palacio vs mercado -> -30% bajo la competencia |
 | 2026-09-15 12:28 | -20% | palacio | [Monitor Deportivo Forerunner 570 Morado Unisex](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-forerunner-570-morado-unisex-44674622.html) | $9,199 | $9,199 en palacio vs mercado -> -20% bajo la competencia |
@@ -403,4 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-08-12 02:50 | -34% | amazon | [Piezas de repuesto para licuadora Ninja Foodi Ultimate …](https://www.amazon.com.mx/dp/B0CW3T2PD2) | $385 | $385 en amazon vs amazon $583, amazon $621, amazon $1,053 -> -34% bajo la competencia |
 | 2026-08-11 16:32 | -20% | sams | [Licuadora Oster  Clásica 1.25L Gris](https://www.sams.com.mx/ip/licuadora-oster-clasica-1-25l-gris/980028698) | $1,021 | $1,021 en sams vs mercado -> -20% bajo la competencia |
 | 2026-08-11 16:32 | -20% | sams | [Laptop HP  Omnibook 5 NG AI Snapdragon X/16 GB RAM/512 …](https://www.sams.com.mx/ip/laptop-hp-omnibook-5-ng-ai-snapdragon-x-16-gb-ram-512-gb-ssd-14-he0000la/981043728) | $14,321 | $14,321 en sams vs walmart $17,996 -> -20% bajo la competencia |
-| 2026-08-11 16:32 | -21% | mercadolibre | [Lavadora Redonda Koblenz Lrk-2311a 23 Kg Color Blanco](https://www.mercadolibre.com.mx/lavadora-redonda-koblenz-lrk-2311a-23-kg-color-blanco/p/MLM46517919) | $4,999 | $4,999 en mercadolibre vs mercado -> -21% bajo la competencia |
