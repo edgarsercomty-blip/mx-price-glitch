@@ -408,51 +408,15 @@
     "items": []
   },
   "amazon|128GB": {
-    "ts": "2026-09-14T10:57:04.044821+00:00",
+    "ts": "2026-09-16T15:00:18.187200+00:00",
     "items": []
   },
   "walmart|128GB": {
-    "ts": "2026-09-14T10:57:05.711234+00:00",
+    "ts": "2026-09-16T15:00:19.654656+00:00",
     "items": []
   },
   "sams|128GB": {
-    "ts": "2026-09-14T10:57:07.362394+00:00",
-    "items": []
-  },
-  "amazon|SAMSUNGDESBLOQUEADOCELULARGALAXYS26": {
-    "ts": "2026-09-14T10:57:08.622005+00:00",
-    "items": []
-  },
-  "walmart|SAMSUNGDESBLOQUEADOCELULARGALAXYS26": {
-    "ts": "2026-09-14T10:57:10.105525+00:00",
-    "items": []
-  },
-  "sams|SAMSUNGDESBLOQUEADOCELULARGALAXYS26": {
-    "ts": "2026-09-14T10:57:11.518240+00:00",
-    "items": []
-  },
-  "amazon|GARMINMARQGOLFERMONITOREDITIONCARBON": {
-    "ts": "2026-09-14T10:57:12.828071+00:00",
-    "items": []
-  },
-  "walmart|GARMINMARQGOLFERMONITOREDITIONCARBON": {
-    "ts": "2026-09-14T10:57:14.205531+00:00",
-    "items": []
-  },
-  "sams|GARMINMARQGOLFERMONITOREDITIONCARBON": {
-    "ts": "2026-09-14T10:57:15.641449+00:00",
-    "items": []
-  },
-  "amazon|SAMSUNGDESBLOQUEADOCELULARGALAXY128": {
-    "ts": "2026-09-14T10:57:16.874582+00:00",
-    "items": []
-  },
-  "walmart|SAMSUNGDESBLOQUEADOCELULARGALAXY128": {
-    "ts": "2026-09-14T10:57:18.233738+00:00",
-    "items": []
-  },
-  "sams|SAMSUNGDESBLOQUEADOCELULARGALAXY128": {
-    "ts": "2026-09-14T10:57:19.622966+00:00",
+    "ts": "2026-09-16T15:00:21.172474+00:00",
     "items": []
   },
   "amazon|SAMSUNGDESBLOQUEADOCELULARGALAXYRAM": {
@@ -705,6 +669,18 @@
   },
   "sams|ECF02BLUS": {
     "ts": "2026-09-16T10:16:36.231159+00:00",
+    "items": []
+  },
+  "amazon|GARMINADVENTURERDEPORTIVODAMASCUSMONITOR": {
+    "ts": "2026-09-16T15:00:22.286060+00:00",
+    "items": []
+  },
+  "walmart|GARMINADVENTURERDEPORTIVODAMASCUSMONITOR": {
+    "ts": "2026-09-16T15:00:24.548731+00:00",
+    "items": []
+  },
+  "sams|GARMINADVENTURERDEPORTIVODAMASCUSMONITOR": {
+    "ts": "2026-09-16T15:00:26.244599+00:00",
     "items": []
   }
 }
