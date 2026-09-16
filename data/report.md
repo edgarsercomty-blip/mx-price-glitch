@@ -1,8 +1,8 @@
-# Errores/chollos de precio — 2026-09-15 22:55 UTC
+# Errores/chollos de precio — 2026-09-16 00:54 UTC
 
-- Productos revisados: **817**
+- Productos revisados: **830**
 - Umbral de diferencia: **20%**
-- Hallazgos: **28**
+- Hallazgos: **27**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
@@ -15,7 +15,6 @@
 | -20% | $9,215 | palacio | [Celular Galaxy Z Fold8 5G 512 GB 12 GB Desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-z-fold8-5g-512-gb-12-gb-desbloqueado-45632963.html) | $36,374 | Confirmado vs competencia | $36,374 en palacio vs mercado -> -20% bajo la competencia |
 | -20% | $9,215 | palacio | [Celular Galaxy Z Fold8 5G 512 GB 12 GB Gris Desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-z-fold8-5g-512-gb-12-gb-gris-desbloqueado-45632962.html) | $36,374 | Confirmado vs competencia | $36,374 en palacio vs mercado -> -20% bajo la competencia |
 | -20% | $9,215 | palacio | [Celular Galaxy Z Fold8 5G 512 GB 12 GB Desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-z-fold8-5g-512-gb-12-gb-desbloqueado-45632961.html) | $36,374 | Confirmado vs competencia | $36,374 en palacio vs mercado -> -20% bajo la competencia |
-| -30% | $6,000 | palacio | [MacBook Air, 13.6", M2, RAM 8 GB, SSD 256 GB, Gris espacial](https://www.elpalaciodehierro.com/apple-macbook-air-13.6-m2-ram-8-gb-ssd-256-gb-gris-espacial-42622361.html) | $13,999 | Confirmado vs competencia | $13,999 en palacio vs mercado -> -30% bajo la competencia |
 | -30% | $6,000 | palacio | [MacBook Air, 13.6“, M2, RAM 8 GB, SSD 256 GB, Medianoche](https://www.elpalaciodehierro.com/apple-macbook-air-13.6-m2-ram-8-gb-ssd-256-gb-medianoche-42622367.html) | $13,999 | Confirmado vs competencia | $13,999 en palacio vs mercado -> -30% bajo la competencia |
 | -38% | $5,100 | palacio | [Celular Huawei Nova 13 Pro, RAM 12 GB, 512 GB Negro Desbloqu…](https://www.elpalaciodehierro.com/huawei-celular-huawei-nova-13-pro-ram-12-gb-512-gb-negro-desbloqueado-44600334.html) | $8,500 | Confirmado vs competencia | $8,500 en palacio vs mercado -> -38% bajo la competencia |
 | -31% | $4,550 | palacio | [Laptop Chromebook IdeaPad Slim 3i, 14", Intel Core i3-N305, …](https://www.elpalaciodehierro.com/lenovo-laptop-chromebook-ideapad-slim-3i-14-intel-core-i3-n305-ram-8-gb-128-gb-emmc-45645120.html) | $10,324 | Confirmado vs competencia | $10,324 en palacio vs mercado -> -31% bajo la competencia |

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-15 22:55 UTC",
-  "products_scanned": 817,
+  "generated_at": "2026-09-16 00:54 UTC",
+  "products_scanned": 830,
   "threshold_pct": 20.0,
-  "count": 28,
+  "count": 27,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -64,27 +64,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45645120",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 30.0,
-      "detail": "$13,999 en palacio vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 5999.7,
-      "store": "palacio",
-      "name": "MacBook Air, 13.6\", M2, RAM 8 GB, SSD 256 GB, Gris espacial",
-      "url": "https://www.elpalaciodehierro.com/apple-macbook-air-13.6-m2-ram-8-gb-ssd-256-gb-gris-espacial-42622361.html",
-      "price": 13999.3,
-      "list_price": 19999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Apple",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "42622361",
         "outlet": false
       }
     },
