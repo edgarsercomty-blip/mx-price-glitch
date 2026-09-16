@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-16 00:54 UTC",
-  "products_scanned": 830,
+  "generated_at": "2026-09-16 05:29 UTC",
+  "products_scanned": 829,
   "threshold_pct": 20.0,
-  "count": 27,
+  "count": 23,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -64,27 +64,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45645120",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 30.0,
-      "detail": "$13,999 en palacio vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 5999.7,
-      "store": "palacio",
-      "name": "MacBook Air, 13.6“, M2, RAM 8 GB, SSD 256 GB, Medianoche",
-      "url": "https://www.elpalaciodehierro.com/apple-macbook-air-13.6-m2-ram-8-gb-ssd-256-gb-medianoche-42622367.html",
-      "price": 13999.3,
-      "list_price": 19999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Apple",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "42622367",
         "outlet": false
       }
     },
@@ -258,48 +237,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 45.0,
-      "detail": "$8,946 en palacio vs mercado -> -26% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3090.35,
-      "store": "palacio",
-      "name": "Laptop 15FD0161LA, 15.6\", Intel Core i5, RAM 8 GB, SSD 256 GB",
-      "url": "https://www.elpalaciodehierro.com/hp-laptop-15fd0161la-15.6-intel-core-i5-ram-8-gb-ssd-256-gb-45371050.html",
-      "price": 8945.75,
-      "list_price": 16265.0,
-      "ean": null,
-      "model": "15FD0161LA",
-      "brand": "Hp",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45371050",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$28,874 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 9624.75,
-      "store": "palacio",
-      "name": "Laptop IdeaPad Slim 3 15IPH11 15.3\" 24 GB Intel Core Ultra 7 355 1 TB SSD",
-      "url": "https://www.elpalaciodehierro.com/lenovo-laptop-ideapad-slim-3-15iph11-15.3-24-gb-intel-core-ultra-7-355-1-tb-ssd-45652839.html",
-      "price": 28874.25,
-      "list_price": 38499.0,
-      "ean": null,
-      "model": "15IPH11",
-      "brand": "Lenovo",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45652839",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 25.0,
       "detail": "$3,899 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
@@ -316,27 +253,6 @@
       "currency": "MXN",
       "extra": {
         "id": "43687680",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$2,699 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 899.75,
-      "store": "palacio",
-      "name": "Monitor de sueño Index",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-de-sueno-index-44840620.html",
-      "price": 2699.25,
-      "list_price": 3599.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44840620",
         "outlet": false
       }
     },
@@ -379,6 +295,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45315663",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 45.0,
+      "detail": "$8,946 en palacio vs mercado -> -24% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2765.05,
+      "store": "palacio",
+      "name": "Laptop 15FD0161LA, 15.6\", Intel Core i5, RAM 8 GB, SSD 256 GB",
+      "url": "https://www.elpalaciodehierro.com/hp-laptop-15fd0161la-15.6-intel-core-i5-ram-8-gb-ssd-256-gb-45371050.html",
+      "price": 8945.75,
+      "list_price": 16265.0,
+      "ean": null,
+      "model": "15FD0161LA",
+      "brand": "Hp",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45371050",
         "outlet": false
       }
     },
@@ -526,27 +463,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45384039",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$50,799 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 12699.8,
-      "store": "palacio",
-      "name": "Laptop LEGION 5 15IAX10 15.1\" 32 GB Intel Core Ultra 7 255HX SSD",
-      "url": "https://www.elpalaciodehierro.com/lenovo-laptop-legion-5-15iax10-15.1-32-gb-intel-core-ultra-7-255hx-ssd-45652844.html",
-      "price": 50799.2,
-      "list_price": 63499.0,
-      "ean": null,
-      "model": "15IAX10",
-      "brand": "Lenovo",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45652844",
         "outlet": false
       }
     },
