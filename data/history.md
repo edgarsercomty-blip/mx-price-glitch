@@ -1,9 +1,11 @@
-# Historial de ofertas encontradas (1079)
+# Historial de ofertas encontradas (1081)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-09-17 08:54 | -20% | palacio | [Descalcificador para Cafeteras](https://www.elpalaciodehierro.com/krups-descalcificador-para-cafeteras-15513938.html) | $79 | $79 en palacio vs mercado -> -20% bajo la competencia |
+| 2026-09-17 08:54 | -20% | palacio | [Monitor MARQ Commander Gen 2 - Carbon Edition multidepo…](https://www.elpalaciodehierro.com/garmin-monitor-marq-commander-gen-2---carbon-edition-multideportivo-43587917.html) | $53,599 | $53,599 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-09-17 05:41 | -26% | sams | [Laptop Lenovo Yoga Intel Core Ultra 5/32 GB RAM/512 GB …](https://www.sams.com.mx/ip/laptop-lenovo-yoga-intel-core-ultra-5-32-gb-ram-512-gb-ssd-s-05lm/981051348) | $22,812 | $22,812 en sams vs mercado -> -26% bajo la competencia |
 | 2026-09-17 05:41 | -26% | sams | [Laptop Gateway  AMD Ryzen 5/8 GB RAM/512 GB SSD GWNR5B1…](https://www.sams.com.mx/ip/laptop-gateway-amd-ryzen-5-8-gb-ram-512-gb-ssd-gwnr5b1657-grys/981039197) | $9,411 | $9,411 en sams vs mercado -> -26% bajo la competencia |
 | 2026-09-16 10:16 | -50% | palacio | [Refrigerador Top Freezer 16 p3 VT45AWP Plata](https://www.elpalaciodehierro.com/lg-refrigerador-top-freezer-16-p3-vt45awp-plata-43796853.html) | $13,500 | $13,500 en palacio vs mercado -> -50% bajo la competencia |
@@ -402,5 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-08-12 03:58 | -35% | amazon | [Bose Auriculares Ultra Abiertos con Audio inmersivo, Au…](https://www.amazon.com.mx/dp/B0CPFV77W4) | $4,289 | $4,289 en amazon vs mercado -> -35% bajo la competencia |
 | 2026-08-12 03:58 | -40% | sams | [Licuadora Turmix  Turbo Max Negro](https://www.sams.com.mx/ip/licuadora-turmix-turbo-max-negro/981045233) | $1,533 | $1,533 en sams vs mercado -> -40% bajo la competencia |
 | 2026-08-12 03:58 | -71% | amazon | [NIVEA Creme (200ml), crema humectante de larga duración…](https://www.amazon.com.mx/dp/B00558FIBS) | $76 | $76 en amazon vs walmart $265, amazon $269 -> -71% bajo la competencia |
-| 2026-08-12 03:58 | -74% | sams | [Consola Retro de Videojuego Portátil My Arcade Sega Son…](https://www.sams.com.mx/ip/consola-retro-de-videojuego-portatil-my-arcade-sega-sonic-the-hedgehog-dgunl-7157/981046326) | $408 | $408 en sams vs mercado -> -74% bajo la competencia |
-| 2026-08-12 02:50 | -34% | amazon | [Piezas de repuesto para licuadora Ninja Foodi Ultimate …](https://www.amazon.com.mx/dp/B0CW3T2PD2) | $385 | $385 en amazon vs amazon $583, amazon $621, amazon $1,053 -> -34% bajo la competencia |
