@@ -1,30 +1,9 @@
 {
-  "generated_at": "2026-09-17 13:57 UTC",
-  "products_scanned": 781,
+  "generated_at": "2026-09-17 17:55 UTC",
+  "products_scanned": 841,
   "threshold_pct": 20.0,
-  "count": 25,
+  "count": 24,
   "findings": [
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 50.0,
-      "detail": "$13,500 en palacio vs mercado -> -50% bajo la competencia",
-      "likely_typo": false,
-      "savings": 13499.5,
-      "store": "palacio",
-      "name": "Refrigerador Top Freezer 16 p3 VT45AWP Plata",
-      "url": "https://www.elpalaciodehierro.com/lg-refrigerador-top-freezer-16-p3-vt45awp-plata-43796853.html",
-      "price": 13499.5,
-      "list_price": 26999.0,
-      "ean": null,
-      "model": "VT45AWP",
-      "brand": "Lg",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43796853",
-        "outlet": false
-      }
-    },
     {
       "kind": "cross_confirmed",
       "discount_pct": 50.0,
@@ -232,6 +211,48 @@
       "currency": "MXN",
       "extra": {
         "id": "45367602",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 50.0,
+      "detail": "$8,500 en palacio vs mercado -> -29% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3399.8,
+      "store": "palacio",
+      "name": "Celular Huawei Nova 13 Pro, RAM 12 GB, 512 GB Blanco Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/huawei-celular-huawei-nova-13-pro-ram-12-gb-512-gb-blanco-desbloqueado-44600335.html",
+      "price": 8499.5,
+      "list_price": 16999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Huawei",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44600335",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$3,899 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1299.75,
+      "store": "palacio",
+      "name": "Monitor Deportivo Lily 2 Cream Gold",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-lily-2-cream-gold-43687680.html",
+      "price": 3899.25,
+      "list_price": 5199.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43687680",
         "outlet": false
       }
     },
@@ -484,48 +505,6 @@
       "currency": "MXN",
       "extra": {
         "id": "44674622",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$53,599 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 13399.8,
-      "store": "palacio",
-      "name": "Monitor MARQ Commander Gen 2 - Carbon Edition multideportivo",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-marq-commander-gen-2---carbon-edition-multideportivo-43587917.html",
-      "price": 53599.2,
-      "list_price": 66999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43587917",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$79 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 19.8,
-      "store": "palacio",
-      "name": "Descalcificador para Cafeteras",
-      "url": "https://www.elpalaciodehierro.com/krups-descalcificador-para-cafeteras-15513938.html",
-      "price": 79.2,
-      "list_price": 99.0,
-      "ean": null,
-      "model": null,
-      "brand": "Krups",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "15513938",
         "outlet": false
       }
     }
