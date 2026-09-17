@@ -1,4 +1,4 @@
-# Productos en vigilancia (803)
+# Productos en vigilancia (805)
 
 Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible, llega alerta de restock.
 
@@ -790,7 +790,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Combo Cafetera Vertuo Up con Aeroccino  3](https://www.elpalaciodehierro.com/nespresso-combo-cafetera-vertuo-up-con-aeroccino--3-45366272.html) | $4,893 | -30% |
 | 🟢 disponible | palacio | [Combo Cafetera Vertuo Up Negro](https://www.elpalaciodehierro.com/nespresso-combo-cafetera-vertuo-up-negro-45498201.html) | $4,893 | -30% |
 | 🟢 disponible | sams | [Laptop 2 en 1 Lenovo IdeaPad 5 AMD Ryzen AI 7/16 GB RAM/512 …](https://www.sams.com.mx/ip/laptop-2-en-1-lenovo-ideapad-5-amd-ryzen-ai-7-16-gb-ram-512-gb-ssd-14akp10/981053223) | $17,386 | -29% |
-| 🟢 disponible | sams | [Combo Laptop Gaming  Asus TUF AMD Ryzen 7/16 GB RAM/512 GB S…](https://www.sams.com.mx/ip/combo-laptop-gaming-asus-tuf-amd-ryzen-7-16-gb-ram-512-gb-ssd-fa506ncq-hn058w-mouse-tuf-gaming-m3/981052358) | $18,412 | -28% |
+| 🟢 disponible | sams | [Combo Laptop Gaming  Asus TUF AMD Ryzen 7/16 GB RAM/512 GB S…](https://www.sams.com.mx/ip/combo-laptop-gaming-asus-tuf-amd-ryzen-7-16-gb-ram-512-gb-ssd-fa506ncq-hn058w-mouse-tuf-gaming-m3/981052358) | $18,412 | -25% |
 | 🟢 disponible | sams | [Laptop Lenovo IdeaPad Slim AMD Ryzen 3/16 GB RAM/512 GB SSD …](https://www.sams.com.mx/ip/laptop-lenovo-ideapad-slim-amd-ryzen-3-16-gb-ram-512-gb-ssd-3-127lm/981051363) | $11,156 | -27% |
 | 🟢 disponible | sams | [Laptop Acer  Aspire Go 15 Intel Core i5/16 GB RAM/512 GB SSD…](https://www.sams.com.mx/ip/laptop-acer-aspire-go-15-intel-core-i5-16-gb-ram-512-gb-ssd-ag15-71p-53fr/981039243) | $12,786 | -26% |
 | 🟢 disponible | sams | [Lavadora Mabe  Carga Superior 20 kg LMX70214WDAB0](https://www.sams.com.mx/ip/lavadora-mabe-carga-superior-20-kg-lmx70214wdab0/981013433) | $10,228 | -26% |
@@ -807,3 +807,5 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Monitor MARQGolfer Gen 2 - Carbon Edition para golf](https://www.elpalaciodehierro.com/garmin-monitor-marqgolfer-gen-2---carbon-edition-para-golf-43587919.html) | $51,839 | -20% |
 | 🟢 disponible | palacio | [Celular Galaxy A37 128GB, RAM 6 GB Violeta](https://www.elpalaciodehierro.com/samsung-celular-galaxy-a37-128gb-ram-6-gb-violeta-45676151.html) | $5,599 | -30% |
 | 🟢 disponible | palacio | [Monitor Deportivo Forerunner 570 Morado Unisex](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-forerunner-570-morado-unisex-44674622.html) | $9,199 | -20% |
+| 🟢 disponible | sams | [Laptop Gateway  AMD Ryzen 5/8 GB RAM/512 GB SSD GWNR5B1657-G…](https://www.sams.com.mx/ip/laptop-gateway-amd-ryzen-5-8-gb-ram-512-gb-ssd-gwnr5b1657-grys/981039197) | $9,411 | -26% |
+| 🟢 disponible | sams | [Laptop Lenovo Yoga Intel Core Ultra 5/32 GB RAM/512 GB SSD S…](https://www.sams.com.mx/ip/laptop-lenovo-yoga-intel-core-ultra-5-32-gb-ram-512-gb-ssd-s-05lm/981051348) | $22,812 | -26% |

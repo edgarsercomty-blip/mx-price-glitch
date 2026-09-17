@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-17 03:36 UTC",
-  "products_scanned": 835,
+  "generated_at": "2026-09-17 05:41 UTC",
+  "products_scanned": 883,
   "threshold_pct": 20.0,
-  "count": 23,
+  "count": 33,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -174,6 +174,26 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 29.2,
+      "detail": "$17,386 en sams vs mercado -> -29% bajo la competencia",
+      "likely_typo": false,
+      "savings": 7163.03,
+      "store": "sams",
+      "name": "Laptop 2 en 1 Lenovo IdeaPad 5 AMD Ryzen AI 7/16 GB RAM/512 GB SSD 14AKP10",
+      "url": "https://www.sams.com.mx/ip/laptop-2-en-1-lenovo-ideapad-5-amd-ryzen-ai-7-16-gb-ram-512-gb-ssd-14akp10/981053223",
+      "price": 17385.89,
+      "list_price": 24548.92,
+      "ean": null,
+      "model": "RAM/512",
+      "brand": "Lenovo",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "981053223"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 55.0,
       "detail": "$25,713 en palacio vs mercado -> -29% bajo la competencia",
       "likely_typo": false,
@@ -216,6 +236,106 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 31.8,
+      "detail": "$11,156 en sams vs mercado -> -27% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4143.33,
+      "store": "sams",
+      "name": "Laptop Lenovo IdeaPad Slim AMD Ryzen 3/16 GB RAM/512 GB SSD 3-127LM",
+      "url": "https://www.sams.com.mx/ip/laptop-lenovo-ideapad-slim-amd-ryzen-3-16-gb-ram-512-gb-ssd-3-127lm/981051363",
+      "price": 11155.82,
+      "list_price": 16361.86,
+      "ean": null,
+      "model": "RAM/512",
+      "brand": "Lenovo",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "981051363"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 26.5,
+      "detail": "$12,786 en sams vs mercado -> -26% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4603.49,
+      "store": "sams",
+      "name": "Laptop Acer  Aspire Go 15 Intel Core i5/16 GB RAM/512 GB SSD AG15-71P-53FR",
+      "url": "https://www.sams.com.mx/ip/laptop-acer-aspire-go-15-intel-core-i5-16-gb-ram-512-gb-ssd-ag15-71p-53fr/981039243",
+      "price": 12786.48,
+      "list_price": 17389.97,
+      "ean": null,
+      "model": "AG15-71P-53FR",
+      "brand": "Acer",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "981039243"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 26.4,
+      "detail": "$9,411 en sams vs mercado -> -26% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3375.89,
+      "store": "sams",
+      "name": "Laptop Gateway  AMD Ryzen 5/8 GB RAM/512 GB SSD GWNR5B1657-GRYS",
+      "url": "https://www.sams.com.mx/ip/laptop-gateway-amd-ryzen-5-8-gb-ram-512-gb-ssd-gwnr5b1657-grys/981039197",
+      "price": 9410.58,
+      "list_price": 12786.47,
+      "ean": null,
+      "model": "GWNR5B1657-GRYS",
+      "brand": "Gateway",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "981039197"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.7,
+      "detail": "$22,812 en sams vs mercado -> -26% bajo la competencia",
+      "likely_typo": false,
+      "savings": 7877.08,
+      "store": "sams",
+      "name": "Laptop Lenovo Yoga Intel Core Ultra 5/32 GB RAM/512 GB SSD S-05LM ",
+      "url": "https://www.sams.com.mx/ip/laptop-lenovo-yoga-intel-core-ultra-5-32-gb-ram-512-gb-ssd-s-05lm/981051348",
+      "price": 22811.88,
+      "list_price": 30688.96,
+      "ean": null,
+      "model": "RAM/512",
+      "brand": "Lenovo",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "981051348"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 35.7,
+      "detail": "$18,412 en sams vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 6139.03,
+      "store": "sams",
+      "name": "Combo Laptop Gaming  Asus TUF AMD Ryzen 7/16 GB RAM/512 GB SSD FA506NCQ-HN058W + Mouse TUF Gaming M3",
+      "url": "https://www.sams.com.mx/ip/combo-laptop-gaming-asus-tuf-amd-ryzen-7-16-gb-ram-512-gb-ssd-fa506ncq-hn058w-mouse-tuf-gaming-m3/981052358",
+      "price": 18411.95,
+      "list_price": 28640.91,
+      "ean": null,
+      "model": "FA506NCQ-HN058W",
+      "brand": "Asus",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "981052358"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 25.0,
       "detail": "$3,899 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
@@ -254,6 +374,26 @@
       "extra": {
         "id": "45558416",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 37.2,
+      "detail": "$13,809 en sams vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4603.5,
+      "store": "sams",
+      "name": "Laptop HP  Omnibook 5 NG AI Snapdragon X/16 GB RAM/512 GB SSD 14-he0000la",
+      "url": "https://www.sams.com.mx/ip/laptop-hp-omnibook-5-ng-ai-snapdragon-x-16-gb-ram-512-gb-ssd-14-he0000la/981043728",
+      "price": 13809.48,
+      "list_price": 21993.47,
+      "ean": null,
+      "model": "14-he0000la",
+      "brand": "HP",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "981043728"
       }
     },
     {
@@ -317,6 +457,26 @@
       "extra": {
         "id": "44011025",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 29.4,
+      "detail": "$12,275 en sams vs mercado -> -22% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3375.9,
+      "store": "sams",
+      "name": "Combo Laptop HP  AMD Ryzen 5/16 GB RAM/512 GB SSD 15-fc0253la + Impresora Ink Advatage 2375",
+      "url": "https://www.sams.com.mx/ip/combo-laptop-hp-amd-ryzen-5-16-gb-ram-512-gb-ssd-15-fc0253la-impresora-ink-advatage-2375/981043727",
+      "price": 12274.98,
+      "list_price": 17389.97,
+      "ean": null,
+      "model": "15-fc0253la",
+      "brand": "HP",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "981043727"
       }
     },
     {
@@ -447,6 +607,26 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 44.0,
+      "detail": "$14,320 en sams vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3581.53,
+      "store": "sams",
+      "name": "Combo Laptop Asus Vivobook 14 AMD Ryzen AI 5/16 GB RAM/512 GB SSD M1407KA-LY137W + Backpack + Mouse",
+      "url": "https://www.sams.com.mx/ip/combo-laptop-asus-vivobook-14-amd-ryzen-ai-5-16-gb-ram-512-gb-ssd-m1407ka-ly137w-backpack-mouse/981042136",
+      "price": 14319.95,
+      "list_price": 25573.96,
+      "ean": null,
+      "model": "M1407KA-LY137W",
+      "brand": "Asus",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "981042136"
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 52.0,
       "detail": "$10,543 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
@@ -485,6 +665,26 @@
       "extra": {
         "id": "44232024",
         "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 33.3,
+      "detail": "$8,183 en sams vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2046.0,
+      "store": "sams",
+      "name": "Laptop HP  Intel Core 3/8 GB RAM/512 GB SSD 15-fd0331la",
+      "url": "https://www.sams.com.mx/ip/laptop-hp-intel-core-3-8-gb-ram-512-gb-ssd-15-fd0331la/981046092",
+      "price": 8182.98,
+      "list_price": 12274.98,
+      "ean": null,
+      "model": "15-fd0331la",
+      "brand": "HP",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "usItemId": "981046092"
       }
     }
   ]
