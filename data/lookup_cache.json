@@ -324,15 +324,15 @@
     "items": []
   },
   "amazon|GARMINFORERUNNERDEPORTIVOMONITORMORADO": {
-    "ts": "2026-09-15T12:28:50.471069+00:00",
+    "ts": "2026-09-17T13:57:50.321983+00:00",
     "items": []
   },
   "walmart|GARMINFORERUNNERDEPORTIVOMONITORMORADO": {
-    "ts": "2026-09-15T12:28:52.329149+00:00",
+    "ts": "2026-09-17T13:57:52.056587+00:00",
     "items": []
   },
   "sams|GARMINFORERUNNERDEPORTIVOMONITORMORADO": {
-    "ts": "2026-09-15T12:28:54.063572+00:00",
+    "ts": "2026-09-17T13:57:53.769481+00:00",
     "items": []
   },
   "liverpool|QNED92": {
@@ -805,6 +805,18 @@
   },
   "sams|KRUPSDESCALCIFICADORCAFETERAS": {
     "ts": "2026-09-17T08:54:34.809296+00:00",
+    "items": []
+  },
+  "amazon|GARMINMULTIDEPORTIVOCOMMANDEREDITIONMONITOR": {
+    "ts": "2026-09-17T13:57:55.279078+00:00",
+    "items": []
+  },
+  "walmart|GARMINMULTIDEPORTIVOCOMMANDEREDITIONMONITOR": {
+    "ts": "2026-09-17T13:57:56.946915+00:00",
+    "items": []
+  },
+  "sams|GARMINMULTIDEPORTIVOCOMMANDEREDITIONMONITOR": {
+    "ts": "2026-09-17T13:57:58.426820+00:00",
     "items": []
   }
 }

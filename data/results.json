@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-17 08:54 UTC",
-  "products_scanned": 777,
+  "generated_at": "2026-09-17 13:57 UTC",
+  "products_scanned": 781,
   "threshold_pct": 20.0,
   "count": 25,
   "findings": [
@@ -158,27 +158,6 @@
       "likely_typo": false,
       "savings": 2097.0,
       "store": "palacio",
-      "name": "Combo Cafetera Vertuo Up Negro",
-      "url": "https://www.elpalaciodehierro.com/nespresso-combo-cafetera-vertuo-up-negro-45498201.html",
-      "price": 4893.0,
-      "list_price": 6990.0,
-      "ean": null,
-      "model": null,
-      "brand": "Nespresso",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45498201",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 30.0,
-      "detail": "$4,893 en palacio vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2097.0,
-      "store": "palacio",
       "name": "Combo Cafetera Vertuo Up con Aeroccino  3",
       "url": "https://www.elpalaciodehierro.com/nespresso-combo-cafetera-vertuo-up-con-aeroccino--3-45366272.html",
       "price": 4893.0,
@@ -190,6 +169,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45366272",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 30.0,
+      "detail": "$4,893 en palacio vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2097.0,
+      "store": "palacio",
+      "name": "Combo Cafetera Vertuo Up Negro",
+      "url": "https://www.elpalaciodehierro.com/nespresso-combo-cafetera-vertuo-up-negro-45498201.html",
+      "price": 4893.0,
+      "list_price": 6990.0,
+      "ean": null,
+      "model": null,
+      "brand": "Nespresso",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45498201",
         "outlet": false
       }
     },
@@ -326,27 +326,6 @@
       "likely_typo": false,
       "savings": 10699.8,
       "store": "palacio",
-      "name": "Celular Galaxy Z Fold8 Ultra 5G 512 GB 12 GB Violeta Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-z-fold8-ultra-5g-512-gb-12-gb-violeta-desbloqueado-45632967.html",
-      "price": 40124.25,
-      "list_price": 53499.0,
-      "ean": null,
-      "model": "Fold8",
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45632967",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$40,124 en palacio vs mercado -> -21% bajo la competencia",
-      "likely_typo": false,
-      "savings": 10699.8,
-      "store": "palacio",
       "name": "Celular Galaxy Z Fold8 Ultra 5G 512 GB 12 GB Desbloqueado",
       "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-z-fold8-ultra-5g-512-gb-12-gb-desbloqueado-45632965.html",
       "price": 40124.25,
@@ -358,6 +337,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45632965",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$40,124 en palacio vs mercado -> -21% bajo la competencia",
+      "likely_typo": false,
+      "savings": 10699.8,
+      "store": "palacio",
+      "name": "Celular Galaxy Z Fold8 Ultra 5G 512 GB 12 GB Violeta Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-z-fold8-ultra-5g-512-gb-12-gb-violeta-desbloqueado-45632967.html",
+      "price": 40124.25,
+      "list_price": 53499.0,
+      "ean": null,
+      "model": "Fold8",
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45632967",
         "outlet": false
       }
     },
@@ -389,27 +389,6 @@
       "likely_typo": false,
       "savings": 9214.81,
       "store": "palacio",
-      "name": "Celular Galaxy Z Fold8 5G 512 GB 12 GB Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-z-fold8-5g-512-gb-12-gb-desbloqueado-45632961.html",
-      "price": 36374.25,
-      "list_price": 48499.0,
-      "ean": null,
-      "model": "Fold8",
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45632961",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$36,374 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 9214.81,
-      "store": "palacio",
       "name": "Celular Galaxy Z Fold8 5G 512 GB 12 GB Gris Desbloqueado",
       "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-z-fold8-5g-512-gb-12-gb-gris-desbloqueado-45632962.html",
       "price": 36374.25,
@@ -421,6 +400,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45632962",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$36,374 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 9214.81,
+      "store": "palacio",
+      "name": "Celular Galaxy Z Fold8 5G 512 GB 12 GB Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-z-fold8-5g-512-gb-12-gb-desbloqueado-45632961.html",
+      "price": 36374.25,
+      "list_price": 48499.0,
+      "ean": null,
+      "model": "Fold8",
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45632961",
         "outlet": false
       }
     },
