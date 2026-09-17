@@ -58,9 +58,9 @@
     "ts": "2026-09-01T12:26:49.233536+00:00",
     "price": 7530.0
   },
-  "palacio|https://www.elpalaciodehierro.com/smeg-cafetera-expreso-ecf02blus-negra-44011025.html|5495": "2026-09-16T23:59:11.001436+00:00",
+  "palacio|https://www.elpalaciodehierro.com/smeg-cafetera-expreso-ecf02blus-negra-44011025.html|5495": "2026-09-17T03:36:50.076978+00:00",
   "~palacio|https://www.elpalaciodehierro.com/smeg-cafetera-expreso-ecf02blus-negra-44011025.html": {
-    "ts": "2026-09-16T23:59:11.001436+00:00",
+    "ts": "2026-09-17T03:36:50.076978+00:00",
     "price": 5495.0
   },
   "~liverpool|1106592728": {
@@ -303,19 +303,6 @@
     "ts": "2026-08-23T02:39:03.108080+00:00",
     "price": 444.0
   },
-  "sams|https://www.sams.com.mx/ip/refrigerador-midea-french-door-19-pies-cubicos-mdrf700fgm45/981052254|13999": "2026-08-18T02:40:45.315761+00:00",
-  "~sams|https://www.sams.com.mx/ip/refrigerador-midea-french-door-19-pies-cubicos-mdrf700fgm45/981052254": {
-    "ts": "2026-08-18T02:40:45.315761+00:00",
-    "price": 13999.0
-  },
-  "~sams|https://www.sams.com.mx/ip/licuadora-hamilton-beach-sound-shield-con-vaso-de-vidrio-1-53-l/981045739": {
-    "ts": "2026-08-18T02:40:45.315761+00:00",
-    "price": 858.3
-  },
-  "~sams|https://www.sams.com.mx/ip/refrigerador-midea-20-pies-cubicos-side-by-side-plus-inverter-bru-steel-mdrs710fgm46/981036735": {
-    "ts": "2026-08-18T02:40:45.315761+00:00",
-    "price": 12991.08
-  },
   "sams|https://www.sams.com.mx/ip/combo-t-fal-freidora-licuadora-cafetera/981050797|1942": "2026-09-10T05:30:19.954747+00:00",
   "~sams|https://www.sams.com.mx/ip/combo-t-fal-freidora-licuadora-cafetera/981050797": {
     "ts": "2026-09-10T05:30:19.954747+00:00",
@@ -324,11 +311,6 @@
   "~mercadolibre|https://www.mercadolibre.com.mx/lavadora-semiautomatica-white-westinghouse-de-13-kg-y-doble-tina-con-centrifugado/p/MLM47040221": {
     "ts": "2026-08-25T15:56:16.564083+00:00",
     "price": 4699.0
-  },
-  "sams|https://www.sams.com.mx/ip/refrigerador-general-electric-french-door-25-pies-cubicos-pff25lercds-black-slate/981029731|23998": "2026-08-18T02:40:45.315761+00:00",
-  "~sams|https://www.sams.com.mx/ip/refrigerador-general-electric-french-door-25-pies-cubicos-pff25lercds-black-slate/981029731": {
-    "ts": "2026-08-18T02:40:45.315761+00:00",
-    "price": 23998.0
   },
   "sams|https://www.sams.com.mx/ip/batidora-de-pedestal-daewoo-blanco/981010847|1533": "2026-08-21T02:45:24.956168+00:00",
   "~sams|https://www.sams.com.mx/ip/batidora-de-pedestal-daewoo-blanco/981010847": {
@@ -379,21 +361,6 @@
     "ts": "2026-08-23T02:39:03.108080+00:00",
     "price": 408.18
   },
-  "sams|https://www.sams.com.mx/ip/licuadora-turmix-turbo-max-negro/981045233|1533": "2026-08-18T02:40:45.315761+00:00",
-  "~sams|https://www.sams.com.mx/ip/licuadora-turmix-turbo-max-negro/981045233": {
-    "ts": "2026-08-18T02:40:45.315761+00:00",
-    "price": 1533.48
-  },
-  "walmart|https://www.walmart.com.mx/ip/procesador-de-alimentos-hamilton-beach-4-tazas-negro/00004009470510?athbdg=L1300|759": "2026-08-18T02:40:45.315761+00:00",
-  "~walmart|https://www.walmart.com.mx/ip/procesador-de-alimentos-hamilton-beach-4-tazas-negro/00004009470510?athbdg=L1300": {
-    "ts": "2026-08-18T02:40:45.315761+00:00",
-    "price": 759.0
-  },
-  "sams|https://www.sams.com.mx/ip/licuadora-turmix-max-power-cherry/981045232|817": "2026-08-18T02:40:45.315761+00:00",
-  "~sams|https://www.sams.com.mx/ip/licuadora-turmix-max-power-cherry/981045232": {
-    "ts": "2026-08-18T02:40:45.315761+00:00",
-    "price": 817.38
-  },
   "sams|https://www.sams.com.mx/ip/smartphone-samsung-galaxy-s24-256-gb-gris-marmol/981017601|9207": "2026-08-23T02:39:03.108080+00:00",
   "~sams|https://www.sams.com.mx/ip/smartphone-samsung-galaxy-s24-256-gb-gris-marmol/981017601": {
     "ts": "2026-08-23T02:39:03.108080+00:00",
@@ -413,34 +380,15 @@
     "ts": "2026-09-09T18:15:00.620815+00:00",
     "price": 8385.53
   },
-  "sams|https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a57-256-gb-gray-desbloqueado/981050321|8386": "2026-08-18T02:40:45.315761+00:00",
-  "~sams|https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a57-256-gb-gray-desbloqueado/981050321": {
-    "ts": "2026-08-18T02:40:45.315761+00:00",
-    "price": 8385.53
-  },
   "amazon|https://www.amazon.com.mx/dp/B0H153K79Y|2000": "2026-08-25T02:26:58.649833+00:00",
   "~amazon|https://www.amazon.com.mx/dp/B0H153K79Y": {
     "ts": "2026-08-25T02:26:58.649833+00:00",
     "price": 1999.99
   },
-  "sams|https://www.sams.com.mx/ip/smartphone-samsung-galaxy-s25-ultra-256-gb-azul-titanio/981031945|15956": "2026-08-18T02:40:45.315761+00:00",
-  "~sams|https://www.sams.com.mx/ip/smartphone-samsung-galaxy-s25-ultra-256-gb-azul-titanio/981031945": {
-    "ts": "2026-08-18T02:40:45.315761+00:00",
-    "price": 15955.73
-  },
   "walmart|https://www.walmart.com.mx/ip/pantalla-50-pulgadas-samsung-miniled-m70h-4k-smart-tv-2026-/00750940184165?athbdg=L1300|5490": "2026-08-19T02:24:25.649297+00:00",
   "~walmart|https://www.walmart.com.mx/ip/pantalla-50-pulgadas-samsung-miniled-m70h-4k-smart-tv-2026-/00750940184165?athbdg=L1300": {
     "ts": "2026-08-19T02:24:25.649297+00:00",
     "price": 5490.0
-  },
-  "sams|https://www.sams.com.mx/ip/pantalla-samsung-58-uhd-4k-smart-tv-un58u8200ffxzx/981034374|7667": "2026-08-18T02:40:45.315761+00:00",
-  "~sams|https://www.sams.com.mx/ip/pantalla-samsung-58-uhd-4k-smart-tv-un58u8200ffxzx/981034374": {
-    "ts": "2026-08-18T02:40:45.315761+00:00",
-    "price": 7667.39
-  },
-  "~mercadolibre|https://www.mercadolibre.com.mx/apple-iphone-13-128-gb-medianoche-distribuidor-autorizado/p/MLM1018500844": {
-    "ts": "2026-08-18T02:40:45.315761+00:00",
-    "price": 10009.0
   },
   "sams|https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a37-256-gb-gray-desbloqueado/981043317|7363": "2026-08-23T02:39:03.108080+00:00",
   "~sams|https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a37-256-gb-gray-desbloqueado/981043317": {
@@ -481,7 +429,6 @@
     "ts": "2026-08-24T00:42:36.748940+00:00",
     "price": 23429.29
   },
-  "sams|https://www.sams.com.mx/ip/refrigerador-midea-20-pies-cubicos-side-by-side-plus-inverter-bru-steel-mdrs710fgm46/981036735|12991": "2026-08-18T02:40:45.315761+00:00",
   "~mercadolibre|https://www.mercadolibre.com.mx/samsung-galaxy-buds-core-negro/p/MLM52056865": {
     "ts": "2026-08-24T15:47:16.624782+00:00",
     "price": 699.0
@@ -494,11 +441,6 @@
   "~amazon|https://www.amazon.com.mx/dp/B0H2X99YX1": {
     "ts": "2026-08-19T02:24:25.649297+00:00",
     "price": 20999.0
-  },
-  "sams|https://www.sams.com.mx/ip/refrigerador-whirlpool-25-pies-cubicos-duplex-wd5600s/980042529|18587": "2026-08-18T02:40:45.315761+00:00",
-  "~sams|https://www.sams.com.mx/ip/refrigerador-whirlpool-25-pies-cubicos-duplex-wd5600s/980042529": {
-    "ts": "2026-08-18T02:40:45.315761+00:00",
-    "price": 18586.89
   },
   "amazon|https://www.amazon.com.mx/dp/B0GZJ5VFKS|10999": "2026-08-23T13:07:09.228263+00:00",
   "~amazon|https://www.amazon.com.mx/dp/B0GZJ5VFKS": {
@@ -513,16 +455,6 @@
   "~amazon|https://www.amazon.com.mx/dp/B0BTTQVSM6": {
     "ts": "2026-08-25T15:56:16.564083+00:00",
     "price": 815.3
-  },
-  "sams|https://www.sams.com.mx/ip/combo-lavadora-y-secadora-whirlpool-carga-frontal-lavado-21-kg-secado-23-kg-cwd-7mwfw5605mc/981036871|28131": "2026-08-18T02:40:45.315761+00:00",
-  "~sams|https://www.sams.com.mx/ip/combo-lavadora-y-secadora-whirlpool-carga-frontal-lavado-21-kg-secado-23-kg-cwd-7mwfw5605mc/981036871": {
-    "ts": "2026-08-18T02:40:45.315761+00:00",
-    "price": 28131.48
-  },
-  "sams|https://www.sams.com.mx/ip/lavasecadora-haier-carga-frontal-12-kg-lavado-8-kg-secado-chac2186nxgg0/981040322|11937": "2026-08-18T02:40:45.315761+00:00",
-  "~sams|https://www.sams.com.mx/ip/lavasecadora-haier-carga-frontal-12-kg-lavado-8-kg-secado-chac2186nxgg0/981040322": {
-    "ts": "2026-08-18T02:40:45.315761+00:00",
-    "price": 11937.39
   },
   "~amazon|https://www.amazon.com.mx/dp/B0GSYDK6DW": {
     "ts": "2026-08-20T15:55:07.241755+00:00",
@@ -557,17 +489,6 @@
   "~liverpool|1205210136": {
     "ts": "2026-08-20T05:49:29.890191+00:00",
     "price": 7951.44
-  },
-  "sams|https://www.sams.com.mx/ip/licuadora-hamilton-beach-sound-shield-con-vaso-de-vidrio-1-53-l/981045739|858": "2026-08-18T02:40:45.315761+00:00",
-  "sams|https://www.sams.com.mx/ip/batidora-de-pedestal-cuisinart-digital-negra-csm-d175bkes/981040717|9380": "2026-08-18T02:40:45.315761+00:00",
-  "~sams|https://www.sams.com.mx/ip/batidora-de-pedestal-cuisinart-digital-negra-csm-d175bkes/981040717": {
-    "ts": "2026-08-18T02:40:45.315761+00:00",
-    "price": 9379.89
-  },
-  "sams|https://www.sams.com.mx/ip/licuadora-cuisinart-hurricane-3-5-hp-cbt-2000es/981040735|5114": "2026-08-18T02:40:45.315761+00:00",
-  "~sams|https://www.sams.com.mx/ip/licuadora-cuisinart-hurricane-3-5-hp-cbt-2000es/981040735": {
-    "ts": "2026-08-18T02:40:45.315761+00:00",
-    "price": 5113.98
   },
   "sams|https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a26-128-gb-blanco/981035904|4191": "2026-08-23T02:39:03.108080+00:00",
   "~sams|https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a26-128-gb-blanco/981035904": {
@@ -626,15 +547,10 @@
     "ts": "2026-08-23T15:28:46.704342+00:00",
     "price": 6290.0
   },
-  "walmart|https://www.walmart.com.mx/ip/estuche-de-carga-inalambrica-apple-airpods-blanco-mr8u2am-a/00019019865940?athbdg=L1300|719": "2026-08-18T02:40:45.315761+00:00",
   "palacio|https://www.elpalaciodehierro.com/lg-combo-de-lavadora-y-secadora-a-gas-natural-25-kg-22-kg-carga-frontal-wm25bfxs.df22bfx-44968794.html|40480": "2026-08-20T15:53:28.138226+00:00",
   "~palacio|https://www.elpalaciodehierro.com/lg-combo-de-lavadora-y-secadora-a-gas-natural-25-kg-22-kg-carga-frontal-wm25bfxs.df22bfx-44968794.html": {
     "ts": "2026-08-20T15:53:28.138226+00:00",
     "price": 40479.54
-  },
-  "~amazon|https://www.amazon.com.mx/dp/B0DM2KZCCL": {
-    "ts": "2026-08-18T02:40:45.315761+00:00",
-    "price": 2565.39
   },
   "amazon|https://www.amazon.com.mx/dp/B0CXJNJTNY|964": "2026-08-18T15:40:36.720501+00:00",
   "~amazon|https://www.amazon.com.mx/dp/B0CXJNJTNY": {
@@ -658,11 +574,6 @@
   },
   "palacio|https://www.elpalaciodehierro.com/oster-cafetera-perfect-brew-maxima-43926489.html|13684": "2026-08-24T00:42:36.748940+00:00",
   "palacio|https://www.elpalaciodehierro.com/coach-correa-para-apple-watch-en-acero-42825376.html|2239": "2026-08-20T00:41:45.360460+00:00",
-  "palacio|https://www.elpalaciodehierro.com/tory-burch-correa-para-apple-watch-en-acero-inoxidable-y-silicon-plateado-con-rosa-45276482.html|3702": "2026-08-18T00:41:34.975758+00:00",
-  "~palacio|https://www.elpalaciodehierro.com/tory-burch-correa-para-apple-watch-en-acero-inoxidable-y-silicon-plateado-con-rosa-45276482.html": {
-    "ts": "2026-08-18T00:41:34.975758+00:00",
-    "price": 3702.3
-  },
   "palacio|https://www.elpalaciodehierro.com/michael-kors-correa-para-apple-watch-en-acero-inoxidable-tricolor-44353770.html|2946": "2026-08-23T00:45:11.686296+00:00",
   "~palacio|https://www.elpalaciodehierro.com/michael-kors-correa-para-apple-watch-en-acero-inoxidable-tricolor-44353770.html": {
     "ts": "2026-08-23T00:45:11.686296+00:00",
@@ -702,13 +613,11 @@
     "ts": "2026-08-25T02:26:58.649833+00:00",
     "price": 999.0
   },
-  "mercadolibre|https://www.mercadolibre.com.mx/apple-iphone-13-128-gb-medianoche-distribuidor-autorizado/p/MLM1018500844|10009": "2026-08-18T02:40:45.315761+00:00",
   "liverpool|1173032684|12799": "2026-09-01T01:44:40.046994+00:00",
   "~liverpool|1173032684": {
     "ts": "2026-09-01T01:44:40.046994+00:00",
     "price": 12799.35
   },
-  "walmart|https://www.walmart.com.mx/ip/Estuche-de-Carga-Inalambrica-Apple-AirPods-Blanco-MR8U2AM-A/00019019865940?athbdg=L1300|719": "2026-08-18T02:40:45.315761+00:00",
   "~walmart|https://www.walmart.com.mx/ip/Estuche-de-Carga-Inalambrica-Apple-AirPods-Blanco-MR8U2AM-A/00019019865940?athbdg=L1300": {
     "ts": "2026-08-19T15:37:25.716396+00:00",
     "price": 709.0
@@ -728,7 +637,6 @@
     "ts": "2026-08-20T02:25:22.089958+00:00",
     "price": 10527.0
   },
-  "amazon|https://www.amazon.com.mx/dp/B0DM2KZCCL|2565": "2026-08-18T02:40:45.315761+00:00",
   "amazon|https://www.amazon.com.mx/dp/B0DMZWD4JP|396": "2026-08-23T15:28:46.704342+00:00",
   "~amazon|https://www.amazon.com.mx/dp/B0DMZWD4JP": {
     "ts": "2026-08-23T15:28:46.704342+00:00",
@@ -837,7 +745,7 @@
   },
   "palacio|https://www.elpalaciodehierro.com/hp-laptop-omnibook-3-14-intel-core-i5-ram-8-gb-ssd-512-gb-45384039.html|10982": "2026-09-03T05:24:38.943194+00:00",
   "~palacio|https://www.elpalaciodehierro.com/hp-laptop-omnibook-3-14-intel-core-i5-ram-8-gb-ssd-512-gb-45384039.html": {
-    "ts": "2026-09-16T23:59:11.001436+00:00",
+    "ts": "2026-09-17T03:36:50.076978+00:00",
     "price": 10543.2
   },
   "liverpool|1200691373|2124": "2026-08-22T19:52:53.767671+00:00",
@@ -1015,7 +923,7 @@
   },
   "palacio|https://www.elpalaciodehierro.com/huawei-celular-huawei-nova-13-pro-ram-12-gb-512-gb-blanco-desbloqueado-44600335.html|10199": "2026-09-01T12:26:49.233536+00:00",
   "~palacio|https://www.elpalaciodehierro.com/huawei-celular-huawei-nova-13-pro-ram-12-gb-512-gb-blanco-desbloqueado-44600335.html": {
-    "ts": "2026-09-16T23:59:11.001436+00:00",
+    "ts": "2026-09-17T03:36:50.076978+00:00",
     "price": 8499.5
   },
   "mercadolibre|https://www.mercadolibre.com.mx/controles-del-reproductor-de-consola-x8-inalambricos/p/MLM2047274168|719": "2026-08-25T02:26:58.649833+00:00",
@@ -1359,9 +1267,9 @@
     "ts": "2026-09-10T11:46:49.060420+00:00",
     "price": 1799.4
   },
-  "palacio|https://www.elpalaciodehierro.com/toshiba-pantalla-65-pulgadas-plana-miniled-4k-65z670rm-fire-tv-45315663.html|10399": "2026-09-16T23:59:11.001436+00:00",
+  "palacio|https://www.elpalaciodehierro.com/toshiba-pantalla-65-pulgadas-plana-miniled-4k-65z670rm-fire-tv-45315663.html|10399": "2026-09-17T03:36:50.076978+00:00",
   "~palacio|https://www.elpalaciodehierro.com/toshiba-pantalla-65-pulgadas-plana-miniled-4k-65z670rm-fire-tv-45315663.html": {
-    "ts": "2026-09-16T23:59:11.001436+00:00",
+    "ts": "2026-09-17T03:36:50.076978+00:00",
     "price": 10399.2
   },
   "liverpool|1109351527|2387": "2026-08-27T03:23:05.854474+00:00",
@@ -1386,7 +1294,7 @@
   },
   "palacio|https://www.elpalaciodehierro.com/hp-laptop-15fd0161la-15.6-intel-core-i5-ram-8-gb-ssd-256-gb-45371050.html|11060": "2026-08-30T00:55:41.913719+00:00",
   "~palacio|https://www.elpalaciodehierro.com/hp-laptop-15fd0161la-15.6-intel-core-i5-ram-8-gb-ssd-256-gb-45371050.html": {
-    "ts": "2026-09-16T23:59:11.001436+00:00",
+    "ts": "2026-09-17T03:36:50.076978+00:00",
     "price": 8945.75
   },
   "liverpool|1188874351|7999": "2026-09-01T01:44:40.046994+00:00",
@@ -1463,14 +1371,14 @@
   "palacio|https://www.elpalaciodehierro.com/samsung-celular-galaxy-a17-5g-128-gb-ram-4-gb-negro-desbloqueado-44951471.html|3219": "2026-09-07T06:08:19.656351+00:00",
   "palacio|https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-negro-azabache-45001062.html|2799": "2026-09-15T01:54:03.709641+00:00",
   "palacio|https://www.elpalaciodehierro.com/apple-audifonos-inalambricos-para-entrenamiento-bluetooth-powerbeats-fit-gris-grava-45001063.html|2799": "2026-09-15T01:54:03.709641+00:00",
-  "palacio|https://www.elpalaciodehierro.com/nespresso-cafetera-vertuo-lattissima-white-45191597.html|4396": "2026-09-16T23:59:11.001436+00:00",
+  "palacio|https://www.elpalaciodehierro.com/nespresso-cafetera-vertuo-lattissima-white-45191597.html|4396": "2026-09-17T03:36:50.076978+00:00",
   "~palacio|https://www.elpalaciodehierro.com/nespresso-cafetera-vertuo-lattissima-white-45191597.html": {
-    "ts": "2026-09-16T23:59:11.001436+00:00",
+    "ts": "2026-09-17T03:36:50.076978+00:00",
     "price": 4396.0
   },
-  "palacio|https://www.elpalaciodehierro.com/lenovo-laptop-chromebook-ideapad-slim-3i-14-intel-core-i3-n305-ram-8-gb-128-gb-emmc-45645120.html|10324": "2026-09-16T23:59:11.001436+00:00",
+  "palacio|https://www.elpalaciodehierro.com/lenovo-laptop-chromebook-ideapad-slim-3i-14-intel-core-i3-n305-ram-8-gb-128-gb-emmc-45645120.html|10324": "2026-09-17T03:36:50.076978+00:00",
   "~palacio|https://www.elpalaciodehierro.com/lenovo-laptop-chromebook-ideapad-slim-3i-14-intel-core-i3-n305-ram-8-gb-128-gb-emmc-45645120.html": {
-    "ts": "2026-09-16T23:59:11.001436+00:00",
+    "ts": "2026-09-17T03:36:50.076978+00:00",
     "price": 10324.41
   },
   "palacio|https://www.elpalaciodehierro.com/samsung-lavadora-automatica-22-kg-carga-frontal-f-wf22c640wcp-blanca-43441685.html|18199": "2026-09-09T01:29:19.139763+00:00",
@@ -1478,14 +1386,14 @@
     "ts": "2026-09-09T01:29:19.139763+00:00",
     "price": 18199.35
   },
-  "palacio|https://www.elpalaciodehierro.com/huawei-smartwatch-watch-5-unisex-45258358.html|4800": "2026-09-16T23:59:11.001436+00:00",
+  "palacio|https://www.elpalaciodehierro.com/huawei-smartwatch-watch-5-unisex-45258358.html|4800": "2026-09-17T03:36:50.076978+00:00",
   "~palacio|https://www.elpalaciodehierro.com/huawei-smartwatch-watch-5-unisex-45258358.html": {
-    "ts": "2026-09-16T23:59:11.001436+00:00",
+    "ts": "2026-09-17T03:36:50.076978+00:00",
     "price": 4799.52
   },
-  "palacio|https://www.elpalaciodehierro.com/samsung-pantalla-65-pulgadas-plana-micro-rgb-4k-mrn65r85hafxzx-45367602.html|25713": "2026-09-16T23:59:11.001436+00:00",
+  "palacio|https://www.elpalaciodehierro.com/samsung-pantalla-65-pulgadas-plana-micro-rgb-4k-mrn65r85hafxzx-45367602.html|25713": "2026-09-17T03:36:50.076978+00:00",
   "~palacio|https://www.elpalaciodehierro.com/samsung-pantalla-65-pulgadas-plana-micro-rgb-4k-mrn65r85hafxzx-45367602.html": {
-    "ts": "2026-09-16T23:59:11.001436+00:00",
+    "ts": "2026-09-17T03:36:50.076978+00:00",
     "price": 25713.45
   },
   "palacio|https://www.elpalaciodehierro.com/lg-refrigerador-french-door-28-p3-gm28lip-42808174.html|28350": "2026-09-07T01:02:46.976709+00:00",
@@ -1493,8 +1401,8 @@
     "ts": "2026-09-07T01:02:46.976709+00:00",
     "price": 28349.5
   },
-  "palacio|https://www.elpalaciodehierro.com/hp-laptop-omnibook-3-14-intel-core-i5-ram-8-gb-ssd-512-gb-45384039.html|10543": "2026-09-16T23:59:11.001436+00:00",
-  "palacio|https://www.elpalaciodehierro.com/hp-laptop-15fd0161la-15.6-intel-core-i5-ram-8-gb-ssd-256-gb-45371050.html|8946": "2026-09-16T23:59:11.001436+00:00",
+  "palacio|https://www.elpalaciodehierro.com/hp-laptop-omnibook-3-14-intel-core-i5-ram-8-gb-ssd-512-gb-45384039.html|10543": "2026-09-17T03:36:50.076978+00:00",
+  "palacio|https://www.elpalaciodehierro.com/hp-laptop-15fd0161la-15.6-intel-core-i5-ram-8-gb-ssd-256-gb-45371050.html|8946": "2026-09-17T03:36:50.076978+00:00",
   "palacio|https://www.elpalaciodehierro.com/lenovo-laptop-ideapad-slim-3-15iph11-15.3-24-gb-intel-core-ultra-7-355-1-tb-ssd-45652839.html|28874": "2026-09-16T00:54:57.750187+00:00",
   "~palacio|https://www.elpalaciodehierro.com/lenovo-laptop-ideapad-slim-3-15iph11-15.3-24-gb-intel-core-ultra-7-355-1-tb-ssd-45652839.html": {
     "ts": "2026-09-16T00:54:57.750187+00:00",
@@ -1520,9 +1428,9 @@
     "ts": "2026-09-16T00:54:57.750187+00:00",
     "price": 50799.2
   },
-  "palacio|https://www.elpalaciodehierro.com/huawei-celular-huawei-nova-13-pro-ram-12-gb-512-gb-negro-desbloqueado-44600334.html|8500": "2026-09-16T23:59:11.001436+00:00",
+  "palacio|https://www.elpalaciodehierro.com/huawei-celular-huawei-nova-13-pro-ram-12-gb-512-gb-negro-desbloqueado-44600334.html|8500": "2026-09-17T03:36:50.076978+00:00",
   "~palacio|https://www.elpalaciodehierro.com/huawei-celular-huawei-nova-13-pro-ram-12-gb-512-gb-negro-desbloqueado-44600334.html": {
-    "ts": "2026-09-16T23:59:11.001436+00:00",
+    "ts": "2026-09-17T03:36:50.076978+00:00",
     "price": 8499.5
   },
   "palacio|https://www.elpalaciodehierro.com/samsung-celular-galaxy-s25-ultra-512-gb-ram-12-gb-titanium-white-silver-desbloqueado-44443565.html|25199": "2026-09-12T09:49:58.663455+00:00",
@@ -1550,31 +1458,31 @@
     "ts": "2026-09-07T01:02:46.976709+00:00",
     "price": 59999.52
   },
-  "palacio|https://www.elpalaciodehierro.com/huawei-celular-huawei-nova-13-pro-ram-12-gb-512-gb-blanco-desbloqueado-44600335.html|8500": "2026-09-16T23:59:11.001436+00:00",
+  "palacio|https://www.elpalaciodehierro.com/huawei-celular-huawei-nova-13-pro-ram-12-gb-512-gb-blanco-desbloqueado-44600335.html|8500": "2026-09-17T03:36:50.076978+00:00",
   "palacio|https://www.elpalaciodehierro.com/apple-iphone%C2%A014-128%C2%A0gb-medianoche-telcel-42824645.html|10499": "2026-09-16T21:48:44.253873+00:00",
-  "palacio|https://www.elpalaciodehierro.com/samsung-celular-galaxy-z-fold8-ultra-5g-512-gb-12-gb-desbloqueado-45632965.html|40124": "2026-09-16T23:59:11.001436+00:00",
+  "palacio|https://www.elpalaciodehierro.com/samsung-celular-galaxy-z-fold8-ultra-5g-512-gb-12-gb-desbloqueado-45632965.html|40124": "2026-09-17T03:36:50.076978+00:00",
   "~palacio|https://www.elpalaciodehierro.com/samsung-celular-galaxy-z-fold8-ultra-5g-512-gb-12-gb-desbloqueado-45632965.html": {
-    "ts": "2026-09-16T23:59:11.001436+00:00",
+    "ts": "2026-09-17T03:36:50.076978+00:00",
     "price": 40124.25
   },
-  "palacio|https://www.elpalaciodehierro.com/samsung-celular-galaxy-z-fold8-ultra-5g-512-gb-12-gb-violeta-desbloqueado-45632967.html|40124": "2026-09-16T23:59:11.001436+00:00",
+  "palacio|https://www.elpalaciodehierro.com/samsung-celular-galaxy-z-fold8-ultra-5g-512-gb-12-gb-violeta-desbloqueado-45632967.html|40124": "2026-09-17T03:36:50.076978+00:00",
   "~palacio|https://www.elpalaciodehierro.com/samsung-celular-galaxy-z-fold8-ultra-5g-512-gb-12-gb-violeta-desbloqueado-45632967.html": {
-    "ts": "2026-09-16T23:59:11.001436+00:00",
+    "ts": "2026-09-17T03:36:50.076978+00:00",
     "price": 40124.25
   },
-  "palacio|https://www.elpalaciodehierro.com/samsung-celular-galaxy-z-fold8-5g-512-gb-12-gb-desbloqueado-45632963.html|36374": "2026-09-16T23:59:11.001436+00:00",
+  "palacio|https://www.elpalaciodehierro.com/samsung-celular-galaxy-z-fold8-5g-512-gb-12-gb-desbloqueado-45632963.html|36374": "2026-09-17T03:36:50.076978+00:00",
   "~palacio|https://www.elpalaciodehierro.com/samsung-celular-galaxy-z-fold8-5g-512-gb-12-gb-desbloqueado-45632963.html": {
-    "ts": "2026-09-16T23:59:11.001436+00:00",
+    "ts": "2026-09-17T03:36:50.076978+00:00",
     "price": 36374.25
   },
-  "palacio|https://www.elpalaciodehierro.com/samsung-celular-galaxy-z-fold8-5g-512-gb-12-gb-gris-desbloqueado-45632962.html|36374": "2026-09-16T23:59:11.001436+00:00",
+  "palacio|https://www.elpalaciodehierro.com/samsung-celular-galaxy-z-fold8-5g-512-gb-12-gb-gris-desbloqueado-45632962.html|36374": "2026-09-17T03:36:50.076978+00:00",
   "~palacio|https://www.elpalaciodehierro.com/samsung-celular-galaxy-z-fold8-5g-512-gb-12-gb-gris-desbloqueado-45632962.html": {
-    "ts": "2026-09-16T23:59:11.001436+00:00",
+    "ts": "2026-09-17T03:36:50.076978+00:00",
     "price": 36374.25
   },
-  "palacio|https://www.elpalaciodehierro.com/samsung-celular-galaxy-z-fold8-5g-512-gb-12-gb-desbloqueado-45632961.html|36374": "2026-09-16T23:59:11.001436+00:00",
+  "palacio|https://www.elpalaciodehierro.com/samsung-celular-galaxy-z-fold8-5g-512-gb-12-gb-desbloqueado-45632961.html|36374": "2026-09-17T03:36:50.076978+00:00",
   "~palacio|https://www.elpalaciodehierro.com/samsung-celular-galaxy-z-fold8-5g-512-gb-12-gb-desbloqueado-45632961.html": {
-    "ts": "2026-09-16T23:59:11.001436+00:00",
+    "ts": "2026-09-17T03:36:50.076978+00:00",
     "price": 36374.25
   },
   "palacio|https://www.elpalaciodehierro.com/garmin-monitor-de-sueno-index-44840620.html|2699": "2026-09-16T00:54:57.750187+00:00",
@@ -1706,24 +1614,24 @@
     "ts": "2026-09-12T09:49:58.663455+00:00",
     "price": 1896.2
   },
-  "palacio|https://www.elpalaciodehierro.com/nespresso-cafetera-vertuo-up-negro-45555103.html|4193": "2026-09-16T23:59:11.001436+00:00",
+  "palacio|https://www.elpalaciodehierro.com/nespresso-cafetera-vertuo-up-negro-45555103.html|4193": "2026-09-17T03:36:50.076978+00:00",
   "~palacio|https://www.elpalaciodehierro.com/nespresso-cafetera-vertuo-up-negro-45555103.html": {
-    "ts": "2026-09-16T23:59:11.001436+00:00",
+    "ts": "2026-09-17T03:36:50.076978+00:00",
     "price": 4193.0
   },
-  "palacio|https://www.elpalaciodehierro.com/nespresso-combo-cafetera-vertuo-up-azul-45529514.html|4893": "2026-09-16T23:59:11.001436+00:00",
+  "palacio|https://www.elpalaciodehierro.com/nespresso-combo-cafetera-vertuo-up-azul-45529514.html|4893": "2026-09-17T03:36:50.076978+00:00",
   "~palacio|https://www.elpalaciodehierro.com/nespresso-combo-cafetera-vertuo-up-azul-45529514.html": {
-    "ts": "2026-09-16T23:59:11.001436+00:00",
+    "ts": "2026-09-17T03:36:50.076978+00:00",
     "price": 4893.0
   },
-  "palacio|https://www.elpalaciodehierro.com/nespresso-combo-cafetera-vertuo-up-con-aeroccino--3-45366272.html|4893": "2026-09-16T23:59:11.001436+00:00",
+  "palacio|https://www.elpalaciodehierro.com/nespresso-combo-cafetera-vertuo-up-con-aeroccino--3-45366272.html|4893": "2026-09-17T03:36:50.076978+00:00",
   "~palacio|https://www.elpalaciodehierro.com/nespresso-combo-cafetera-vertuo-up-con-aeroccino--3-45366272.html": {
-    "ts": "2026-09-16T23:59:11.001436+00:00",
+    "ts": "2026-09-17T03:36:50.076978+00:00",
     "price": 4893.0
   },
-  "palacio|https://www.elpalaciodehierro.com/nespresso-combo-cafetera-vertuo-up-negro-45498201.html|4893": "2026-09-16T23:59:11.001436+00:00",
+  "palacio|https://www.elpalaciodehierro.com/nespresso-combo-cafetera-vertuo-up-negro-45498201.html|4893": "2026-09-17T03:36:50.076978+00:00",
   "~palacio|https://www.elpalaciodehierro.com/nespresso-combo-cafetera-vertuo-up-negro-45498201.html": {
-    "ts": "2026-09-16T23:59:11.001436+00:00",
+    "ts": "2026-09-17T03:36:50.076978+00:00",
     "price": 4893.0
   },
   "sams|https://www.sams.com.mx/ip/iphone-13-apple-128-gb-midnight-telcel/981026358|7159": "2026-09-11T18:06:15.265295+00:00",
@@ -1792,19 +1700,19 @@
     "ts": "2026-09-12T09:49:58.663455+00:00",
     "price": 1199.25
   },
-  "palacio|https://www.elpalaciodehierro.com/garmin-monitor-deportivo-lily-2-cream-gold-43687680.html|3899": "2026-09-16T23:59:11.001436+00:00",
+  "palacio|https://www.elpalaciodehierro.com/garmin-monitor-deportivo-lily-2-cream-gold-43687680.html|3899": "2026-09-17T03:36:50.076978+00:00",
   "~palacio|https://www.elpalaciodehierro.com/garmin-monitor-deportivo-lily-2-cream-gold-43687680.html": {
-    "ts": "2026-09-16T23:59:11.001436+00:00",
+    "ts": "2026-09-17T03:36:50.076978+00:00",
     "price": 3899.25
   },
-  "palacio|https://www.elpalaciodehierro.com/garmin-monitor-deportivo-marq-adventurer-gen-2-damascus-steel-edition-44232024.html|51839": "2026-09-16T23:59:11.001436+00:00",
+  "palacio|https://www.elpalaciodehierro.com/garmin-monitor-deportivo-marq-adventurer-gen-2-damascus-steel-edition-44232024.html|51839": "2026-09-17T03:36:50.076978+00:00",
   "~palacio|https://www.elpalaciodehierro.com/garmin-monitor-deportivo-marq-adventurer-gen-2-damascus-steel-edition-44232024.html": {
-    "ts": "2026-09-16T23:59:11.001436+00:00",
+    "ts": "2026-09-17T03:36:50.076978+00:00",
     "price": 51839.2
   },
-  "palacio|https://www.elpalaciodehierro.com/samsung-celular-galaxy-a27-128-gb-6-gb-negro-desbloqueado-45558416.html|4949": "2026-09-16T23:59:11.001436+00:00",
+  "palacio|https://www.elpalaciodehierro.com/samsung-celular-galaxy-a27-128-gb-6-gb-negro-desbloqueado-45558416.html|4949": "2026-09-17T03:36:50.076978+00:00",
   "~palacio|https://www.elpalaciodehierro.com/samsung-celular-galaxy-a27-128-gb-6-gb-negro-desbloqueado-45558416.html": {
-    "ts": "2026-09-16T23:59:11.001436+00:00",
+    "ts": "2026-09-17T03:36:50.076978+00:00",
     "price": 4949.25
   },
   "palacio|https://www.elpalaciodehierro.com/samsung-celular-galaxy-a37-128gb-ram-6-gb-45676149.html|5599": "2026-09-14T10:57:20.336209+00:00",
@@ -1822,9 +1730,9 @@
     "ts": "2026-09-15T06:59:15.584919+00:00",
     "price": 51839.2
   },
-  "palacio|https://www.elpalaciodehierro.com/samsung-celular-galaxy-a37-128gb-ram-6-gb-violeta-45676151.html|5599": "2026-09-16T23:59:11.001436+00:00",
+  "palacio|https://www.elpalaciodehierro.com/samsung-celular-galaxy-a37-128gb-ram-6-gb-violeta-45676151.html|5599": "2026-09-17T03:36:50.076978+00:00",
   "~palacio|https://www.elpalaciodehierro.com/samsung-celular-galaxy-a37-128gb-ram-6-gb-violeta-45676151.html": {
-    "ts": "2026-09-16T23:59:11.001436+00:00",
+    "ts": "2026-09-17T03:36:50.076978+00:00",
     "price": 5599.3
   },
   "palacio|https://www.elpalaciodehierro.com/garmin-monitor-deportivo-forerunner-570-morado-unisex-44674622.html|9199": "2026-09-16T10:16:36.947813+00:00",
