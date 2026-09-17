@@ -1,8 +1,8 @@
-# Errores/chollos de precio — 2026-09-17 20:46 UTC
+# Errores/chollos de precio — 2026-09-17 23:16 UTC
 
-- Productos revisados: **840**
+- Productos revisados: **838**
 - Umbral de diferencia: **20%**
-- Hallazgos: **24**
+- Hallazgos: **23**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
@@ -27,6 +27,5 @@
 | -29% | $2,000 | palacio | [Smartwatch Watch 5 Unisex](https://www.elpalaciodehierro.com/huawei-smartwatch-watch-5-unisex-45258358.html) | $4,800 | Confirmado vs competencia | $4,800 en palacio vs mercado -> -29% bajo la competencia |
 | -30% | $1,797 | palacio | [Cafetera Vertuo Up Negro](https://www.elpalaciodehierro.com/nespresso-cafetera-vertuo-up-negro-45555103.html) | $4,193 | Confirmado vs competencia | $4,193 en palacio vs mercado -> -30% bajo la competencia |
 | -25% | $1,650 | palacio | [Celular Galaxy A27 128 GB 6 GB Negro Desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-a27-128-gb-6-gb-negro-desbloqueado-45558416.html) | $4,949 | Confirmado vs competencia | $4,949 en palacio vs mercado -> -25% bajo la competencia |
-| -23% | $1,648 | palacio | [Cafetera Expreso ECF02BLUS Negra](https://www.elpalaciodehierro.com/smeg-cafetera-expreso-ecf02blus-negra-44011025.html) | $5,495 | Confirmado vs competencia | $5,495 en palacio vs mercado -> -23% bajo la competencia |
 | -25% | $1,300 | palacio | [Monitor Deportivo Lily 2 Cream Gold](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-lily-2-cream-gold-43687680.html) | $3,899 | Confirmado vs competencia | $3,899 en palacio vs mercado -> -25% bajo la competencia |
 | -20% | $1,099 | palacio | [Cafetera Vertuo Lattíssima White](https://www.elpalaciodehierro.com/nespresso-cafetera-vertuo-lattissima-white-45191597.html) | $4,396 | Confirmado vs competencia | $4,396 en palacio vs mercado -> -20% bajo la competencia |
