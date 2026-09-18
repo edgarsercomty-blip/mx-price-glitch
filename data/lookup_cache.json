@@ -268,15 +268,15 @@
     "items": []
   },
   "amazon|128GB": {
-    "ts": "2026-09-16T15:00:18.187200+00:00",
+    "ts": "2026-09-18T17:59:16.277893+00:00",
     "items": []
   },
   "walmart|128GB": {
-    "ts": "2026-09-16T15:00:19.654656+00:00",
+    "ts": "2026-09-18T17:59:18.250738+00:00",
     "items": []
   },
   "sams|128GB": {
-    "ts": "2026-09-16T15:00:21.172474+00:00",
+    "ts": "2026-09-18T17:59:20.516527+00:00",
     "items": []
   },
   "liverpool|98UT9050": {
@@ -341,18 +341,6 @@
   },
   "sams|GARMINDEPORTIVOMONITORCREAMLILY": {
     "ts": "2026-09-17T18:44:56.757191+00:00",
-    "items": []
-  },
-  "amazon|GARMINADVENTURERDEPORTIVODAMASCUSMONITOR": {
-    "ts": "2026-09-16T15:00:22.286060+00:00",
-    "items": []
-  },
-  "walmart|GARMINADVENTURERDEPORTIVODAMASCUSMONITOR": {
-    "ts": "2026-09-16T15:00:24.548731+00:00",
-    "items": []
-  },
-  "sams|GARMINADVENTURERDEPORTIVODAMASCUSMONITOR": {
-    "ts": "2026-09-16T15:00:26.244599+00:00",
     "items": []
   },
   "amazon|65QNED81BSG": {
@@ -733,6 +721,30 @@
   },
   "sams|QN90F": {
     "ts": "2026-09-18T10:49:19.415566+00:00",
+    "items": []
+  },
+  "amazon|QN85QN85FAFXZX": {
+    "ts": "2026-09-18T17:58:55.549205+00:00",
+    "items": []
+  },
+  "walmart|QN85QN85FAFXZX": {
+    "ts": "2026-09-18T17:58:57.630172+00:00",
+    "items": []
+  },
+  "sams|QN85QN85FAFXZX": {
+    "ts": "2026-09-18T17:58:59.729648+00:00",
+    "items": []
+  },
+  "amazon|ECF02BLUS": {
+    "ts": "2026-09-18T17:59:11.833813+00:00",
+    "items": []
+  },
+  "walmart|ECF02BLUS": {
+    "ts": "2026-09-18T17:59:13.146730+00:00",
+    "items": []
+  },
+  "sams|ECF02BLUS": {
+    "ts": "2026-09-18T17:59:15.144800+00:00",
     "items": []
   }
 }

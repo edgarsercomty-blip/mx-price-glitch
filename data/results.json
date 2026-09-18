@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-18 14:42 UTC",
-  "products_scanned": 824,
+  "generated_at": "2026-09-18 17:59 UTC",
+  "products_scanned": 847,
   "threshold_pct": 20.0,
-  "count": 21,
+  "count": 25,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -174,6 +174,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 60.0,
+      "detail": "$37,142 en palacio vs mercado -> -29% bajo la competencia",
+      "likely_typo": false,
+      "savings": 14856.96,
+      "store": "palacio",
+      "name": "Pantalla 85 Pulgadas Plana Neo QLED 4K QN85F QN85QN85FAFXZX",
+      "url": "https://www.elpalaciodehierro.com/samsung-pantalla-85-pulgadas-plana-neo-qled-4k-qn85f-qn85qn85fafxzx-44631837.html",
+      "price": 37142.4,
+      "list_price": 92856.0,
+      "ean": null,
+      "model": "QN85QN85FAFXZX",
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44631837",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 55.0,
       "detail": "$25,713 en palacio vs mercado -> -29% bajo la competencia",
       "likely_typo": false,
@@ -211,6 +232,27 @@
       "currency": "MXN",
       "extra": {
         "id": "44600335",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 48.0,
+      "detail": "$22,285 en palacio vs mercado -> -26% bajo la competencia",
+      "likely_typo": false,
+      "savings": 7714.08,
+      "store": "palacio",
+      "name": "Pantalla 65 Pulgadas Plana QLED 4K Neo QN90F",
+      "url": "https://www.elpalaciodehierro.com/samsung-pantalla-65-pulgadas-plana-qled-4k-neo-qn90f-44630223.html",
+      "price": 22285.12,
+      "list_price": 42856.0,
+      "ean": null,
+      "model": "QN90F",
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44630223",
         "outlet": false
       }
     },
@@ -258,6 +300,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 44.0,
+      "detail": "$10,399 en palacio vs mercado -> -24% bajo la competencia",
+      "likely_typo": false,
+      "savings": 3320.24,
+      "store": "palacio",
+      "name": "Pantalla 65 Pulgadas Plana MiniLED 4K 65Z670RM FIRE TV",
+      "url": "https://www.elpalaciodehierro.com/toshiba-pantalla-65-pulgadas-plana-miniled-4k-65z670rm-fire-tv-45315663.html",
+      "price": 10399.2,
+      "list_price": 18570.0,
+      "ean": null,
+      "model": "65Z670RM",
+      "brand": "Toshiba",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45315663",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 45.0,
       "detail": "$8,946 en palacio vs mercado -> -24% bajo la competencia",
       "likely_typo": false,
@@ -274,6 +337,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45371050",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 50.0,
+      "detail": "$5,495 en palacio vs mercado -> -23% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1648.5,
+      "store": "palacio",
+      "name": "Cafetera Expreso ECF02BLUS Negra",
+      "url": "https://www.elpalaciodehierro.com/smeg-cafetera-expreso-ecf02blus-negra-44011025.html",
+      "price": 5495.0,
+      "list_price": 10990.0,
+      "ean": null,
+      "model": "ECF02BLUS",
+      "brand": "Smeg",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44011025",
         "outlet": false
       }
     },

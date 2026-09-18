@@ -1,4 +1,4 @@
-# Productos en vigilancia (804)
+# Productos en vigilancia (805)
 
 Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible, llega alerta de restock.
 
@@ -108,7 +108,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | mercadolibre | [Licuadora Oster Pro 1200 Jarra Vidrio+ Vaso Batidos Color Pl…](https://www.mercadolibre.com.mx/licuadora-oster-pro-1200-jarra-vidrio-vaso-batidos-color-plateado/p/MLM28082169) | $3,500 | -38% |
 | 🟢 disponible | palacio | [Pantalla 75 Pulgadas Plana LED 4K BRAVIA 9Ⅱ](https://www.elpalaciodehierro.com/sony-pantalla-75-pulgadas-plana-led-4k-bravia-9%E2%85%B1-45588136.html) | $58,589 | -20% |
 | 🟢 disponible | walmart | [Audífonos inalámbricos Apple AirPods 4 con Cancelación Activ…](https://www.walmart.com.mx/ip/audifonos-inalambricos-apple-airpods-4-con-cancelacion-activa-de-ruido/00019594968954?athbdg=L1300) | $3,799 | -21% |
-| 🟢 disponible | palacio | [Pantalla 85 Pulgadas Plana Crystal UHD 4K UN85U8200FFXZX](https://www.elpalaciodehierro.com/samsung-pantalla-85-pulgadas-plana-crystal-uhd-4k-un85u8200ffxzx-44627001.html) | $18,571 | -47% |
+| 🟢 disponible | palacio | [Pantalla 85 Pulgadas Plana Crystal UHD 4K UN85U8200FFXZX](https://www.elpalaciodehierro.com/samsung-pantalla-85-pulgadas-plana-crystal-uhd-4k-un85u8200ffxzx-44627001.html) | $17,499 | -47% |
 | 🟢 disponible | amazon | [Eucerin Lápiz corrector anti manchas Anti Pigment Spot Corre…](https://www.amazon.com.mx/dp/B08D47L4VB) | $208 | -27% |
 | 🟢 disponible | palacio | [Celular Galaxy S25 Fe,128 GB, 8 GB, Negro Desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-s25-fe128-gb-8-gb-negro-desbloqueado-44951477.html) | $11,004 | -30% |
 | 🟢 disponible | palacio | [Celular Galaxy A37 5G 256 GB, RAM 6 GB, verde obscuro desblo…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-a37-5g-256-gb-ram-6-gb-verde-obscuro-desbloqueado-45345626.html) | $6,999 | -30% |
@@ -808,3 +808,4 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | sams | [Laptop Gateway  AMD Ryzen 5/8 GB RAM/512 GB SSD GWNR5B1657-G…](https://www.sams.com.mx/ip/laptop-gateway-amd-ryzen-5-8-gb-ram-512-gb-ssd-gwnr5b1657-grys/981039197) | $9,411 | -26% |
 | 🟢 disponible | sams | [Laptop Lenovo Yoga Intel Core Ultra 5/32 GB RAM/512 GB SSD S…](https://www.sams.com.mx/ip/laptop-lenovo-yoga-intel-core-ultra-5-32-gb-ram-512-gb-ssd-s-05lm/981051348) | $22,812 | -26% |
 | 🟢 disponible | palacio | [Pantalla 65 Pulgadas Plana QLED 4K Neo QN90F](https://www.elpalaciodehierro.com/samsung-pantalla-65-pulgadas-plana-qled-4k-neo-qn90f-44630223.html) | $22,285 | -26% |
+| 🟢 disponible | palacio | [Pantalla 85 Pulgadas Plana Neo QLED 4K QN85F QN85QN85FAFXZX](https://www.elpalaciodehierro.com/samsung-pantalla-85-pulgadas-plana-neo-qled-4k-qn85f-qn85qn85fafxzx-44631837.html) | $37,142 | -29% |
