@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (1083)
+# Historial de ofertas encontradas (1084)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-09-18 10:49 | -26% | palacio | [Pantalla 65 Pulgadas Plana QLED 4K Neo QN90F](https://www.elpalaciodehierro.com/samsung-pantalla-65-pulgadas-plana-qled-4k-neo-qn90f-44630223.html) | $22,285 | $22,285 en palacio vs mercado -> -26% bajo la competencia |
 | 2026-09-18 05:28 | -36% | sams | [iPhone 13 Apple  128 GB Starlight Telcel](https://www.sams.com.mx/ip/iphone-13-apple-128-gb-starlight-telcel/981027284) | $6,598 | $6,598 en sams vs mercado -> -36% bajo la competencia |
 | 2026-09-18 05:28 | -36% | sams | [iPhone 13 Apple  128 GB Midnight Telcel](https://www.sams.com.mx/ip/iphone-13-apple-128-gb-midnight-telcel/981026358) | $6,598 | $6,598 en sams vs mercado -> -36% bajo la competencia |
 | 2026-09-17 08:54 | -20% | palacio | [Descalcificador para Cafeteras](https://www.elpalaciodehierro.com/krups-descalcificador-para-cafeteras-15513938.html) | $79 | $79 en palacio vs mercado -> -20% bajo la competencia |
@@ -403,4 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-08-12 03:58 | -33% | sams | [Smartphone Samsung Galaxy S24+ 256 GB Gris Marmol](https://www.sams.com.mx/ip/smartphone-samsung-galaxy-s24-256-gb-gris-marmol/981017601) | $9,207 | $9,207 en sams vs walmart $15,499 -> -33% bajo la competencia |
 | 2026-08-12 03:58 | -33% | sams | [Licuadora Turmix  Max Power Cherry](https://www.sams.com.mx/ip/licuadora-turmix-max-power-cherry/981045232) | $817 | $817 en sams vs mercado -> -33% bajo la competencia |
 | 2026-08-12 03:58 | -34% | walmart | [Procesador de Alimentos Hamilton Beach 4 Tazas Negro](https://www.walmart.com.mx/ip/procesador-de-alimentos-hamilton-beach-4-tazas-negro/00004009470510?athbdg=L1300) | $759 | $759 en walmart vs walmart $1,149, walmart $1,469, sams $1,599 -> -34% bajo la competencia |
-| 2026-08-12 03:58 | -35% | amazon | [Bose Auriculares Ultra Abiertos con Audio inmersivo, Au…](https://www.amazon.com.mx/dp/B0CPFV77W4) | $4,289 | $4,289 en amazon vs mercado -> -35% bajo la competencia |

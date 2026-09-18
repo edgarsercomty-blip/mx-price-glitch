@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-18 06:00 UTC",
-  "products_scanned": 837,
+  "generated_at": "2026-09-18 10:49 UTC",
+  "products_scanned": 834,
   "threshold_pct": 20.0,
   "count": 22,
   "findings": [
@@ -216,6 +216,27 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 48.0,
+      "detail": "$22,285 en palacio vs mercado -> -26% bajo la competencia",
+      "likely_typo": false,
+      "savings": 7714.08,
+      "store": "palacio",
+      "name": "Pantalla 65 Pulgadas Plana QLED 4K Neo QN90F",
+      "url": "https://www.elpalaciodehierro.com/samsung-pantalla-65-pulgadas-plana-qled-4k-neo-qn90f-44630223.html",
+      "price": 22285.12,
+      "list_price": 42856.0,
+      "ean": null,
+      "model": "QN90F",
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44630223",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 25.0,
       "detail": "$3,899 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
@@ -253,27 +274,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45558416",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 44.0,
-      "detail": "$10,399 en palacio vs mercado -> -24% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3320.24,
-      "store": "palacio",
-      "name": "Pantalla 65 Pulgadas Plana MiniLED 4K 65Z670RM FIRE TV",
-      "url": "https://www.elpalaciodehierro.com/toshiba-pantalla-65-pulgadas-plana-miniled-4k-65z670rm-fire-tv-45315663.html",
-      "price": 10399.2,
-      "list_price": 18570.0,
-      "ean": null,
-      "model": "65Z670RM",
-      "brand": "Toshiba",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45315663",
         "outlet": false
       }
     },

@@ -343,42 +343,6 @@
     "ts": "2026-09-17T18:44:56.757191+00:00",
     "items": []
   },
-  "amazon|VT45AWP": {
-    "ts": "2026-09-16T10:16:20.281682+00:00",
-    "items": []
-  },
-  "walmart|VT45AWP": {
-    "ts": "2026-09-16T10:16:22.921862+00:00",
-    "items": []
-  },
-  "sams|VT45AWP": {
-    "ts": "2026-09-16T10:16:25.397984+00:00",
-    "items": []
-  },
-  "amazon|APPLEMEDIANOCHETELCELIPHONE128": {
-    "ts": "2026-09-16T10:16:26.664197+00:00",
-    "items": []
-  },
-  "walmart|APPLEMEDIANOCHETELCELIPHONE128": {
-    "ts": "2026-09-16T10:16:28.777110+00:00",
-    "items": []
-  },
-  "sams|APPLEMEDIANOCHETELCELIPHONE128": {
-    "ts": "2026-09-16T10:16:30.455204+00:00",
-    "items": []
-  },
-  "amazon|ECF02BLUS": {
-    "ts": "2026-09-16T10:16:31.914434+00:00",
-    "items": []
-  },
-  "walmart|ECF02BLUS": {
-    "ts": "2026-09-16T10:16:33.528515+00:00",
-    "items": []
-  },
-  "sams|ECF02BLUS": {
-    "ts": "2026-09-16T10:16:36.231159+00:00",
-    "items": []
-  },
   "amazon|GARMINADVENTURERDEPORTIVODAMASCUSMONITOR": {
     "ts": "2026-09-16T15:00:22.286060+00:00",
     "items": []
@@ -757,6 +721,18 @@
   },
   "walmart|CVC494N3ABX": {
     "ts": "2026-09-18T05:28:35.973709+00:00",
+    "items": []
+  },
+  "amazon|QN90F": {
+    "ts": "2026-09-18T10:49:14.789837+00:00",
+    "items": []
+  },
+  "walmart|QN90F": {
+    "ts": "2026-09-18T10:49:17.040393+00:00",
+    "items": []
+  },
+  "sams|QN90F": {
+    "ts": "2026-09-18T10:49:19.415566+00:00",
     "items": []
   }
 }
