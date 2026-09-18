@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-18 05:28 UTC",
-  "products_scanned": 995,
+  "generated_at": "2026-09-18 06:00 UTC",
+  "products_scanned": 837,
   "threshold_pct": 20.0,
-  "count": 27,
+  "count": 22,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -23,46 +23,6 @@
       "extra": {
         "id": "44600334",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 50.4,
-      "detail": "$6,598 en sams vs mercado -> -36% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3629.95,
-      "store": "sams",
-      "name": "iPhone 13 Apple  128 GB Midnight Telcel",
-      "url": "https://www.sams.com.mx/ip/iphone-13-apple-128-gb-midnight-telcel/981026358",
-      "price": 6598.0,
-      "list_price": 13297.95,
-      "ean": null,
-      "model": null,
-      "brand": "Apple",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "981026358"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 50.4,
-      "detail": "$6,598 en sams vs mercado -> -36% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3629.95,
-      "store": "sams",
-      "name": "iPhone 13 Apple  128 GB Starlight Telcel",
-      "url": "https://www.sams.com.mx/ip/iphone-13-apple-128-gb-starlight-telcel/981027284",
-      "price": 6598.0,
-      "list_price": 13297.95,
-      "ean": null,
-      "model": null,
-      "brand": "Apple",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "981027284"
       }
     },
     {
@@ -256,26 +216,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 40.9,
-      "detail": "$1,328 en sams vs mercado -> -26% bajo la competencia",
-      "likely_typo": false,
-      "savings": 460.35,
-      "store": "sams",
-      "name": "Batidora de Pedestal KOBLENZ  + Cafetera de Regalo",
-      "url": "https://www.sams.com.mx/ip/batidora-de-pedestal-koblenz-cafetera-de-regalo/981050198",
-      "price": 1327.85,
-      "list_price": 2248.54,
-      "ean": null,
-      "model": null,
-      "brand": "Koblenz",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "981050198"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 25.0,
       "detail": "$3,899 en palacio vs mercado -> -25% bajo la competencia",
       "likely_typo": false,
@@ -381,26 +321,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 31.3,
-      "detail": "$3,368 en sams vs mercado -> -22% bajo la competencia",
-      "likely_typo": false,
-      "savings": 920.7,
-      "store": "sams",
-      "name": "Frigobar Hisense  4.3 Pies Cúbicos Negro RR43D6ABX1",
-      "url": "https://www.sams.com.mx/ip/frigobar-hisense-4-3-pies-cubicos-negro-rr43d6abx1/981037016",
-      "price": 3367.72,
-      "list_price": 4902.19,
-      "ean": null,
-      "model": "RR43D6ABX1",
-      "brand": "Hisense",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "981037016"
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 25.0,
       "detail": "$40,124 en palacio vs mercado -> -21% bajo la competencia",
       "likely_typo": false,
@@ -418,26 +338,6 @@
       "extra": {
         "id": "45632965",
         "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 31.6,
-      "detail": "$13,998 en sams vs mercado -> -21% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3630.12,
-      "store": "sams",
-      "name": "Refrigerador Vitrina HISENSE  de 9 Pies Cúbicos CVC494N3ABX",
-      "url": "https://www.sams.com.mx/ip/refrigerador-vitrina-hisense-de-9-pies-cubicos-cvc494n3abx/981052959",
-      "price": 13997.71,
-      "list_price": 20453.85,
-      "ean": null,
-      "model": "CVC494N3ABX",
-      "brand": "Hisense",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "usItemId": "981052959"
       }
     },
     {

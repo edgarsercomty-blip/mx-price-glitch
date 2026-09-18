@@ -1,8 +1,8 @@
-# Errores/chollos de precio — 2026-09-18 05:28 UTC
+# Errores/chollos de precio — 2026-09-18 06:00 UTC
 
-- Productos revisados: **995**
+- Productos revisados: **837**
 - Umbral de diferencia: **20%**
-- Hallazgos: **27**
+- Hallazgos: **22**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
@@ -15,9 +15,6 @@
 | -20% | $9,215 | palacio | [Celular Galaxy Z Fold8 5G 512 GB 12 GB Desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-z-fold8-5g-512-gb-12-gb-desbloqueado-45632961.html) | $36,374 | Confirmado vs competencia | $36,374 en palacio vs mercado -> -20% bajo la competencia |
 | -38% | $5,100 | palacio | [Celular Huawei Nova 13 Pro, RAM 12 GB, 512 GB Negro Desbloqu…](https://www.elpalaciodehierro.com/huawei-celular-huawei-nova-13-pro-ram-12-gb-512-gb-negro-desbloqueado-44600334.html) | $8,500 | Confirmado vs competencia | $8,500 en palacio vs mercado -> -38% bajo la competencia |
 | -31% | $4,550 | palacio | [Laptop Chromebook IdeaPad Slim 3i, 14", Intel Core i3-N305, …](https://www.elpalaciodehierro.com/lenovo-laptop-chromebook-ideapad-slim-3i-14-intel-core-i3-n305-ram-8-gb-128-gb-emmc-45645120.html) | $10,324 | Confirmado vs competencia | $10,324 en palacio vs mercado -> -31% bajo la competencia |
-| -21% | $3,630 | sams | [Refrigerador Vitrina HISENSE  de 9 Pies Cúbicos CVC494N3ABX](https://www.sams.com.mx/ip/refrigerador-vitrina-hisense-de-9-pies-cubicos-cvc494n3abx/981052959) | $13,998 | Confirmado vs competencia | $13,998 en sams vs mercado -> -21% bajo la competencia |
-| -36% | $3,630 | sams | [iPhone 13 Apple  128 GB Midnight Telcel](https://www.sams.com.mx/ip/iphone-13-apple-128-gb-midnight-telcel/981026358) | $6,598 | Confirmado vs competencia | $6,598 en sams vs mercado -> -36% bajo la competencia |
-| -36% | $3,630 | sams | [iPhone 13 Apple  128 GB Starlight Telcel](https://www.sams.com.mx/ip/iphone-13-apple-128-gb-starlight-telcel/981027284) | $6,598 | Confirmado vs competencia | $6,598 en sams vs mercado -> -36% bajo la competencia |
 | -29% | $3,400 | palacio | [Celular Huawei Nova 13 Pro, RAM 12 GB, 512 GB Blanco Desbloq…](https://www.elpalaciodehierro.com/huawei-celular-huawei-nova-13-pro-ram-12-gb-512-gb-blanco-desbloqueado-44600335.html) | $8,500 | Confirmado vs competencia | $8,500 en palacio vs mercado -> -29% bajo la competencia |
 | -24% | $3,320 | palacio | [Pantalla 65 Pulgadas Plana MiniLED 4K 65Z670RM FIRE TV](https://www.elpalaciodehierro.com/toshiba-pantalla-65-pulgadas-plana-miniled-4k-65z670rm-fire-tv-45315663.html) | $10,399 | Confirmado vs competencia | $10,399 en palacio vs mercado -> -24% bajo la competencia |
 | -24% | $2,765 | palacio | [Laptop 15FD0161LA, 15.6", Intel Core i5, RAM 8 GB, SSD 256 G…](https://www.elpalaciodehierro.com/hp-laptop-15fd0161la-15.6-intel-core-i5-ram-8-gb-ssd-256-gb-45371050.html) | $8,946 | Confirmado vs competencia | $8,946 en palacio vs mercado -> -24% bajo la competencia |
@@ -31,5 +28,3 @@
 | -25% | $1,650 | palacio | [Celular Galaxy A27 128 GB 6 GB Negro Desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-a27-128-gb-6-gb-negro-desbloqueado-45558416.html) | $4,949 | Confirmado vs competencia | $4,949 en palacio vs mercado -> -25% bajo la competencia |
 | -23% | $1,640 | palacio | [Celular Galaxy A37 128GB, RAM 6 GB Violeta](https://www.elpalaciodehierro.com/samsung-celular-galaxy-a37-128gb-ram-6-gb-violeta-45676151.html) | $5,599 | Confirmado vs competencia | $5,599 en palacio vs mercado -> -23% bajo la competencia |
 | -25% | $1,300 | palacio | [Monitor Deportivo Lily 2 Cream Gold](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-lily-2-cream-gold-43687680.html) | $3,899 | Confirmado vs competencia | $3,899 en palacio vs mercado -> -25% bajo la competencia |
-| -22% | $921 | sams | [Frigobar Hisense  4.3 Pies Cúbicos Negro RR43D6ABX1](https://www.sams.com.mx/ip/frigobar-hisense-4-3-pies-cubicos-negro-rr43d6abx1/981037016) | $3,368 | Confirmado vs competencia | $3,368 en sams vs mercado -> -22% bajo la competencia |
-| -26% | $460 | sams | [Batidora de Pedestal KOBLENZ  + Cafetera de Regalo](https://www.sams.com.mx/ip/batidora-de-pedestal-koblenz-cafetera-de-regalo/981050198) | $1,328 | Confirmado vs competencia | $1,328 en sams vs mercado -> -26% bajo la competencia |
