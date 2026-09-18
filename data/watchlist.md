@@ -16,8 +16,8 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | walmart | [Lavadora Whirlpool Carga Superior 21 Kg Negra](https://www.walmart.com.mx/ip/lavadora-whirlpool-carga-superior-21-kg-negra/00770822805142?athbdg=L1300) | $9,999 | -32% |
 | 🟢 disponible | palacio | [Pantalla 65 Pulgadas Plana Mini LED 4K 65U6SV](https://www.elpalaciodehierro.com/hisense-pantalla-65-pulgadas-plana-mini-led-4k-65u6sv-45452464.html) | $13,439 | -25% |
 | 🟢 disponible | palacio | [Lavadora 25 Kg Carga Superior WA25DG5505AVAX Negra](https://www.elpalaciodehierro.com/samsung-lavadora-25-kg-carga-superior-wa25dg5505avax-negra-44548089.html) | $15,707 | -24% |
-| 🟢 disponible | sams | [iPhone 13 Apple  128 GB Midnight Telcel](https://www.sams.com.mx/ip/iphone-13-apple-128-gb-midnight-telcel/981026358) | $7,159 | -30% |
-| 🟢 disponible | sams | [iPhone 13 Apple  128 GB Starlight Telcel](https://www.sams.com.mx/ip/iphone-13-apple-128-gb-starlight-telcel/981027284) | $7,159 | -30% |
+| 🟢 disponible | sams | [iPhone 13 Apple  128 GB Midnight Telcel](https://www.sams.com.mx/ip/iphone-13-apple-128-gb-midnight-telcel/981026358) | $6,598 | -36% |
+| 🟢 disponible | sams | [iPhone 13 Apple  128 GB Starlight Telcel](https://www.sams.com.mx/ip/iphone-13-apple-128-gb-starlight-telcel/981027284) | $6,598 | -36% |
 | 🟢 disponible | palacio | [Pantalla 65 Pulgadas Plana OLED 4K WebOS OLED65C6PSA](https://www.elpalaciodehierro.com/lg-pantalla-65-pulgadas-plana-oled-4k-webos-oled65c6psa-45395463.html) | $28,599 | -29% |
 | 🟢 disponible | palacio | [Pantalla 55 Pulgadas Plana OLED 4K Bravia 8 K-55XR80M2](https://www.elpalaciodehierro.com/sony-pantalla-55-pulgadas-plana-oled-4k-bravia-8-k-55xr80m2-44729908.html) | $39,599 | -41% |
 | 🟢 disponible | palacio | [Refrigerador Bottom Mount 15 p3 RMB400IBMRX0 Acero](https://www.elpalaciodehierro.com/mabe-refrigerador-bottom-mount-15-p3-rmb400ibmrx0-acero-41471043.html) | $15,575 | -29% |
@@ -513,12 +513,12 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | amazon | [Bose Audífonos inalámbricos con cancelación de Ruido QuietCo…](https://www.amazon.com.mx/dp/B0D4Z9BZV2) | $6,999 | -25% |
 | 🟢 disponible | sams | [Licuadora Daewoo con Molino 1.5L](https://www.sams.com.mx/ip/licuadora-daewoo-con-molino-1-5l/981010849) | $920 | -25% |
 | 🟢 disponible | amazon | [Puma Club 5v5 - Tenis para Mujer](https://www.amazon.com.mx/dp/B0CLQ4LYFB) | $1,451 | -25% |
-| 🟢 disponible | sams | [Smartphone Samsung Galaxy A57 256 GB Dark Blue Desbloqueado](https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a57-256-gb-dark-blue-desbloqueado/981050990) | $8,386 | -24% |
-| 🟢 disponible | sams | [Smartphone Samsung Galaxy A57 256 GB Gray Desbloqueado](https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a57-256-gb-gray-desbloqueado/981050321) | $8,386 | -24% |
+| 🟢 disponible | sams | [Smartphone Samsung Galaxy A57 256 GB Dark Blue Desbloqueado](https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a57-256-gb-dark-blue-desbloqueado/981050990) | $7,772 | -24% |
+| 🟢 disponible | sams | [Smartphone Samsung Galaxy A57 256 GB Gray Desbloqueado](https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a57-256-gb-gray-desbloqueado/981050321) | $7,772 | -24% |
 | 🟢 disponible | amazon | [Baseus Inspire XC1 Audífonos Inalámbricos Open Ear, Sound by…](https://www.amazon.com.mx/dp/B0H153K79Y) | $2,000 | -23% |
 | 🟢 disponible | amazon | [Sony WI-C310 Intraaural Banda para cuello Negro - Auriculare…](https://www.amazon.com.mx/dp/B07R37BSZ6) | $804 | -22% |
 | 🟢 disponible | amazon | [Consola Retro Game Stick M8 64GB – 20,000+ Juegos Preinstala…](https://www.amazon.com.mx/dp/B0FVTZ67ZF) | $468 | -22% |
-| 🟢 disponible | sams | [Smartphone Samsung Galaxy  S25 Ultra 256 GB Azul Titanio](https://www.sams.com.mx/ip/smartphone-samsung-galaxy-s25-ultra-256-gb-azul-titanio/981031945) | $16,981 | -21% |
+| 🟢 disponible | sams | [Smartphone Samsung Galaxy  S25 Ultra 256 GB Azul Titanio](https://www.sams.com.mx/ip/smartphone-samsung-galaxy-s25-ultra-256-gb-azul-titanio/981031945) | $16,878 | -21% |
 | 🟢 disponible | amazon | [Bose Auriculares Bluetooth Ultra Abiertos, Verdaderos Auricu…](https://www.amazon.com.mx/dp/B0FDKR4RVP) | $5,673 | -21% |
 | 🟢 disponible | walmart | [Pantalla 50 pulgadas Samsung MiniLed M70H 4K Smart TV (2026)](https://www.walmart.com.mx/ip/pantalla-50-pulgadas-samsung-miniled-m70h-4k-smart-tv-2026-/00750940184165?athbdg=L1300) | $5,490 | -20% |
 | 🟢 disponible | sams | [Pantalla Samsung  58" UHD 4K Smart TV UN58U8200FFXZX](https://www.sams.com.mx/ip/pantalla-samsung-58-uhd-4k-smart-tv-un58u8200ffxzx/981034374) | $7,667 | -21% |
@@ -625,7 +625,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | sams | [Smartphone Motorola Edge 60 Fusion 256 GB Azul Desbloqueado](https://www.sams.com.mx/ip/smartphone-motorola-edge-60-fusion-256-gb-azul-desbloqueado/981036687) | $9,206 | -20% |
 | 🟢 disponible | amazon | [Calvin Klein Tenis para Mujer](https://www.amazon.com.mx/dp/B0BTTQHHMY) | $1,008 | -26% |
 | 🟢 disponible | liverpool | [Refrigerador Duplex Whirlpool 18 Pies Cubicos Inverter No Fr…](https://www.liverpool.com.mx/tienda/pdp/refrigerador-duplex-whirlpool-18-pies-cubicos-inverter-no-frost-wd1600s/1139411460) | $16,280 | -24% |
-| 🟢 disponible | sams | [Smartphone Samsung Galaxy A26 128 GB Negro](https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a26-128-gb-negro/981035902) | $4,092 | -26% |
+| 🟢 disponible | sams | [Smartphone Samsung Galaxy A26 128 GB Negro](https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a26-128-gb-negro/981035902) | $3,580 | -26% |
 | 🟢 disponible | amazon | [UGREEN USB C Hub para MacBook Pro, Adaptador USB Tipo C con …](https://www.amazon.com.mx/dp/B087TSQR6X) | $538 | -23% |
 | 🟢 disponible | sams | [Laptop HP  Pavilion Intel Core i5/8 GB RAM/512 GB SSD 15-eg2…](https://www.sams.com.mx/ip/laptop-hp-pavilion-intel-core-i5-8-gb-ram-512-gb-ssd-15-eg2523la/981030009) | $19,129 | -28% |
 | 🟢 disponible | walmart | [Congelador Hisense 7 Pies Cúbicos Blanco](https://www.walmart.com.mx/ip/congelador-hisense-7-pies-cubicos-blanco/00692172704679?athbdg=L1600) | $5,490 | -21% |
@@ -649,7 +649,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | sams | [Smartphone Samsung Galaxy A56 256 GB Gris](https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a56-256-gb-gris/981033460) | $6,956 | -31% |
 | 🟢 disponible | mercadolibre | [Teléfono celular Samsung Galaxy A16 128 GB 4 GB de RAM NFC V…](https://www.mercadolibre.com.mx/telefono-celular-samsung-galaxy-a16-128-gb-4-gb-de-ram-nfc-verde-claro/p/MLM44113911) | $3,421 | -31% |
 | 🟢 disponible | liverpool | [Frigobar Hisense Rr43D6Agx1 4 Pies Cubicos](https://www.liverpool.com.mx/tienda/pdp/frigobar-hisense-rr43d6agx1-4-pies-cubicos/1126618243) | $3,600 | -27% |
-| 🟢 disponible | sams | [Smartphone Samsung Galaxy A57 256 GB Violet Desbloqueado](https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a57-256-gb-violet-desbloqueado/981050991) | $8,386 | -24% |
+| 🟢 disponible | sams | [Smartphone Samsung Galaxy A57 256 GB Violet Desbloqueado](https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a57-256-gb-violet-desbloqueado/981050991) | $7,772 | -24% |
 | 🟢 disponible | amazon | [On Cloud X 4 - Tenis para Mujer](https://www.amazon.com.mx/dp/B0DM2MVDN1) | $3,203 | -20% |
 | 🟢 disponible | sams | [Smartphone Xiaomi Redmi A5 4G 64 GB Negro Telcel](https://www.sams.com.mx/ip/smartphone-xiaomi-redmi-a5-4g-64-gb-negro-telcel/981035814) | $1,974 | -45% |
 | 🟢 disponible | liverpool | [Lavadora Mabe Aqua Recovery Automatica Carga Superior Lmq732…](https://www.liverpool.com.mx/tienda/pdp/lavadora-mabe-aqua-recovery-automatica-carga-superior-lmq73214vbab0/1201664248) | $11,327 | -22% |
@@ -758,11 +758,11 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Pantalla 65 Pulgadas Plana QLED 4K Google TV 65Q65L](https://www.elpalaciodehierro.com/tcl-pantalla-65-pulgadas-plana-qled-4k-google-tv-65q65l--45657638.html) | $11,899 | -30% |
 | 🟢 disponible | palacio | [Pantalla 75 Pulgadas Plana Micro RGB 4K MRN75R95HAFXZX](https://www.elpalaciodehierro.com/samsung-pantalla-75-pulgadas-plana-micro-rgb-4k-mrn75r95hafxzx-45367500.html) | $60,000 | -25% |
 | 🟢 disponible | palacio | [Celular Galaxy Z Fold8 Ultra 5G 512 GB 12 GB Desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-z-fold8-ultra-5g-512-gb-12-gb-desbloqueado-45632965.html) | $40,124 | -21% |
-| 🟢 disponible | palacio | [Celular Galaxy Z Fold8 Ultra 5G 512 GB 12 GB Violeta Desbloq…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-z-fold8-ultra-5g-512-gb-12-gb-violeta-desbloqueado-45632967.html) | $40,124 | -21% |
+| 🟢 disponible | palacio | [Celular Galaxy Z Fold8 Ultra 5G 512 GB 12 GB Violeta Desbloq…](https://www.elpalaciodehierro.com/samsung-celular-galaxy-z-fold8-ultra-5g-512-gb-12-gb-violeta-desbloqueado-45632967.html) | $40,124 | -20% |
 | 🟢 disponible | palacio | [Celular Galaxy Z Fold8 5G 512 GB 12 GB Desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-z-fold8-5g-512-gb-12-gb-desbloqueado-45632963.html) | $36,374 | -20% |
 | 🟢 disponible | palacio | [Celular Galaxy Z Fold8 5G 512 GB 12 GB Gris Desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-z-fold8-5g-512-gb-12-gb-gris-desbloqueado-45632962.html) | $36,374 | -20% |
 | 🟢 disponible | palacio | [Celular Galaxy Z Fold8 5G 512 GB 12 GB Desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-z-fold8-5g-512-gb-12-gb-desbloqueado-45632961.html) | $36,374 | -20% |
-| 🟢 disponible | sams | [Smartphone Samsung  Galaxy A27 128 GB Rosa Desbloqueado](https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a27-128-gb-rosa-desbloqueado/981055228) | $4,242 | -36% |
+| 🟢 disponible | sams | [Smartphone Samsung  Galaxy A27 128 GB Rosa Desbloqueado](https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a27-128-gb-rosa-desbloqueado/981055228) | $4,805 | -36% |
 | 🟢 disponible | sams | [Licuadora Power XL  1800W 6 Aspas de Titanio 2L](https://www.sams.com.mx/ip/licuadora-power-xl-1800w-6-aspas-de-titanio-2l/981019939) | $2,556 | -33% |
 | 🟢 disponible | palacio | [Pantalla 32 Pulgadas Plana FHD Full HD UN32H5000FFXZX](https://www.elpalaciodehierro.com/samsung-pantalla-32-pulgadas-plana-fhd-full-hd-un32h5000ffxzx-45361287.html) | $3,000 | -27% |
 | 🟢 disponible | sams | [Laptop HP  AMD Ryzen 7/16 GB RAM/1 TB SSD 15-fc0276la](https://www.sams.com.mx/ip/laptop-hp-amd-ryzen-7-16-gb-ram-1-tb-ssd-15-fc0276la/981043905) | $13,298 | -24% |
@@ -770,8 +770,8 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | sams | [Máquina de Videojuegos Portátil My arcade Atari DGUNL-7015](https://www.sams.com.mx/ip/maquina-de-videojuegos-portatil-my-arcade-atari-dgunl-7015/981052308) | $715 | -22% |
 | 🟢 disponible | sams | [Pantalla Hisense  75" QLED 4K Vidaa 75QD65QV](https://www.sams.com.mx/ip/pantalla-hisense-75-qled-4k-vidaa-75qd65qv/981040844) | $13,296 | -22% |
 | 🟢 disponible | sams | [Batidora de Mano RCA  7 Velocidades Azul RC-67SS](https://www.sams.com.mx/ip/batidora-de-mano-rca-7-velocidades-azul-rc-67ss/981020255) | $244 | -20% |
-| 🟢 disponible | sams | [Smartphone Samsung  Galaxy A27 128 GB Azul Desbloqueado](https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a27-128-gb-azul-desbloqueado/981055227) | $4,242 | -36% |
-| 🟢 disponible | sams | [Smartphone Samsung  Galaxy A27 128 GB Negro Desbloqueado](https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a27-128-gb-negro-desbloqueado/981054990) | $4,242 | -36% |
+| 🟢 disponible | sams | [Smartphone Samsung  Galaxy A27 128 GB Azul Desbloqueado](https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a27-128-gb-azul-desbloqueado/981055227) | $4,805 | -36% |
+| 🟢 disponible | sams | [Smartphone Samsung  Galaxy A27 128 GB Negro Desbloqueado](https://www.sams.com.mx/ip/smartphone-samsung-galaxy-a27-128-gb-negro-desbloqueado/981054990) | $4,805 | -36% |
 | 🟢 disponible | sams | [Pantalla TCL 43" FHD QLED Android TV 43Q3K](https://www.sams.com.mx/ip/pantalla-tcl-43-fhd-qled-android-tv-43q3k/981036994) | $3,574 | -33% |
 | 🟢 disponible | sams | [Pantalla Samsung  43" QLED Smart TV QN43Q7FAAFXZX](https://www.sams.com.mx/ip/pantalla-samsung-43-qled-smart-tv-qn43q7faafxzx/981034241) | $5,114 | -29% |
 | 🟢 disponible | sams | [Lavasecadora Samsung Bespoke AI 26 kg Lavado/15 kg Secado WD…](https://www.sams.com.mx/ip/lavasecadora-samsung-bespoke-ai-26-kg-lavado-15-kg-secado-wd26fb8690beax/981039371) | $30,688 | -24% |
@@ -779,7 +779,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | sams | [Batidora KitchenAid  Ultra Power Plata](https://www.sams.com.mx/ip/batidora-kitchenaid-ultra-power-plata/980011775) | $5,318 | -22% |
 | 🟢 disponible | sams | [Batidora KitchenAid Ultra Power Roja](https://www.sams.com.mx/ip/batidora-kitchenaid-ultra-power-roja/980011776) | $5,318 | -22% |
 | 🟢 disponible | sams | [Bocina Portátil Aiwa  AWS544BT](https://www.sams.com.mx/ip/bocina-portatil-aiwa-aws544bt/981043149) | $1,840 | -22% |
-| 🟢 disponible | sams | [Refrigerador Vitrina HISENSE  de 9 Pies Cúbicos CVC494N3ABX](https://www.sams.com.mx/ip/refrigerador-vitrina-hisense-de-9-pies-cubicos-cvc494n3abx/981052959) | $13,998 | -22% |
+| 🟢 disponible | sams | [Refrigerador Vitrina HISENSE  de 9 Pies Cúbicos CVC494N3ABX](https://www.sams.com.mx/ip/refrigerador-vitrina-hisense-de-9-pies-cubicos-cvc494n3abx/981052959) | $13,998 | -21% |
 | 🟢 disponible | sams | [Frigobar Hisense  4.3 Pies Cúbicos Negro RR43D6ABX1](https://www.sams.com.mx/ip/frigobar-hisense-4-3-pies-cubicos-negro-rr43d6abx1/981037016) | $3,368 | -22% |
 | 🟢 disponible | sams | [Combo Lavadora y Secadora Samsung  Carga Frontal Lavado 22 k…](https://www.sams.com.mx/ip/combo-lavadora-y-secadora-samsung-carga-frontal-lavado-22-kg-secado-24-kg-f-wf22dv246v/981042980) | $28,642 | -21% |
 | 🟢 disponible | sams | [Pantalla Hisense  55" Mini LED 4K Google TV 55U7QG](https://www.sams.com.mx/ip/pantalla-hisense-55-mini-led-4k-google-tv-55u7qg/981037149) | $9,591 | -20% |
@@ -805,7 +805,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Celular Galaxy A27 128 GB 6 GB Negro Desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-a27-128-gb-6-gb-negro-desbloqueado-45558416.html) | $4,949 | -25% |
 | 🟢 disponible | palacio | [Celular Galaxy A37 128GB, RAM 6 GB](https://www.elpalaciodehierro.com/samsung-celular-galaxy-a37-128gb-ram-6-gb-45676149.html) | $5,599 | -23% |
 | 🟢 disponible | palacio | [Monitor MARQGolfer Gen 2 - Carbon Edition para golf](https://www.elpalaciodehierro.com/garmin-monitor-marqgolfer-gen-2---carbon-edition-para-golf-43587919.html) | $51,839 | -20% |
-| 🟢 disponible | palacio | [Celular Galaxy A37 128GB, RAM 6 GB Violeta](https://www.elpalaciodehierro.com/samsung-celular-galaxy-a37-128gb-ram-6-gb-violeta-45676151.html) | $5,599 | -30% |
+| 🟢 disponible | palacio | [Celular Galaxy A37 128GB, RAM 6 GB Violeta](https://www.elpalaciodehierro.com/samsung-celular-galaxy-a37-128gb-ram-6-gb-violeta-45676151.html) | $5,599 | -23% |
 | 🟢 disponible | palacio | [Monitor Deportivo Forerunner 570 Morado Unisex](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-forerunner-570-morado-unisex-44674622.html) | $9,199 | -20% |
 | 🟢 disponible | sams | [Laptop Gateway  AMD Ryzen 5/8 GB RAM/512 GB SSD GWNR5B1657-G…](https://www.sams.com.mx/ip/laptop-gateway-amd-ryzen-5-8-gb-ram-512-gb-ssd-gwnr5b1657-grys/981039197) | $9,411 | -26% |
 | 🟢 disponible | sams | [Laptop Lenovo Yoga Intel Core Ultra 5/32 GB RAM/512 GB SSD S…](https://www.sams.com.mx/ip/laptop-lenovo-yoga-intel-core-ultra-5-32-gb-ram-512-gb-ssd-s-05lm/981051348) | $22,812 | -26% |

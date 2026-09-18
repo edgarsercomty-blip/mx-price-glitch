@@ -1,9 +1,11 @@
-# Historial de ofertas encontradas (1081)
+# Historial de ofertas encontradas (1083)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-09-18 05:28 | -36% | sams | [iPhone 13 Apple  128 GB Starlight Telcel](https://www.sams.com.mx/ip/iphone-13-apple-128-gb-starlight-telcel/981027284) | $6,598 | $6,598 en sams vs mercado -> -36% bajo la competencia |
+| 2026-09-18 05:28 | -36% | sams | [iPhone 13 Apple  128 GB Midnight Telcel](https://www.sams.com.mx/ip/iphone-13-apple-128-gb-midnight-telcel/981026358) | $6,598 | $6,598 en sams vs mercado -> -36% bajo la competencia |
 | 2026-09-17 08:54 | -20% | palacio | [Descalcificador para Cafeteras](https://www.elpalaciodehierro.com/krups-descalcificador-para-cafeteras-15513938.html) | $79 | $79 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-09-17 08:54 | -20% | palacio | [Monitor MARQ Commander Gen 2 - Carbon Edition multidepo…](https://www.elpalaciodehierro.com/garmin-monitor-marq-commander-gen-2---carbon-edition-multideportivo-43587917.html) | $53,599 | $53,599 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-09-17 05:41 | -26% | sams | [Laptop Lenovo Yoga Intel Core Ultra 5/32 GB RAM/512 GB …](https://www.sams.com.mx/ip/laptop-lenovo-yoga-intel-core-ultra-5-32-gb-ram-512-gb-ssd-s-05lm/981051348) | $22,812 | $22,812 en sams vs mercado -> -26% bajo la competencia |
@@ -402,5 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-08-12 03:58 | -33% | sams | [Licuadora Turmix  Max Power Cherry](https://www.sams.com.mx/ip/licuadora-turmix-max-power-cherry/981045232) | $817 | $817 en sams vs mercado -> -33% bajo la competencia |
 | 2026-08-12 03:58 | -34% | walmart | [Procesador de Alimentos Hamilton Beach 4 Tazas Negro](https://www.walmart.com.mx/ip/procesador-de-alimentos-hamilton-beach-4-tazas-negro/00004009470510?athbdg=L1300) | $759 | $759 en walmart vs walmart $1,149, walmart $1,469, sams $1,599 -> -34% bajo la competencia |
 | 2026-08-12 03:58 | -35% | amazon | [Bose Auriculares Ultra Abiertos con Audio inmersivo, Au…](https://www.amazon.com.mx/dp/B0CPFV77W4) | $4,289 | $4,289 en amazon vs mercado -> -35% bajo la competencia |
-| 2026-08-12 03:58 | -40% | sams | [Licuadora Turmix  Turbo Max Negro](https://www.sams.com.mx/ip/licuadora-turmix-turbo-max-negro/981045233) | $1,533 | $1,533 en sams vs mercado -> -40% bajo la competencia |
-| 2026-08-12 03:58 | -71% | amazon | [NIVEA Creme (200ml), crema humectante de larga duración…](https://www.amazon.com.mx/dp/B00558FIBS) | $76 | $76 en amazon vs walmart $265, amazon $269 -> -71% bajo la competencia |
