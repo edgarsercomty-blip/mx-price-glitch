@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-18 10:49 UTC",
-  "products_scanned": 834,
+  "generated_at": "2026-09-18 14:42 UTC",
+  "products_scanned": 824,
   "threshold_pct": 20.0,
-  "count": 22,
+  "count": 21,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -211,27 +211,6 @@
       "currency": "MXN",
       "extra": {
         "id": "44600335",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 48.0,
-      "detail": "$22,285 en palacio vs mercado -> -26% bajo la competencia",
-      "likely_typo": false,
-      "savings": 7714.08,
-      "store": "palacio",
-      "name": "Pantalla 65 Pulgadas Plana QLED 4K Neo QN90F",
-      "url": "https://www.elpalaciodehierro.com/samsung-pantalla-65-pulgadas-plana-qled-4k-neo-qn90f-44630223.html",
-      "price": 22285.12,
-      "list_price": 42856.0,
-      "ean": null,
-      "model": "QN90F",
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44630223",
         "outlet": false
       }
     },
