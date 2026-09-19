@@ -1,30 +1,9 @@
 {
-  "generated_at": "2026-09-19 09:35 UTC",
-  "products_scanned": 755,
+  "generated_at": "2026-09-19 13:22 UTC",
+  "products_scanned": 841,
   "threshold_pct": 20.0,
-  "count": 19,
+  "count": 23,
   "findings": [
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 58.0,
-      "detail": "$47,999 en palacio vs mercado -> -33% bajo la competencia",
-      "likely_typo": false,
-      "savings": 23999.64,
-      "store": "palacio",
-      "name": "Pantalla 85 Pulgadas Plana Micro RGB 4K MRN85R85HAFXZX",
-      "url": "https://www.elpalaciodehierro.com/samsung-pantalla-85-pulgadas-plana-micro-rgb-4k-mrn85r85hafxzx-45361289.html",
-      "price": 47999.28,
-      "list_price": 114284.0,
-      "ean": null,
-      "model": "MRN85R85HAFXZX",
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45361289",
-        "outlet": false
-      }
-    },
     {
       "kind": "cross_confirmed",
       "discount_pct": 50.0,
@@ -70,6 +49,27 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 30.0,
+      "detail": "$4,193 en palacio vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1797.0,
+      "store": "palacio",
+      "name": "Cafetera Vertuo Up Negro",
+      "url": "https://www.elpalaciodehierro.com/nespresso-cafetera-vertuo-up-negro-45555103.html",
+      "price": 4193.0,
+      "list_price": 5990.0,
+      "ean": null,
+      "model": null,
+      "brand": "Nespresso",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45555103",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 30.0,
       "detail": "$4,893 en palacio vs mercado -> -30% bajo la competencia",
       "likely_typo": false,
       "savings": 2097.0,
@@ -95,27 +95,6 @@
       "likely_typo": false,
       "savings": 2097.0,
       "store": "palacio",
-      "name": "Combo Cafetera Vertuo Up Negro",
-      "url": "https://www.elpalaciodehierro.com/nespresso-combo-cafetera-vertuo-up-negro-45498201.html",
-      "price": 4893.0,
-      "list_price": 6990.0,
-      "ean": null,
-      "model": null,
-      "brand": "Nespresso",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45498201",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 30.0,
-      "detail": "$4,893 en palacio vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2097.0,
-      "store": "palacio",
       "name": "Combo Cafetera Vertuo Up con Aeroccino  3",
       "url": "https://www.elpalaciodehierro.com/nespresso-combo-cafetera-vertuo-up-con-aeroccino--3-45366272.html",
       "price": 4893.0,
@@ -127,6 +106,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45366272",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 30.0,
+      "detail": "$4,893 en palacio vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2097.0,
+      "store": "palacio",
+      "name": "Combo Cafetera Vertuo Up Negro",
+      "url": "https://www.elpalaciodehierro.com/nespresso-combo-cafetera-vertuo-up-negro-45498201.html",
+      "price": 4893.0,
+      "list_price": 6990.0,
+      "ean": null,
+      "model": null,
+      "brand": "Nespresso",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45498201",
         "outlet": false
       }
     },
@@ -195,22 +195,64 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 48.0,
-      "detail": "$22,285 en palacio vs mercado -> -26% bajo la competencia",
+      "discount_pct": 50.0,
+      "detail": "$8,500 en palacio vs mercado -> -29% bajo la competencia",
       "likely_typo": false,
-      "savings": 7714.08,
+      "savings": 3399.8,
       "store": "palacio",
-      "name": "Pantalla 65 Pulgadas Plana QLED 4K Neo QN90F",
-      "url": "https://www.elpalaciodehierro.com/samsung-pantalla-65-pulgadas-plana-qled-4k-neo-qn90f-44630223.html",
-      "price": 22285.12,
-      "list_price": 42856.0,
+      "name": "Celular Huawei Nova 13 Pro, RAM 12 GB, 512 GB Blanco Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/huawei-celular-huawei-nova-13-pro-ram-12-gb-512-gb-blanco-desbloqueado-44600335.html",
+      "price": 8499.5,
+      "list_price": 16999.0,
       "ean": null,
-      "model": "QN90F",
+      "model": null,
+      "brand": "Huawei",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44600335",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$3,899 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1299.75,
+      "store": "palacio",
+      "name": "Monitor Deportivo Lily 2 Cream Gold",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-lily-2-cream-gold-43687680.html",
+      "price": 3899.25,
+      "list_price": 5199.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43687680",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$4,949 en palacio vs mercado -> -25% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1649.75,
+      "store": "palacio",
+      "name": "Celular Galaxy A27 128 GB 6 GB Negro Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-a27-128-gb-6-gb-negro-desbloqueado-45558416.html",
+      "price": 4949.25,
+      "list_price": 6599.0,
+      "ean": null,
+      "model": null,
       "brand": "Samsung",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "44630223",
+        "id": "45558416",
         "outlet": false
       }
     },
@@ -253,6 +295,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45371050",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 50.0,
+      "detail": "$5,495 en palacio vs mercado -> -23% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1648.5,
+      "store": "palacio",
+      "name": "Cafetera Expreso ECF02BLUS Negra",
+      "url": "https://www.elpalaciodehierro.com/smeg-cafetera-expreso-ecf02blus-negra-44011025.html",
+      "price": 5495.0,
+      "list_price": 10990.0,
+      "ean": null,
+      "model": "ECF02BLUS",
+      "brand": "Smeg",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44011025",
         "outlet": false
       }
     },
@@ -321,6 +384,90 @@
     },
     {
       "kind": "cross_confirmed",
+      "discount_pct": 25.0,
+      "detail": "$36,374 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 9214.81,
+      "store": "palacio",
+      "name": "Celular Galaxy Z Fold8 5G 512 GB 12 GB Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-z-fold8-5g-512-gb-12-gb-desbloqueado-45632961.html",
+      "price": 36374.25,
+      "list_price": 48499.0,
+      "ean": null,
+      "model": "Fold8",
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45632961",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 60.0,
+      "detail": "$4,396 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 1099.0,
+      "store": "palacio",
+      "name": "Cafetera Vertuo Lattíssima White",
+      "url": "https://www.elpalaciodehierro.com/nespresso-cafetera-vertuo-lattissima-white-45191597.html",
+      "price": 4396.0,
+      "list_price": 10990.0,
+      "ean": null,
+      "model": null,
+      "brand": "Nespresso",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45191597",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 52.0,
+      "detail": "$10,543 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2635.8,
+      "store": "palacio",
+      "name": "Laptop OmniBook 3, 14\", Intel Core I5, RAM 8 GB, SSD 512 GB",
+      "url": "https://www.elpalaciodehierro.com/hp-laptop-omnibook-3-14-intel-core-i5-ram-8-gb-ssd-512-gb-45384039.html",
+      "price": 10543.2,
+      "list_price": 21965.0,
+      "ean": null,
+      "model": null,
+      "brand": "Hp",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45384039",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 36.0,
+      "detail": "$16,959 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4239.84,
+      "store": "palacio",
+      "name": "Laptop IdeaPad Slim 3, 15.3\", Intel Core i5, RAM 24 GB, 512 GB SSD",
+      "url": "https://www.elpalaciodehierro.com/lenovo-laptop-ideapad-slim-3-15.3-intel-core-i5-ram-24-gb-512-gb-ssd-45353661.html",
+      "price": 16959.36,
+      "list_price": 26499.0,
+      "ean": null,
+      "model": null,
+      "brand": "Lenovo",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45353661",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
       "discount_pct": 20.0,
       "detail": "$9,199 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
@@ -337,69 +484,6 @@
       "currency": "MXN",
       "extra": {
         "id": "44674622",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$51,839 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 12959.8,
-      "store": "palacio",
-      "name": "Monitor Deportivo MARQ Adventurer Gen 2 Damascus Steel Edition",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-marq-adventurer-gen-2-damascus-steel-edition-44232024.html",
-      "price": 51839.2,
-      "list_price": 64799.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44232024",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$53,599 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 13399.8,
-      "store": "palacio",
-      "name": "Monitor MARQ Commander Gen 2 - Carbon Edition multideportivo",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-marq-commander-gen-2---carbon-edition-multideportivo-43587917.html",
-      "price": 53599.2,
-      "list_price": 66999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43587917",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 20.0,
-      "detail": "$79 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 19.8,
-      "store": "palacio",
-      "name": "Descalcificador para Cafeteras",
-      "url": "https://www.elpalaciodehierro.com/krups-descalcificador-para-cafeteras-15513938.html",
-      "price": 79.2,
-      "list_price": 99.0,
-      "ean": null,
-      "model": null,
-      "brand": "Krups",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "15513938",
         "outlet": false
       }
     }

@@ -1,4 +1,4 @@
-# Productos en vigilancia (804)
+# Productos en vigilancia (805)
 
 Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible, llega alerta de restock.
 
@@ -449,7 +449,7 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Pantalla 55 Pulgadas Plana OLED evo AI G5 4K SMART TV 2025](https://www.elpalaciodehierro.com/lg-pantalla-55-pulgadas-plana-oled-evo-ai-g5-4k-smart-tv-2025-44638232.html) | $19,313 | -21% |
 | 🟢 disponible | palacio | [iPhone 14 128 GB Blanco Estrella Telcel](https://www.elpalaciodehierro.com/apple-iphone%C2%A014%C2%A0128%C2%A0gb%C2%A0blanco-estrella-telcel-42824648.html) | $10,499 | -30% |
 | 🟢 disponible | palacio | [iPhone 13 128 GB Medianoche Desbloqueado](https://www.elpalaciodehierro.com/apple-iphone-13-128-gb-medianoche-desbloqueado-42077608.html) | $9,099 | -30% |
-| 🟢 disponible | palacio | [Laptop IdeaPad Slim 3, 15.6", AMD Radeon, AMD Ryzen 7, RAM 1…](https://www.elpalaciodehierro.com/lenovo-laptop-ideapad-slim-3-15.6-amd-radeon-amd-ryzen-7-ram-16-gb-ssd-1-tb-abyss-blue-44472014.html) | $20,399 | -22% |
+| 🟢 disponible | palacio | [Laptop IdeaPad Slim 3, 15.6", AMD Radeon, AMD Ryzen 7, RAM 1…](https://www.elpalaciodehierro.com/lenovo-laptop-ideapad-slim-3-15.6-amd-radeon-amd-ryzen-7-ram-16-gb-ssd-1-tb-abyss-blue-44472014.html) | $18,359 | -22% |
 | 🟢 disponible | palacio | [Laptop ProArt PX13, 13.3", AMD Ryzen AI MAX+, RAM 128 GB, SS…](https://www.elpalaciodehierro.com/asus-laptop-proart-px13-13.3-amd-ryzen-ai-max-ram-128-gb-ssd-1-tb-45244300.html) | $53,439 | -21% |
 | 🟢 disponible | palacio | [Cafetera Gran Lattissima Negro](https://www.elpalaciodehierro.com/nespresso-cafetera-gran-lattissima-negro-43135869.html) | $8,990 | -20% |
 | 🟢 disponible | palacio | [Celular A37 5G 256 GB 8G Violeta](https://www.elpalaciodehierro.com/samsung-celular-a37-5g-256-gb-8g-violeta-45616291.html) | $9,999 | -21% |
@@ -808,3 +808,4 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | palacio | [Pantalla 65 Pulgadas Plana QLED 4K Neo QN90F](https://www.elpalaciodehierro.com/samsung-pantalla-65-pulgadas-plana-qled-4k-neo-qn90f-44630223.html) | $22,285 | -26% |
 | 🟢 disponible | palacio | [Pantalla 85 Pulgadas Plana Neo QLED 4K QN85F QN85QN85FAFXZX](https://www.elpalaciodehierro.com/samsung-pantalla-85-pulgadas-plana-neo-qled-4k-qn85f-qn85qn85fafxzx-44631837.html) | $37,142 | -29% |
 | 🟢 disponible | palacio | [Monitor Deportivo Forerunner 570 Blanco/Amarillo/Turquesa Un…](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-forerunner-570-blanco%2Famarillo%2Fturquesa-unisex-44674593.html) | $9,199 | -20% |
+| 🟢 disponible | palacio | [Laptop IdeaPad Slim 3, 15.3", Intel Core i5, RAM 24 GB, 512 …](https://www.elpalaciodehierro.com/lenovo-laptop-ideapad-slim-3-15.3-intel-core-i5-ram-24-gb-512-gb-ssd-45353661.html) | $16,959 | -20% |

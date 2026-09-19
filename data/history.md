@@ -1,9 +1,10 @@
-# Historial de ofertas encontradas (1086)
+# Historial de ofertas encontradas (1087)
 
 Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 
 | Fecha | Desc. | Tienda | Producto | Precio | Detalle |
 |-------|------:|--------|----------|-------:|---------|
+| 2026-09-19 13:22 | -20% | palacio | [Laptop IdeaPad Slim 3, 15.3", Intel Core i5, RAM 24 GB,…](https://www.elpalaciodehierro.com/lenovo-laptop-ideapad-slim-3-15.3-intel-core-i5-ram-24-gb-512-gb-ssd-45353661.html) | $16,959 | $16,959 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-09-19 05:24 | -20% | palacio | [Monitor Deportivo Forerunner 570 Blanco/Amarillo/Turque…](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-forerunner-570-blanco%2Famarillo%2Fturquesa-unisex-44674593.html) | $9,199 | $9,199 en palacio vs mercado -> -20% bajo la competencia |
 | 2026-09-18 17:59 | -29% | palacio | [Pantalla 85 Pulgadas Plana Neo QLED 4K QN85F QN85QN85FA…](https://www.elpalaciodehierro.com/samsung-pantalla-85-pulgadas-plana-neo-qled-4k-qn85f-qn85qn85fafxzx-44631837.html) | $37,142 | $37,142 en palacio vs mercado -> -29% bajo la competencia |
 | 2026-09-18 10:49 | -26% | palacio | [Pantalla 65 Pulgadas Plana QLED 4K Neo QN90F](https://www.elpalaciodehierro.com/samsung-pantalla-65-pulgadas-plana-qled-4k-neo-qn90f-44630223.html) | $22,285 | $22,285 en palacio vs mercado -> -26% bajo la competencia |
@@ -403,4 +404,3 @@ Lo más reciente arriba. Cada fila es un hallazgo confirmado.
 | 2026-08-12 03:58 | -31% | mercadolibre | [Celular Samsung Galaxy A16 128 GB 4 GB de RAM 6.7" Gris](https://www.mercadolibre.com.mx/celular-samsung-galaxy-a16-128-gb-4-gb-de-ram-67-gris/p/MLM44113908) | $3,437 | $3,437 en mercadolibre vs mercado -> -31% bajo la competencia |
 | 2026-08-12 03:58 | -32% | walmart | [Pantalla 43 pulgadas Samsung Crystal U8200H 4K Smart TV…](https://www.walmart.com.mx/ip/pantalla-43-pulgadas-samsung-crystal-u8200h-4k-smart-tv-2026-/00750940184218?athbdg=L1300) | $4,290 | $4,290 en walmart vs mercado -> -32% bajo la competencia |
 | 2026-08-12 03:58 | -33% | sams | [Smartphone Samsung Galaxy S24+ 256 GB Negro Onyx](https://www.sams.com.mx/ip/smartphone-samsung-galaxy-s24-256-gb-negro-onyx/981017603) | $9,207 | $9,207 en sams vs mercado -> -33% bajo la competencia |
-| 2026-08-12 03:58 | -33% | sams | [Smartphone Samsung Galaxy S24+ 256 GB Gris Marmol](https://www.sams.com.mx/ip/smartphone-samsung-galaxy-s24-256-gb-gris-marmol/981017601) | $9,207 | $9,207 en sams vs walmart $15,499 -> -33% bajo la competencia |
