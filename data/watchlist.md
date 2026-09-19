@@ -1,4 +1,4 @@
-# Productos en vigilancia (803)
+# Productos en vigilancia (804)
 
 Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible, llega alerta de restock.
 
@@ -807,3 +807,4 @@ Deals detectados que se monitorean. Si uno **agotado** vuelve a estar disponible
 | 🟢 disponible | sams | [Laptop Lenovo Yoga Intel Core Ultra 5/32 GB RAM/512 GB SSD S…](https://www.sams.com.mx/ip/laptop-lenovo-yoga-intel-core-ultra-5-32-gb-ram-512-gb-ssd-s-05lm/981051348) | $22,812 | -26% |
 | 🟢 disponible | palacio | [Pantalla 65 Pulgadas Plana QLED 4K Neo QN90F](https://www.elpalaciodehierro.com/samsung-pantalla-65-pulgadas-plana-qled-4k-neo-qn90f-44630223.html) | $22,285 | -26% |
 | 🟢 disponible | palacio | [Pantalla 85 Pulgadas Plana Neo QLED 4K QN85F QN85QN85FAFXZX](https://www.elpalaciodehierro.com/samsung-pantalla-85-pulgadas-plana-neo-qled-4k-qn85f-qn85qn85fafxzx-44631837.html) | $37,142 | -29% |
+| 🟢 disponible | palacio | [Monitor Deportivo Forerunner 570 Blanco/Amarillo/Turquesa Un…](https://www.elpalaciodehierro.com/garmin-monitor-deportivo-forerunner-570-blanco%2Famarillo%2Fturquesa-unisex-44674593.html) | $9,199 | -20% |

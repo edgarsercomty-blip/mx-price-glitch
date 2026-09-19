@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-19 05:18 UTC",
-  "products_scanned": 828,
+  "generated_at": "2026-09-19 05:24 UTC",
+  "products_scanned": 841,
   "threshold_pct": 20.0,
-  "count": 23,
+  "count": 24,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -70,6 +70,27 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 30.0,
+      "detail": "$4,893 en palacio vs mercado -> -30% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2097.0,
+      "store": "palacio",
+      "name": "Combo Cafetera Vertuo Up Azul",
+      "url": "https://www.elpalaciodehierro.com/nespresso-combo-cafetera-vertuo-up-azul-45529514.html",
+      "price": 4893.0,
+      "list_price": 6990.0,
+      "ean": null,
+      "model": null,
+      "brand": "Nespresso",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45529514",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 30.0,
       "detail": "$4,193 en palacio vs mercado -> -30% bajo la competencia",
       "likely_typo": false,
       "savings": 1797.0,
@@ -95,8 +116,8 @@
       "likely_typo": false,
       "savings": 2097.0,
       "store": "palacio",
-      "name": "Combo Cafetera Vertuo Up Azul",
-      "url": "https://www.elpalaciodehierro.com/nespresso-combo-cafetera-vertuo-up-azul-45529514.html",
+      "name": "Combo Cafetera Vertuo Up Negro",
+      "url": "https://www.elpalaciodehierro.com/nespresso-combo-cafetera-vertuo-up-negro-45498201.html",
       "price": 4893.0,
       "list_price": 6990.0,
       "ean": null,
@@ -105,7 +126,7 @@
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "45529514",
+        "id": "45498201",
         "outlet": false
       }
     },
@@ -127,27 +148,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45366272",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 30.0,
-      "detail": "$4,893 en palacio vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2097.0,
-      "store": "palacio",
-      "name": "Combo Cafetera Vertuo Up Negro",
-      "url": "https://www.elpalaciodehierro.com/nespresso-combo-cafetera-vertuo-up-negro-45498201.html",
-      "price": 4893.0,
-      "list_price": 6990.0,
-      "ean": null,
-      "model": null,
-      "brand": "Nespresso",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45498201",
         "outlet": false
       }
     },
@@ -484,6 +484,27 @@
       "currency": "MXN",
       "extra": {
         "id": "44674622",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$9,199 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 2299.8,
+      "store": "palacio",
+      "name": "Monitor Deportivo Forerunner 570 Blanco/Amarillo/Turquesa Unisex",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-forerunner-570-blanco%2Famarillo%2Fturquesa-unisex-44674593.html",
+      "price": 9199.2,
+      "list_price": 11499.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44674593",
         "outlet": false
       }
     }
