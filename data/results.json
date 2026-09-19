@@ -1,30 +1,9 @@
 {
-  "generated_at": "2026-09-19 00:48 UTC",
-  "products_scanned": 844,
+  "generated_at": "2026-09-19 05:18 UTC",
+  "products_scanned": 828,
   "threshold_pct": 20.0,
-  "count": 25,
+  "count": 23,
   "findings": [
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 50.0,
-      "detail": "$8,500 en palacio vs mercado -> -38% bajo la competencia",
-      "likely_typo": false,
-      "savings": 5099.7,
-      "store": "palacio",
-      "name": "Celular Huawei Nova 13 Pro, RAM 12 GB, 512 GB Negro Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/huawei-celular-huawei-nova-13-pro-ram-12-gb-512-gb-negro-desbloqueado-44600334.html",
-      "price": 8499.5,
-      "list_price": 16999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Huawei",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44600334",
-        "outlet": false
-      }
-    },
     {
       "kind": "cross_confirmed",
       "discount_pct": 58.0,
@@ -43,6 +22,27 @@
       "currency": "MXN",
       "extra": {
         "id": "45361289",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 50.0,
+      "detail": "$8,500 en palacio vs mercado -> -33% bajo la competencia",
+      "likely_typo": false,
+      "savings": 4249.75,
+      "store": "palacio",
+      "name": "Celular Huawei Nova 13 Pro, RAM 12 GB, 512 GB Negro Desbloqueado",
+      "url": "https://www.elpalaciodehierro.com/huawei-celular-huawei-nova-13-pro-ram-12-gb-512-gb-negro-desbloqueado-44600334.html",
+      "price": 8499.5,
+      "list_price": 16999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Huawei",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "44600334",
         "outlet": false
       }
     },
@@ -363,27 +363,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 30.0,
-      "detail": "$5,599 en palacio vs mercado -> -23% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1639.79,
-      "store": "palacio",
-      "name": "Celular Galaxy A37 128GB, RAM 6 GB Violeta",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-a37-128gb-ram-6-gb-violeta-45676151.html",
-      "price": 5599.3,
-      "list_price": 7999.0,
-      "ean": null,
-      "model": "128GB",
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45676151",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 25.0,
       "detail": "$40,124 en palacio vs mercado -> -21% bajo la competencia",
       "likely_typo": false,
@@ -463,27 +442,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45632961",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$40,124 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 10164.81,
-      "store": "palacio",
-      "name": "Celular Galaxy Z Fold8 Ultra 5G 512 GB 12 GB Violeta Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-z-fold8-ultra-5g-512-gb-12-gb-violeta-desbloqueado-45632967.html",
-      "price": 40124.25,
-      "list_price": 53499.0,
-      "ean": null,
-      "model": "Fold8",
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45632967",
         "outlet": false
       }
     },
