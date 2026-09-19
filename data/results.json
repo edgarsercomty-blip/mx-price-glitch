@@ -1,9 +1,30 @@
 {
-  "generated_at": "2026-09-19 13:22 UTC",
+  "generated_at": "2026-09-19 16:46 UTC",
   "products_scanned": 841,
   "threshold_pct": 20.0,
-  "count": 23,
+  "count": 24,
   "findings": [
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 58.0,
+      "detail": "$47,999 en palacio vs mercado -> -33% bajo la competencia",
+      "likely_typo": false,
+      "savings": 23999.64,
+      "store": "palacio",
+      "name": "Pantalla 85 Pulgadas Plana Micro RGB 4K MRN85R85HAFXZX",
+      "url": "https://www.elpalaciodehierro.com/samsung-pantalla-85-pulgadas-plana-micro-rgb-4k-mrn85r85hafxzx-45361289.html",
+      "price": 47999.28,
+      "list_price": 114284.0,
+      "ean": null,
+      "model": "MRN85R85HAFXZX",
+      "brand": "Samsung",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "45361289",
+        "outlet": false
+      }
+    },
     {
       "kind": "cross_confirmed",
       "discount_pct": 50.0,

@@ -1,11 +1,12 @@
-# Errores/chollos de precio — 2026-09-19 13:22 UTC
+# Errores/chollos de precio — 2026-09-19 16:46 UTC
 
 - Productos revisados: **841**
 - Umbral de diferencia: **20%**
-- Hallazgos: **23**
+- Hallazgos: **24**
 
 | Desc. | Ahorro | Tienda | Producto | Precio | Tipo | Detalle |
 |------:|-------:|--------|----------|-------:|------|---------|
+| -33% | $24,000 | palacio | [Pantalla 85 Pulgadas Plana Micro RGB 4K MRN85R85HAFXZX](https://www.elpalaciodehierro.com/samsung-pantalla-85-pulgadas-plana-micro-rgb-4k-mrn85r85hafxzx-45361289.html) | $47,999 | Confirmado vs competencia | $47,999 en palacio vs mercado -> -33% bajo la competencia |
 | -29% | $14,857 | palacio | [Pantalla 85 Pulgadas Plana Neo QLED 4K QN85F QN85QN85FAFXZX](https://www.elpalaciodehierro.com/samsung-pantalla-85-pulgadas-plana-neo-qled-4k-qn85f-qn85qn85fafxzx-44631837.html) | $37,142 | Confirmado vs competencia | $37,142 en palacio vs mercado -> -29% bajo la competencia |
 | -21% | $10,700 | palacio | [Celular Galaxy Z Fold8 Ultra 5G 512 GB 12 GB Desbloqueado](https://www.elpalaciodehierro.com/samsung-celular-galaxy-z-fold8-ultra-5g-512-gb-12-gb-desbloqueado-45632965.html) | $40,124 | Confirmado vs competencia | $40,124 en palacio vs mercado -> -21% bajo la competencia |
 | -29% | $10,285 | palacio | [Pantalla 65 Pulgadas Plana Micro RGB 4K MRN65R85HAFXZX](https://www.elpalaciodehierro.com/samsung-pantalla-65-pulgadas-plana-micro-rgb-4k-mrn65r85hafxzx-45367602.html) | $25,713 | Confirmado vs competencia | $25,713 en palacio vs mercado -> -29% bajo la competencia |

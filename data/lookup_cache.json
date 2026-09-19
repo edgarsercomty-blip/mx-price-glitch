@@ -164,15 +164,15 @@
     "items": []
   },
   "amazon|GARMINFORERUNNERDEPORTIVOMONITORMORADO": {
-    "ts": "2026-09-17T13:57:50.321983+00:00",
+    "ts": "2026-09-19T16:46:40.771683+00:00",
     "items": []
   },
   "walmart|GARMINFORERUNNERDEPORTIVOMONITORMORADO": {
-    "ts": "2026-09-17T13:57:52.056587+00:00",
+    "ts": "2026-09-19T16:46:41.035059+00:00",
     "items": []
   },
   "sams|GARMINFORERUNNERDEPORTIVOMONITORMORADO": {
-    "ts": "2026-09-17T13:57:53.769481+00:00",
+    "ts": "2026-09-19T16:46:41.338388+00:00",
     "items": []
   },
   "liverpool|QNED92": {
@@ -253,18 +253,6 @@
   },
   "sams|KRUPSDESCALCIFICADORCAFETERAS": {
     "ts": "2026-09-19T09:35:34.960767+00:00",
-    "items": []
-  },
-  "amazon|GARMINMULTIDEPORTIVOCOMMANDEREDITIONMONITOR": {
-    "ts": "2026-09-17T13:57:55.279078+00:00",
-    "items": []
-  },
-  "walmart|GARMINMULTIDEPORTIVOCOMMANDEREDITIONMONITOR": {
-    "ts": "2026-09-17T13:57:56.946915+00:00",
-    "items": []
-  },
-  "sams|GARMINMULTIDEPORTIVOCOMMANDEREDITIONMONITOR": {
-    "ts": "2026-09-17T13:57:58.426820+00:00",
     "items": []
   },
   "liverpool|MRN75R95HAFXZX": {
@@ -597,6 +585,18 @@
   },
   "sams|LENOVOIDEAPADLAPTOPINTELCORE": {
     "ts": "2026-09-19T13:22:35.294013+00:00",
+    "items": []
+  },
+  "amazon|LENOVOIDEAPADLAPTOPINTELSLIM": {
+    "ts": "2026-09-19T16:46:39.859786+00:00",
+    "items": []
+  },
+  "walmart|LENOVOIDEAPADLAPTOPINTELSLIM": {
+    "ts": "2026-09-19T16:46:40.290665+00:00",
+    "items": []
+  },
+  "sams|LENOVOIDEAPADLAPTOPINTELSLIM": {
+    "ts": "2026-09-19T16:46:40.649920+00:00",
     "items": []
   }
 }
