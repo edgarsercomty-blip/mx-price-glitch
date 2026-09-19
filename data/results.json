@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-19 05:24 UTC",
-  "products_scanned": 841,
+  "generated_at": "2026-09-19 09:35 UTC",
+  "products_scanned": 755,
   "threshold_pct": 20.0,
-  "count": 24,
+  "count": 19,
   "findings": [
     {
       "kind": "cross_confirmed",
@@ -85,27 +85,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45529514",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 30.0,
-      "detail": "$4,193 en palacio vs mercado -> -30% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1797.0,
-      "store": "palacio",
-      "name": "Cafetera Vertuo Up Negro",
-      "url": "https://www.elpalaciodehierro.com/nespresso-cafetera-vertuo-up-negro-45555103.html",
-      "price": 4193.0,
-      "list_price": 5990.0,
-      "ean": null,
-      "model": null,
-      "brand": "Nespresso",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45555103",
         "outlet": false
       }
     },
@@ -216,27 +195,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 50.0,
-      "detail": "$8,500 en palacio vs mercado -> -29% bajo la competencia",
-      "likely_typo": false,
-      "savings": 3399.8,
-      "store": "palacio",
-      "name": "Celular Huawei Nova 13 Pro, RAM 12 GB, 512 GB Blanco Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/huawei-celular-huawei-nova-13-pro-ram-12-gb-512-gb-blanco-desbloqueado-44600335.html",
-      "price": 8499.5,
-      "list_price": 16999.0,
-      "ean": null,
-      "model": null,
-      "brand": "Huawei",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44600335",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 48.0,
       "detail": "$22,285 en palacio vs mercado -> -26% bajo la competencia",
       "likely_typo": false,
@@ -253,48 +211,6 @@
       "currency": "MXN",
       "extra": {
         "id": "44630223",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$3,899 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1299.75,
-      "store": "palacio",
-      "name": "Monitor Deportivo Lily 2 Cream Gold",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-lily-2-cream-gold-43687680.html",
-      "price": 3899.25,
-      "list_price": 5199.0,
-      "ean": null,
-      "model": null,
-      "brand": "Garmin",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "43687680",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$4,949 en palacio vs mercado -> -25% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1649.75,
-      "store": "palacio",
-      "name": "Celular Galaxy A27 128 GB 6 GB Negro Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-a27-128-gb-6-gb-negro-desbloqueado-45558416.html",
-      "price": 4949.25,
-      "list_price": 6599.0,
-      "ean": null,
-      "model": null,
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45558416",
         "outlet": false
       }
     },
@@ -337,27 +253,6 @@
       "currency": "MXN",
       "extra": {
         "id": "45371050",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 50.0,
-      "detail": "$5,495 en palacio vs mercado -> -23% bajo la competencia",
-      "likely_typo": false,
-      "savings": 1648.5,
-      "store": "palacio",
-      "name": "Cafetera Expreso ECF02BLUS Negra",
-      "url": "https://www.elpalaciodehierro.com/smeg-cafetera-expreso-ecf02blus-negra-44011025.html",
-      "price": 5495.0,
-      "list_price": 10990.0,
-      "ean": null,
-      "model": "ECF02BLUS",
-      "brand": "Smeg",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "44011025",
         "outlet": false
       }
     },
@@ -426,48 +321,6 @@
     },
     {
       "kind": "cross_confirmed",
-      "discount_pct": 25.0,
-      "detail": "$36,374 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 9214.81,
-      "store": "palacio",
-      "name": "Celular Galaxy Z Fold8 5G 512 GB 12 GB Desbloqueado",
-      "url": "https://www.elpalaciodehierro.com/samsung-celular-galaxy-z-fold8-5g-512-gb-12-gb-desbloqueado-45632961.html",
-      "price": 36374.25,
-      "list_price": 48499.0,
-      "ean": null,
-      "model": "Fold8",
-      "brand": "Samsung",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45632961",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
-      "discount_pct": 52.0,
-      "detail": "$10,543 en palacio vs mercado -> -20% bajo la competencia",
-      "likely_typo": false,
-      "savings": 2635.8,
-      "store": "palacio",
-      "name": "Laptop OmniBook 3, 14\", Intel Core I5, RAM 8 GB, SSD 512 GB",
-      "url": "https://www.elpalaciodehierro.com/hp-laptop-omnibook-3-14-intel-core-i5-ram-8-gb-ssd-512-gb-45384039.html",
-      "price": 10543.2,
-      "list_price": 21965.0,
-      "ean": null,
-      "model": null,
-      "brand": "Hp",
-      "available": true,
-      "currency": "MXN",
-      "extra": {
-        "id": "45384039",
-        "outlet": false
-      }
-    },
-    {
-      "kind": "cross_confirmed",
       "discount_pct": 20.0,
       "detail": "$9,199 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
@@ -490,21 +343,63 @@
     {
       "kind": "cross_confirmed",
       "discount_pct": 20.0,
-      "detail": "$9,199 en palacio vs mercado -> -20% bajo la competencia",
+      "detail": "$51,839 en palacio vs mercado -> -20% bajo la competencia",
       "likely_typo": false,
-      "savings": 2299.8,
+      "savings": 12959.8,
       "store": "palacio",
-      "name": "Monitor Deportivo Forerunner 570 Blanco/Amarillo/Turquesa Unisex",
-      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-forerunner-570-blanco%2Famarillo%2Fturquesa-unisex-44674593.html",
-      "price": 9199.2,
-      "list_price": 11499.0,
+      "name": "Monitor Deportivo MARQ Adventurer Gen 2 Damascus Steel Edition",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-deportivo-marq-adventurer-gen-2-damascus-steel-edition-44232024.html",
+      "price": 51839.2,
+      "list_price": 64799.0,
       "ean": null,
       "model": null,
       "brand": "Garmin",
       "available": true,
       "currency": "MXN",
       "extra": {
-        "id": "44674593",
+        "id": "44232024",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$53,599 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 13399.8,
+      "store": "palacio",
+      "name": "Monitor MARQ Commander Gen 2 - Carbon Edition multideportivo",
+      "url": "https://www.elpalaciodehierro.com/garmin-monitor-marq-commander-gen-2---carbon-edition-multideportivo-43587917.html",
+      "price": 53599.2,
+      "list_price": 66999.0,
+      "ean": null,
+      "model": null,
+      "brand": "Garmin",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "43587917",
+        "outlet": false
+      }
+    },
+    {
+      "kind": "cross_confirmed",
+      "discount_pct": 20.0,
+      "detail": "$79 en palacio vs mercado -> -20% bajo la competencia",
+      "likely_typo": false,
+      "savings": 19.8,
+      "store": "palacio",
+      "name": "Descalcificador para Cafeteras",
+      "url": "https://www.elpalaciodehierro.com/krups-descalcificador-para-cafeteras-15513938.html",
+      "price": 79.2,
+      "list_price": 99.0,
+      "ean": null,
+      "model": null,
+      "brand": "Krups",
+      "available": true,
+      "currency": "MXN",
+      "extra": {
+        "id": "15513938",
         "outlet": false
       }
     }
